@@ -1,0 +1,55 @@
+name: Daily Shorts Pipeline
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6am UTC daily
+  workflow_dispatch:        # manual trigger
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+
+    env:
+      PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      YOUTUBE_CLIENT_SECRETS: ${{ secrets.YOUTUBE_CLIENT_SECRETS }}
+      YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
+      INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+      INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Install ffmpeg
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore YouTube token from secret
+        run: echo "${{ secrets.YOUTUBE_TOKEN }}" | base64 --decode > youtube_token.json
+
+      - name: Run pipeline
+        run: python main.py
+
+      - name: Refresh YouTube token secret
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          NEW_TOKEN_B64=$(base64 -w0 youtube_token.json)
+          gh secret set YOUTUBE_TOKEN --body "$NEW_TOKEN_B64" --repo "${{ github.repository }}"
+
+      - name: Commit updated stories.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stories.json
+          git diff --cached --quiet || git commit -m "chore: advance stories index [skip ci]"
+          git push
