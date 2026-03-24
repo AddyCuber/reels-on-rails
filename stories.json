@@ -1,0 +1,35 @@
+{
+  "last_used_index": 0,
+  "stories": [
+    {
+      "id": "story_001",
+      "title": "She Found The Receipt",
+      "genre": "family_betrayal",
+      "narration": "I found the receipt on a Tuesday. It was crumpled in the bottom of my husband's jacket — the one he said he never wore anymore. A hotel. Three nights. The dates matched a business trip I had planned every detail of. I sat on the kitchen floor for what felt like hours. When he came home, I had dinner on the table and a smile on my face. I said nothing. For two weeks, I said nothing. I moved money. I called a lawyer. I made a plan. When I finally walked out, suitcase in hand, I left the receipt on his pillow. No note. No explanation. He called forty-seven times that night. I answered none of them. Some people mistake silence for weakness. They are always so surprised when they find out they were wrong.",
+      "broll_keywords": ["rainy window", "empty house", "old photographs", "city street", "coffee shop"],
+      "hashtags": ["shorts", "story", "drama", "familydrama", "betrayal"],
+      "description": "She never expected to find it. But when she did, everything changed. Sometimes silence is the loudest answer.",
+      "estimated_duration": 52
+    },
+    {
+      "id": "story_002",
+      "title": "My Boss Stole My Idea",
+      "genre": "workplace_drama",
+      "narration": "I spent three months on that proposal. Three months of late nights, skipped lunches, and weekends hunched over my laptop. When I finally presented it to my manager, he barely looked up. Said it needed work. Two weeks later, he walked into the boardroom and pitched my exact idea to the executives. Word for word. I watched from the glass window outside. They loved it. He got a promotion. I got nothing. So I did something small. Before the client meeting, I emailed the lead investor directly — the version with my name on it, timestamped three months back. I didn't say a word to anyone. When the investor asked my boss to introduce the person who created the strategy, the silence in that room was everything. I smiled, stood up, and introduced myself.",
+      "broll_keywords": ["office building", "typing keyboard", "city commute", "desk work", "coffee morning"],
+      "hashtags": ["shorts", "story", "workplacedrama", "revenge", "corporate"],
+      "description": "He stole her idea and took the credit. She let him. Until she didn't.",
+      "estimated_duration": 54
+    },
+    {
+      "id": "story_003",
+      "title": "The Stranger On The Train",
+      "genre": "moral_dilemma",
+      "narration": "I found a wallet on the train. Thick with cash — I counted it without thinking. Eight hundred dollars. There was an ID inside. A woman. Mid-fifties. Her face looked tired even in the photo. I sat with it for three stops. Eight hundred dollars would cover my rent. I almost did it. Almost. At the last second, I got off at her stop instead of mine. I found her address from a credit card receipt inside. Knocked on the door. When she opened it, she looked like she'd been crying for hours. Turns out it was money for her daughter's medication. She offered me a reward. I said no. I don't know why I'm telling you this. I just think sometimes we get tested in small moments, and those are the ones that actually define us.",
+      "broll_keywords": ["train window", "city street", "rainy night", "hands holding wallet", "apartment door"],
+      "hashtags": ["shorts", "story", "moraldilemma", "kindness", "drama"],
+      "description": "Eight hundred dollars. An empty wallet. A choice that took three stops to make.",
+      "estimated_duration": 51
+    }
+  ]
+}
