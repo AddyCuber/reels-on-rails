@@ -34,12 +34,12 @@ class Config:
     video_bitrate: str = "4M"
 
     # ── Subtitle Style ────────────────────────────────────────────────────────
-    subtitle_font: str = "Arial-Bold"
-    subtitle_fontsize: int = 72
+    subtitle_font: str = "Impact"
+    subtitle_fontsize: int = 90
     subtitle_color: str = "white"
     subtitle_outline_color: str = "black"
-    subtitle_outline_width: int = 4
-    subtitle_words_per_chunk: int = 2   # How many words shown at once
+    subtitle_outline_width: int = 5
+    subtitle_words_per_chunk: int = 1   # 1 = single word karaoke style
 
     # ── Story Settings ────────────────────────────────────────────────────────
     story_max_duration: int = 55        # seconds (keep under 60 for Shorts)
