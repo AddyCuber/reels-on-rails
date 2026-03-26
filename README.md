@@ -2,7 +2,7 @@
 
 Automated pipeline for generating viral faceless story shorts for YouTube Shorts and Instagram Reels.
 
-**Stack:** Claude (story) → Edge TTS (voice) → Pexels (B-roll) → FFmpeg (edit) → Auto-upload
+**Stack:** stories.json → Edge TTS (voice) → Pexels (B-roll) → FFmpeg (edit) → Auto-upload
 
 ---
 
@@ -32,7 +32,6 @@ cp .env.example .env
 **Free API keys you need:**
 | Service | Where to get | Cost |
 |---------|-------------|------|
-| Anthropic | console.anthropic.com | Pay-per-use (~$0.01/video) |
 | Pexels | pexels.com/api | Free |
 | Edge TTS | Built-in | Free |
 
@@ -108,21 +107,73 @@ In `config.py`, tweak:
 - `subtitle_words_per_chunk` — 1 for single word, 2-3 for phrases
 - `subtitle_color` — white works best on mixed B-roll
 
-### Add more story types
-In `agents/story_agent.py`, add to `STORY_PROMPTS` and `BROLL_KEYWORD_POOLS`.
+### Add more stories
+Use the prompt in `scripts/generate_stories_prompt.txt` with Claude.ai and append the results to the `stories` array in `stories.json`.
 
 ---
 
 ## Cost Estimate
 
 Per video:
-- Claude API: ~$0.01 (150 word story, Sonnet 3.5)
+- stories.json: $0.00 (static file)
 - Edge TTS: $0.00 (free)
 - Pexels: $0.00 (free)
-- FFmpeg: $0.00 (local)
-- **Total: ~$0.01/video**
+- FFmpeg: $0.00 (local/CI)
+- **Total: $0.00/video**
 
-100 videos/month ≈ $1.00
+---
+
+## Weekly Workflow
+
+Stories are pre-written and stored in `stories.json`. Each run consumes the next story in order. When you run out, it loops.
+
+To replenish the story queue:
+
+1. Open [Claude.ai](https://claude.ai)
+2. Paste the prompt from `scripts/generate_stories_prompt.txt`
+3. Copy the JSON output
+4. Replace the `stories` array in `stories.json` (keep `last_used_index` as `0`)
+5. `git push` — GitHub Actions handles the rest
+
+Also run weekly to keep Instagram auth alive:
+```bash
+python scripts/refresh_instagram_token.py --update-env
+```
+
+---
+
+## First-Time YouTube Auth
+
+YouTube requires a one-time OAuth flow to generate a refresh token. Do this locally before setting up GitHub Actions.
+
+1. Download your `client_secrets.json` from [Google Cloud Console](https://console.cloud.google.com) (YouTube Data API v3 → OAuth 2.0 Client ID → Desktop app)
+2. Run the auth script:
+   ```bash
+   python scripts/auth_youtube.py
+   ```
+3. Complete the browser OAuth flow — `youtube_token.json` is created locally
+4. Base64-encode it:
+   ```bash
+   base64 -w0 youtube_token.json   # Linux
+   base64 -i youtube_token.json    # macOS
+   ```
+5. Add the output as a GitHub Secret named `YOUTUBE_TOKEN`
+   (Repo → Settings → Secrets and variables → Actions → New repository secret)
+
+The GitHub Actions workflow automatically re-encodes and updates this secret after each run so the refreshed token persists.
+
+---
+
+## GitHub Secrets Required
+
+| Secret | Description |
+|--------|-------------|
+| `PEXELS_API_KEY` | Pexels API key (free) |
+| `YOUTUBE_CLIENT_SECRETS` | Contents of `client_secrets.json` |
+| `YOUTUBE_TOKEN` | Base64-encoded `youtube_token.json` (from auth step above) |
+| `INSTAGRAM_ACCESS_TOKEN` | Long-lived Meta Graph API token (optional) |
+| `INSTAGRAM_USER_ID` | Instagram business/creator account ID (optional) |
+| `GH_TOKEN` | GitHub Personal Access Token with `repo` and `secrets` scope |
 
 ---
 
