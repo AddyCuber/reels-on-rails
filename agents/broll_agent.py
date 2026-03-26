@@ -12,7 +12,7 @@ from pathlib import Path
 from config import Config
 
 
-PEXELS_VIDEO_API = "https://api.pexels.com/videos/search"
+PEXELS_VIDEO_API = "https://api.pexels.com/v1/videos/search"
 
 # Fallback keywords if specific ones return no results
 FALLBACK_KEYWORDS = [
