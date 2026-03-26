@@ -5,7 +5,7 @@ Completely free, no API key needed, high quality voices.
 """
 
 import asyncio
-import subprocess
+import re
 from pathlib import Path
 from config import Config
 
@@ -14,18 +14,23 @@ class TTSAgent:
     def __init__(self, config: Config):
         self.config = config
 
-    async def synthesize(self, text: str, output_path: Path) -> Path:
-        """Convert text to speech using edge-tts."""
+    async def synthesize(self, text: str, output_path: Path) -> tuple[Path, list[dict]]:
+        """Convert text to speech. Returns (audio_path, word_timings).
+
+        Uses --write-subtitles to get phrase-level timing from edge-tts,
+        then distributes individual words within each phrase proportionally.
+        """
         output_path = Path(output_path)
         output_path.parent.mkdir(parents=True, exist_ok=True)
+        vtt_path = output_path.with_suffix(".vtt")
 
-        # edge-tts command
         cmd = [
             "edge-tts",
             "--voice", self.config.tts_voice,
             "--rate", self.config.tts_rate,
             "--text", text,
             "--write-media", str(output_path),
+            "--write-subtitles", str(vtt_path),
         ]
 
         process = await asyncio.create_subprocess_exec(
@@ -38,14 +43,64 @@ class TTSAgent:
         if process.returncode != 0:
             raise RuntimeError(f"edge-tts failed: {stderr.decode()}")
 
-        # Get actual duration of generated audio
         duration = await self._get_audio_duration(output_path)
         print(f"      Voice: {self.config.tts_voice} | Duration: {duration:.1f}s")
 
-        return output_path
+        phrases = self._parse_vtt(vtt_path)
+        word_timings = self._interpolate_words(phrases)
+        return output_path, word_timings
+
+    def _parse_vtt(self, vtt_path: Path) -> list[dict]:
+        """Parse VTT into phrase-level timing dicts."""
+        phrases = []
+        content = vtt_path.read_text(encoding="utf-8")
+        for block in content.strip().split("\n\n"):
+            lines = [l.strip() for l in block.splitlines() if l.strip()]
+            ts_line = next((l for l in lines if "-->" in l), None)
+            if ts_line is None:
+                continue
+            ts_idx = lines.index(ts_line)
+            parts = ts_line.split("-->")
+            start = self._vtt_time_to_seconds(parts[0].strip())
+            end = self._vtt_time_to_seconds(parts[1].strip())
+            phrase_text = " ".join(lines[ts_idx + 1:]).strip()
+            # Strip punctuation for cleaner word-level display
+            phrase_text = re.sub(r"[^\w\s''-]", "", phrase_text).strip()
+            if phrase_text:
+                phrases.append({"text": phrase_text, "start": start, "end": end})
+        return phrases
+
+    @staticmethod
+    def _interpolate_words(phrases: list[dict]) -> list[dict]:
+        """Distribute words equally within each phrase for readable subtitles."""
+        word_timings = []
+        for phrase in phrases:
+            words = phrase["text"].split()
+            if not words:
+                continue
+            phrase_duration = phrase["end"] - phrase["start"]
+            word_duration = phrase_duration / len(words)
+
+            current = phrase["start"]
+            for word in words:
+                word_timings.append({
+                    "text": word,
+                    "start": round(current, 3),
+                    "end": round(current + word_duration, 3),
+                })
+                current += word_duration
+
+        return word_timings
+
+    @staticmethod
+    def _vtt_time_to_seconds(t: str) -> float:
+        t = t.split()[0].replace(",", ".")  # normalize comma decimals
+        parts = t.split(":")
+        if len(parts) == 3:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60 + float(parts[2])
+        return int(parts[0]) * 60 + float(parts[1])
 
     async def get_duration(self, audio_path: Path) -> float:
-        """Get audio duration in seconds using ffprobe."""
         return await self._get_audio_duration(audio_path)
 
     async def _get_audio_duration(self, audio_path: Path) -> float:
@@ -62,7 +117,7 @@ class TTSAgent:
         try:
             return float(stdout.decode().strip())
         except ValueError:
-            return 55.0  # fallback
+            return 55.0
 
     @staticmethod
     def list_voices():
