@@ -1,0 +1,43 @@
+Generate exactly 30 short-form story scripts for faceless YouTube Shorts and Instagram Reels.
+
+OUTPUT REQUIREMENTS:
+- Output valid JSON only. No markdown, no explanation, no code fences.
+- The root object must have exactly two keys: "last_used_index" (set to 0) and "stories" (an array of 30 objects).
+- Each story object must have all of these fields, in this order:
+    id, title, genre, narration, broll_keywords, hashtags, description, estimated_duration
+
+STORY REQUIREMENTS:
+- Mix of genres: family_betrayal, revenge, moral_dilemma, workplace_drama, relationship_conflict
+  Use each genre at least 5 times across the 30 stories.
+- Mix of first-person ("I found...") and third-person ("She never expected...") narration.
+  Aim for roughly 50/50.
+- First sentence must be an INSTANT hook — shocking, surprising, or emotionally gripping.
+- Narration length: 140-160 words exactly. Count carefully.
+- Language: simple, punchy, no complex vocabulary. Feels like a real person telling a real story.
+- Build tension quickly. End with a satisfying twist, resolution, or emotional beat.
+- No explicit content. Keep it clean but dramatically intense.
+- No two stories should share the same opening hook structure.
+
+FIELD SPECIFICATIONS:
+- id: "story_001" through "story_030" (zero-padded)
+- title: max 60 characters, catchy and specific (not generic like "The Betrayal")
+- genre: one of the five genres listed above
+- narration: 140-160 words, the full story text to be narrated aloud
+- broll_keywords: array of exactly 5 strings, each 1-3 words, visual scenes that match the story mood
+- hashtags: array of 4-6 strings without the # symbol (e.g. "shorts", "drama", "storytime")
+- description: 2-3 sentence summary for YouTube/Instagram caption. Intriguing, ends with a hook.
+- estimated_duration: integer between 48 and 58 (seconds)
+
+EXAMPLE STORY OBJECT (do not include this in output, it is for format reference only):
+{
+  "id": "story_001",
+  "title": "She Found The Receipt",
+  "genre": "family_betrayal",
+  "narration": "I found the receipt on a Tuesday...[140-160 words]",
+  "broll_keywords": ["rainy window", "empty house", "old photographs", "city street", "coffee shop"],
+  "hashtags": ["shorts", "story", "drama", "familydrama"],
+  "description": "She never expected to find it. But when she did, everything changed. Some discoveries you can never come back from.",
+  "estimated_duration": 52
+}
+
+Now output the complete JSON for all 30 stories.
