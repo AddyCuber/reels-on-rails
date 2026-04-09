@@ -1,14 +1,28 @@
 {
-  "last_used_index": 0,
+  "last_used_index": 1,
   "stories": [
     {
       "id": "story_001",
       "title": "He Put His Name On Every Slide",
       "genre": "workplace_revenge",
       "hook": "My manager presented four months of my work to the board and took every credit. He forgot I had timestamped every file.",
-      "narration": "I had been at Meridian Group for two years when I spotted the problem nobody wanted to touch. The company was hemorrhaging money on vendor contracts — outdated terms, zero renegotiation, twenty million in annual spend that nobody had audited in a decade. I volunteered. I spent four months on nights, weekends, and my own laptop. The model I built would save the company two point three million dollars annually.\n\nI sent the final version to my manager Daniel two weeks before the executive review. He read it, said it was interesting, and told me to keep it quiet until he found the right moment to present it. I was twenty-six. He was my first real manager. I trusted him.\n\nThe day of the presentation he told me the meeting had been pushed back. I found out at three in the afternoon when a colleague forwarded me a company-wide Slack congratulating Daniel on a landmark analysis. He had walked into that boardroom and presented my model word for word. The CEO called it visionary. Daniel thanked the team vaguely and named nobody.\n\nWhat Daniel did not know was that every file on the shared drive carried my login credentials. Every draft bore my name in the document properties. I had four months of version history, emails where he asked me to explain my own formulas because he didn't understand them, and a Slack message where he wrote just send me the deck and I'll clean it up for the execs.\n\nI did not go to HR. I booked fifteen minutes with the Chief Operating Officer under the pretense of a career check-in. I walked in with a USB drive and a printed chronological timeline. I placed it on the table and said nothing emotional. I just let the evidence speak.\n\nDaniel was terminated that Friday. No severance. No reference. I was offered his position. I declined and negotiated a senior analyst role with a forty percent pay increase and direct access to the executive team instead.\n\nHe now lists that project on LinkedIn under his own name as a key achievement. I flagged it with documented proof. The post was removed within a week.\n\nThe USB drive is still in my desk drawer. Some things you keep.",
-      "broll_keywords": ["boardroom meeting", "office building", "typing keyboard", "USB drive", "city skyline", "desk work"],
-      "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "drama"],
+      "narration": "I had been at Meridian Group for two years when I spotted the problem nobody wanted to touch. The company was hemorrhaging money on vendor contracts \u2014 outdated terms, zero renegotiation, twenty million in annual spend that nobody had audited in a decade. I volunteered. I spent four months on nights, weekends, and my own laptop. The model I built would save the company two point three million dollars annually.\n\nI sent the final version to my manager Daniel two weeks before the executive review. He read it, said it was interesting, and told me to keep it quiet until he found the right moment to present it. I was twenty-six. He was my first real manager. I trusted him.\n\nThe day of the presentation he told me the meeting had been pushed back. I found out at three in the afternoon when a colleague forwarded me a company-wide Slack congratulating Daniel on a landmark analysis. He had walked into that boardroom and presented my model word for word. The CEO called it visionary. Daniel thanked the team vaguely and named nobody.\n\nWhat Daniel did not know was that every file on the shared drive carried my login credentials. Every draft bore my name in the document properties. I had four months of version history, emails where he asked me to explain my own formulas because he didn't understand them, and a Slack message where he wrote just send me the deck and I'll clean it up for the execs.\n\nI did not go to HR. I booked fifteen minutes with the Chief Operating Officer under the pretense of a career check-in. I walked in with a USB drive and a printed chronological timeline. I placed it on the table and said nothing emotional. I just let the evidence speak.\n\nDaniel was terminated that Friday. No severance. No reference. I was offered his position. I declined and negotiated a senior analyst role with a forty percent pay increase and direct access to the executive team instead.\n\nHe now lists that project on LinkedIn under his own name as a key achievement. I flagged it with documented proof. The post was removed within a week.\n\nThe USB drive is still in my desk drawer. Some things you keep.",
+      "broll_keywords": [
+        "boardroom meeting",
+        "office building",
+        "typing keyboard",
+        "USB drive",
+        "city skyline",
+        "desk work"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplacedrama",
+        "revenge",
+        "corporate",
+        "drama"
+      ],
       "description": "He took four months of my work and walked into the boardroom like it was his. He forgot I had the original files. The USB drive is still in my desk drawer.",
       "estimated_duration": 135
     },
@@ -17,9 +31,23 @@
       "title": "My Brother Stole Her Will",
       "genre": "family_betrayal",
       "hook": "My mother left me a ceramic vase and gave my brother everything else. The vase had a secret inside.",
-      "narration": "For thirty years I was the one who showed up. Every hospital visit, every Sunday dinner, every two in the morning phone call when she couldn't sleep. My brother Dominic lived in Phoenix and called maybe twice a year. He said he was busy. Our mother never pushed him on it.\n\nThe day after her funeral the estate lawyer read the will. Dominic received the house, two hundred and eighty thousand in savings, her car, her jewelry. I received a single ceramic vase she had kept on the mantle my entire childhood. I sat in that office shaking while Dominic stared at his phone.\n\nThe lawyer handed me an envelope with my name on it. My mother had written me a letter. She said that in her final months Dominic had visited regularly and told her I had been withdrawing money from her accounts without permission. He had shown her printed bank statements. She had believed him. At the end of the letter she wrote that she had hidden her real documents inside the vase, in case she was wrong.\n\nI drove home and opened the vase. Inside was a flash drive. A forensic accountant reviewed it within the week. Every statement Dominic had shown our mother was fabricated. The real withdrawals — sixty-three thousand dollars over eighteen months — had been made by Dominic himself using a power of attorney he had obtained by telling her I had been hospitalized.\n\nI did not call Dominic. I called the district attorney.\n\nHe was charged with elder financial abuse, fraud, and forgery. The will was contested on grounds of undue influence and overturned six months later. I received the estate in full.\n\nDominic's trial is scheduled for spring. His attorney reached out to ask if I would drop the charges in exchange for repayment. I declined.\n\nEvery Sunday I have dinner at my mother's table, in my mother's house, using her plates. I keep her vase on the same mantle she always did. I don't answer when Dominic calls. Some people show you exactly who they are. The kindest thing you can do is believe them.",
-      "broll_keywords": ["hospital hallway", "empty house", "old photographs", "legal documents", "kitchen table", "family home"],
-      "hashtags": ["shorts", "storytime", "familydrama", "betrayal", "inheritance", "drama"],
+      "narration": "For thirty years I was the one who showed up. Every hospital visit, every Sunday dinner, every two in the morning phone call when she couldn't sleep. My brother Dominic lived in Phoenix and called maybe twice a year. He said he was busy. Our mother never pushed him on it.\n\nThe day after her funeral the estate lawyer read the will. Dominic received the house, two hundred and eighty thousand in savings, her car, her jewelry. I received a single ceramic vase she had kept on the mantle my entire childhood. I sat in that office shaking while Dominic stared at his phone.\n\nThe lawyer handed me an envelope with my name on it. My mother had written me a letter. She said that in her final months Dominic had visited regularly and told her I had been withdrawing money from her accounts without permission. He had shown her printed bank statements. She had believed him. At the end of the letter she wrote that she had hidden her real documents inside the vase, in case she was wrong.\n\nI drove home and opened the vase. Inside was a flash drive. A forensic accountant reviewed it within the week. Every statement Dominic had shown our mother was fabricated. The real withdrawals \u2014 sixty-three thousand dollars over eighteen months \u2014 had been made by Dominic himself using a power of attorney he had obtained by telling her I had been hospitalized.\n\nI did not call Dominic. I called the district attorney.\n\nHe was charged with elder financial abuse, fraud, and forgery. The will was contested on grounds of undue influence and overturned six months later. I received the estate in full.\n\nDominic's trial is scheduled for spring. His attorney reached out to ask if I would drop the charges in exchange for repayment. I declined.\n\nEvery Sunday I have dinner at my mother's table, in my mother's house, using her plates. I keep her vase on the same mantle she always did. I don't answer when Dominic calls. Some people show you exactly who they are. The kindest thing you can do is believe them.",
+      "broll_keywords": [
+        "hospital hallway",
+        "empty house",
+        "old photographs",
+        "legal documents",
+        "kitchen table",
+        "family home"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "inheritance",
+        "drama"
+      ],
       "description": "She left me a ceramic vase and gave my brother everything else. Inside the vase was the truth he never wanted me to find.",
       "estimated_duration": 138
     },
@@ -28,9 +56,23 @@
       "title": "Their Usual Table",
       "genre": "relationship_betrayal",
       "hook": "The restaurant hostess asked if I wanted the same table my wife used every Thursday. I didn't know she went every Thursday.",
-      "narration": "Claire and I had been married for nine years. We built a consulting firm together, bought a house, talked about kids without ever committing. I thought our biggest problem was that we both worked too hard. I booked the restaurant as an anniversary surprise — her favorite place, the one we'd gone to on our third date.\n\nThe hostess smiled when I gave the name. She said Claire was just there Thursday and asked if she would be joining me. I said yes. My face did not move. I was seated at the table.\n\nI ordered a drink and opened our phone bill on my phone. Every Thursday for six months, a number I didn't recognize appeared dozens of times — calls that lasted hours, texts past midnight. I searched it. The number belonged to Ryan. My business partner. The man I had started the company with eight years ago. He had been at our wedding. He came to our house for Christmas last year.\n\nI sat in that restaurant for forty minutes. I paid the bill and went home to bed.\n\nOver the next three weeks I moved carefully. I consulted a divorce attorney and documented everything. I audited our joint business account. Claire had been running personal expenses through the business including what appeared to be hotel stays — just under twenty thousand dollars across six months. I had every record reviewed before I said a single word.\n\nI served the papers on a Tuesday morning at the kitchen table. I had separated the business assets the night before with our accountant. The firm was split according to original capital contribution — I had put in seventy percent and I had the documentation to prove it.\n\nClaire got thirty percent of the business and whatever furniture she wanted. Ryan gained a woman who cheats. I sold my half of the firm eighteen months later for four hundred thousand dollars.\n\nI have not been back to that restaurant. I heard they changed hostesses. I don't think about it much.",
-      "broll_keywords": ["restaurant dinner", "phone screen", "wedding ring", "city night", "legal documents", "empty chair"],
-      "hashtags": ["shorts", "storytime", "relationshipdrama", "betrayal", "revenge", "drama"],
+      "narration": "Claire and I had been married for nine years. We built a consulting firm together, bought a house, talked about kids without ever committing. I thought our biggest problem was that we both worked too hard. I booked the restaurant as an anniversary surprise \u2014 her favorite place, the one we'd gone to on our third date.\n\nThe hostess smiled when I gave the name. She said Claire was just there Thursday and asked if she would be joining me. I said yes. My face did not move. I was seated at the table.\n\nI ordered a drink and opened our phone bill on my phone. Every Thursday for six months, a number I didn't recognize appeared dozens of times \u2014 calls that lasted hours, texts past midnight. I searched it. The number belonged to Ryan. My business partner. The man I had started the company with eight years ago. He had been at our wedding. He came to our house for Christmas last year.\n\nI sat in that restaurant for forty minutes. I paid the bill and went home to bed.\n\nOver the next three weeks I moved carefully. I consulted a divorce attorney and documented everything. I audited our joint business account. Claire had been running personal expenses through the business including what appeared to be hotel stays \u2014 just under twenty thousand dollars across six months. I had every record reviewed before I said a single word.\n\nI served the papers on a Tuesday morning at the kitchen table. I had separated the business assets the night before with our accountant. The firm was split according to original capital contribution \u2014 I had put in seventy percent and I had the documentation to prove it.\n\nClaire got thirty percent of the business and whatever furniture she wanted. Ryan gained a woman who cheats. I sold my half of the firm eighteen months later for four hundred thousand dollars.\n\nI have not been back to that restaurant. I heard they changed hostesses. I don't think about it much.",
+      "broll_keywords": [
+        "restaurant dinner",
+        "phone screen",
+        "wedding ring",
+        "city night",
+        "legal documents",
+        "empty chair"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "relationshipdrama",
+        "betrayal",
+        "revenge",
+        "drama"
+      ],
       "description": "I planned a surprise anniversary dinner at our favorite restaurant. The hostess asked if I wanted their usual table. I didn't know they had a usual table.",
       "estimated_duration": 132
     },
@@ -39,9 +81,23 @@
       "title": "Sue Me",
       "genre": "neighbor_drama",
       "hook": "My neighbor built his fence two feet into my property. When I showed him the survey he told me to sue him. So I did.",
-      "narration": "I had lived on Alderton Street for eleven years. When Greg moved in next door I introduced myself the first week. He shook my hand and seemed fine. By month two fine had evaporated. He parked across my driveway twice. His dog tore through my garden gate and destroyed a flower bed I had spent three summers building. When I knocked to discuss it he apologized with the energy of someone who was not sorry.\n\nThen one morning I woke up to the sound of power tools. By noon a six-foot wooden fence had appeared overnight along what Greg thought was the property line. It wasn't. I had my original survey from when I purchased the house. The fence sat twenty-six inches into my yard. It cut off my side gate — the only access to my backyard from the driveway.\n\nI printed the survey, walked next door, and knocked. Greg answered in a bathrobe. I showed him the measurements and pointed to the line. He looked at it for about four seconds, smiled, and said what are you going to do about it, get a lawyer. Then he shut the door.\n\nI got a lawyer. It took one afternoon to discover the fence also violated three separate city codes — it exceeded the height limit for side-yard structures, failed the required setback, and Greg had never pulled a building permit. My attorney filed the property encroachment claim that week. I submitted the code violations to the city building department separately the same day.\n\nThe city issued a notice of violation within ten days. Greg had fourteen days to remove the fence or face daily fines of two hundred and fifty dollars. The encroachment lawsuit settled four months later — Greg paid eleven thousand dollars in legal fees and costs and removed the fence himself. His contractor had already refused to come back.\n\nHe tore it down on a Saturday in November, in the rain, while I drank coffee on my porch and read.\n\nHe listed the house six weeks later. The couple who bought it brought me cookies on move-in day. They asked why the previous owner left so suddenly. I said I wasn't sure.",
-      "broll_keywords": ["wooden fence", "suburban house", "property survey", "rainy day", "coffee morning", "garden flowers"],
-      "hashtags": ["shorts", "storytime", "neighbordrama", "justice", "revenge", "drama"],
+      "narration": "I had lived on Alderton Street for eleven years. When Greg moved in next door I introduced myself the first week. He shook my hand and seemed fine. By month two fine had evaporated. He parked across my driveway twice. His dog tore through my garden gate and destroyed a flower bed I had spent three summers building. When I knocked to discuss it he apologized with the energy of someone who was not sorry.\n\nThen one morning I woke up to the sound of power tools. By noon a six-foot wooden fence had appeared overnight along what Greg thought was the property line. It wasn't. I had my original survey from when I purchased the house. The fence sat twenty-six inches into my yard. It cut off my side gate \u2014 the only access to my backyard from the driveway.\n\nI printed the survey, walked next door, and knocked. Greg answered in a bathrobe. I showed him the measurements and pointed to the line. He looked at it for about four seconds, smiled, and said what are you going to do about it, get a lawyer. Then he shut the door.\n\nI got a lawyer. It took one afternoon to discover the fence also violated three separate city codes \u2014 it exceeded the height limit for side-yard structures, failed the required setback, and Greg had never pulled a building permit. My attorney filed the property encroachment claim that week. I submitted the code violations to the city building department separately the same day.\n\nThe city issued a notice of violation within ten days. Greg had fourteen days to remove the fence or face daily fines of two hundred and fifty dollars. The encroachment lawsuit settled four months later \u2014 Greg paid eleven thousand dollars in legal fees and costs and removed the fence himself. His contractor had already refused to come back.\n\nHe tore it down on a Saturday in November, in the rain, while I drank coffee on my porch and read.\n\nHe listed the house six weeks later. The couple who bought it brought me cookies on move-in day. They asked why the previous owner left so suddenly. I said I wasn't sure.",
+      "broll_keywords": [
+        "wooden fence",
+        "suburban house",
+        "property survey",
+        "rainy day",
+        "coffee morning",
+        "garden flowers"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "justice",
+        "revenge",
+        "drama"
+      ],
       "description": "He built the fence two feet into my yard and told me to sue him. I want to be clear that I did exactly that.",
       "estimated_duration": 133
     },
@@ -50,9 +106,23 @@
       "title": "The Caregiver Who Got Everything",
       "genre": "inheritance_dispute",
       "hook": "My aunt changed her will four months before she died and left everything to her caregiver. The caregiver had known her for less than a year.",
-      "narration": "Aunt Patricia had no children. She was the family anchor — sharp, stubborn, fiercely independent until her health began declining. She moved into assisted living but kept her house and her accounts. We visited on rotation. I drove up every other Sunday.\n\nA woman named Sandra started as her in-home aide nine months before Patricia passed. Something felt off from the beginning. Sandra was present at every family visit. She answered questions before Patricia could. She started referring to Patricia's possessions as ours. When I mentioned it to my cousins they called me paranoid.\n\nPatricia died in January. The will was read in February. Sandra received the house — appraised at three hundred and forty thousand — plus ninety thousand in savings. The six of us received nothing. The will had been rewritten the previous October, four months after Sandra was hired.\n\nI retained an elder law attorney the same week. We requested Patricia's medical records. In October, when the will was signed, her physician had formally documented moderate cognitive decline. A person with that diagnosis cannot legally execute a new will without additional safeguards. None were in place. Sandra had accompanied Patricia to the attorney's office and waited in the room. The attorney had recorded no independent capacity assessment.\n\nWe contested the will on grounds of undue influence and incapacity. Sandra fought it for seven months. She lost. The court reinstated the original will and distributed the estate to the family as Patricia had intended before Sandra arrived.\n\nSandra was also investigated for financial exploitation. Investigators found she had made twelve withdrawals from Patricia's personal account totaling fourteen thousand dollars during her months of employment. She was charged.\n\nThe house was sold. My share covered my daughter's first year of college.\n\nI still visit Patricia's grave on the Sundays I used to drive up to see her. I bring the same flowers she kept on her kitchen table. I think she would have liked knowing we found out.",
-      "broll_keywords": ["hospital room", "elderly hands", "legal documents", "family home", "old photographs", "court documents"],
-      "hashtags": ["shorts", "storytime", "familydrama", "inheritance", "justice", "drama"],
+      "narration": "Aunt Patricia had no children. She was the family anchor \u2014 sharp, stubborn, fiercely independent until her health began declining. She moved into assisted living but kept her house and her accounts. We visited on rotation. I drove up every other Sunday.\n\nA woman named Sandra started as her in-home aide nine months before Patricia passed. Something felt off from the beginning. Sandra was present at every family visit. She answered questions before Patricia could. She started referring to Patricia's possessions as ours. When I mentioned it to my cousins they called me paranoid.\n\nPatricia died in January. The will was read in February. Sandra received the house \u2014 appraised at three hundred and forty thousand \u2014 plus ninety thousand in savings. The six of us received nothing. The will had been rewritten the previous October, four months after Sandra was hired.\n\nI retained an elder law attorney the same week. We requested Patricia's medical records. In October, when the will was signed, her physician had formally documented moderate cognitive decline. A person with that diagnosis cannot legally execute a new will without additional safeguards. None were in place. Sandra had accompanied Patricia to the attorney's office and waited in the room. The attorney had recorded no independent capacity assessment.\n\nWe contested the will on grounds of undue influence and incapacity. Sandra fought it for seven months. She lost. The court reinstated the original will and distributed the estate to the family as Patricia had intended before Sandra arrived.\n\nSandra was also investigated for financial exploitation. Investigators found she had made twelve withdrawals from Patricia's personal account totaling fourteen thousand dollars during her months of employment. She was charged.\n\nThe house was sold. My share covered my daughter's first year of college.\n\nI still visit Patricia's grave on the Sundays I used to drive up to see her. I bring the same flowers she kept on her kitchen table. I think she would have liked knowing we found out.",
+      "broll_keywords": [
+        "hospital room",
+        "elderly hands",
+        "legal documents",
+        "family home",
+        "old photographs",
+        "court documents"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "inheritance",
+        "justice",
+        "drama"
+      ],
       "description": "She changed her will four months before she died and gave everything to a woman she had known less than a year. We found out why.",
       "estimated_duration": 130
     },
@@ -61,9 +131,23 @@
       "title": "She Opened My Business",
       "genre": "friendship_betrayal",
       "hook": "My best friend of fourteen years opened the exact business I described to her in private. She put it three blocks from my house.",
-      "narration": "Natalie and I had been close since college. We talked every day, knew each other's families, had been maid of honor for each other. When my marriage ended she was the first call I made. When she had her health scare two years ago I drove four hours to sit with her at the hospital.\n\nLast spring I told her about an idea I had been developing for months — a children's sensory studio in our neighborhood for kids with developmental differences. I had the concept, the market research, a rough financial model, and a lease contact I had been speaking with. I showed her everything over dinner and felt completely safe. She was my oldest friend.\n\nThree weeks later I drove past a storefront on Maple and saw a banner going up. Bloom Sensory Studio — Opening Soon. Different logo. Different name. My entire business — the layout, the service model, the target demographic, the pricing structure I had described to her in detail — reproduced and repackaged.\n\nI called her. She said she had always had the idea independently. She said our conversation had just been confirmation the market existed. She said she hoped I understood.\n\nI went through every message between us. In March I had sent her a twelve-page concept document with research, projections, and the lease contact's name. She had responded this is incredible, you have to do this. I also had a recording of our dinner conversation — I record all my creative calls for notes and had told her this years ago.\n\nI filed a trade secret misappropriation claim and sent a cease and desist through my attorney. Natalie did not fight it. Her lawyer advised her to settle. She paid damages and was required to rebrand entirely — a different concept, different positioning, effectively a different business.\n\nI opened Bloom Sensory Studio seven months later, at the original location I had scouted. We were fully booked within three weeks.\n\nNatalie sent a message the day we opened. I read it. I didn't reply. Some people earn silence.",
-      "broll_keywords": ["business storefront", "coffee shop", "laptop screen", "legal documents", "city street", "cafe window"],
-      "hashtags": ["shorts", "storytime", "friendshipbetrayal", "revenge", "justice", "drama"],
+      "narration": "Natalie and I had been close since college. We talked every day, knew each other's families, had been maid of honor for each other. When my marriage ended she was the first call I made. When she had her health scare two years ago I drove four hours to sit with her at the hospital.\n\nLast spring I told her about an idea I had been developing for months \u2014 a children's sensory studio in our neighborhood for kids with developmental differences. I had the concept, the market research, a rough financial model, and a lease contact I had been speaking with. I showed her everything over dinner and felt completely safe. She was my oldest friend.\n\nThree weeks later I drove past a storefront on Maple and saw a banner going up. Bloom Sensory Studio \u2014 Opening Soon. Different logo. Different name. My entire business \u2014 the layout, the service model, the target demographic, the pricing structure I had described to her in detail \u2014 reproduced and repackaged.\n\nI called her. She said she had always had the idea independently. She said our conversation had just been confirmation the market existed. She said she hoped I understood.\n\nI went through every message between us. In March I had sent her a twelve-page concept document with research, projections, and the lease contact's name. She had responded this is incredible, you have to do this. I also had a recording of our dinner conversation \u2014 I record all my creative calls for notes and had told her this years ago.\n\nI filed a trade secret misappropriation claim and sent a cease and desist through my attorney. Natalie did not fight it. Her lawyer advised her to settle. She paid damages and was required to rebrand entirely \u2014 a different concept, different positioning, effectively a different business.\n\nI opened Bloom Sensory Studio seven months later, at the original location I had scouted. We were fully booked within three weeks.\n\nNatalie sent a message the day we opened. I read it. I didn't reply. Some people earn silence.",
+      "broll_keywords": [
+        "business storefront",
+        "coffee shop",
+        "laptop screen",
+        "legal documents",
+        "city street",
+        "cafe window"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "friendshipbetrayal",
+        "revenge",
+        "justice",
+        "drama"
+      ],
       "description": "I shared my business idea with my best friend of fourteen years. She opened it three blocks from my house. I found out three weeks later.",
       "estimated_duration": 132
     },
@@ -73,8 +157,22 @@
       "genre": "workplace_revenge",
       "hook": "My colleague filed a harassment complaint against me for something that happened at a meeting I wasn't at. I was in another country.",
       "narration": "I had worked at Calloway Consulting for six years and was the first internal candidate in four years to be considered for the senior director role. My colleague Priya had also applied. We had always been professionally civil. I had no reason to think otherwise.\n\nThree weeks before the promotion decision I was called into HR. Priya had filed a formal complaint stating I made inappropriate comments during a team lunch on September 14th. HR had a written statement and a second colleague who had signed as a witness.\n\nI told them I was not in the country on September 14th. I said it once and said nothing else.\n\nI had spent that week at a client conference in Amsterdam. I had my boarding passes, hotel receipts, forty-two work emails sent from the conference, and a recorded presentation I had delivered on the Wednesday with European timestamp metadata on every file. I asked HR for twenty-four hours before responding.\n\nI came back the next morning with a binder. Every document in chronological order. I did not accuse anyone. I simply laid out the impossibility of the claim and asked HR to verify through the company's own travel records.\n\nThe investigation that followed was not about me. HR found that the second signatory had been pressured into signing and had not actually attended the alleged lunch. Priya had constructed the complaint entirely. The company's own travel records confirmed my location for the full week.\n\nPriya was terminated for filing a false complaint. My promotion decision was delayed two months during the review. I was then offered the senior director position.\n\nI accepted it. I never discussed what happened with colleagues and I did not celebrate when she left. I just came to work.\n\nBut I kept the binder. It sits on the bottom shelf of my home office. Not out of bitterness. Out of respect for how close it came.",
-      "broll_keywords": ["airport departure", "conference room", "legal documents", "city skyline", "office hallway", "desk work"],
-      "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "drama"],
+      "broll_keywords": [
+        "airport departure",
+        "conference room",
+        "legal documents",
+        "city skyline",
+        "office hallway",
+        "desk work"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplacedrama",
+        "revenge",
+        "corporate",
+        "drama"
+      ],
       "description": "She filed a harassment complaint against me for a meeting on September 14th. I had been in Amsterdam since the 12th. The binder I brought back changed everything.",
       "estimated_duration": 128
     },
@@ -83,9 +181,23 @@
       "title": "The Charity That Didn't Exist",
       "genre": "inheritance_dispute",
       "hook": "My uncle left his entire estate to a charity nobody could find. The executor had transferred the funds before anyone thought to look it up.",
-      "narration": "Uncle Leonard was a retired accountant who lived simply and saved everything. He had no children and often spoke about leaving something meaningful. He had paid for my brother's first year of college without being asked and covered my mother's medical bills during a difficult year with zero expectation of repayment.\n\nWhen he died his will named a foundation called the Greenfield Community Education Trust. It was to receive his full estate — just over three hundred thousand dollars. His nephew Gary, from his late wife's side, had been appointed executor. Gary transferred the funds within three weeks of probate closing, which was unusually fast.\n\nMy mother asked me to look the charity up. It had a website. A logo. A mission statement. No IRS registration. No 990 filings. No legal existence as a nonprofit under any state or federal database I could find. The website had been registered six months before Leonard died.\n\nGary had deposited the funds into a private account tied to a business entity he had registered two months before my uncle's death.\n\nI brought this to a probate fraud attorney that afternoon. We filed an emergency petition to freeze the estate account — some funds had already been moved but a portion remained. The petition was granted within forty-eight hours.\n\nThe investigation found that Gary had fabricated the charity using copied language from a real foundation's website. He had inserted the bequest into my uncle's estate plan during Leonard's recovery from hip surgery, when he was on significant pain medication, and had it notarized by a contact who was later separately investigated.\n\nGary pled guilty to reduced charges of probate fraud and financial exploitation of a vulnerable adult. He was ordered to repay the full amount with interest and received eighteen months of supervised probation.\n\nMy mother and her siblings received the estate as distributed in my uncle's original will, which had been in his filing cabinet the entire time and had never been properly superseded.\n\nI check Gary's public record quarterly. Some habits are worth keeping.",
-      "broll_keywords": ["legal documents", "laptop screen", "courthouse exterior", "elderly hands", "old photographs", "city street"],
-      "hashtags": ["shorts", "storytime", "inheritance", "familydrama", "justice", "drama"],
+      "narration": "Uncle Leonard was a retired accountant who lived simply and saved everything. He had no children and often spoke about leaving something meaningful. He had paid for my brother's first year of college without being asked and covered my mother's medical bills during a difficult year with zero expectation of repayment.\n\nWhen he died his will named a foundation called the Greenfield Community Education Trust. It was to receive his full estate \u2014 just over three hundred thousand dollars. His nephew Gary, from his late wife's side, had been appointed executor. Gary transferred the funds within three weeks of probate closing, which was unusually fast.\n\nMy mother asked me to look the charity up. It had a website. A logo. A mission statement. No IRS registration. No 990 filings. No legal existence as a nonprofit under any state or federal database I could find. The website had been registered six months before Leonard died.\n\nGary had deposited the funds into a private account tied to a business entity he had registered two months before my uncle's death.\n\nI brought this to a probate fraud attorney that afternoon. We filed an emergency petition to freeze the estate account \u2014 some funds had already been moved but a portion remained. The petition was granted within forty-eight hours.\n\nThe investigation found that Gary had fabricated the charity using copied language from a real foundation's website. He had inserted the bequest into my uncle's estate plan during Leonard's recovery from hip surgery, when he was on significant pain medication, and had it notarized by a contact who was later separately investigated.\n\nGary pled guilty to reduced charges of probate fraud and financial exploitation of a vulnerable adult. He was ordered to repay the full amount with interest and received eighteen months of supervised probation.\n\nMy mother and her siblings received the estate as distributed in my uncle's original will, which had been in his filing cabinet the entire time and had never been properly superseded.\n\nI check Gary's public record quarterly. Some habits are worth keeping.",
+      "broll_keywords": [
+        "legal documents",
+        "laptop screen",
+        "courthouse exterior",
+        "elderly hands",
+        "old photographs",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "inheritance",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
       "description": "He left everything to a charity that didn't exist. The executor transferred three hundred thousand dollars before anyone thought to check. We checked.",
       "estimated_duration": 132
     },
@@ -94,9 +206,23 @@
       "title": "Denver Doesn't Need a Passport",
       "genre": "relationship_betrayal",
       "hook": "My husband said he had a work trip to Denver for five days. I found his passport in the nightstand. Denver doesn't need a passport.",
-      "narration": "Tom and I had been together for eleven years and married for eight. We had a daughter, a mortgage, and a routine so established I could have described his schedule to the minute. He traveled for work occasionally. I never questioned it because I had never had a reason to.\n\nHe left Monday morning with a rolling suitcase and a kiss. He texted that evening to say the flight was fine. I found his passport that night while looking for our daughter's birth certificate for a school form.\n\nI sat on the edge of the bed for a long moment. Then I pulled up our shared credit card statement. There was a charge from that morning — an international airline, a round-trip flight to Lisbon. Business class.\n\nI did not text him. I did not call. I took photos of the passport and every relevant financial document I could access. Then I called my sister, who was a family law attorney, and asked her for a referral.\n\nOver the next five days I learned considerably more than I expected. Tom had taken this trip twice before under the cover of different domestic destinations. He had a second email address. He had been paying for a short-term rental apartment in our city for six months, charged to a credit card I had never known existed.\n\nWhen Tom returned on Friday I was calm. I had moved my daughter to my sister's house and left the divorce papers on the kitchen counter. They had already been filed.\n\nHe called forty times that weekend. He showed up at my sister's. I had my attorney send a communication notice — all contact through counsel only.\n\nThe divorce settlement gave me the house, primary custody, and a portion of his pension that his own attorney described as more than fair. The judge used the word deceptive three times in the final order.\n\nTom never explained Lisbon. I stopped waiting for an explanation before the ink was dry.",
-      "broll_keywords": ["passport close up", "hotel lobby", "phone screen", "empty bedroom", "legal documents", "city night"],
-      "hashtags": ["shorts", "storytime", "relationshipdrama", "betrayal", "divorce", "drama"],
+      "narration": "Tom and I had been together for eleven years and married for eight. We had a daughter, a mortgage, and a routine so established I could have described his schedule to the minute. He traveled for work occasionally. I never questioned it because I had never had a reason to.\n\nHe left Monday morning with a rolling suitcase and a kiss. He texted that evening to say the flight was fine. I found his passport that night while looking for our daughter's birth certificate for a school form.\n\nI sat on the edge of the bed for a long moment. Then I pulled up our shared credit card statement. There was a charge from that morning \u2014 an international airline, a round-trip flight to Lisbon. Business class.\n\nI did not text him. I did not call. I took photos of the passport and every relevant financial document I could access. Then I called my sister, who was a family law attorney, and asked her for a referral.\n\nOver the next five days I learned considerably more than I expected. Tom had taken this trip twice before under the cover of different domestic destinations. He had a second email address. He had been paying for a short-term rental apartment in our city for six months, charged to a credit card I had never known existed.\n\nWhen Tom returned on Friday I was calm. I had moved my daughter to my sister's house and left the divorce papers on the kitchen counter. They had already been filed.\n\nHe called forty times that weekend. He showed up at my sister's. I had my attorney send a communication notice \u2014 all contact through counsel only.\n\nThe divorce settlement gave me the house, primary custody, and a portion of his pension that his own attorney described as more than fair. The judge used the word deceptive three times in the final order.\n\nTom never explained Lisbon. I stopped waiting for an explanation before the ink was dry.",
+      "broll_keywords": [
+        "passport close up",
+        "hotel lobby",
+        "phone screen",
+        "empty bedroom",
+        "legal documents",
+        "city night"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "relationshipdrama",
+        "betrayal",
+        "divorce",
+        "drama"
+      ],
       "description": "He said he was going to Denver. I found his passport in the nightstand. Denver doesn't require a passport. Lisbon does.",
       "estimated_duration": 128
     },
@@ -105,9 +231,23 @@
       "title": "The Complaint That Couldn't Exist",
       "genre": "neighbor_drama",
       "hook": "My neighbor called code enforcement on my vegetable garden every month for a year. Then I looked up who owned the lot next to mine.",
-      "narration": "I had kept a vegetable garden in the corner of my backyard for seven years. Raised beds, a small greenhouse, nothing unruly. When Sandra moved in two houses over she introduced herself by sliding a letter under my door asking me to consider the visual impact of my garden on property values. I introduced myself by knocking on her door and explaining that everything was well within code.\n\nThe following spring code enforcement showed up unannounced. Sandra had filed a formal complaint claiming my beds exceeded height limits. The inspector measured everything, found no violation, and closed the case. A second complaint followed two months later citing different provisions — dismissed. A third complaint claimed my compost bin attracted pests. An inspector came out. There were no pests.\n\nThat third visit made me curious. I pulled the public property records for my entire block. Sandra owned the vacant lot directly adjacent to mine — a narrow strip I had always assumed belonged to the city. She had been submitting anonymous complaints about a fence post on that lot, trying to get it reclassified as an encroachment on her property. She was also three years behind on property taxes for the lot.\n\nI filed a formal harassment complaint with the city, documenting all three prior code complaints and their dismissals with dates and officer notes. I also submitted the tax delinquency to the county assessor, which triggered an automatic review.\n\nSandra received a tax lien on the lot. Her subsequent attempt to sell it was complicated by both the lien and the boundary dispute I had now formally raised. The sale fell through. The buyer walked.\n\nShe stopped filing complaints. She stopped making eye contact in the neighborhood too, which I found to be an improvement.\n\nMy garden has three new beds this year. The tomatoes are particularly good. The code officer who came out three times stops by in August for a bag. I have it waiting on the porch for him. He's earned it.",
-      "broll_keywords": ["garden flowers", "property documents", "suburban street", "coffee morning", "tomato plants", "neighborhood street"],
-      "hashtags": ["shorts", "storytime", "neighbordrama", "justice", "revenge", "drama"],
+      "narration": "I had kept a vegetable garden in the corner of my backyard for seven years. Raised beds, a small greenhouse, nothing unruly. When Sandra moved in two houses over she introduced herself by sliding a letter under my door asking me to consider the visual impact of my garden on property values. I introduced myself by knocking on her door and explaining that everything was well within code.\n\nThe following spring code enforcement showed up unannounced. Sandra had filed a formal complaint claiming my beds exceeded height limits. The inspector measured everything, found no violation, and closed the case. A second complaint followed two months later citing different provisions \u2014 dismissed. A third complaint claimed my compost bin attracted pests. An inspector came out. There were no pests.\n\nThat third visit made me curious. I pulled the public property records for my entire block. Sandra owned the vacant lot directly adjacent to mine \u2014 a narrow strip I had always assumed belonged to the city. She had been submitting anonymous complaints about a fence post on that lot, trying to get it reclassified as an encroachment on her property. She was also three years behind on property taxes for the lot.\n\nI filed a formal harassment complaint with the city, documenting all three prior code complaints and their dismissals with dates and officer notes. I also submitted the tax delinquency to the county assessor, which triggered an automatic review.\n\nSandra received a tax lien on the lot. Her subsequent attempt to sell it was complicated by both the lien and the boundary dispute I had now formally raised. The sale fell through. The buyer walked.\n\nShe stopped filing complaints. She stopped making eye contact in the neighborhood too, which I found to be an improvement.\n\nMy garden has three new beds this year. The tomatoes are particularly good. The code officer who came out three times stops by in August for a bag. I have it waiting on the porch for him. He's earned it.",
+      "broll_keywords": [
+        "garden flowers",
+        "property documents",
+        "suburban street",
+        "coffee morning",
+        "tomato plants",
+        "neighborhood street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "justice",
+        "revenge",
+        "drama"
+      ],
       "description": "She called code enforcement on my garden every month for a year. Then I looked up who owned the vacant lot next door. Everything changed after that.",
       "estimated_duration": 130
     },
@@ -116,9 +256,23 @@
       "title": "What Grandpa Hid In The Bible",
       "genre": "inheritance_dispute",
       "hook": "My uncle moved onto my grandfather's farm to help with maintenance. Two years later he had a new will giving him everything. Grandpa had hidden a letter inside his Bible.",
-      "narration": "Grandpa Walter died at eighty-one with a modest but meaningful estate — a farm property worth about two hundred thousand, a savings account, and forty years of tools and equipment. My uncle Robert had moved onto the property five years before my grandfather passed, officially to help with maintenance. He stopped paying his own rent six months in. He started selling equipment without asking anyone.\n\nWhen my grandfather died Robert presented a will — signed, witnessed, and legal — leaving him the property and all accounts. He presented it the day after the funeral, before anyone had time to grieve properly. The family was stunned. Nobody had known about any change.\n\nMy mother went back to clean the house and found the Bible on the nightstand. Inside the front cover, in my grandfather's handwriting, was a letter dated eleven months before his death. It said Robert had threatened him — told him that if he didn't change the will, he would leave and grandfather would die alone on the property. It said grandfather had been afraid. The letter also named his neighbor Clarence as a witness who had watched him write and sign it.\n\nWe hired a probate attorney. The handwritten letter qualified as a holographic codicil, which is legally valid in our state when signed and dated in the testator's own hand. Clarence confirmed everything under oath. Robert's attorney argued it was fabricated. A handwriting expert matched it to my grandfather's writing across twenty years of documents.\n\nThe court invalidated the contested will on grounds of undue influence and reinstated the prior will from eight years earlier, distributing the estate equally among my grandfather's three children.\n\nRobert was ordered to vacate the property. He refused initially, which led to formal eviction proceedings. He left owing eighteen months of unpaid occupancy.\n\nMy mother sold the farm and split the proceeds with her siblings. She used her share to pay off my youngest cousin's student loans.\n\nShe kept the Bible. It sits on her kitchen counter now. We don't need to open it anymore.",
-      "broll_keywords": ["farm property", "old Bible", "legal documents", "country road", "family dinner", "elderly hands"],
-      "hashtags": ["shorts", "storytime", "inheritance", "familydrama", "justice", "drama"],
+      "narration": "Grandpa Walter died at eighty-one with a modest but meaningful estate \u2014 a farm property worth about two hundred thousand, a savings account, and forty years of tools and equipment. My uncle Robert had moved onto the property five years before my grandfather passed, officially to help with maintenance. He stopped paying his own rent six months in. He started selling equipment without asking anyone.\n\nWhen my grandfather died Robert presented a will \u2014 signed, witnessed, and legal \u2014 leaving him the property and all accounts. He presented it the day after the funeral, before anyone had time to grieve properly. The family was stunned. Nobody had known about any change.\n\nMy mother went back to clean the house and found the Bible on the nightstand. Inside the front cover, in my grandfather's handwriting, was a letter dated eleven months before his death. It said Robert had threatened him \u2014 told him that if he didn't change the will, he would leave and grandfather would die alone on the property. It said grandfather had been afraid. The letter also named his neighbor Clarence as a witness who had watched him write and sign it.\n\nWe hired a probate attorney. The handwritten letter qualified as a holographic codicil, which is legally valid in our state when signed and dated in the testator's own hand. Clarence confirmed everything under oath. Robert's attorney argued it was fabricated. A handwriting expert matched it to my grandfather's writing across twenty years of documents.\n\nThe court invalidated the contested will on grounds of undue influence and reinstated the prior will from eight years earlier, distributing the estate equally among my grandfather's three children.\n\nRobert was ordered to vacate the property. He refused initially, which led to formal eviction proceedings. He left owing eighteen months of unpaid occupancy.\n\nMy mother sold the farm and split the proceeds with her siblings. She used her share to pay off my youngest cousin's student loans.\n\nShe kept the Bible. It sits on her kitchen counter now. We don't need to open it anymore.",
+      "broll_keywords": [
+        "farm property",
+        "old Bible",
+        "legal documents",
+        "country road",
+        "family dinner",
+        "elderly hands"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "inheritance",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
       "description": "My uncle had a will giving him everything. Grandpa had hidden a letter inside his Bible for eleven months. We found it the day we cleaned the house.",
       "estimated_duration": 132
     },
@@ -127,9 +281,23 @@
       "title": "The Toast That Ended Everything",
       "genre": "friendship_betrayal",
       "hook": "My maid of honor ended her wedding speech by telling my husband she had always been in love with him. She said it in front of two hundred people.",
-      "narration": "Jess and I had been friends since we were fourteen. We had seen each other through everything — bad jobs, worse apartments, every milestone that mattered. When Marcus and I got engaged she cried at my kitchen table. I asked her to be my maid of honor without a second thought.\n\nThe wedding was perfect until the speeches. Jess stood with a glass of champagne and gave a toast that started warm and slowly, sentence by sentence, became something else entirely. She talked about Marcus. About what a remarkable man he was. About watching me fall in love with him. And then, in front of every single person we had ever known, she said Marcus I need you to know that I have always been in love with you. I wanted you to know before it was too late.\n\nThe room went silent. I was twelve feet away in my wedding dress.\n\nMarcus looked mortified. My mother started clapping to move past it. Jess sat down and drank her champagne. She avoided me for the rest of the night and left before the cake.\n\nShe texted me the next morning saying she hoped I understood.\n\nI understood completely.\n\nI removed her from every shared space in my life — the group chats, the social media, the mutual connections. I did not ask anyone to choose sides. I simply told the truth about what happened, clearly and without embellishment. Most people did not need to be asked twice.\n\nThree years later Marcus and I are still married. Our daughter was born last spring. The wedding photos are on our wall, every one of them beautiful. Jess was cropped out of each one carefully. It took me one afternoon.\n\nShe sent a card when the baby was born. I put it directly in the recycling without opening it. Then I went back to my daughter, who was sleeping, and watched her breathe.\n\nSome people mistake a wedding for an audience. They are always wrong about what happens after.",
-      "broll_keywords": ["wedding ceremony", "champagne toast", "wedding flowers", "empty venue", "baby sleeping", "city street"],
-      "hashtags": ["shorts", "storytime", "friendshipbetrayal", "wedding", "drama", "revenge"],
+      "narration": "Jess and I had been friends since we were fourteen. We had seen each other through everything \u2014 bad jobs, worse apartments, every milestone that mattered. When Marcus and I got engaged she cried at my kitchen table. I asked her to be my maid of honor without a second thought.\n\nThe wedding was perfect until the speeches. Jess stood with a glass of champagne and gave a toast that started warm and slowly, sentence by sentence, became something else entirely. She talked about Marcus. About what a remarkable man he was. About watching me fall in love with him. And then, in front of every single person we had ever known, she said Marcus I need you to know that I have always been in love with you. I wanted you to know before it was too late.\n\nThe room went silent. I was twelve feet away in my wedding dress.\n\nMarcus looked mortified. My mother started clapping to move past it. Jess sat down and drank her champagne. She avoided me for the rest of the night and left before the cake.\n\nShe texted me the next morning saying she hoped I understood.\n\nI understood completely.\n\nI removed her from every shared space in my life \u2014 the group chats, the social media, the mutual connections. I did not ask anyone to choose sides. I simply told the truth about what happened, clearly and without embellishment. Most people did not need to be asked twice.\n\nThree years later Marcus and I are still married. Our daughter was born last spring. The wedding photos are on our wall, every one of them beautiful. Jess was cropped out of each one carefully. It took me one afternoon.\n\nShe sent a card when the baby was born. I put it directly in the recycling without opening it. Then I went back to my daughter, who was sleeping, and watched her breathe.\n\nSome people mistake a wedding for an audience. They are always wrong about what happens after.",
+      "broll_keywords": [
+        "wedding ceremony",
+        "champagne toast",
+        "wedding flowers",
+        "empty venue",
+        "baby sleeping",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "friendshipbetrayal",
+        "wedding",
+        "drama",
+        "revenge"
+      ],
       "description": "She was my maid of honor. She ended her speech by telling my husband she had always been in love with him. In front of two hundred people.",
       "estimated_duration": 130
     },
@@ -138,9 +306,23 @@
       "title": "The Reviews That Never Happened",
       "genre": "workplace_revenge",
       "hook": "My company fired me for poor performance. I had the highest sales numbers in the region for two consecutive years. Someone had created three reviews I had never seen.",
-      "narration": "I had worked at Trident Financial for seven years. I hit quota every quarter. In 2023 and 2024 I was the highest-grossing sales representative in the entire Southeast region. I had the commission statements, the client letters, and the regional rankings to document every word of that.\n\nIn January I was called into HR with my manager Kevin. They slid a document across the table. Three consecutive below-expectations performance reviews from the past eighteen months. I had never seen them. I had never been told my performance was a concern. I had never been placed on a performance improvement plan, which company policy required before any termination.\n\nI was given a separation agreement and thirty minutes. I did not sign it.\n\nI told them I needed time to review the document. I took my copy, collected my personal items, and called an employment attorney from the parking lot.\n\nMy attorney submitted a records request for all performance documentation related to my file. What came back was instructive. The three negative reviews had been created within the same forty-eight-hour window — not eighteen months apart as dated. The document metadata showed all three had been drafted and uploaded by Kevin's assistant on the same day, three weeks before my termination. My original annual reviews, the real ones, were still in the system. Both showed exceeds expectations.\n\nWe also found that Kevin had hired his nephew for a new sales role the week after I was let go. The position had never been posted internally as required by company policy.\n\nMy attorney sent a demand letter documenting the fabricated records, the procedural violations, and the potential wrongful termination claim. The company settled within sixty days. I received fourteen months of full compensation, benefits continuation, and a neutral employment record.\n\nKevin was placed on administrative review. A former colleague told me he was quietly demoted six months later.\n\nI used the settlement to take three months off. Then I joined a competitor as regional director. I brought four of my top clients with me. Every one of them came voluntarily.\n\nI still have the original employment agreement. I keep it next to the commission statements. Some records are worth holding onto.",
-      "broll_keywords": ["office building", "legal documents", "city commute", "sales charts", "desk work", "conference room"],
-      "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "justice"],
+      "narration": "I had worked at Trident Financial for seven years. I hit quota every quarter. In 2023 and 2024 I was the highest-grossing sales representative in the entire Southeast region. I had the commission statements, the client letters, and the regional rankings to document every word of that.\n\nIn January I was called into HR with my manager Kevin. They slid a document across the table. Three consecutive below-expectations performance reviews from the past eighteen months. I had never seen them. I had never been told my performance was a concern. I had never been placed on a performance improvement plan, which company policy required before any termination.\n\nI was given a separation agreement and thirty minutes. I did not sign it.\n\nI told them I needed time to review the document. I took my copy, collected my personal items, and called an employment attorney from the parking lot.\n\nMy attorney submitted a records request for all performance documentation related to my file. What came back was instructive. The three negative reviews had been created within the same forty-eight-hour window \u2014 not eighteen months apart as dated. The document metadata showed all three had been drafted and uploaded by Kevin's assistant on the same day, three weeks before my termination. My original annual reviews, the real ones, were still in the system. Both showed exceeds expectations.\n\nWe also found that Kevin had hired his nephew for a new sales role the week after I was let go. The position had never been posted internally as required by company policy.\n\nMy attorney sent a demand letter documenting the fabricated records, the procedural violations, and the potential wrongful termination claim. The company settled within sixty days. I received fourteen months of full compensation, benefits continuation, and a neutral employment record.\n\nKevin was placed on administrative review. A former colleague told me he was quietly demoted six months later.\n\nI used the settlement to take three months off. Then I joined a competitor as regional director. I brought four of my top clients with me. Every one of them came voluntarily.\n\nI still have the original employment agreement. I keep it next to the commission statements. Some records are worth holding onto.",
+      "broll_keywords": [
+        "office building",
+        "legal documents",
+        "city commute",
+        "sales charts",
+        "desk work",
+        "conference room"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplacedrama",
+        "revenge",
+        "corporate",
+        "justice"
+      ],
       "description": "They fired me for poor performance and handed me a separation agreement. I had the top sales numbers in the region. Someone had forged three reviews. I had the metadata.",
       "estimated_duration": 135
     },
@@ -149,9 +331,23 @@
       "title": "What Was In The Storage Unit",
       "genre": "family_betrayal",
       "hook": "My stepmother told me my father had cut me out of his will. Then I found the original will in a storage unit she didn't know I had a key to.",
-      "narration": "My father remarried when I was twenty-two. Diane was pleasant enough at first — I was an adult, not a child to be managed, and I gave her room. Over the years the room became a wall. She controlled who called him, which family events he attended, what he knew about my life. When my daughter was born she told him I wasn't ready for visitors. I had said no such thing.\n\nTwo years ago my father sat me down and said he and Diane had updated their estate plan. He said it was a mutual decision and he hoped I understood. He looked uncomfortable the entire conversation. He did not meet my eyes once.\n\nMy father had kept a storage unit since before he met Diane. He gave me a key years ago for emergencies. After that conversation I drove there on an impulse and went through several boxes. In the third box, behind a folder labeled insurance, I found a sealed envelope marked copy — original with attorney. Inside was my father's will from four years ago, predating any alleged update. It left the estate equally to me and Diane's two children. It also left me specifically his photography collection, which he had recently told me was going to them.\n\nI hired an estate attorney. She confirmed the will had been changed fourteen months ago. During the revision meeting my father had arrived with Diane, and Diane had been present in the room during the signing — a significant procedural concern when the document directly benefits her.\n\nI did not come at my father with lawyers. I asked him to lunch, alone. I placed the old will on the table and asked him quietly whether the decision had been entirely his.\n\nHe was silent for a long time. Then he said no.\n\nHe revised the will the following month. I was present. Diane was not.\n\nShe has not spoken to me since. My father calls every Sunday now. He sounds like himself again.",
-      "broll_keywords": ["storage unit", "legal documents", "family home", "kitchen table", "old photographs", "empty house"],
-      "hashtags": ["shorts", "storytime", "familydrama", "betrayal", "inheritance", "drama"],
+      "narration": "My father remarried when I was twenty-two. Diane was pleasant enough at first \u2014 I was an adult, not a child to be managed, and I gave her room. Over the years the room became a wall. She controlled who called him, which family events he attended, what he knew about my life. When my daughter was born she told him I wasn't ready for visitors. I had said no such thing.\n\nTwo years ago my father sat me down and said he and Diane had updated their estate plan. He said it was a mutual decision and he hoped I understood. He looked uncomfortable the entire conversation. He did not meet my eyes once.\n\nMy father had kept a storage unit since before he met Diane. He gave me a key years ago for emergencies. After that conversation I drove there on an impulse and went through several boxes. In the third box, behind a folder labeled insurance, I found a sealed envelope marked copy \u2014 original with attorney. Inside was my father's will from four years ago, predating any alleged update. It left the estate equally to me and Diane's two children. It also left me specifically his photography collection, which he had recently told me was going to them.\n\nI hired an estate attorney. She confirmed the will had been changed fourteen months ago. During the revision meeting my father had arrived with Diane, and Diane had been present in the room during the signing \u2014 a significant procedural concern when the document directly benefits her.\n\nI did not come at my father with lawyers. I asked him to lunch, alone. I placed the old will on the table and asked him quietly whether the decision had been entirely his.\n\nHe was silent for a long time. Then he said no.\n\nHe revised the will the following month. I was present. Diane was not.\n\nShe has not spoken to me since. My father calls every Sunday now. He sounds like himself again.",
+      "broll_keywords": [
+        "storage unit",
+        "legal documents",
+        "family home",
+        "kitchen table",
+        "old photographs",
+        "empty house"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "inheritance",
+        "drama"
+      ],
       "description": "She told me my father had cut me out of his will. Then I found the original will in a storage unit she didn't know I had a key to.",
       "estimated_duration": 130
     },
@@ -160,9 +356,23 @@
       "title": "Two Hundred Thousand Dollars of Nothing",
       "genre": "relationship_betrayal",
       "hook": "My fiance had two hundred thousand dollars of hidden debt. I found out three weeks before the wedding when a collections attorney called looking for him.",
-      "narration": "David and I met at a work conference. He was confident, generous, always picking up the check. He had a nice apartment, drove a decent car, talked about his consulting work with the kind of easy certainty that made me trust him completely. We got engaged after two years. We booked a venue, put down deposits, sent invitations to a hundred and forty people.\n\nThree weeks before the wedding I received a call from a number I didn't recognize. A collections attorney, looking for David. He thought he was calling David's office. He mentioned a judgment. I asked him to repeat the amount. He said one hundred and eighty-three thousand dollars from a business debt that had been in collections for two years.\n\nI thanked him and hung up.\n\nI hired a financial background research firm that afternoon. The report took four days. In that time I learned David had two credit cards I didn't know about, both maxed, that his consulting business had been formally dissolved eighteen months earlier, and that he had no verifiable income. He had been living off a personal loan and an undisclosed line of credit. Total debt just over two hundred thousand dollars.\n\nI did not cancel by phone. I did not send a text. I drove to his apartment, sat across from him at his kitchen table, and placed the report between us without a word. He tried to explain. I let him talk until he stopped. Then I asked for the ring back.\n\nWe had not yet combined any finances. The venue deposit was nonrefundable — six thousand dollars. I considered it the cheapest version of this lesson I could have received.\n\nI returned every wedding gift with a handwritten note. I kept the kitchen appliances we had bought together because I had paid for them and I had the receipts to prove it.\n\nDavid moved back to his parents' house. I heard he listed himself on LinkedIn as a strategic advisor within months. I had the false business claim reported with documentation. The profile was updated.\n\nI spent the money I had saved for the honeymoon on a solo trip to Japan. It was the best vacation I have ever taken.",
-      "broll_keywords": ["engagement ring", "bank statement", "legal documents", "city street", "kitchen table", "airplane window"],
-      "hashtags": ["shorts", "storytime", "relationshipdrama", "betrayal", "revenge", "drama"],
+      "narration": "David and I met at a work conference. He was confident, generous, always picking up the check. He had a nice apartment, drove a decent car, talked about his consulting work with the kind of easy certainty that made me trust him completely. We got engaged after two years. We booked a venue, put down deposits, sent invitations to a hundred and forty people.\n\nThree weeks before the wedding I received a call from a number I didn't recognize. A collections attorney, looking for David. He thought he was calling David's office. He mentioned a judgment. I asked him to repeat the amount. He said one hundred and eighty-three thousand dollars from a business debt that had been in collections for two years.\n\nI thanked him and hung up.\n\nI hired a financial background research firm that afternoon. The report took four days. In that time I learned David had two credit cards I didn't know about, both maxed, that his consulting business had been formally dissolved eighteen months earlier, and that he had no verifiable income. He had been living off a personal loan and an undisclosed line of credit. Total debt just over two hundred thousand dollars.\n\nI did not cancel by phone. I did not send a text. I drove to his apartment, sat across from him at his kitchen table, and placed the report between us without a word. He tried to explain. I let him talk until he stopped. Then I asked for the ring back.\n\nWe had not yet combined any finances. The venue deposit was nonrefundable \u2014 six thousand dollars. I considered it the cheapest version of this lesson I could have received.\n\nI returned every wedding gift with a handwritten note. I kept the kitchen appliances we had bought together because I had paid for them and I had the receipts to prove it.\n\nDavid moved back to his parents' house. I heard he listed himself on LinkedIn as a strategic advisor within months. I had the false business claim reported with documentation. The profile was updated.\n\nI spent the money I had saved for the honeymoon on a solo trip to Japan. It was the best vacation I have ever taken.",
+      "broll_keywords": [
+        "engagement ring",
+        "bank statement",
+        "legal documents",
+        "city street",
+        "kitchen table",
+        "airplane window"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "relationshipdrama",
+        "betrayal",
+        "revenge",
+        "drama"
+      ],
       "description": "He proposed. I said yes. Three weeks before the wedding a collections attorney called looking for him. Two hundred thousand dollars of hidden debt. I kept the ring.",
       "estimated_duration": 134
     },
@@ -171,9 +381,23 @@
       "title": "The HOA President and the Wrong Color",
       "genre": "neighbor_drama",
       "hook": "The HOA president fined me eleven hundred dollars for a fence color that was listed as approved in the guidelines. She had changed the list without a vote and backdated it.",
-      "narration": "I moved into the Ridgecrest community three years ago. The HOA guidelines were forty pages and I read every one before I repainted my back fence that spring. I used Cedar Tone — listed explicitly on page twenty-two of the approved palette. I kept the receipt and photographed the finished fence with the date stamp on.\n\nTwo weeks later a violation notice arrived. Eleven hundred dollars, non-compliant color selection. Signed by the HOA president, Margaret Alcott.\n\nI submitted a written dispute with the paint code, the page number, and the receipt. Margaret rejected it. She claimed the color had been removed from the approved list pending an update. No updated list had been distributed. There was no record of any board vote approving a change.\n\nI submitted a records request for all HOA meeting minutes from the prior twelve months. What I found was clarifying. Margaret had updated the approved color list on her own, without a board vote, and had backdated the change by three weeks. That backdated version would have covered my fence. The original version — the one emailed to all residents when I moved in — still included Cedar Tone.\n\nI also found in the minutes three prior instances where Margaret had issued fines that were later reversed after complaints, and two instances where she had waived fines for neighbors on her own street without board approval.\n\nI presented all of this at the next HOA meeting with printed documentation and a request that my fine be rescinded and Margaret's unilateral guideline change be declared invalid pending a proper board vote.\n\nThe board voted four to one in my favor. My fine was rescinded in full. The following month the community voted to remove Margaret as president.\n\nThe new president sent a welcome letter to all residents. The approved color list was reissued with proper voting documentation attached. Cedar Tone is still on it.\n\nI left the fence exactly as it is. It looks great and it did from the beginning.",
-      "broll_keywords": ["suburban house", "HOA documents", "paint samples", "neighborhood street", "board meeting", "coffee morning"],
-      "hashtags": ["shorts", "storytime", "neighbordrama", "HOA", "justice", "drama"],
+      "narration": "I moved into the Ridgecrest community three years ago. The HOA guidelines were forty pages and I read every one before I repainted my back fence that spring. I used Cedar Tone \u2014 listed explicitly on page twenty-two of the approved palette. I kept the receipt and photographed the finished fence with the date stamp on.\n\nTwo weeks later a violation notice arrived. Eleven hundred dollars, non-compliant color selection. Signed by the HOA president, Margaret Alcott.\n\nI submitted a written dispute with the paint code, the page number, and the receipt. Margaret rejected it. She claimed the color had been removed from the approved list pending an update. No updated list had been distributed. There was no record of any board vote approving a change.\n\nI submitted a records request for all HOA meeting minutes from the prior twelve months. What I found was clarifying. Margaret had updated the approved color list on her own, without a board vote, and had backdated the change by three weeks. That backdated version would have covered my fence. The original version \u2014 the one emailed to all residents when I moved in \u2014 still included Cedar Tone.\n\nI also found in the minutes three prior instances where Margaret had issued fines that were later reversed after complaints, and two instances where she had waived fines for neighbors on her own street without board approval.\n\nI presented all of this at the next HOA meeting with printed documentation and a request that my fine be rescinded and Margaret's unilateral guideline change be declared invalid pending a proper board vote.\n\nThe board voted four to one in my favor. My fine was rescinded in full. The following month the community voted to remove Margaret as president.\n\nThe new president sent a welcome letter to all residents. The approved color list was reissued with proper voting documentation attached. Cedar Tone is still on it.\n\nI left the fence exactly as it is. It looks great and it did from the beginning.",
+      "broll_keywords": [
+        "suburban house",
+        "HOA documents",
+        "paint samples",
+        "neighborhood street",
+        "board meeting",
+        "coffee morning"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "HOA",
+        "justice",
+        "drama"
+      ],
       "description": "She fined me eleven hundred dollars for a color listed as approved in the guidelines. Then I pulled the meeting minutes. The list had been changed without a vote and backdated.",
       "estimated_duration": 128
     },
@@ -182,9 +406,23 @@
       "title": "He Rewrote The Will In The Hospital Room",
       "genre": "inheritance_dispute",
       "hook": "My grandfather's estate went to a cousin nobody had spoken to in fifteen years. The will had been rewritten in a hospital room while grandfather was on morphine.",
-      "narration": "Grandpa Raymond spent forty-five years building a small but solid portfolio — a rental property, retirement accounts, a savings account that he had never once touched frivolously. He was meticulous about his estate plan and had updated it every few years through the same attorney he had used for decades.\n\nWhen he was admitted to the hospital for cardiac surgery at eighty-three, a distant cousin named Victor appeared. Victor had not been to a family event in fifteen years. He had not called. Nobody had an explanation for his sudden interest.\n\nMy grandfather died six days after surgery. The estate reading revealed a will signed in the hospital three days before he passed. Victor received the rental property and the full savings account — roughly two hundred and twenty thousand dollars combined. My grandmother, who had divorced my grandfather decades earlier but remained close family, and the rest of us received nothing. It was a complete departure from every prior version of the will.\n\nI spoke with my grandfather's longtime attorney. He had not drafted the new document. A different attorney had been brought to the hospital room by Victor. My grandfather had been on a post-surgical morphine protocol at the time of signing. His chart documented significant sedation.\n\nWe hired a probate litigation attorney. We obtained the hospital records, the nursing notes, and the physician's documentation of his cognitive state at the time of the signing. We also obtained testimony from two nurses who recalled the visit and noted that my grandfather appeared confused and that Victor had directed much of the conversation.\n\nThe will was contested on grounds of incapacity and undue influence. Victor hired an aggressive attorney. The case went to probate court and took eight months.\n\nThe court found the signing conditions failed to meet the legal standard for testamentary capacity. The new will was invalidated and the prior version reinstated.\n\nVictor was ordered to cover legal costs. He did not appeal.\n\nThe estate was distributed as my grandfather had always intended. I used my portion to take my grandmother on the trip to Portugal she had talked about her entire life. She held my arm at the airport and cried a little. I pretended not to notice.",
-      "broll_keywords": ["hospital room", "legal documents", "elderly hands", "courthouse exterior", "old photographs", "airport departure"],
-      "hashtags": ["shorts", "storytime", "inheritance", "familydrama", "justice", "drama"],
+      "narration": "Grandpa Raymond spent forty-five years building a small but solid portfolio \u2014 a rental property, retirement accounts, a savings account that he had never once touched frivolously. He was meticulous about his estate plan and had updated it every few years through the same attorney he had used for decades.\n\nWhen he was admitted to the hospital for cardiac surgery at eighty-three, a distant cousin named Victor appeared. Victor had not been to a family event in fifteen years. He had not called. Nobody had an explanation for his sudden interest.\n\nMy grandfather died six days after surgery. The estate reading revealed a will signed in the hospital three days before he passed. Victor received the rental property and the full savings account \u2014 roughly two hundred and twenty thousand dollars combined. My grandmother, who had divorced my grandfather decades earlier but remained close family, and the rest of us received nothing. It was a complete departure from every prior version of the will.\n\nI spoke with my grandfather's longtime attorney. He had not drafted the new document. A different attorney had been brought to the hospital room by Victor. My grandfather had been on a post-surgical morphine protocol at the time of signing. His chart documented significant sedation.\n\nWe hired a probate litigation attorney. We obtained the hospital records, the nursing notes, and the physician's documentation of his cognitive state at the time of the signing. We also obtained testimony from two nurses who recalled the visit and noted that my grandfather appeared confused and that Victor had directed much of the conversation.\n\nThe will was contested on grounds of incapacity and undue influence. Victor hired an aggressive attorney. The case went to probate court and took eight months.\n\nThe court found the signing conditions failed to meet the legal standard for testamentary capacity. The new will was invalidated and the prior version reinstated.\n\nVictor was ordered to cover legal costs. He did not appeal.\n\nThe estate was distributed as my grandfather had always intended. I used my portion to take my grandmother on the trip to Portugal she had talked about her entire life. She held my arm at the airport and cried a little. I pretended not to notice.",
+      "broll_keywords": [
+        "hospital room",
+        "legal documents",
+        "elderly hands",
+        "courthouse exterior",
+        "old photographs",
+        "airport departure"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "inheritance",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
       "description": "He rewrote his will in a hospital room three days before he died. He was on morphine. A cousin nobody knew appeared out of nowhere. We found the medical records.",
       "estimated_duration": 137
     },
@@ -193,9 +431,23 @@
       "title": "He Used My Contacts To Fund His Startup",
       "genre": "friendship_betrayal",
       "hook": "I introduced my closest friend to my entire investor network. Six months later he had raised two hundred thousand dollars for a startup that was identical to mine.",
-      "narration": "Noah and I had been close since college. He had been with me through the early years of building my software platform — a scheduling and billing tool for independent physical therapists. He understood the product deeply because I had talked him through every iteration. He gave feedback on demos. He came to early pitch events. I treated him as a co-founder without the title.\n\nWhen I started approaching investors last fall I brought Noah to several introductory dinners. I introduced him as a trusted advisor. He shook hands with everyone I knew in that room.\n\nBy February I started hearing things. A mutual contact mentioned a new PT scheduling platform generating buzz. Another forwarded me a pitch deck that was circulating. I opened it on a Tuesday evening and sat with it for a very long time.\n\nIt was my product. Not similar — mine. The architecture, the billing integration, the onboarding flow I had designed, the exact problem statement I had refined over two years. Reworded. Structurally identical. Noah had incorporated a company in October, six weeks after our first investor dinner.\n\nI went back through everything. I had version-controlled documents predating Noah's company by over a year. I had emails where he had commented on specific features. I had the original pitch deck I had shared with those same investors, clearly timestamped.\n\nI contacted three investors who had given Noah money. Two agreed to speak with me after reviewing the timeline. One pulled his commitment.\n\nNoah had signed a non-disclosure agreement when I first brought him into early development. I had used standard advisor NDAs with everyone involved in that phase. My attorney sent formal notice citing misappropriation of trade secrets and breach of the agreement.\n\nNoah's funding dried up as investors reviewed the situation. He settled out of litigation for sixty thousand dollars and agreed to formally wind down the competing product.\n\nI took the settlement, added it to my own raise, and closed a seed round in August. The platform launched in October. We have four hundred active practices.\n\nNoah's last message said he hoped there were no hard feelings. I read it. I did not reply.",
-      "broll_keywords": ["investor meeting", "startup office", "laptop screen", "legal documents", "city skyline", "handshake"],
-      "hashtags": ["shorts", "storytime", "friendshipbetrayal", "startup", "revenge", "drama"],
+      "narration": "Noah and I had been close since college. He had been with me through the early years of building my software platform \u2014 a scheduling and billing tool for independent physical therapists. He understood the product deeply because I had talked him through every iteration. He gave feedback on demos. He came to early pitch events. I treated him as a co-founder without the title.\n\nWhen I started approaching investors last fall I brought Noah to several introductory dinners. I introduced him as a trusted advisor. He shook hands with everyone I knew in that room.\n\nBy February I started hearing things. A mutual contact mentioned a new PT scheduling platform generating buzz. Another forwarded me a pitch deck that was circulating. I opened it on a Tuesday evening and sat with it for a very long time.\n\nIt was my product. Not similar \u2014 mine. The architecture, the billing integration, the onboarding flow I had designed, the exact problem statement I had refined over two years. Reworded. Structurally identical. Noah had incorporated a company in October, six weeks after our first investor dinner.\n\nI went back through everything. I had version-controlled documents predating Noah's company by over a year. I had emails where he had commented on specific features. I had the original pitch deck I had shared with those same investors, clearly timestamped.\n\nI contacted three investors who had given Noah money. Two agreed to speak with me after reviewing the timeline. One pulled his commitment.\n\nNoah had signed a non-disclosure agreement when I first brought him into early development. I had used standard advisor NDAs with everyone involved in that phase. My attorney sent formal notice citing misappropriation of trade secrets and breach of the agreement.\n\nNoah's funding dried up as investors reviewed the situation. He settled out of litigation for sixty thousand dollars and agreed to formally wind down the competing product.\n\nI took the settlement, added it to my own raise, and closed a seed round in August. The platform launched in October. We have four hundred active practices.\n\nNoah's last message said he hoped there were no hard feelings. I read it. I did not reply.",
+      "broll_keywords": [
+        "investor meeting",
+        "startup office",
+        "laptop screen",
+        "legal documents",
+        "city skyline",
+        "handshake"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "friendshipbetrayal",
+        "startup",
+        "revenge",
+        "drama"
+      ],
       "description": "I introduced my best friend to every investor I knew. Six months later he raised two hundred thousand for a startup that was my product. I had the version history.",
       "estimated_duration": 136
     },
@@ -204,9 +456,23 @@
       "title": "The Promotion That Disappeared",
       "genre": "workplace_revenge",
       "hook": "My director promised me the VP role in January. By May an outside hire I had never met was announced. The internal posting had never been sent to anyone.",
-      "narration": "I had been a senior project manager at Vantage Group for five years. In my January review my director Helen told me directly that the VP of Operations role was mine pending a second-quarter restructure. She used the words you are the plan. I sent a follow-up email that afternoon documenting the conversation — a habit I had maintained for years.\n\nIn April a man named Craig was brought in as a consultant. By the end of May he was announced as the new VP of Operations. Helen sent me a Slack message saying she hoped I understood that priorities had shifted.\n\nI contacted HR and requested a copy of the internal job posting for the position. HR claimed it had been reposted internally in March. Not one person in my department had received any notification. I checked with six colleagues. Every one confirmed they had seen nothing. The posting had not appeared on the internal jobs board, which I accessed weekly.\n\nI filed a formal complaint with HR documenting the director's promise, the absence of proper internal posting, and a potential pattern of favoritism. HR sat on it for three weeks without any response.\n\nI escalated to the Chief People Officer with the same documentation, plus a note that Craig's recruiting firm was owned by Helen's former colleague — a potential undisclosed conflict of interest I had found through a fifteen-minute LinkedIn search.\n\nThe CPO opened a formal investigation. Helen was placed on administrative leave within the week. The investigation confirmed the internal posting had never been distributed and that Helen had directed the recruiter to find an external candidate before the restructure was even finalized.\n\nCraig's offer was rescinded. Helen was terminated. The VP role was reposted properly and I was asked to apply.\n\nI was offered the position and I accepted. My first action in the role was to create a transparent internal posting process with confirmation receipts so no one could ever claim a posting had been sent that hadn't been.\n\nHelen landed at a smaller firm two months later. I have not reached out. I have nothing to say that the outcome didn't already say better.",
-      "broll_keywords": ["office building", "conference room", "legal documents", "city skyline", "desk work", "promotion documents"],
-      "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "justice"],
+      "narration": "I had been a senior project manager at Vantage Group for five years. In my January review my director Helen told me directly that the VP of Operations role was mine pending a second-quarter restructure. She used the words you are the plan. I sent a follow-up email that afternoon documenting the conversation \u2014 a habit I had maintained for years.\n\nIn April a man named Craig was brought in as a consultant. By the end of May he was announced as the new VP of Operations. Helen sent me a Slack message saying she hoped I understood that priorities had shifted.\n\nI contacted HR and requested a copy of the internal job posting for the position. HR claimed it had been reposted internally in March. Not one person in my department had received any notification. I checked with six colleagues. Every one confirmed they had seen nothing. The posting had not appeared on the internal jobs board, which I accessed weekly.\n\nI filed a formal complaint with HR documenting the director's promise, the absence of proper internal posting, and a potential pattern of favoritism. HR sat on it for three weeks without any response.\n\nI escalated to the Chief People Officer with the same documentation, plus a note that Craig's recruiting firm was owned by Helen's former colleague \u2014 a potential undisclosed conflict of interest I had found through a fifteen-minute LinkedIn search.\n\nThe CPO opened a formal investigation. Helen was placed on administrative leave within the week. The investigation confirmed the internal posting had never been distributed and that Helen had directed the recruiter to find an external candidate before the restructure was even finalized.\n\nCraig's offer was rescinded. Helen was terminated. The VP role was reposted properly and I was asked to apply.\n\nI was offered the position and I accepted. My first action in the role was to create a transparent internal posting process with confirmation receipts so no one could ever claim a posting had been sent that hadn't been.\n\nHelen landed at a smaller firm two months later. I have not reached out. I have nothing to say that the outcome didn't already say better.",
+      "broll_keywords": [
+        "office building",
+        "conference room",
+        "legal documents",
+        "city skyline",
+        "desk work",
+        "promotion documents"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplacedrama",
+        "revenge",
+        "corporate",
+        "justice"
+      ],
       "description": "She promised me the VP role in January. By May a stranger had it. The internal posting had never been sent to anyone. I had the follow-up email from the day she made the promise.",
       "estimated_duration": 134
     },
@@ -215,9 +481,23 @@
       "title": "What My Sister Called Junk",
       "genre": "family_betrayal",
       "hook": "My sister cleaned out our mother's house and said most of it was junk. I found the estate sale receipts six months later. She had sold thirty-one thousand dollars worth of it.",
-      "narration": "My mother collected things her whole life — thoughtfully, not obsessively. Vintage jewelry, a few good furniture pieces, some art from her time living in New Mexico in the seventies. She always said it wasn't worth much but she'd never let any of it go. I lived across the country. My sister lived twenty minutes from the house.\n\nWhen our mother died my sister offered to handle the estate clean-out. I was grieving and grateful and I trusted her completely. She said she'd donate what was useful and keep me informed. She sent me my mother's recipe box and a photo album and said everything else was dated and worn.\n\nSix months later I was going through old emails and found a forwarded message from an estate sale service. It confirmed a consignment sale from the prior December — my mother's address, an itemized list, a total payout of thirty-one thousand dollars. My sister had forwarded it from our shared family email account to her personal email and forgotten I still had access.\n\nI sent the item list to an appraiser. The jewelry alone — which my sister had described as costume pieces — included two items worth over twelve thousand dollars. The furniture and art accounted for the rest.\n\nI called my sister. She said she had put the money toward estate expenses. I asked for an itemized accounting. She produced a list totaling four thousand dollars.\n\nI contacted a probate attorney. My sister had no formal appointment as executor — no letters testamentary had been issued. She had sold estate assets without legal authority to do so and had not distributed the proceeds to the estate. Under probate law this constituted conversion of estate property.\n\nMy attorney sent a demand letter. My sister repaid twenty-one thousand dollars over four months and signed a written acknowledgment of the transaction.\n\nI did not enjoy any of it. My mother would have been devastated. But she spent forty years holding onto things she loved, and those things deserved to mean something.\n\nI kept the recipe box. I use it every Sunday. That part she got right.",
-      "broll_keywords": ["estate sale", "jewelry close up", "legal documents", "old photographs", "kitchen table", "family home"],
-      "hashtags": ["shorts", "storytime", "familydrama", "betrayal", "inheritance", "drama"],
+      "narration": "My mother collected things her whole life \u2014 thoughtfully, not obsessively. Vintage jewelry, a few good furniture pieces, some art from her time living in New Mexico in the seventies. She always said it wasn't worth much but she'd never let any of it go. I lived across the country. My sister lived twenty minutes from the house.\n\nWhen our mother died my sister offered to handle the estate clean-out. I was grieving and grateful and I trusted her completely. She said she'd donate what was useful and keep me informed. She sent me my mother's recipe box and a photo album and said everything else was dated and worn.\n\nSix months later I was going through old emails and found a forwarded message from an estate sale service. It confirmed a consignment sale from the prior December \u2014 my mother's address, an itemized list, a total payout of thirty-one thousand dollars. My sister had forwarded it from our shared family email account to her personal email and forgotten I still had access.\n\nI sent the item list to an appraiser. The jewelry alone \u2014 which my sister had described as costume pieces \u2014 included two items worth over twelve thousand dollars. The furniture and art accounted for the rest.\n\nI called my sister. She said she had put the money toward estate expenses. I asked for an itemized accounting. She produced a list totaling four thousand dollars.\n\nI contacted a probate attorney. My sister had no formal appointment as executor \u2014 no letters testamentary had been issued. She had sold estate assets without legal authority to do so and had not distributed the proceeds to the estate. Under probate law this constituted conversion of estate property.\n\nMy attorney sent a demand letter. My sister repaid twenty-one thousand dollars over four months and signed a written acknowledgment of the transaction.\n\nI did not enjoy any of it. My mother would have been devastated. But she spent forty years holding onto things she loved, and those things deserved to mean something.\n\nI kept the recipe box. I use it every Sunday. That part she got right.",
+      "broll_keywords": [
+        "estate sale",
+        "jewelry close up",
+        "legal documents",
+        "old photographs",
+        "kitchen table",
+        "family home"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "inheritance",
+        "drama"
+      ],
       "description": "She said most of it was junk. Then I found the estate sale receipt for thirty-one thousand dollars. We had the same definition of junk until that day.",
       "estimated_duration": 133
     },
@@ -226,9 +506,23 @@
       "title": "He Was Already Married",
       "genre": "relationship_betrayal",
       "hook": "My boyfriend of three years proposed to me. Two months later I found out he had been married to someone else for six years.",
-      "narration": "James and I met at a work event. He was charming and consistent in the way that takes you a while to realize is scripted. He traveled often for work. There was always a reason I couldn't visit his apartment — renovation, between leases, found something better. I accepted every explanation because he was otherwise present, affectionate, and seemingly all in.\n\nWhen he proposed on a Saturday in October I said yes without hesitation. We told my family that same weekend.\n\nTwo months later I received a message on social media from a woman named Theresa. She attached a photograph. It was James, in wedding clothes, standing next to a woman I didn't recognize. The woman was Theresa. The photo was from six years ago.\n\nI looked up public marriage records in his home county. The license was filed in 2018. There was no record of a divorce.\n\nI did not confront James immediately. I contacted a family law attorney. I also hired a private investigator for one week of verification — I needed certainty before I acted. The PI confirmed everything within four days. James had a wife, three children, and a home forty minutes from where I lived. He had maintained the relationship with me through careful scheduling and a second phone.\n\nI returned the ring by certified mail with a letter from my attorney notifying him that Theresa had been informed through proper channels and that any contact would be treated as harassment.\n\nJames did not contest anything. Theresa filed for divorce and named me as a witness to his pattern of deception. I gave a deposition. It was two of the most uncomfortable hours of my life and I would do it again without hesitation.\n\nHe lost the house in the settlement. He moved into an apartment. A mutual colleague mentioned he was dating again within three months.\n\nI used the insurance payout from the returned ring to book a solo trip to Portugal. I went alone. I did not think about him once.\n\nThe deposition is sealed. I think about Theresa sometimes and hope she is doing well.",
-      "broll_keywords": ["engagement ring", "airport departure", "legal documents", "hotel lobby", "city street", "empty apartment"],
-      "hashtags": ["shorts", "storytime", "relationshipdrama", "betrayal", "divorce", "drama"],
+      "narration": "James and I met at a work event. He was charming and consistent in the way that takes you a while to realize is scripted. He traveled often for work. There was always a reason I couldn't visit his apartment \u2014 renovation, between leases, found something better. I accepted every explanation because he was otherwise present, affectionate, and seemingly all in.\n\nWhen he proposed on a Saturday in October I said yes without hesitation. We told my family that same weekend.\n\nTwo months later I received a message on social media from a woman named Theresa. She attached a photograph. It was James, in wedding clothes, standing next to a woman I didn't recognize. The woman was Theresa. The photo was from six years ago.\n\nI looked up public marriage records in his home county. The license was filed in 2018. There was no record of a divorce.\n\nI did not confront James immediately. I contacted a family law attorney. I also hired a private investigator for one week of verification \u2014 I needed certainty before I acted. The PI confirmed everything within four days. James had a wife, three children, and a home forty minutes from where I lived. He had maintained the relationship with me through careful scheduling and a second phone.\n\nI returned the ring by certified mail with a letter from my attorney notifying him that Theresa had been informed through proper channels and that any contact would be treated as harassment.\n\nJames did not contest anything. Theresa filed for divorce and named me as a witness to his pattern of deception. I gave a deposition. It was two of the most uncomfortable hours of my life and I would do it again without hesitation.\n\nHe lost the house in the settlement. He moved into an apartment. A mutual colleague mentioned he was dating again within three months.\n\nI used the insurance payout from the returned ring to book a solo trip to Portugal. I went alone. I did not think about him once.\n\nThe deposition is sealed. I think about Theresa sometimes and hope she is doing well.",
+      "broll_keywords": [
+        "engagement ring",
+        "airport departure",
+        "legal documents",
+        "hotel lobby",
+        "city street",
+        "empty apartment"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "relationshipdrama",
+        "betrayal",
+        "divorce",
+        "drama"
+      ],
       "description": "He proposed on a Saturday in October. Two months later I received a photo from his wife of six years. I kept the ring insurance. He lost the house.",
       "estimated_duration": 132
     },
@@ -237,9 +531,23 @@
       "title": "He Tapped My Power Line",
       "genre": "neighbor_drama",
       "hook": "My neighbor started a major home addition without any permits. Six months in I found out his contractor had been running power from my electrical line without my knowledge.",
-      "narration": "Ted and I had lived next door to each other for eight years. We were civil but not close — a wave in the morning, a nod at the trash cans. When he started a large addition last spring I noticed the crew was loud and the hours were long but I assumed he had done everything properly. I was wrong.\n\nMy electricity bill in June was four hundred and twelve dollars higher than the same month the prior year. I called the utility company assuming a meter issue. The technician who came out found a junction spliced into my outdoor line — a tap running current from my connection to the construction site next door. By his estimate it had been active for at least two months.\n\nI photographed the tap with the technician present as a witness. I called the city building department that afternoon. They confirmed there was no permit on file for Ted's addition. An inspector arrived within the week.\n\nThe project failed inspection on six counts — no permit, improper load-bearing modifications, non-code electrical work, and three additional structural violations. The inspector issued a stop-work order on the spot. The addition had to be partially demolished and rebuilt to code.\n\nI submitted a formal complaint to the utility company. They calculated the estimated unauthorized consumption and billed Ted directly — just over twelve hundred dollars. He disputed it. The utility company had the technician's photographs and my signed statement. Ted paid.\n\nI filed a small claims action for the difference in my utility bills during the period the tap was active. The judge awarded me eight hundred and forty dollars without much deliberation.\n\nTed's addition took another eight months to complete properly. It cost him roughly three times what permits would have cost at the start.\n\nHe doesn't wave in the mornings anymore. I wave anyway. I find I enjoy it considerably more than he does.",
-      "broll_keywords": ["construction site", "utility meter", "suburban house", "legal documents", "rainy window", "coffee morning"],
-      "hashtags": ["shorts", "storytime", "neighbordrama", "justice", "revenge", "drama"],
+      "narration": "Ted and I had lived next door to each other for eight years. We were civil but not close \u2014 a wave in the morning, a nod at the trash cans. When he started a large addition last spring I noticed the crew was loud and the hours were long but I assumed he had done everything properly. I was wrong.\n\nMy electricity bill in June was four hundred and twelve dollars higher than the same month the prior year. I called the utility company assuming a meter issue. The technician who came out found a junction spliced into my outdoor line \u2014 a tap running current from my connection to the construction site next door. By his estimate it had been active for at least two months.\n\nI photographed the tap with the technician present as a witness. I called the city building department that afternoon. They confirmed there was no permit on file for Ted's addition. An inspector arrived within the week.\n\nThe project failed inspection on six counts \u2014 no permit, improper load-bearing modifications, non-code electrical work, and three additional structural violations. The inspector issued a stop-work order on the spot. The addition had to be partially demolished and rebuilt to code.\n\nI submitted a formal complaint to the utility company. They calculated the estimated unauthorized consumption and billed Ted directly \u2014 just over twelve hundred dollars. He disputed it. The utility company had the technician's photographs and my signed statement. Ted paid.\n\nI filed a small claims action for the difference in my utility bills during the period the tap was active. The judge awarded me eight hundred and forty dollars without much deliberation.\n\nTed's addition took another eight months to complete properly. It cost him roughly three times what permits would have cost at the start.\n\nHe doesn't wave in the mornings anymore. I wave anyway. I find I enjoy it considerably more than he does.",
+      "broll_keywords": [
+        "construction site",
+        "utility meter",
+        "suburban house",
+        "legal documents",
+        "rainy window",
+        "coffee morning"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "justice",
+        "revenge",
+        "drama"
+      ],
       "description": "He built an illegal addition and tapped my power line to run it. The utility bill was my first clue. The inspector's stop-work order was his first consequence.",
       "estimated_duration": 128
     },
@@ -248,9 +556,23 @@
       "title": "The Housekeeper Was Wearing Her Ring",
       "genre": "inheritance_dispute",
       "hook": "My grandmother promised me her diamond ring for thirty years. When she died her housekeeper was wearing it and had a note she claimed proved it was a gift.",
-      "narration": "My grandmother raised me more than my own parents did. She was the constant — school pickup, Sunday dinners, the voice on the phone when nothing else made sense. The ring was a two-carat Art Deco diamond she had worn every single day of her adult life. She showed it to me when I was nine and told me it would be mine someday. She repeated it at every milestone. It was not a small promise.\n\nHer housekeeper Florence had worked for her the final four years. Attentive, reliable, my grandmother spoke well of her. But in the months before she passed, family visits shortened. Florence was always present. My grandmother seemed more confused than her health alone explained.\n\nWhen she died and we arrived at the house, Florence was wearing the ring. She said my grandmother had gifted it personally in thanks for her care and produced a handwritten note she claimed had been signed two months before her death. The note was on a torn piece of paper with no witness signature.\n\nThe ring was not mentioned in the will, which had not been updated in seven years. Without a formal bequest its disposition was ambiguous.\n\nI contacted a probate attorney immediately. We requested medical records from her physician. In the two months prior to the alleged gift, she had been formally assessed with moderate dementia. Her cognitive decline was thoroughly documented. A person in that condition cannot make a legally valid gift of a significant asset.\n\nWe also had thirty years of corroborating evidence — birthday cards referencing the ring, a letter to her attorney from six years ago stating her specific intention, and two family members willing to testify.\n\nFlorence surrendered the ring rather than contest the legal process. My attorney's letter had made the position indefensible.\n\nThe ring is in a safety deposit box now. I wear it on special occasions. It fits exactly right, as if it always knew where it was supposed to end up.",
-      "broll_keywords": ["diamond ring", "elderly hands", "hospital room", "safety deposit box", "legal documents", "old photographs"],
-      "hashtags": ["shorts", "storytime", "inheritance", "familydrama", "justice", "drama"],
+      "narration": "My grandmother raised me more than my own parents did. She was the constant \u2014 school pickup, Sunday dinners, the voice on the phone when nothing else made sense. The ring was a two-carat Art Deco diamond she had worn every single day of her adult life. She showed it to me when I was nine and told me it would be mine someday. She repeated it at every milestone. It was not a small promise.\n\nHer housekeeper Florence had worked for her the final four years. Attentive, reliable, my grandmother spoke well of her. But in the months before she passed, family visits shortened. Florence was always present. My grandmother seemed more confused than her health alone explained.\n\nWhen she died and we arrived at the house, Florence was wearing the ring. She said my grandmother had gifted it personally in thanks for her care and produced a handwritten note she claimed had been signed two months before her death. The note was on a torn piece of paper with no witness signature.\n\nThe ring was not mentioned in the will, which had not been updated in seven years. Without a formal bequest its disposition was ambiguous.\n\nI contacted a probate attorney immediately. We requested medical records from her physician. In the two months prior to the alleged gift, she had been formally assessed with moderate dementia. Her cognitive decline was thoroughly documented. A person in that condition cannot make a legally valid gift of a significant asset.\n\nWe also had thirty years of corroborating evidence \u2014 birthday cards referencing the ring, a letter to her attorney from six years ago stating her specific intention, and two family members willing to testify.\n\nFlorence surrendered the ring rather than contest the legal process. My attorney's letter had made the position indefensible.\n\nThe ring is in a safety deposit box now. I wear it on special occasions. It fits exactly right, as if it always knew where it was supposed to end up.",
+      "broll_keywords": [
+        "diamond ring",
+        "elderly hands",
+        "hospital room",
+        "safety deposit box",
+        "legal documents",
+        "old photographs"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "inheritance",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
       "description": "She promised me that ring for thirty years. When she died her housekeeper was wearing it with a note she claimed was a gift. The medical records told a different story.",
       "estimated_duration": 130
     },
@@ -259,9 +581,23 @@
       "title": "She Published My Book",
       "genre": "friendship_betrayal",
       "hook": "I shared a two-year memoir outline with my closest creative friend. Eight months later she published it under her own name.",
-      "narration": "Camille and I had met in a writing workshop twelve years ago. We had been each other's first readers through every project — failed novels, essays, everything in between. She knew my voice better than anyone. When I finally cracked the structure for a memoir I had been trying to write for years I shared the full outline with her over the phone and then emailed her a twenty-page treatment. She was my oldest creative friend. I felt completely safe.\n\nEight months later a mutual contact forwarded me a new book announcement. The author photo was Camille. The title was different. Everything else was mine. The structure, the central metaphor, the chapter breakdown I had developed over two years. Reworded from the outside in but structurally identical. She had taken my treatment and rebuilt it around the edges.\n\nI went back through every email between us. I found the original treatment I had sent, timestamped, with a follow-up thread where she had commented on specific sections line by line. I also had a recording of the phone call from the night I described the concept — I recorded all my creative calls for notes and had disclosed this practice in early conversations. On that recording she said this is so original, nobody has told this story this way.\n\nI contacted an intellectual property attorney. The combination of the timestamped email, the voice recording, and the structural similarities made it a strong claim. Camille's publisher settled during the contract review process before the book reached shelves.\n\nThe book was pulled. She paid a confidential settlement. I cannot disclose the amount but I used part of it to hire a literary agent for my own version.\n\nMy memoir is currently on submission. It is the best work I have ever done. Every word of it is mine.\n\nCamille sends occasional messages through mutual friends suggesting we reconcile. I have not responded. Some betrayals are not about anger. They are about clarity. She showed me exactly who she was. I believed her.",
-      "broll_keywords": ["book cover", "laptop screen", "coffee shop", "legal documents", "old photographs", "city street"],
-      "hashtags": ["shorts", "storytime", "friendshipbetrayal", "creative", "revenge", "drama"],
+      "narration": "Camille and I had met in a writing workshop twelve years ago. We had been each other's first readers through every project \u2014 failed novels, essays, everything in between. She knew my voice better than anyone. When I finally cracked the structure for a memoir I had been trying to write for years I shared the full outline with her over the phone and then emailed her a twenty-page treatment. She was my oldest creative friend. I felt completely safe.\n\nEight months later a mutual contact forwarded me a new book announcement. The author photo was Camille. The title was different. Everything else was mine. The structure, the central metaphor, the chapter breakdown I had developed over two years. Reworded from the outside in but structurally identical. She had taken my treatment and rebuilt it around the edges.\n\nI went back through every email between us. I found the original treatment I had sent, timestamped, with a follow-up thread where she had commented on specific sections line by line. I also had a recording of the phone call from the night I described the concept \u2014 I recorded all my creative calls for notes and had disclosed this practice in early conversations. On that recording she said this is so original, nobody has told this story this way.\n\nI contacted an intellectual property attorney. The combination of the timestamped email, the voice recording, and the structural similarities made it a strong claim. Camille's publisher settled during the contract review process before the book reached shelves.\n\nThe book was pulled. She paid a confidential settlement. I cannot disclose the amount but I used part of it to hire a literary agent for my own version.\n\nMy memoir is currently on submission. It is the best work I have ever done. Every word of it is mine.\n\nCamille sends occasional messages through mutual friends suggesting we reconcile. I have not responded. Some betrayals are not about anger. They are about clarity. She showed me exactly who she was. I believed her.",
+      "broll_keywords": [
+        "book cover",
+        "laptop screen",
+        "coffee shop",
+        "legal documents",
+        "old photographs",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "friendshipbetrayal",
+        "creative",
+        "revenge",
+        "drama"
+      ],
       "description": "I shared two years of work with my closest creative friend. Eight months later she published it. I had the timestamped email and the recording of the night I described every word of it.",
       "estimated_duration": 133
     },
@@ -270,9 +606,23 @@
       "title": "The Memo I Never Signed",
       "genre": "workplace_revenge",
       "hook": "I was passed over for promotion three times. When I finally saw my personnel file I found a three-page performance memo that I had never been shown and never signed.",
-      "narration": "I had worked at Calloway Architecture for eight years. I was good at the job and I knew it — my clients knew it, my peers knew it. The first promotion denial I accepted. The second I questioned and was told timing. The third came with a form letter from my director Frank saying I was not quite ready for leadership.\n\nI requested to review my personnel file. This is a legal right in my state and most employers honor it without dispute. What I found was a three-page developmental concern memo dated fourteen months earlier, describing supposed instances of poor client communication. Frank's signature was at the bottom. My signature line was blank.\n\nCompany policy required any performance documentation to be reviewed in person with the employee and signed within five business days. I had never seen this document. No meeting had occurred. No conversation had taken place.\n\nI contacted the company's legal department directly, bypassing HR, which reported into Frank's division. I submitted a written complaint documenting the unsigned memo, the absence of the required acknowledgment meeting, and the three promotion denials that appeared to correlate with the memo's placement in my file.\n\nLegal investigated. They found two additional employees in Frank's department with unsigned documentation in their files, both passed over for advancement. One was a woman who had filed an informal complaint about Frank eighteen months earlier that had never been formally addressed.\n\nFrank was terminated for policy violations. My three promotion denials were formally expunged from my record. I was offered the senior associate position.\n\nI stayed for one year. I built a strong client roster and then left to start my own practice. I took three clients with me — all voluntary, all of whom called me when they heard I was going independent.\n\nFrank now works at a small residential firm across town. Two of his former clients are on my current roster. I didn't reach out to them. They reached out to me.",
-      "broll_keywords": ["architecture blueprints", "office building", "legal documents", "city skyline", "handshake", "design studio"],
-      "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "justice"],
+      "narration": "I had worked at Calloway Architecture for eight years. I was good at the job and I knew it \u2014 my clients knew it, my peers knew it. The first promotion denial I accepted. The second I questioned and was told timing. The third came with a form letter from my director Frank saying I was not quite ready for leadership.\n\nI requested to review my personnel file. This is a legal right in my state and most employers honor it without dispute. What I found was a three-page developmental concern memo dated fourteen months earlier, describing supposed instances of poor client communication. Frank's signature was at the bottom. My signature line was blank.\n\nCompany policy required any performance documentation to be reviewed in person with the employee and signed within five business days. I had never seen this document. No meeting had occurred. No conversation had taken place.\n\nI contacted the company's legal department directly, bypassing HR, which reported into Frank's division. I submitted a written complaint documenting the unsigned memo, the absence of the required acknowledgment meeting, and the three promotion denials that appeared to correlate with the memo's placement in my file.\n\nLegal investigated. They found two additional employees in Frank's department with unsigned documentation in their files, both passed over for advancement. One was a woman who had filed an informal complaint about Frank eighteen months earlier that had never been formally addressed.\n\nFrank was terminated for policy violations. My three promotion denials were formally expunged from my record. I was offered the senior associate position.\n\nI stayed for one year. I built a strong client roster and then left to start my own practice. I took three clients with me \u2014 all voluntary, all of whom called me when they heard I was going independent.\n\nFrank now works at a small residential firm across town. Two of his former clients are on my current roster. I didn't reach out to them. They reached out to me.",
+      "broll_keywords": [
+        "architecture blueprints",
+        "office building",
+        "legal documents",
+        "city skyline",
+        "handshake",
+        "design studio"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplacedrama",
+        "revenge",
+        "corporate",
+        "justice"
+      ],
       "description": "Three promotion denials. Then I saw my personnel file. A three-page performance memo I had never been shown and never signed. Frank had not planned on me ever looking.",
       "estimated_duration": 130
     },
@@ -281,9 +631,23 @@
       "title": "He Emptied My Account From The Hospital",
       "genre": "family_betrayal",
       "hook": "My brother convinced me to sign power of attorney while I was sick in the hospital. I came home to forty-three dollars in my account. It had been over thirty-eight thousand.",
-      "narration": "I was admitted in February with a serious infection — the kind that puts you flat for a week under heavy antibiotics. My brother Dennis visited on the second day. He seemed caring. He said he wanted to help manage things while I recovered, make sure no bills slipped. He brought a document. I was exhausted and feverish and I signed it.\n\nI was discharged eleven days later. I stopped at the pharmacy for my prescription and checked my account to pay. The balance was forty-three dollars. It had been over thirty-eight thousand.\n\nI called the bank from the parking lot. Eleven transfers had been made over nine days, each just under five thousand dollars — a pattern consistent with daily transfer limit awareness. All transfers went to a single external account. The last one had cleared the morning of my discharge.\n\nI called the police from that same parking lot. I also contacted my bank's fraud department and an attorney.\n\nThe power of attorney I had signed was a general financial POA — broad and unrestricted. Dennis had described it as limited to basic bill management. He had given me something with full account access. A detective was assigned the same day I filed.\n\nDennis had spent approximately fourteen thousand dollars within a week — electronics, travel, cash withdrawals. The remaining funds were still accessible and were frozen by court order.\n\nHe was charged with financial fraud and abuse of a vulnerable adult — the statute that applies when someone exploits a person who is ill or incapacitated. He could not argue consent because the scope of the document far exceeded what he described to me.\n\nHe pled guilty to reduced charges. He was ordered to repay the full amount, served six months, and received three years of probation. Restitution came over eight months.\n\nI changed every account, every password, and every financial contact in my life the week I came home. My mother asks me to reach out to him. Every time, I explain that I will not. She stops asking for a while. Then she asks again.",
-      "broll_keywords": ["hospital room", "bank statement", "legal documents", "empty house", "old photographs", "city street"],
-      "hashtags": ["shorts", "storytime", "familydrama", "betrayal", "justice", "drama"],
+      "narration": "I was admitted in February with a serious infection \u2014 the kind that puts you flat for a week under heavy antibiotics. My brother Dennis visited on the second day. He seemed caring. He said he wanted to help manage things while I recovered, make sure no bills slipped. He brought a document. I was exhausted and feverish and I signed it.\n\nI was discharged eleven days later. I stopped at the pharmacy for my prescription and checked my account to pay. The balance was forty-three dollars. It had been over thirty-eight thousand.\n\nI called the bank from the parking lot. Eleven transfers had been made over nine days, each just under five thousand dollars \u2014 a pattern consistent with daily transfer limit awareness. All transfers went to a single external account. The last one had cleared the morning of my discharge.\n\nI called the police from that same parking lot. I also contacted my bank's fraud department and an attorney.\n\nThe power of attorney I had signed was a general financial POA \u2014 broad and unrestricted. Dennis had described it as limited to basic bill management. He had given me something with full account access. A detective was assigned the same day I filed.\n\nDennis had spent approximately fourteen thousand dollars within a week \u2014 electronics, travel, cash withdrawals. The remaining funds were still accessible and were frozen by court order.\n\nHe was charged with financial fraud and abuse of a vulnerable adult \u2014 the statute that applies when someone exploits a person who is ill or incapacitated. He could not argue consent because the scope of the document far exceeded what he described to me.\n\nHe pled guilty to reduced charges. He was ordered to repay the full amount, served six months, and received three years of probation. Restitution came over eight months.\n\nI changed every account, every password, and every financial contact in my life the week I came home. My mother asks me to reach out to him. Every time, I explain that I will not. She stops asking for a while. Then she asks again.",
+      "broll_keywords": [
+        "hospital room",
+        "bank statement",
+        "legal documents",
+        "empty house",
+        "old photographs",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "justice",
+        "drama"
+      ],
       "description": "I signed power of attorney while I was sick in the hospital because I trusted my brother. I came home to forty-three dollars. It had been thirty-eight thousand.",
       "estimated_duration": 135
     },
@@ -292,9 +656,23 @@
       "title": "She Told Everyone We Were Engaged",
       "genre": "relationship_betrayal",
       "hook": "Congratulations cards started arriving at my apartment. I had never proposed. My girlfriend had been telling people we were engaged for two months.",
-      "narration": "Melissa and I had been together for five years. It was serious — we had met each other's families, talked about a future, shared finances on a few things. Marriage had come up the way it does after several years. I wasn't opposed. I had also not proposed.\n\nThe cards started in September. A colleague called to ask when the wedding was. My mother texted wanting to know why I hadn't told her. I had no idea what either of them was talking about.\n\nI called Melissa. She said she had been speaking their truth into existence. She had been telling people we were engaged since July — two months, at least thirty people, both families, her workplace, and her social media. She had described a ring she had picked out herself. She said she just wanted to stop waiting.\n\nI was very calm on that call. I told her I would call back. I did not call back that day.\n\nWhat Melissa had done was not illegal. But she had broadcast a fabricated engagement through every shared social circle we had, confused and misled our families, and placed me in the impossible position of either endorsing something I hadn't done or publicly contradicting her. There was no clean path forward.\n\nI visited both families in person over two weekends. I explained without hostility that I had not proposed, that I cared for Melissa, and that the announcement had not been a mutual decision. The conversations were uncomfortable. They were necessary.\n\nMelissa and I ended the relationship the following month. She was hurt and angry and I understood both responses. But announcing an engagement without asking — putting words in my mouth in front of everyone we knew — was a breach I could not move past.\n\nShe removed the posts eventually. Some of the social fallout took longer to settle.\n\nTwo years later I met someone else. When I proposed I did it in private, with a ring I had chosen, in a moment that was entirely ours. She said yes before I finished the sentence.\n\nI called both families myself. That part mattered.",
-      "broll_keywords": ["engagement ring", "cards and letters", "city street", "phone screen", "kitchen table", "wedding flowers"],
-      "hashtags": ["shorts", "storytime", "relationshipdrama", "betrayal", "drama", "relationships"],
+      "narration": "Melissa and I had been together for five years. It was serious \u2014 we had met each other's families, talked about a future, shared finances on a few things. Marriage had come up the way it does after several years. I wasn't opposed. I had also not proposed.\n\nThe cards started in September. A colleague called to ask when the wedding was. My mother texted wanting to know why I hadn't told her. I had no idea what either of them was talking about.\n\nI called Melissa. She said she had been speaking their truth into existence. She had been telling people we were engaged since July \u2014 two months, at least thirty people, both families, her workplace, and her social media. She had described a ring she had picked out herself. She said she just wanted to stop waiting.\n\nI was very calm on that call. I told her I would call back. I did not call back that day.\n\nWhat Melissa had done was not illegal. But she had broadcast a fabricated engagement through every shared social circle we had, confused and misled our families, and placed me in the impossible position of either endorsing something I hadn't done or publicly contradicting her. There was no clean path forward.\n\nI visited both families in person over two weekends. I explained without hostility that I had not proposed, that I cared for Melissa, and that the announcement had not been a mutual decision. The conversations were uncomfortable. They were necessary.\n\nMelissa and I ended the relationship the following month. She was hurt and angry and I understood both responses. But announcing an engagement without asking \u2014 putting words in my mouth in front of everyone we knew \u2014 was a breach I could not move past.\n\nShe removed the posts eventually. Some of the social fallout took longer to settle.\n\nTwo years later I met someone else. When I proposed I did it in private, with a ring I had chosen, in a moment that was entirely ours. She said yes before I finished the sentence.\n\nI called both families myself. That part mattered.",
+      "broll_keywords": [
+        "engagement ring",
+        "cards and letters",
+        "city street",
+        "phone screen",
+        "kitchen table",
+        "wedding flowers"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "relationshipdrama",
+        "betrayal",
+        "drama",
+        "relationships"
+      ],
       "description": "Congratulations cards started arriving at my apartment. I had never proposed. She had been telling everyone we were engaged for two months. I had to explain it to both families in person.",
       "estimated_duration": 130
     },
@@ -303,9 +681,23 @@
       "title": "He Filed While I Was Overseas",
       "genre": "neighbor_drama",
       "hook": "My downstairs neighbor filed noise complaints against me every week for four months. I had been out of the country for three of them.",
-      "narration": "I travel frequently for work — three to four weeks abroad at a stretch. My apartment is on the third floor of a six-unit building. My downstairs neighbor Gerald and I had passed each other occasionally with no particular friction. Then the complaints started.\n\nMy building manager called to tell me Gerald had filed formal noise complaints on eleven separate occasions over four months. Excessive noise late at night, loud music, persistent stomping. He had sent detailed written descriptions of each incident.\n\nI pulled my travel records. I had been out of the country for three of the four months in question. My apartment had been empty. I had a professional calendar, hotel receipts, international phone records, and timestamped work files to document every single day of absence.\n\nI sent this to the building manager in writing with the documentation attached. I also cross-referenced the specific complaint dates Gerald had cited. Eight of the eleven complaints corresponded to dates I was provably overseas and the unit was unoccupied.\n\nThe building manager confronted Gerald. It came out that Gerald had been in a long-running dispute with the previous tenant in my unit, who had moved out eighteen months earlier. Gerald had apparently continued filing complaints after I moved in without adjusting to the fact that I was a different person and frequently not there. He had also, by the manager's assessment, fabricated at least two complaints — there was no other explanation for dates when the unit was empty and verifiably so.\n\nGerald received a formal warning from the building manager for filing false complaints, which violated his lease. He also owed me a correction to the characterization he had given to other tenants in the building, which the manager had been relaying secondhand.\n\nHe knocked on my door two weeks later. He was embarrassed. He blamed confusion. I accepted the apology without warmth or cruelty.\n\nThe building manager documented the false complaint history in my tenant file. Gerald has not filed since. We nod in the hallway. That is sufficient.",
-      "broll_keywords": ["apartment hallway", "travel boarding pass", "legal documents", "city skyline", "coffee morning", "city street"],
-      "hashtags": ["shorts", "storytime", "neighbordrama", "justice", "drama", "apartments"],
+      "narration": "I travel frequently for work \u2014 three to four weeks abroad at a stretch. My apartment is on the third floor of a six-unit building. My downstairs neighbor Gerald and I had passed each other occasionally with no particular friction. Then the complaints started.\n\nMy building manager called to tell me Gerald had filed formal noise complaints on eleven separate occasions over four months. Excessive noise late at night, loud music, persistent stomping. He had sent detailed written descriptions of each incident.\n\nI pulled my travel records. I had been out of the country for three of the four months in question. My apartment had been empty. I had a professional calendar, hotel receipts, international phone records, and timestamped work files to document every single day of absence.\n\nI sent this to the building manager in writing with the documentation attached. I also cross-referenced the specific complaint dates Gerald had cited. Eight of the eleven complaints corresponded to dates I was provably overseas and the unit was unoccupied.\n\nThe building manager confronted Gerald. It came out that Gerald had been in a long-running dispute with the previous tenant in my unit, who had moved out eighteen months earlier. Gerald had apparently continued filing complaints after I moved in without adjusting to the fact that I was a different person and frequently not there. He had also, by the manager's assessment, fabricated at least two complaints \u2014 there was no other explanation for dates when the unit was empty and verifiably so.\n\nGerald received a formal warning from the building manager for filing false complaints, which violated his lease. He also owed me a correction to the characterization he had given to other tenants in the building, which the manager had been relaying secondhand.\n\nHe knocked on my door two weeks later. He was embarrassed. He blamed confusion. I accepted the apology without warmth or cruelty.\n\nThe building manager documented the false complaint history in my tenant file. Gerald has not filed since. We nod in the hallway. That is sufficient.",
+      "broll_keywords": [
+        "apartment hallway",
+        "travel boarding pass",
+        "legal documents",
+        "city skyline",
+        "coffee morning",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "justice",
+        "drama",
+        "apartments"
+      ],
       "description": "He filed eleven noise complaints against me in four months. I had been out of the country for three of them. Eight complaints were filed on days the apartment was empty.",
       "estimated_duration": 128
     },
@@ -314,9 +706,23 @@
       "title": "The Pastor's New BMW",
       "genre": "inheritance_dispute",
       "hook": "My aunt rewrote her will to leave everything to a church she had attended for less than a year. The week after it was signed, the pastor bought a new car.",
-      "narration": "Aunt Eleanor had attended the same Baptist church for forty years. She was deeply faithful, generous with her time, and had always given modestly to her congregation. When mobility issues came two years ago she began attending a smaller church closer to her home — First Light Fellowship, led by a pastor named Reverend Harmon.\n\nWithin six months she was there multiple times a week. Family visits dropped off. She referenced Harmon in every conversation. When my cousin tried to discuss her finances at dinner she ended the conversation immediately. Something had shifted significantly.\n\nShe died in March. The will, revised nine months before her death, left her house — appraised at three hundred and forty thousand — plus ninety thousand in savings entirely to First Light Fellowship. Her three children, named in every prior version of the will for twenty years, received nothing. Harmon had driven Eleanor to the attorney's office for the signing and waited in the parking lot. He drove her home afterward. Three weeks later his church purchased a black BMW.\n\nI retained an elder law attorney that week. We requested Eleanor's medical records. In the nine months before the will change her physician had documented cognitive decline and an early vascular dementia diagnosis. Her medication had documented side effects including increased suggestibility.\n\nWe gathered testimony from three longtime church members who witnessed Eleanor being isolated from her prior social network and redirected toward Harmon. One had confronted him about it directly and been asked to leave.\n\nThe will was contested. The probate court found sufficient evidence of undue influence to invalidate the bequest to First Light Fellowship entirely. Harmon had retained personal counsel before the case even concluded, which told us everything we needed to know about his confidence in his position.\n\nThe estate was distributed to Eleanor's children according to her prior will. They used part of the proceeds to fund a scholarship at Eleanor's original church in her name.\n\nHarmon lost his congregation shortly after. The BMW was repossessed. I did not know this until a cousin mentioned it at Christmas. I was glad to hear it.",
-      "broll_keywords": ["church exterior", "elderly hands", "legal documents", "old photographs", "court documents", "suburban house"],
-      "hashtags": ["shorts", "storytime", "inheritance", "familydrama", "justice", "drama"],
+      "narration": "Aunt Eleanor had attended the same Baptist church for forty years. She was deeply faithful, generous with her time, and had always given modestly to her congregation. When mobility issues came two years ago she began attending a smaller church closer to her home \u2014 First Light Fellowship, led by a pastor named Reverend Harmon.\n\nWithin six months she was there multiple times a week. Family visits dropped off. She referenced Harmon in every conversation. When my cousin tried to discuss her finances at dinner she ended the conversation immediately. Something had shifted significantly.\n\nShe died in March. The will, revised nine months before her death, left her house \u2014 appraised at three hundred and forty thousand \u2014 plus ninety thousand in savings entirely to First Light Fellowship. Her three children, named in every prior version of the will for twenty years, received nothing. Harmon had driven Eleanor to the attorney's office for the signing and waited in the parking lot. He drove her home afterward. Three weeks later his church purchased a black BMW.\n\nI retained an elder law attorney that week. We requested Eleanor's medical records. In the nine months before the will change her physician had documented cognitive decline and an early vascular dementia diagnosis. Her medication had documented side effects including increased suggestibility.\n\nWe gathered testimony from three longtime church members who witnessed Eleanor being isolated from her prior social network and redirected toward Harmon. One had confronted him about it directly and been asked to leave.\n\nThe will was contested. The probate court found sufficient evidence of undue influence to invalidate the bequest to First Light Fellowship entirely. Harmon had retained personal counsel before the case even concluded, which told us everything we needed to know about his confidence in his position.\n\nThe estate was distributed to Eleanor's children according to her prior will. They used part of the proceeds to fund a scholarship at Eleanor's original church in her name.\n\nHarmon lost his congregation shortly after. The BMW was repossessed. I did not know this until a cousin mentioned it at Christmas. I was glad to hear it.",
+      "broll_keywords": [
+        "church exterior",
+        "elderly hands",
+        "legal documents",
+        "old photographs",
+        "court documents",
+        "suburban house"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "inheritance",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
       "description": "She left everything to a church she had attended for less than a year. The week the will was signed the pastor bought a new car. The medical records told us the rest.",
       "estimated_duration": 133
     },
@@ -325,9 +731,23 @@
       "title": "He Used My Network To Raise Against Me",
       "genre": "friendship_betrayal",
       "hook": "I taught my best friend everything I knew about real estate investing. He used it to outbid me on a property I had told him I was pursuing and flipped it for forty thousand dollars.",
-      "narration": "Marcus and I had been friends since high school. When I got serious about real estate investing three years ago he was curious and I was generous — I walked him through every detail of how I found and analyzed deals. He came to viewings with me. I answered every question at any hour. I treated him like a business partner without any of the formality.\n\nLast fall I found a duplex on Elmwood that I had been tracking for months. The owner was an elderly man who had grown tired of managing it. I had a verbal first-right-to-purchase agreement with him — not binding, I knew that, but a gentleman's understanding. I told Marcus about it over dinner because I was excited and he was my closest friend.\n\nTwo weeks later the owner called me. He had received a cash offer above asking that he couldn't turn down. He apologized. He gave me the buyer's name out of courtesy.\n\nIt was Marcus.\n\nHe had contacted the owner two days after our dinner, offered twelve thousand over what I had been planning to bid, and signed the same week. He sold it four months later for forty-one thousand over his purchase price.\n\nI called him. He said he hadn't done anything illegal. He said business was business.\n\nI agreed that it wasn't illegal. What it was, was a direct use of proprietary information I had shared in confidence — the property, the timeline, the owner's name — to pursue a deal I had specifically told him I was working. I had text messages documenting the dinner conversation in detail, including the property address, before he ever contacted the owner.\n\nI sent a letter through my attorney citing breach of confidence and intentional interference with a prospective business relationship. Marcus settled rather than have the documented communications become part of any formal proceeding. He paid fifteen thousand dollars.\n\nI used the settlement as part of a down payment on a triplex I found six months later. It cash flows twelve hundred a month.\n\nMarcus texts occasionally. I reply when it suits me. It rarely suits me anymore.",
-      "broll_keywords": ["real estate property", "handshake", "legal documents", "city street", "laptop screen", "coffee shop"],
-      "hashtags": ["shorts", "storytime", "friendshipbetrayal", "realestate", "revenge", "drama"],
+      "narration": "Marcus and I had been friends since high school. When I got serious about real estate investing three years ago he was curious and I was generous \u2014 I walked him through every detail of how I found and analyzed deals. He came to viewings with me. I answered every question at any hour. I treated him like a business partner without any of the formality.\n\nLast fall I found a duplex on Elmwood that I had been tracking for months. The owner was an elderly man who had grown tired of managing it. I had a verbal first-right-to-purchase agreement with him \u2014 not binding, I knew that, but a gentleman's understanding. I told Marcus about it over dinner because I was excited and he was my closest friend.\n\nTwo weeks later the owner called me. He had received a cash offer above asking that he couldn't turn down. He apologized. He gave me the buyer's name out of courtesy.\n\nIt was Marcus.\n\nHe had contacted the owner two days after our dinner, offered twelve thousand over what I had been planning to bid, and signed the same week. He sold it four months later for forty-one thousand over his purchase price.\n\nI called him. He said he hadn't done anything illegal. He said business was business.\n\nI agreed that it wasn't illegal. What it was, was a direct use of proprietary information I had shared in confidence \u2014 the property, the timeline, the owner's name \u2014 to pursue a deal I had specifically told him I was working. I had text messages documenting the dinner conversation in detail, including the property address, before he ever contacted the owner.\n\nI sent a letter through my attorney citing breach of confidence and intentional interference with a prospective business relationship. Marcus settled rather than have the documented communications become part of any formal proceeding. He paid fifteen thousand dollars.\n\nI used the settlement as part of a down payment on a triplex I found six months later. It cash flows twelve hundred a month.\n\nMarcus texts occasionally. I reply when it suits me. It rarely suits me anymore.",
+      "broll_keywords": [
+        "real estate property",
+        "handshake",
+        "legal documents",
+        "city street",
+        "laptop screen",
+        "coffee shop"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "friendshipbetrayal",
+        "realestate",
+        "revenge",
+        "drama"
+      ],
       "description": "I told my best friend about the investment property I had been tracking for months. Two weeks later he outbid me on it. Then he flipped it for forty thousand dollars.",
       "estimated_duration": 133
     }
