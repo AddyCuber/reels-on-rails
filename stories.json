@@ -1,5 +1,5 @@
 {
-  "last_used_index": 1,
+  "last_used_index": 2,
   "stories": [
     {
       "id": "story_001",
@@ -88,6 +88,32 @@
       ],
       "description": "She quizzed me every night for three months. The morning I succeeded, she went silent. Then I found the email.",
       "estimated_duration": 150
+    },
+    {
+      "id": "story_005",
+      "title": "My Father Chose His New Family",
+      "genre": "family_revenge",
+      "narration": "My father left when I was eleven. No warning. No conversation. Just a note on the counter that said he needed to find himself. He found himself alright. Found a new wife, new kids, new house with a pool in the suburbs. I found out through a cousin who saw his Christmas card on Facebook. He was smiling. They were all smiling. My mother worked double shifts at the hospital for seven years to keep us fed. She never said a bad word about him. Not once. I kept that rage locked in a box inside my chest. I graduated top of my class. Got a full scholarship. Then another. Then a job that paid more than he ever made. When I was twenty eight I got a call. It was him. His voice sounded old. He said he was proud of me. Said he had been following my career online. He asked if we could meet for coffee. I said sure. I picked the most expensive restaurant in the city. I wore the watch I bought myself the day I paid off my mothers mortgage. He showed up in a wrinkled jacket. He looked small. He talked for forty minutes about regret. About mistakes. About how he wished he could go back. I listened to every word. When the check came I paid it without looking at the number. Then I leaned across the table and said Dad I need you to hear this. Everything I am is because you left. You were the best motivation I ever had. I hope your other kids feel the same way someday. I stood up and walked out. I never looked back. Some people leave you broken. The smart ones use the pieces to build something better.",
+      "broll_keywords": [
+        "empty playground",
+        "suburban house",
+        "hospital hallway",
+        "graduation ceremony",
+        "restaurant dinner",
+        "city skyline night",
+        "old photographs",
+        "morning coffee"
+      ],
+      "hashtags": [
+        "story",
+        "familydrama",
+        "revenge",
+        "motivation",
+        "fatherandson",
+        "shorts"
+      ],
+      "description": "He left when I was eleven. Found a new family. Twenty years later, he wanted back in. I had one thing to say.",
+      "estimated_duration": 95
     }
   ]
 }
