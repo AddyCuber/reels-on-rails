@@ -8,6 +8,7 @@ Uses FFmpeg to:
 """
 
 import asyncio
+import shutil
 from pathlib import Path
 from config import Config
 
@@ -50,6 +51,9 @@ class EditorAgent:
             output_path=output_path
         )
 
+        # Cleanup tmp files
+        shutil.rmtree(tmp_dir, ignore_errors=True)
+
         print(f"      Output: {output_path} ({output_path.stat().st_size / 1e6:.1f} MB)")
         return output_path
 
@@ -58,10 +62,8 @@ class EditorAgent:
         w = self.config.video_width
         h = self.config.video_height // 2  # 960
 
-        prepared = []
-        for i, clip in enumerate(clips):
+        async def prep_one(i: int, clip: Path) -> Path:
             out = tmp_dir / f"prep_{i:03d}.mp4"
-            # Scale to cover 1080x960, crop center
             vf = (
                 f"scale={w}:{h}:force_original_aspect_ratio=increase,"
                 f"crop={w}:{h}"
@@ -69,14 +71,24 @@ class EditorAgent:
             cmd = [
                 "ffmpeg", "-y", "-i", str(clip),
                 "-vf", vf,
+                "-t", str(self.config.broll_max_clip_duration),
                 "-r", str(self.config.video_fps),
                 "-pix_fmt", "yuv420p",
                 "-c:v", "libx264", "-preset", "fast",
                 "-an",
+                "-movflags", "+faststart",
                 str(out)
             ]
             await self._run(cmd)
-            prepared.append(out)
+            return out
+
+        # Process clips in parallel batches of 4
+        prepared = []
+        batch_size = 4
+        for start in range(0, len(clips), batch_size):
+            batch = [(start + j, clips[start + j]) for j in range(min(batch_size, len(clips) - start))]
+            results = await asyncio.gather(*(prep_one(i, c) for i, c in batch))
+            prepared.extend(results)
 
         return prepared
 
@@ -90,12 +102,16 @@ class EditorAgent:
         for i in range(0, len(clips), 2):
             top, bot = clips[i], clips[i + 1]
             out = tmp_dir / f"stack_{i // 2:03d}.mp4"
+            # Trim both to the shorter clip's duration to prevent frozen frames
+            dur_top = await self._get_duration(top)
+            dur_bot = await self._get_duration(bot)
+            min_dur = min(dur_top, dur_bot)
             cmd = [
                 "ffmpeg", "-y",
-                "-i", str(top), "-i", str(bot),
+                "-t", str(min_dur), "-i", str(top),
+                "-t", str(min_dur), "-i", str(bot),
                 "-filter_complex", "[0:v][1:v]vstack=inputs=2[out]",
                 "-map", "[out]",
-                "-shortest",
                 "-r", str(fps),
                 "-pix_fmt", "yuv420p",
                 "-c:v", "libx264", "-preset", "fast",
@@ -107,29 +123,65 @@ class EditorAgent:
         return stacked
 
     async def _concat_clips(self, clips: list[Path], output: Path, target_duration: float):
-        """Concat clips, looping if necessary to fill target duration."""
-        concat_list = output.parent / "concat_list.txt"
+        """Concat clips with crossfade transitions, cycling to fill target duration."""
         clip_durations = []
         for c in clips:
             d = await self._get_duration(c)
             clip_durations.append((c, d))
 
+        # Build clip list to cover target duration
         file_list = []
+        dur_list = []
         total = 0.0
-        while total < target_duration + 2:
-            for path, dur in clip_durations:
-                file_list.append(path)
-                total += dur
-                if total >= target_duration + 2:
-                    break
+        idx = 0
+        max_iters = 50
+        while total < target_duration + 2 and max_iters > 0:
+            path, dur = clip_durations[idx % len(clip_durations)]
+            file_list.append(path)
+            dur_list.append(dur)
+            total += dur
+            idx += 1
+            max_iters -= 1
 
-        with open(concat_list, "w") as f:
-            for p in file_list:
-                f.write(f"file '{p.resolve()}'\n")
+        if len(file_list) < 2:
+            # Single clip — no crossfade needed, just copy
+            concat_list = output.parent / "concat_list.txt"
+            with open(concat_list, "w") as f:
+                f.write(f"file '{file_list[0].resolve()}'\n")
+            cmd = [
+                "ffmpeg", "-y",
+                "-f", "concat", "-safe", "0", "-i", str(concat_list),
+                "-t", str(target_duration + 1),
+                "-c:v", "libx264", "-preset", "fast",
+                str(output)
+            ]
+            await self._run(cmd)
+            return
+
+        # Build xfade filter chain for crossfade transitions
+        fade_dur = 0.5
+        inputs = []
+        for p in file_list:
+            inputs.extend(["-i", str(p)])
+
+        # Chain xfade filters: [0][1]xfade → [v01], [v01][2]xfade → [v012], ...
+        filters = []
+        offset = dur_list[0] - fade_dur
+        prev = "[0:v]"
+        for i in range(1, len(file_list)):
+            out_label = f"[v{i}]"
+            if i == len(file_list) - 1:
+                out_label = "[vout]"
+            filters.append(f"{prev}[{i}:v]xfade=transition=fade:duration={fade_dur}:offset={offset:.2f}{out_label}")
+            prev = out_label
+            if i < len(file_list) - 1:
+                offset += dur_list[i] - fade_dur
 
         cmd = [
             "ffmpeg", "-y",
-            "-f", "concat", "-safe", "0", "-i", str(concat_list),
+            *inputs,
+            "-filter_complex", ";".join(filters),
+            "-map", "[vout]",
             "-t", str(target_duration + 1),
             "-r", str(self.config.video_fps),
             "-pix_fmt", "yuv420p",
@@ -184,7 +236,7 @@ class EditorAgent:
             f"{self.config.subtitle_outline_width},"
             f"2,"            # shadow depth
             f"5,"            # alignment: center-middle (numpad 5)
-            f"10,10,10,1"    # marginL, marginR, marginV, encoding
+            f"10,10,350,1"   # marginL, marginR, marginV, encoding
         )
 
         header = (
