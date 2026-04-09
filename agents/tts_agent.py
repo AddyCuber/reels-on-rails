@@ -72,23 +72,32 @@ class TTSAgent:
 
     @staticmethod
     def _interpolate_words(phrases: list[dict]) -> list[dict]:
-        """Distribute words equally within each phrase for readable subtitles."""
+        """Distribute words weighted by character length with a 0.15s minimum."""
+        MIN_WORD_DURATION = 0.15
         word_timings = []
         for phrase in phrases:
             words = phrase["text"].split()
             if not words:
                 continue
             phrase_duration = phrase["end"] - phrase["start"]
-            word_duration = phrase_duration / len(words)
+            total_chars = sum(len(w) for w in words)
+            if total_chars == 0:
+                continue
+
+            # First pass: assign weighted durations with minimum floor
+            raw = [max(MIN_WORD_DURATION, (len(w) / total_chars) * phrase_duration) for w in words]
+            # Scale to fit exact phrase duration
+            scale = phrase_duration / sum(raw)
+            durations = [d * scale for d in raw]
 
             current = phrase["start"]
-            for word in words:
+            for word, dur in zip(words, durations):
                 word_timings.append({
                     "text": word,
                     "start": round(current, 3),
-                    "end": round(current + word_duration, 3),
+                    "end": round(current + dur, 3),
                 })
-                current += word_duration
+                current += dur
 
         return word_timings
 
