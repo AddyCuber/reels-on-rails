@@ -46,28 +46,33 @@ class BRollAgent:
 
         async with aiohttp.ClientSession() as session:
             for keyword in keywords + FALLBACK_KEYWORDS:
-                if total_duration >= duration_needed + 10:  # buffer
+                if total_duration >= duration_needed + 20:  # buffer for longer stories
                     break
 
-                videos = await self._search_videos(session, keyword, per_page=5)
+                videos = await self._search_videos(session, keyword, per_page=10)
                 if not videos:
                     continue
 
-                # Pick a random video from results
-                video = random.choice(videos)
-                video_url = self._pick_quality(video, target_width=1080)
-                if not video_url:
-                    continue
-
-                clip_path = output_dir / f"clip_{clip_idx:03d}.mp4"
-                downloaded = await self._download(session, video_url, clip_path)
-
-                if downloaded:
-                    clips.append(clip_path)
-                    clip_duration = min(video.get("duration", 6), self.config.broll_max_clip_duration)
-                    total_duration += clip_duration
+                # Pick 2-3 random clips per keyword to reduce repetition
+                picks = random.sample(videos, min(3, len(videos)))
+                download_tasks = []
+                pick_meta = []
+                for video in picks:
+                    video_url = self._pick_quality(video, target_width=1080)
+                    if not video_url:
+                        continue
+                    clip_path = output_dir / f"clip_{clip_idx:03d}.mp4"
+                    download_tasks.append(self._download(session, video_url, clip_path))
+                    pick_meta.append((clip_path, video, keyword))
                     clip_idx += 1
-                    print(f"      ✓ '{keyword}' → {clip_path.name} ({clip_duration}s)")
+
+                results = await asyncio.gather(*download_tasks)
+                for downloaded, (clip_path, video, kw) in zip(results, pick_meta):
+                    if downloaded:
+                        clips.append(clip_path)
+                        clip_duration = min(video.get("duration", 6), self.config.broll_max_clip_duration)
+                        total_duration += clip_duration
+                        print(f"      ✓ '{kw}' → {clip_path.name} ({clip_duration}s)")
 
         if not clips:
             raise RuntimeError("No B-roll clips downloaded. Check your PEXELS_API_KEY.")
