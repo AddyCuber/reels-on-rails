@@ -64,11 +64,17 @@ class UploaderAgent:
             TOKEN_FILE = "youtube_token.json"
 
             # Load or create credentials
+            from google.auth.transport.requests import Request
+
             creds = None
             if os.path.exists(TOKEN_FILE):
                 creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
 
-            if not creds or not creds.valid:
+            if creds and creds.expired and creds.refresh_token:
+                creds.refresh(Request())
+                with open(TOKEN_FILE, "w") as f:
+                    f.write(creds.to_json())
+            elif not creds or not creds.valid:
                 flow = InstalledAppFlow.from_client_secrets_file(
                     self.config.youtube_client_secrets, SCOPES
                 )
