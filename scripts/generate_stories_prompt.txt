@@ -1,4 +1,4 @@
-Generate exactly 30 short-form story scripts for faceless YouTube Shorts and Instagram Reels.
+Generate exactly 30 first-person dramatic short story scripts for YouTube Shorts and Instagram Reels.
 
 OUTPUT REQUIREMENTS:
 - Output valid JSON only. No markdown, no explanation, no code fences.
@@ -6,40 +6,50 @@ OUTPUT REQUIREMENTS:
 - Each story object must have all of these fields, in this order:
     id, title, genre, hook, narration, broll_keywords, hashtags, description, estimated_duration
 
+STORY STRUCTURE (follow exactly, in this order):
+1. HOOK (1 sentence) — Present tense. A shocking statement that forces the question "wait, what?" This becomes the cold-open hook field AND the first line of narration.
+2. SETUP (2-3 sentences) — What was normal. Why the narrator trusted this person. Make the audience care about what's about to be destroyed.
+3. DISCOVERY (2-3 sentences) — The specific moment the betrayal was found. Must be visual and concrete.
+4. ESCALATION (3-5 sentences) — It gets worse. More layers of deception revealed. The emotional gut punch deepens.
+5. THE TURN (2-3 sentences) — Narrator decides to act. Shifts from victim to agent. The audience gets excited here.
+6. PAYOFF (3-5 sentences) — Revenge that is calm, legal, systematic, and satisfying. Specific consequences. Poetic justice.
+7. AFTERMATH (1-2 sentences) — Narrator thriving, betrayer ruined. End on a mic-drop power line.
+
 STORY REQUIREMENTS:
-- Mix of genres: family_betrayal, revenge, moral_dilemma, workplace_drama, relationship_conflict
-  Use each genre at least 5 times across the 30 stories.
-- Mix of first-person ("I found...") and third-person ("She never expected...") narration.
-  Aim for roughly 50/50.
-- hook: 1-2 sentences pulled from the climax — the most shocking or satisfying moment. Spoken first as a cold open before the full story. Must make the viewer desperate to know how it happened. No spoilers that give away the whole ending, just the juiciest line.
-- Narration length: 140-160 words exactly. Count carefully.
-- Language: simple, punchy, no complex vocabulary. Feels like a real person telling a real story.
-- Build tension quickly. End with a satisfying twist, resolution, or emotional beat.
-- No explicit content. Keep it clean but dramatically intense.
-- No two stories should share the same opening hook structure.
+- Mix of domains: family_betrayal, workplace_revenge, relationship_betrayal, neighbor_drama, inheritance_dispute, friendship_betrayal
+  Use each domain at least 4 times across the 30 stories.
+- First person always. Past tense for the story, present tense for the hook only.
+- Every sentence must make the listener need the next sentence. No filler.
+- Include specific fake details: names, dollar amounts, time periods, places.
+- Revenge must feel earned and proportional, not cruel. Audience roots for justice.
+- No moral lessons or "I learned that..." endings.
+- No filler words: no "basically," "anyway," "so," "let me tell you."
+- Final line must be calm, powerful, and memorable.
+- Narration length: 350-450 words exactly. Count carefully.
+- Test each story by reading aloud — if a sentence can be cut without losing anything, cut it.
 
 FIELD SPECIFICATIONS:
 - id: "story_001" through "story_030" (zero-padded)
-- hook: see above — 1-2 sentences, climax teaser, spoken before the story begins
-- title: max 60 characters, catchy and specific (not generic like "The Betrayal")
-- genre: one of the five genres listed above
-- narration: 140-160 words, the full story text to be narrated aloud
-- broll_keywords: array of exactly 5 strings, each 1-3 words, visual scenes that match the story mood
-- hashtags: array of 4-6 strings without the # symbol — always include "storytime" and "shorts"
-- description: 2-3 sentence summary for YouTube/Instagram caption. Intriguing, ends with a hook.
-- estimated_duration: integer between 48 and 58 (seconds)
+- title: max 60 characters, specific and intriguing (not generic like "The Betrayal")
+- genre: one of the six domains listed above
+- hook: the single shocking opening sentence (present tense) — spoken as a cold open before the narration
+- narration: 350-450 words, full story text including the hook as the first sentence
+- broll_keywords: array of exactly 6 strings, each 1-3 words, visual scenes matching the story mood
+- hashtags: array of 5-7 strings without the # symbol — always include "storytime" and "shorts"
+- description: 2-3 sentence YouTube/Instagram caption. Intriguing, ends on a cliffhanger.
+- estimated_duration: integer between 110 and 145 (seconds at +20% TTS speed)
 
-EXAMPLE STORY OBJECT (do not include this in output, it is for format reference only):
+EXAMPLE STORY OBJECT (format reference only — do not include in output):
 {
   "id": "story_001",
-  "title": "She Found The Receipt",
-  "genre": "family_betrayal",
-  "hook": "He called forty-seven times that night. I answered none of them.",
-  "narration": "I found the receipt on a Tuesday...[140-160 words]",
-  "broll_keywords": ["rainy window", "empty house", "old photographs", "city street", "coffee shop"],
-  "hashtags": ["shorts", "story", "drama", "familydrama"],
-  "description": "She never expected to find it. But when she did, everything changed. Some discoveries you can never come back from.",
-  "estimated_duration": 52
+  "title": "He Put His Name On Every Slide",
+  "genre": "workplace_revenge",
+  "hook": "My boss presented my project to the board and put his name on every slide.",
+  "narration": "My boss presented my project to the board and put his name on every slide. I spent four months building a supply chain model that would save the company two million dollars a year...[350-450 words total]",
+  "broll_keywords": ["office building", "boardroom meeting", "typing keyboard", "city commute", "desk work", "city skyline"],
+  "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "drama"],
+  "description": "He took four months of my work and walked into the boardroom like it was his. He forgot I had the original files.",
+  "estimated_duration": 125
 }
 
 Now output the complete JSON for all 30 stories.
