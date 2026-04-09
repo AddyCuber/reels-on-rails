@@ -25,7 +25,7 @@ FIELD SPECIFICATIONS:
 - genre: one of the five genres listed above
 - narration: 140-160 words, the full story text to be narrated aloud
 - broll_keywords: array of exactly 5 strings, each 1-3 words, visual scenes that match the story mood
-- hashtags: array of 4-6 strings without the # symbol (e.g. "shorts", "drama", "storytime")
+- hashtags: array of 4-6 strings without the # symbol — always include "storytime" and "shorts"
 - description: 2-3 sentence summary for YouTube/Instagram caption. Intriguing, ends with a hook.
 - estimated_duration: integer between 48 and 58 (seconds)
 

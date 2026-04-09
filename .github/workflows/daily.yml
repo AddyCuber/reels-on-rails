@@ -2,7 +2,9 @@ name: Daily Shorts Pipeline
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # 6am UTC daily
+    - cron: '0 6 * * *'   # 6am UTC
+    - cron: '0 13 * * *'  # 1pm UTC
+    - cron: '0 19 * * *'  # 7pm UTC
   workflow_dispatch:        # manual trigger
 
 jobs:
