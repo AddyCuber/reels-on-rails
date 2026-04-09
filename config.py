@@ -24,8 +24,8 @@ class Config:
     # ── TTS Settings ──────────────────────────────────────────────────────────
     # Run: edge-tts --list-voices | grep en-US   to see all options
     tts_voice: str = "en-US-ChristopherNeural"      # Deep male narrator voice
-    tts_voice_female: str = "en-US-JennyNeural"     # Female alternative
-    tts_rate: str = "+10%"                           # Slightly faster = more dramatic
+    tts_voice_alt: str = "en-US-AnaNeural"           # Higher-pitched alternative
+    tts_rate: str = "+20%"                           # Faster pacing for shorts style
 
     # ── Video Settings ────────────────────────────────────────────────────────
     video_width: int = 1080
@@ -36,17 +36,13 @@ class Config:
     # ── Subtitle Style ────────────────────────────────────────────────────────
     subtitle_font: str = "Impact"
     subtitle_fontsize: int = 90
-    subtitle_color: str = "white"
-    subtitle_outline_color: str = "black"
     subtitle_outline_width: int = 5
-    subtitle_words_per_chunk: int = 1   # 1 = single word karaoke style
 
     # ── Story Settings ────────────────────────────────────────────────────────
-    story_max_duration: int = 55        # seconds (keep under 60 for Shorts)
+    story_max_duration: int = 170       # seconds (up to 3 min, 10s buffer under 180s)
     stories_file: str = "stories.json"
 
     # ── B-Roll Settings ───────────────────────────────────────────────────────
-    broll_min_clip_duration: int = 3    # seconds per clip minimum
     broll_max_clip_duration: int = 8    # seconds per clip maximum
 
     # ── Upload Settings ───────────────────────────────────────────────────────

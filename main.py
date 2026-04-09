@@ -71,10 +71,11 @@ async def run_pipeline(config: Config, dry_run: bool = False):
 
     # ── Agent 3: Find B-Roll ─────────────────────────────────────────────────
     print("\n[3/5] Selecting B-roll footage (Pexels)...")
+    actual_duration = await tts_agent.get_duration(audio_path)
     broll_agent = BRollAgent(config)
     video_clips = await broll_agent.fetch_clips(
         keywords=story["broll_keywords"],
-        duration_needed=story["estimated_duration"],
+        duration_needed=actual_duration,
         output_dir=output_dir / "clips"
     )
     print(f"      Downloaded {len(video_clips)} clips")
