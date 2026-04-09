@@ -61,8 +61,11 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     # ── Agent 2: Text-to-Speech ───────────────────────────────────────────────
     print("\n[2/5] Generating voiceover (Edge TTS)...")
     tts_agent = TTSAgent(config)
+    narration_text = story["narration"]
+    if story.get("hook"):
+        narration_text = f"{story['hook']}... {narration_text}"
     audio_path, word_timings = await tts_agent.synthesize(
-        text=story["narration"],
+        text=narration_text,
         output_path=output_dir / "narration.mp3"
     )
     # Use exact word timestamps from TTS — no estimation
