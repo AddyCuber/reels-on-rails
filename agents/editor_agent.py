@@ -201,18 +201,20 @@ class EditorAgent:
         ass_path = output_path.parent / "subtitles.ass"
         self._write_ass(subtitles, ass_path)
 
-        # Progress bar: thin red bar at bottom filling left→right over video duration
-        audio_duration = await self._get_duration(audio_path)
-        progress_bar = (
-            f"drawbox=x=0:y=ih-8:w=iw*(t/{audio_duration:.2f}):h=8"
-            f":color=red@0.85:t=fill"
+        # Pulsing glow border — thin edges that breathe in/out
+        glow_alpha = "0.3+0.25*sin(t*3)"
+        border = (
+            f"drawbox=x=0:y=0:w=iw:h=4:color=white@'{glow_alpha}':t=fill,"
+            f"drawbox=x=0:y=ih-4:w=iw:h=4:color=white@'{glow_alpha}':t=fill,"
+            f"drawbox=x=0:y=0:w=4:h=ih:color=white@'{glow_alpha}':t=fill,"
+            f"drawbox=x=iw-4:y=0:w=4:h=ih:color=white@'{glow_alpha}':t=fill"
         )
 
         cmd = [
             "ffmpeg", "-y",
             "-i", str(video_path),
             "-i", str(audio_path),
-            "-vf", f"{progress_bar},ass={ass_path}",
+            "-vf", f"{border},ass={ass_path}",
             "-map", "0:v", "-map", "1:a",
             "-c:v", "libx264", "-preset", "medium",
             "-c:a", "aac", "-b:a", "192k",
