@@ -99,6 +99,7 @@ class UploaderAgent:
                 "status": {
                     "privacyStatus": self.config.youtube_privacy,
                     "selfDeclaredMadeForKids": False,
+                    "containsSyntheticMedia": True,
                 }
             }
 
