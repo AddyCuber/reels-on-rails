@@ -62,6 +62,7 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     # ── Agent 2: Text-to-Speech ───────────────────────────────────────────────
     print("\n[2/5] Generating voiceover (Edge TTS)...")
     config.tts_voice = random.choice(config.tts_voices)
+    config.subtitle_style = random.choice(config.subtitle_styles)
     tts_agent = TTSAgent(config)
     narration_text = story["narration"]
     if story.get("hook"):

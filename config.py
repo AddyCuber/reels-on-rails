@@ -41,6 +41,11 @@ class Config:
     subtitle_font: str = "Impact"
     subtitle_fontsize: int = 90
     subtitle_outline_width: int = 5
+    subtitle_styles: list = field(default_factory=lambda: [
+        {"color": "&H00FFFFFF", "outline": "&H00000000"},  # white text, black outline
+        {"color": "&H0000FFFF", "outline": "&H00000000"},  # yellow text, black outline
+        {"color": "&H0000D7FF", "outline": "&H00000000"},  # orange text, black outline
+    ])
 
     # ── Story Settings ────────────────────────────────────────────────────────
     story_max_duration: int = 170       # seconds (up to 3 min, 10s buffer under 180s)

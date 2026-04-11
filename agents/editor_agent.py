@@ -230,13 +230,17 @@ class EditorAgent:
         w = self.config.video_width
         h = self.config.video_height
 
+        sub_style = getattr(self.config, "subtitle_style", {})
+        primary = sub_style.get("color", "&H00FFFFFF")
+        outline_color = sub_style.get("outline", "&H00000000")
+
         style = (
             f"Style: Default,"
             f"{self.config.subtitle_font},"
             f"{self.config.subtitle_fontsize},"
-            f"&H00FFFFFF,"   # primary: white
+            f"{primary},"    # primary color
             f"&H000000FF,"   # secondary: black
-            f"&H00000000,"   # outline: black
+            f"{outline_color},"   # outline color
             f"&H80000000,"   # back: semi-transparent black
             f"-1,"           # bold
             f"0,0,0,"        # italic, underline, strikeout

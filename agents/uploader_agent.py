@@ -86,7 +86,11 @@ class UploaderAgent:
 
             # Add #Shorts to title for YouTube to classify it
             yt_title = f"{title} #Shorts"
-            yt_description = description + "\n\n" + " ".join(f"#{tag}" for tag in hashtags) + " #Shorts"
+            yt_description = (
+                description + "\n\n"
+                + " ".join(f"#{tag}" for tag in hashtags) + " #Shorts"
+                + "\n\nAll stories are fictional and for entertainment purposes only."
+            )
 
             body = {
                 "snippet": {
