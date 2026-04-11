@@ -29,7 +29,7 @@ class Config:
         "en-GB-RyanNeural",          # British male — authority
         "en-US-AndrewNeural",        # Warm male — relatable
     ])
-    tts_rate: str = "+20%"                           # Faster pacing for shorts style
+    tts_rate: str = "+25%"                           # Fast pacing to hold attention
 
     # ── Video Settings ────────────────────────────────────────────────────────
     video_width: int = 1080

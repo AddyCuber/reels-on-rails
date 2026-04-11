@@ -65,7 +65,7 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     tts_agent = TTSAgent(config)
     narration_text = story["narration"]
     if story.get("hook"):
-        narration_text = f"{story['hook']}... {narration_text}"
+        narration_text = f"{story['hook']}.. {narration_text}"
     audio_path, word_timings = await tts_agent.synthesize(
         text=narration_text,
         output_path=output_dir / "narration.mp3"
