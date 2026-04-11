@@ -23,8 +23,12 @@ class Config:
 
     # ── TTS Settings ──────────────────────────────────────────────────────────
     # Run: edge-tts --list-voices | grep en-US   to see all options
-    tts_voice: str = "en-US-ChristopherNeural"      # Deep male narrator voice
-    tts_voice_alt: str = "en-US-AnaNeural"           # Higher-pitched alternative
+    tts_voice: str = "en-US-ChristopherNeural"      # Set per-run by main.py
+    tts_voices: list = field(default_factory=lambda: [
+        "en-US-ChristopherNeural",   # Deep male — serious drama
+        "en-GB-RyanNeural",          # British male — authority
+        "en-US-AndrewNeural",        # Warm male — relatable
+    ])
     tts_rate: str = "+20%"                           # Faster pacing for shorts style
 
     # ── Video Settings ────────────────────────────────────────────────────────

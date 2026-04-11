@@ -7,9 +7,12 @@ Sign up free at pexels.com/api — no credit card needed.
 import asyncio
 import aiohttp
 import aiofiles
+import json
 import random
 from pathlib import Path
 from config import Config
+
+USED_CLIPS_FILE = Path("used_clips.json")
 
 
 PEXELS_VIDEO_API = "https://api.pexels.com/v1/videos/search"
@@ -26,6 +29,17 @@ FALLBACK_KEYWORDS = [
 class BRollAgent:
     def __init__(self, config: Config):
         self.config = config
+        self.used_ids = self._load_used_ids()
+
+    def _load_used_ids(self) -> set:
+        if USED_CLIPS_FILE.exists():
+            return set(json.loads(USED_CLIPS_FILE.read_text()))
+        return set()
+
+    def _save_used_ids(self):
+        # Keep last 500 IDs to avoid unbounded growth
+        trimmed = list(self.used_ids)[-500:]
+        USED_CLIPS_FILE.write_text(json.dumps(trimmed))
 
     async def fetch_clips(
         self,
@@ -43,6 +57,7 @@ class BRollAgent:
         clips = []
         total_duration = 0.0
         clip_idx = 0
+        new_ids = []
 
         async with aiohttp.ClientSession() as session:
             for keyword in keywords + FALLBACK_KEYWORDS:
@@ -53,8 +68,13 @@ class BRollAgent:
                 if not videos:
                     continue
 
+                # Filter out previously used clips
+                fresh = [v for v in videos if str(v.get("id", "")) not in self.used_ids]
+                if not fresh:
+                    fresh = videos  # fall back to all if everything's been used
+
                 # Pick 2-3 random clips per keyword to reduce repetition
-                picks = random.sample(videos, min(3, len(videos)))
+                picks = random.sample(fresh, min(3, len(fresh)))
                 download_tasks = []
                 pick_meta = []
                 for video in picks:
@@ -72,10 +92,14 @@ class BRollAgent:
                         clips.append(clip_path)
                         clip_duration = min(video.get("duration", 6), self.config.broll_max_clip_duration)
                         total_duration += clip_duration
+                        new_ids.append(str(video.get("id", "")))
                         print(f"      ✓ '{kw}' → {clip_path.name} ({clip_duration}s)")
 
         if not clips:
             raise RuntimeError("No B-roll clips downloaded. Check your PEXELS_API_KEY.")
+
+        self.used_ids.update(new_ids)
+        self._save_used_ids()
 
         return clips
 

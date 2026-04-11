@@ -7,6 +7,7 @@ Generates dramatic story shorts with B-roll, TTS, subtitles, and auto-upload.
 import asyncio
 import argparse
 import json
+import random
 from pathlib import Path
 from datetime import datetime
 
@@ -60,6 +61,7 @@ async def run_pipeline(config: Config, dry_run: bool = False):
 
     # ── Agent 2: Text-to-Speech ───────────────────────────────────────────────
     print("\n[2/5] Generating voiceover (Edge TTS)...")
+    config.tts_voice = random.choice(config.tts_voices)
     tts_agent = TTSAgent(config)
     narration_text = story["narration"]
     if story.get("hook"):
