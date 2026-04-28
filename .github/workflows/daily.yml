@@ -2,10 +2,10 @@ name: Daily Shorts Pipeline
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 3am UTC
-    - cron: '0 6 * * *'   # 6am UTC
-    - cron: '0 13 * * *'  # 1pm UTC
-    - cron: '0 19 * * *'  # 7pm UTC
+    # Tuned for senior-US audience (65+ = 38%, 55+ = 58%): hit afternoon scroll
+    # and prime-time evening (the documented 7–10pm ET TV-cast window).
+    - cron: '0 18 * * *'  # 18:00 UTC = 2pm ET DST / 1pm ET standard — afternoon
+    - cron: '0 0 * * *'   # 00:00 UTC = 8pm ET DST / 7pm ET standard — primetime
   workflow_dispatch:        # manual trigger
 
 jobs:
@@ -32,6 +32,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'                  # cache by hash of requirements.txt
+          cache-dependency-path: requirements.txt
 
       - name: Install Python dependencies
         run: pip install -r requirements.txt
