@@ -1,31 +1,6 @@
 {
   "stories": [
     {
-      "title": "The Attorney's Other Client",
-      "genre": "inheritance_manipulation",
-      "hook": "The attorney who drafted my aunt's final will was also representing the man who inherited everything.",
-      "narration": "Aunt Dorothy had used the same estate attorney for twenty years. When she became too frail to drive she stopped making appointments. A man named Philip, who had been her financial advisor for the last three years, offered to help coordinate her affairs. He brought a new attorney to her house.\n\nDorothy died in April. The will drafted by the new attorney left her entire estate \u2014 a house appraised at three hundred and ten thousand dollars, retirement accounts totaling eighty thousand, and her late husband's life insurance \u2014 to Philip. Her four nieces and nephews, who had been named beneficiaries for over a decade, received nothing.\n\nMy cousin Linda made a single phone call that changed everything. She called the state bar and asked whether the attorney who drafted the will had any other relationship with Philip. He did. He had been Philip's personal attorney for six years. He had represented Philip in two prior civil matters and a real estate transaction. He had never disclosed this to Dorothy.\n\nWe retained our own attorney immediately. The dual representation without disclosure was a serious ethical violation. The bar opened an investigation. Our attorney filed a will contest on grounds of undue influence and attorney misconduct.\n\nPhilip's financial records showed he had been charging Dorothy advisory fees well above market rate \u2014 nearly forty thousand dollars over three years for a portfolio that had underperformed every relevant benchmark. He had also been named as her power of attorney, a designation made the same month the new attorney appeared.\n\nThe court invalidated the will. The attorney received a formal censure from the state bar and a two-year suspension. Philip was investigated for financial exploitation and eventually surrendered his advisory license rather than face a hearing.\n\nDorothy's original will was reinstated. Her estate went to the four of us as she had always planned.\n\nLinda used her share to renovate Dorothy's house and rent it to a young family at below market rate. She said Dorothy would have liked that. I think she was right.",
-      "broll_keywords": [
-        "legal documents",
-        "lawyer office",
-        "elderly hands",
-        "courthouse exterior",
-        "family home"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "inheritance",
-        "familydrama",
-        "justice",
-        "drama"
-      ],
-      "description": "The attorney who drafted her final will was also representing the man who got everything. One phone call to the state bar changed everything.",
-      "estimated_duration": 120,
-      "target_duration": 100,
-      "id": "story_027"
-    },
-    {
       "title": "The Notary's Front Porch",
       "genre": "inheritance_manipulation",
       "hook": "The notary said my father had come to her office to sign. Her office was her front porch and she had never met him before that day.",
