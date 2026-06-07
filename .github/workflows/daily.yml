@@ -9,6 +9,11 @@ on:
     - cron: '0 22 * * *'  # 22:00 UTC =  6pm ET DST /  5pm ET standard — evening
     - cron: '0 4 * * *'   # 04:00 UTC = 12am ET DST / 11pm ET standard — late night
   workflow_dispatch:        # manual trigger
+    inputs:
+      skip_jitter:
+        description: 'Upload immediately (skip the random 0-90min jitter) — for manual test runs'
+        type: boolean
+        default: false
 
 jobs:
   generate-and-upload:
@@ -46,6 +51,9 @@ jobs:
         run: echo "${{ secrets.YOUTUBE_TOKEN }}" | base64 --decode > youtube_token.json
 
       - name: Run pipeline
+        env:
+          # Manual runs can skip the 0-90min upload jitter; scheduled runs keep it.
+          UPLOAD_JITTER_MAX_SECONDS: ${{ inputs.skip_jitter == true && '0' || '' }}
         run: python main.py
 
       - name: Refresh YouTube token secret

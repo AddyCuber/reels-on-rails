@@ -51,7 +51,11 @@ class Config:
 
     # ── Pipeline Control ──────────────────────────────────────────────────────
     upload_interval_hours: int = 4                   # How often to run loop mode
-    upload_jitter_max_seconds: int = 5400            # Random delay before uploading (90 mins)
+    # Random delay before uploading (default 90 mins). Override with the
+    # UPLOAD_JITTER_MAX_SECONDS env var (e.g. 0 for manual test runs).
+    upload_jitter_max_seconds: int = field(
+        default_factory=lambda: int(os.getenv("UPLOAD_JITTER_MAX_SECONDS") or 5400)
+    )
 
     # ── Story Settings ────────────────────────────────────────────────────────
     story_max_duration: int = 180       # seconds (target story word count is now 600-700 words)
