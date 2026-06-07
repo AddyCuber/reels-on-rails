@@ -15,7 +15,10 @@ import re
 import sys
 import urllib.request
 import json
+import base64
+import requests
 from pathlib import Path
+from nacl import encoding, public
 
 from dotenv import load_dotenv
 
@@ -52,6 +55,32 @@ def update_env_file(new_token: str):
     print(".env updated with new token.")
 
 
+def update_github_secret(github_token: str, owner: str, repo: str, secret_name: str, secret_value: str):
+    """Encrypt and update a GitHub Secret."""
+    headers = {
+        "Authorization": f"token {github_token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    # 1. Get the public key for encryption
+    url = f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/public-key"
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    key_data = response.json()
+
+    # 2. Encrypt the secret
+    public_key = public.PublicKey(key_data["key"].encode("utf-8"), encoding.Base64Encoder())
+    sealed_box = public.SealedBox(public_key)
+    encrypted = sealed_box.encrypt(secret_value.encode("utf-8"))
+    encrypted_b64 = base64.b64encode(encrypted).decode("utf-8")
+
+    # 3. Update the secret
+    secret_url = f"https://api.github.com/repos/{owner}/{repo}/actions/secrets/{secret_name}"
+    data = {"encrypted_value": encrypted_b64, "key_id": key_data["key_id"]}
+    response = requests.put(secret_url, headers=headers, json=data)
+    response.raise_for_status()
+    print(f"GitHub secret '{secret_name}' updated successfully.")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Refresh Instagram access token")
     parser.add_argument(
@@ -83,6 +112,18 @@ def main():
 
     if args.update_env:
         update_env_file(new_token)
+    
+    # Check for GitHub auto-update
+    github_token = os.getenv("GITHUB_TOKEN")
+    owner = os.getenv("REPO_OWNER")
+    repo = os.getenv("REPO_NAME")
+    
+    if github_token and owner and repo:
+        print("\nUpdating GitHub secret...")
+        try:
+            update_github_secret(github_token, owner, repo, "INSTAGRAM_ACCESS_TOKEN", new_token)
+        except Exception as e:
+            print(f"GitHub secret update failed: {e}")
     else:
         print(
             "\nTo save this token, run with --update-env or paste it into your .env manually."

@@ -17,6 +17,12 @@ USED_CLIPS_FILE = Path("used_clips.json")
 
 PEXELS_VIDEO_API = "https://api.pexels.com/v1/videos/search"
 
+BROLL_CATEGORY_KEYWORDS = {
+    "city": ["city street", "urban walking", "downtown", "office building", "traffic", "skyline"],
+    "nature": ["forest", "ocean waves", "mountains", "sunrise", "river", "rain"],
+    "interior": ["living room", "kitchen", "empty house", "window light", "fireplace", "hallway"],
+}
+
 # Fallback keywords if specific ones return no results
 FALLBACK_KEYWORDS = [
     "nature landscape", "city street", "forest walking",
@@ -45,11 +51,16 @@ class BRollAgent:
         self,
         keywords: list[str],
         duration_needed: float,
-        output_dir: Path
+        output_dir: Path,
+        broll_category: str = "mixed",
     ) -> list[Path]:
         """Download enough B-roll clips to cover the video duration."""
         output_dir = Path(output_dir)
         output_dir.mkdir(parents=True, exist_ok=True)
+
+        # Prepend category keywords for non-mixed categories
+        if broll_category != "mixed" and broll_category in BROLL_CATEGORY_KEYWORDS:
+            keywords = BROLL_CATEGORY_KEYWORDS[broll_category] + keywords
 
         # Shuffle keywords for variety
         random.shuffle(keywords)
@@ -61,7 +72,7 @@ class BRollAgent:
 
         async with aiohttp.ClientSession() as session:
             for keyword in keywords + FALLBACK_KEYWORDS:
-                if total_duration >= duration_needed + 20:  # buffer for longer stories
+                if total_duration >= duration_needed + 30:  # buffer for longer stories
                     break
 
                 videos = await self._search_videos(session, keyword, per_page=10)

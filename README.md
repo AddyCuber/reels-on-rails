@@ -125,15 +125,17 @@ Per video:
 
 ## Weekly Workflow
 
-Stories are pre-written and stored in `stories.json`. Each run consumes the next story in order. When you run out, it loops.
+Stories are pre-written and stored in `stories.json`. Each run picks the first story without `published: true`, then marks it published (with timestamp) on a successful upload. When the unpublished pool is empty the pipeline hard-fails — it never repeats.
 
 To replenish the story queue:
 
 1. Open [Claude.ai](https://claude.ai)
 2. Paste the prompt from `scripts/generate_stories_prompt.txt`
 3. Copy the JSON output
-4. Replace the `stories` array in `stories.json` (keep `last_used_index` as `0`)
+4. Append the new objects to the `stories` array in `stories.json` (or replace it entirely — new stories default to unpublished)
 5. `git push` — GitHub Actions handles the rest
+
+To re-publish a story manually, delete its `published` and `published_at` fields.
 
 Also run weekly to keep Instagram auth alive:
 ```bash

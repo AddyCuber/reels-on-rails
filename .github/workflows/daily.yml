@@ -2,10 +2,12 @@ name: Daily Shorts Pipeline
 
 on:
   schedule:
-    # Tuned for senior-US audience (65+ = 38%, 55+ = 58%): hit afternoon scroll
-    # and prime-time evening (the documented 7–10pm ET TV-cast window).
-    - cron: '0 18 * * *'  # 18:00 UTC = 2pm ET DST / 1pm ET standard — afternoon
-    - cron: '0 0 * * *'   # 00:00 UTC = 8pm ET DST / 7pm ET standard — primetime
+    # Tuned for senior-US audience (65+ = 38%, 55+ = 58%): 6-hour cadence across
+    # the full day — morning, midday, evening, late night.
+    - cron: '0 10 * * *'  # 10:00 UTC =  6am ET DST /  5am ET standard — early morning
+    - cron: '0 16 * * *'  # 16:00 UTC = 12pm ET DST / 11am ET standard — midday
+    - cron: '0 22 * * *'  # 22:00 UTC =  6pm ET DST /  5pm ET standard — evening
+    - cron: '0 4 * * *'   # 04:00 UTC = 12am ET DST / 11pm ET standard — late night
   workflow_dispatch:        # manual trigger
 
 jobs:
@@ -21,12 +23,14 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Install ffmpeg
-        run: sudo apt-get install -y ffmpeg
+      - name: Install ffmpeg and fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-liberation
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -55,6 +59,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stories.json used_clips.json
+          git add stories.json stories_archive.json used_clips.json upload_log.csv
           git diff --cached --quiet || git commit -m "chore: advance stories index [skip ci]"
           git push

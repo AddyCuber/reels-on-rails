@@ -15,34 +15,52 @@ from agents.tts_agent import TTSAgent
 from agents.broll_agent import BRollAgent
 from agents.editor_agent import EditorAgent
 from agents.uploader_agent import UploaderAgent
+from agents.personality import get_personality
 from config import Config
 
 
 def load_next_story(stories_file: str) -> tuple[dict, int]:
-    """Read stories.json and return the next story plus its index."""
+    """Return the next unpublished story and its index in the stories list.
+
+    Hard-fails when every story has been published — we never silently repeat.
+    Add new stories or clear `published` on a story to re-publish it.
+    """
     data = json.loads(Path(stories_file).read_text())
     stories = data["stories"]
-    index = data["last_used_index"] % len(stories)
-    story = stories[index]
-
     total = len(stories)
-    remaining = total - index - 1
+
+    unpublished = [(i, s) for i, s in enumerate(stories) if not s.get("published")]
+    if not unpublished:
+        raise SystemExit(
+            f"ERROR: all {total} stories in {stories_file} are marked published. "
+            "Add new stories or unset 'published' on the ones you want to re-run."
+        )
+
+    index, story = unpublished[0]
+    remaining = len(unpublished)
     print(f"      Story #{index + 1}/{total}: \"{story['title']}\"")
-    if remaining == 0:
-        print(f"      (last story — will loop back to beginning on next run)")
-    else:
-        print(f"      ({remaining} stor{'y' if remaining == 1 else 'ies'} remaining before loop)")
+    print(f"      ({remaining} unpublished stor{'y' if remaining == 1 else 'ies'} remaining)")
 
     return story, index
 
 
-def save_story_index(stories_file: str, used_index: int):
-    """Increment last_used_index (with wrap) and write back to stories.json."""
-    path = Path(stories_file)
-    data = json.loads(path.read_text())
-    next_index = (used_index + 1) % len(data["stories"])
-    data["last_used_index"] = next_index
-    path.write_text(json.dumps(data, indent=2))
+def mark_story_published(stories_file: str, used_index: int):
+    """Move the published story from stories.json to stories_archive.json."""
+    queue_path = Path(stories_file)
+    archive_path = queue_path.parent / "stories_archive.json"
+
+    queue = json.loads(queue_path.read_text())
+    story = queue["stories"].pop(used_index)
+    story["published"] = True
+    story["published_at"] = datetime.now().isoformat(timespec="seconds")
+    queue_path.write_text(json.dumps(queue, indent=2))
+
+    if archive_path.exists():
+        archive = json.loads(archive_path.read_text())
+    else:
+        archive = {"stories": []}
+    archive["stories"].append(story)
+    archive_path.write_text(json.dumps(archive, indent=2))
 
 
 async def run_pipeline(config: Config, dry_run: bool = False):
@@ -56,17 +74,22 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     print("\n[1/5] Loading story from stories.json...")
     story, story_index = load_next_story(config.stories_file)
     story["word_count"] = len(story["narration"].split())
+
+    # ── Pick Personality ─────────────────────────────────────────────────────
+    personality = get_personality(story_index)
     print(f"      Words: {story['word_count']} | Genre: {story['genre']}")
+    print(f"      Personality: {personality.voice} | {personality.layout} | {personality.broll_category}")
     (output_dir / "story.json").write_text(json.dumps(story, indent=2))
 
     # ── Agent 2: Text-to-Speech ───────────────────────────────────────────────
     print("\n[2/5] Generating voiceover (Edge TTS)...")
-    config.tts_voice = random.choice(config.tts_voices)
+    config.tts_voice = personality.voice
     config.subtitle_style = random.choice(config.subtitle_styles)
     tts_agent = TTSAgent(config)
     narration_text = story["narration"]
     if story.get("hook"):
         narration_text = f"{story['hook']}.. {narration_text}"
+    narration_text = f"{narration_text} Follow for a new story every day."
     audio_path, word_timings = await tts_agent.synthesize(
         text=narration_text,
         output_path=output_dir / "narration.mp3"
@@ -82,7 +105,8 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     video_clips = await broll_agent.fetch_clips(
         keywords=story["broll_keywords"],
         duration_needed=actual_duration,
-        output_dir=output_dir / "clips"
+        output_dir=output_dir / "clips",
+        broll_category=personality.broll_category,
     )
     print(f"      Downloaded {len(video_clips)} clips")
 
@@ -92,12 +116,13 @@ async def run_pipeline(config: Config, dry_run: bool = False):
 
     # ── Agent 4: Edit Video ───────────────────────────────────────────────────
     print("\n[4/5] Editing video with FFmpeg...")
-    editor_agent = EditorAgent(config)
+    editor_agent = EditorAgent(config, personality=personality)
     final_video = await editor_agent.compile(
         audio_path=audio_path,
         video_clips=video_clips,
         subtitles=story["subtitle_chunks"],
-        output_path=output_dir / "final.mp4"
+        output_path=output_dir / "final.mp4",
+        card_text=story.get("card_text", ""),
     )
     print(f"      Final video: {final_video}")
 
@@ -115,7 +140,29 @@ async def run_pipeline(config: Config, dry_run: bool = False):
         print(f"      [{status}] {platform}: {result.get('url', result.get('error', ''))}")
 
     # ── Save progress ─────────────────────────────────────────────────────────
-    save_story_index(config.stories_file, story_index)
+    if any(r.get("success") for r in results.values()):
+        mark_story_published(config.stories_file, story_index)
+    else:
+        print("      ⚠️  No platform uploads succeeded — story stays unpublished and will retry next run")
+        
+    # Log results to CSV
+    log_csv_path = Path("upload_log.csv")
+    if not log_csv_path.exists():
+        log_csv_path.write_text("timestamp,story_id,story_title,youtube_url,instagram_status,facebook_status,niche,video_duration,word_count,layout\n")
+    
+    # Calculate video duration securely
+    try:
+        vid_duration = await EditorAgent._get_duration(final_video)
+    except:
+        vid_duration = 0.0
+        
+    youtube_url = results.get("YouTube Shorts", {}).get("url", "")
+    instagram_status = "OK" if results.get("Instagram Reels", {}).get("success") else results.get("Instagram Reels", {}).get("error", "SKIP")
+    facebook_status = "OK" if results.get("Facebook Reels", {}).get("success") else results.get("Facebook Reels", {}).get("error", "SKIP")
+    
+    with open(log_csv_path, "a") as f:
+        f.write(f"{datetime.now().isoformat()},{story.get('id', story_index)},\"{story['title']}\",{youtube_url},\"{instagram_status}\",\"{facebook_status}\",{story.get('niche', 'standard')},{vid_duration:.1f},{story['word_count']},{personality.layout}\n")
+
     print(f"\n PIPELINE COMPLETE — Output: {output_dir}\n")
     return final_video
 
@@ -133,5 +180,10 @@ if __name__ == "__main__":
             if args.count > 1:
                 print(f"\n{'='*50}\nGenerating video {i+1}/{args.count}\n{'='*50}")
             await run_pipeline(config, dry_run=args.dry_run)
+            # Delay between videos to spread uploads across a natural window
+            if args.count > 1 and i < args.count - 1:
+                delay_minutes = random.randint(60, 180)
+                print(f"\nWaiting {delay_minutes} minutes before next video...")
+                await asyncio.sleep(delay_minutes * 60)
 
     asyncio.run(main())

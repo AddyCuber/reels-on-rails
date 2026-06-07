@@ -29,7 +29,9 @@ class Config:
         "en-GB-RyanNeural",          # British male — authority
         "en-US-AndrewNeural",        # Warm male — relatable
     ])
-    tts_rate: str = "+25%"                           # Fast pacing to hold attention
+    tts_rate: str = "+55%"  # e.g., '+20%', '-10%', '+55%'                     # Fast pacing to hold attention
+    tts_pitch: str = "+20Hz" # Higher pitch as requested
+    tts_voice_alt: str = "en-US-AnaNeural"           # Alternate voice option
 
     # ── Video Settings ────────────────────────────────────────────────────────
     video_width: int = 1080
@@ -47,8 +49,12 @@ class Config:
         {"color": "&H0000D7FF", "outline": "&H00000000"},  # orange text, black outline
     ])
 
+    # ── Pipeline Control ──────────────────────────────────────────────────────
+    upload_interval_hours: int = 4                   # How often to run loop mode
+    upload_jitter_max_seconds: int = 5400            # Random delay before uploading (90 mins)
+
     # ── Story Settings ────────────────────────────────────────────────────────
-    story_max_duration: int = 170       # seconds (up to 3 min, 10s buffer under 180s)
+    story_max_duration: int = 180       # seconds (target story word count is now 600-700 words)
     stories_file: str = "stories.json"
 
     # ── B-Roll Settings ───────────────────────────────────────────────────────
@@ -56,6 +62,11 @@ class Config:
 
     # ── Upload Settings ───────────────────────────────────────────────────────
     upload_youtube: bool = True
-    upload_instagram: bool = False      # Enable manually when ready
+    upload_instagram: bool = True      # Enable manually when ready
+    
+    # Facebook
+    facebook_page_id: str = field(default_factory=lambda: os.getenv("FACEBOOK_PAGE_ID", ""))
+    facebook_access_token: str = field(default_factory=lambda: os.getenv("FACEBOOK_ACCESS_TOKEN", ""))
+    upload_facebook: bool = True
     youtube_category_id: str = "22"    # People & Blogs
     youtube_privacy: str = "public"    # public / private / unlisted

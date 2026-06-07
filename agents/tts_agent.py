@@ -28,6 +28,7 @@ class TTSAgent:
             "edge-tts",
             "--voice", self.config.tts_voice,
             "--rate", self.config.tts_rate,
+            "--pitch", self.config.tts_pitch,
             "--text", text,
             "--write-media", str(output_path),
             "--write-subtitles", str(vtt_path),
@@ -72,7 +73,12 @@ class TTSAgent:
 
     @staticmethod
     def _interpolate_words(phrases: list[dict]) -> list[dict]:
-        """Distribute words weighted by character length with a 0.15s minimum."""
+        """Distribute words weighted by character length with a 0.15s minimum.
+
+        Words are weighted by char count.  Any word whose weighted share falls
+        below MIN_WORD_DURATION is clamped up, and the time that was "stolen"
+        is subtracted proportionally from the remaining (above-minimum) words.
+        """
         MIN_WORD_DURATION = 0.15
         word_timings = []
         for phrase in phrases:
@@ -84,11 +90,27 @@ class TTSAgent:
             if total_chars == 0:
                 continue
 
-            # First pass: assign weighted durations with minimum floor
-            raw = [max(MIN_WORD_DURATION, (len(w) / total_chars) * phrase_duration) for w in words]
-            # Scale to fit exact phrase duration
-            scale = phrase_duration / sum(raw)
-            durations = [d * scale for d in raw]
+            # First pass: weighted durations
+            weighted = [(len(w) / total_chars) * phrase_duration for w in words]
+
+            # Second pass: enforce minimum and redistribute
+            durations = weighted[:]
+            for _ in range(5):  # iterate to convergence
+                deficit = 0.0
+                above_chars = 0
+                for i, dur in enumerate(durations):
+                    if dur < MIN_WORD_DURATION:
+                        deficit += MIN_WORD_DURATION - dur
+                        durations[i] = MIN_WORD_DURATION
+                    else:
+                        above_chars += len(words[i])
+                if deficit == 0 or above_chars == 0:
+                    break
+                # Subtract deficit proportionally from above-minimum words
+                for i, dur in enumerate(durations):
+                    if dur > MIN_WORD_DURATION:
+                        share = (len(words[i]) / above_chars) * deficit
+                        durations[i] = max(MIN_WORD_DURATION, dur - share)
 
             current = phrase["start"]
             for word, dur in zip(words, durations):
