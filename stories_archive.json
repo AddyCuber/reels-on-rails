@@ -217,6 +217,35 @@
       "id": "story_029",
       "published": true,
       "published_at": "2026-06-08T00:11:14"
+    },
+    {
+      "title": "The Roommate Down the Hall",
+      "genre": "violent_roommate",
+      "niche": "high_drama",
+      "hook": "She was running down the hallway after me with a kitchen knife. It was three in the morning and I had nowhere to go.",
+      "narration": "I found Megan through a roommate listing. She had references, a steady job, and a quiet way about her. For two months she was the perfect roommate. Then small things started. She accused me of moving her things. She said she could hear me whispering about her through the wall. I had not said a word.\n\nIt got worse fast. She stopped sleeping. She would stand in the kitchen at night staring at the door. One evening she told me, very calmly, that she knew I had been put in the apartment to watch her. I said I was just her roommate. She smiled like she did not believe a single word.\n\nThe night it happened I woke to her standing over my bed. She had pulled my blanket back and was just looking at me. I asked what she was doing. She walked out without answering. I locked my door. An hour later I heard a drawer open in the kitchen.\n\nI cracked my door to check and she was already in the hallway, a kitchen knife low at her side, moving toward me fast. I slammed the door and went out the window onto the fire escape in bare feet. I called the police from the alley.\n\nThey found her in the hallway, still holding the knife, telling them I had been sent to kill her. She was taken in for a psychiatric evaluation. The detective told me she had been hospitalized twice before for the same delusions. None of it had shown up in her references because it had never been reported.\n\nI got my things out with a police escort three days later. I never spent another night there. I check references differently now. I ask the questions the paperwork does not.",
+      "broll_keywords": [
+        "dark apartment hallway",
+        "kitchen knife",
+        "fire escape at night",
+        "police lights",
+        "locked door"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "scary",
+        "roommatefromhell",
+        "truestory",
+        "survival"
+      ],
+      "description": "She seemed like the perfect roommate for two months. Then I woke up to her standing over my bed.",
+      "card_text": "She had a knife. It was 3am.",
+      "estimated_duration": 118,
+      "target_duration": 100,
+      "id": "story_072",
+      "published": true,
+      "published_at": "2026-06-08T10:18:58"
     }
   ]
 }
