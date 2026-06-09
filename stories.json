@@ -1,31 +1,6 @@
 {
   "stories": [
     {
-      "title": "The Pharmacy Receipts",
-      "genre": "caregiver_betrayal",
-      "hook": "My mother's caregiver was filling her prescriptions every month. The pill bottles in the medicine cabinet were always empty.",
-      "narration": "My mother Eleanor took four daily medications after her cardiac episode \u2014 blood pressure, a blood thinner, a statin, and a mild anxiety medication. Her caregiver Rita handled the pharmacy runs. The insurance statements showed the prescriptions were being filled on schedule. The bottles were in the cabinet with Rita's handwriting on the labels.\n\nDuring a routine checkup my mother's doctor noticed her blood pressure was dangerously elevated. Her blood work showed the statin levels were nonexistent. He asked if she had been taking her medications. She said Rita gave them to her every morning.\n\nMy brother Thomas drove to the house that evening and counted the pills. Each bottle was nearly empty despite being filled ten days ago. The daily count did not match. He counted again. There were not enough missing pills to account for ten days of doses.\n\nWe pulled the pharmacy records. Over nine months Rita had filled each prescription on time. We cross-referenced the pill counts with the fill dates. The math showed roughly forty percent of the medication was unaccounted for. Rita had been filling the prescriptions, removing a portion, and giving my mother reduced or inconsistent doses.\n\nA pharmacist we consulted said the missing medications \u2014 particularly the anxiety medication \u2014 had street resale value. It was a pattern she had seen before with caregivers who had pharmacy access.\n\nWe reported Rita to the police and to the state health department. The investigation found she had done the same thing at a prior job. A former client's family had complained but no formal charges had been filed. The agency that placed her had no record of the prior complaint.\n\nRita was charged with endangering the welfare of a vulnerable adult and theft of prescription medication. She pled guilty and received two years of probation and a permanent ban from licensed caregiving.\n\nMy mother's medications were adjusted under direct physician supervision. Thomas took over the pharmacy runs personally.\n\nHer blood pressure stabilized within three weeks. She told me she had been feeling off for months but thought it was just aging. It was not aging. It was Rita.",
-      "broll_keywords": [
-        "pharmacy counter",
-        "pill bottles",
-        "hospital room",
-        "elderly hands",
-        "legal documents"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "elderabuse",
-        "caregiver",
-        "justice",
-        "drama"
-      ],
-      "description": "She filled the prescriptions every month. The bottles were always nearly empty. Forty percent of the medication was unaccounted for.",
-      "estimated_duration": 124,
-      "target_duration": 100,
-      "id": "story_032"
-    },
-    {
       "title": "The Last Ride Home",
       "genre": "rideshare_danger",
       "niche": "high_drama",
