@@ -327,6 +327,35 @@
       "id": "story_032",
       "published": true,
       "published_at": "2026-06-09T00:24:13"
+    },
+    {
+      "title": "The Last Ride Home",
+      "genre": "rideshare_danger",
+      "niche": "high_drama",
+      "hook": "Halfway home the driver locked the doors and turned off the route. The little blue line on my phone kept going straight. He turned right.",
+      "narration": "It was a normal ride at first. Late, but normal. I had left a friend's place across town and ordered a car like I had a hundred times before. The driver matched the photo. The plate matched. I got in the back and watched the city slide by.\n\nAbout ten minutes in I heard the doors lock. I did not think much of it at first. Then I looked at my phone. The route on the screen wanted us to stay on the main road toward my apartment. The driver took the exit before it, toward an industrial stretch with no lights.\n\nI said he had missed the turn. He said he knew a shortcut. His eyes kept finding mine in the mirror. My stomach dropped. I quietly pulled up the app and pressed the share-trip button so my sister could see my location live, then I texted her one word. Call.\n\nShe called thirty seconds later. I answered loud and bright and said yes, I am almost home, I will be there in two minutes, you are downstairs waiting, great. I kept saying it. I described the car out loud. The make, the color, the plate. The driver's eyes changed in the mirror.\n\nHe got back on the main road at the next light. He did not say a word the rest of the way. He stopped a block early. The doors unlocked. I got out and did not look back and I walked straight into a lit gas station and stayed there until my sister pulled up.\n\nI reported the driver that night with the trip data and the plate. The platform deactivated the account. I do not know what he had planned. I know that one phone call and a shared location changed how that night ended. I never ride without sharing my trip now. Not once.",
+      "broll_keywords": [
+        "car at night city",
+        "phone gps map",
+        "empty road headlights",
+        "rearview mirror eyes",
+        "gas station at night"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "scary",
+        "rideshare",
+        "truestory",
+        "safety"
+      ],
+      "description": "The driver locked the doors and left the route. One phone call changed how that night ended.",
+      "card_text": "He turned off the route.",
+      "estimated_duration": 120,
+      "target_duration": 100,
+      "id": "story_073",
+      "published": true,
+      "published_at": "2026-06-09T08:11:08"
     }
   ]
 }
