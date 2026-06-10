@@ -437,6 +437,35 @@
       "id": "story_035",
       "published": true,
       "published_at": "2026-06-09T23:45:03"
+    },
+    {
+      "title": "The Knock at 2 AM",
+      "genre": "home_intruder",
+      "niche": "high_drama",
+      "hook": "The man at my door said his car broke down and he just needed to use the phone. Through the window I could see his car running in the driveway.",
+      "narration": "I live alone at the end of a quiet road. The nearest neighbor is a field away. That night I was already in bed when the knocking started. Slow at first, then harder.\n\nI went to the front window and looked. A man I had never seen was standing on my porch. He called through the door that his car had broken down and he just needed to use a phone to call for help. He sounded calm and reasonable.\n\nBut his car was sitting in my driveway with the headlights on and the engine running. I could hear it. A broken-down car does not idle in your driveway with the lights on. Something in me went very cold and very still.\n\nI did not open the door. I said through it that I was calling the police for him right now, that help was on the way, stay right there. His whole tone changed. He said he did not need the police. He started trying the door handle. Then he moved to the side window and tried that.\n\nI was already on the phone with the dispatcher, giving my address, telling her a man was trying to get into my house. She kept me on the line. I went to the back of the house with the largest knife from the kitchen and my back to a corner where I could see both doors.\n\nHe was at the back door when the sirens reached the end of the road. He ran for his car and was gone before they pulled in. The deputies found pry marks on my side window.\n\nA week later they connected the car to two break-ins one county over, both at houses where someone lived alone. I had motion lights and a deadbolt installed the next day. I am still here. I still lock every door at dusk now, every single one.",
+      "broll_keywords": [
+        "dark house exterior night",
+        "porch light",
+        "car headlights driveway",
+        "phone emergency call",
+        "deadbolt lock"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "scary",
+        "homeinvasion",
+        "truestory",
+        "survival"
+      ],
+      "description": "He said his car broke down. But it was running in my driveway with the lights on.",
+      "card_text": "His car was still running.",
+      "estimated_duration": 121,
+      "target_duration": 100,
+      "id": "story_074",
+      "published": true,
+      "published_at": "2026-06-10T09:11:17"
     }
   ]
 }
