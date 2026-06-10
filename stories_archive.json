@@ -466,6 +466,33 @@
       "id": "story_074",
       "published": true,
       "published_at": "2026-06-10T09:11:17"
+    },
+    {
+      "title": "The Easement He Sold to a Developer",
+      "genre": "neighbor_property",
+      "hook": "A construction crew showed up at my back gate with blueprints. My neighbor had sold them an easement across my property without telling me.",
+      "narration": "I had lived on four acres outside of town for eleven years. The back portion of my land bordered a twenty-acre parcel owned by my neighbor James that had been vacant pasture for as long as I could remember. A gravel path ran along the edge of my property \u2014 an informal access route James used occasionally to reach the back of his land. There was no formal easement on record.\n\nOne morning a truck from a land development company pulled up to my back gate. Two men got out with rolled blueprints. They said they had purchased development rights to the parcel behind me and had documentation showing an access easement across my property.\n\nThe document was a signed agreement between James and the developer granting a permanent easement along the gravel path for construction and residential vehicle access. James had signed it four months ago. I had not been informed. I had not consented. My name did not appear anywhere in the document.\n\nI contacted a real estate attorney within the hour. The path in question ran entirely across my property. James had no legal right to grant an easement on land he did not own. The informal use over the years did not constitute a prescriptive easement because it was sporadic, permissive, and undocumented.\n\nMy attorney sent cease-and-desist letters to both James and the developer. The developer's legal team reviewed the property records and confirmed my ownership of the path. They withdrew from the easement agreement and demanded James return the twelve thousand dollars they had paid him for the access rights.\n\nJames retained his own attorney. The situation settled in four months. James repaid the developer. I filed a formal survey and placed permanent boundary markers along the property line.\n\nThe development project was redesigned to use a different access road from the main highway. It cost the developer an additional sixty thousand dollars in road construction.\n\nJames has not spoken to me since. The gravel path is now gated and locked. I mow it on Saturdays. It is entirely mine.",
+      "broll_keywords": [
+        "rural property",
+        "construction site",
+        "legal documents",
+        "property survey",
+        "farm gate"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "propertydispute",
+        "neighbordrama",
+        "justice",
+        "drama"
+      ],
+      "description": "A developer showed up at my back gate with blueprints. My neighbor had sold them an easement across my property. He did not own the path he sold.",
+      "estimated_duration": 120,
+      "target_duration": 100,
+      "id": "story_036",
+      "published": true,
+      "published_at": "2026-06-10T13:24:46"
     }
   ]
 }
