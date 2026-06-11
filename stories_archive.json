@@ -520,6 +520,33 @@
       "id": "story_037",
       "published": true,
       "published_at": "2026-06-10T20:04:14"
+    },
+    {
+      "title": "The Retirement Account Statement",
+      "genre": "elder_financial_abuse",
+      "hook": "My father asked me to check his retirement account. The balance was eleven thousand dollars. It had been over two hundred thousand.",
+      "narration": "My father Richard had worked for the same manufacturing company for thirty-one years. He retired with a pension and a 401k he had never touched. He told me once it was over two hundred thousand dollars and he planned to leave it for his grandchildren.\n\nTwo years after my mother died my brother Dennis moved back home. He said he was between jobs and wanted to help. My father was grateful for the company. Dennis handled the mail, drove him to appointments, and managed the household bills. I lived three hours away and called every Sunday.\n\nLast March my father asked me to check his retirement balance because Dennis had been evasive when he asked. I logged into the account using credentials my father still remembered. The balance was eleven thousand four hundred dollars.\n\nI pulled the transaction history. Over fourteen months Dennis had initiated forty-seven withdrawals \u2014 each under five thousand dollars to avoid automatic reporting. He had set up online access using my father's social security number and a new email address. The withdrawals totaled one hundred and ninety-one thousand dollars.\n\nI drove to my father's house that afternoon. Dennis was not there. I sat with my father and explained what had happened. He did not raise his voice. He sat very still and said he had trusted his son completely.\n\nI contacted an elder law attorney the next morning. We filed a report with adult protective services and the local police. The financial institution flagged the account and froze remaining funds.\n\nDennis was charged with financial exploitation of an elderly person and theft by deception. He had spent the money on a failed business, personal debts, and a car he had told my father was leased through a friend.\n\nHe pled guilty and was sentenced to three years of probation with full restitution. Recovery has been slow. As of today approximately sixty-two thousand has been returned.\n\nMy father moved in with me last fall. He sleeps in the room my son used before college. He does not talk about Dennis often. When he does he calls him by his full name, which he never used to do.\n\nI check the account every Monday now.",
+      "broll_keywords": [
+        "bank statement",
+        "elderly hands",
+        "legal documents",
+        "family home",
+        "empty chair"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "elderabuse",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
+      "description": "His retirement account had been over two hundred thousand. When I checked it the balance was eleven thousand. His own son had made forty-seven withdrawals.",
+      "estimated_duration": 122,
+      "target_duration": 100,
+      "id": "story_038",
+      "published": true,
+      "published_at": "2026-06-11T00:54:35"
     }
   ]
 }
