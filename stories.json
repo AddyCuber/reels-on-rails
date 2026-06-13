@@ -1,31 +1,6 @@
 {
   "stories": [
     {
-      "title": "The Building Fund Ledger",
-      "genre": "church_fraud",
-      "hook": "Our church had been raising money for a new building for seven years. The fund should have held three hundred and forty thousand dollars. It held nine thousand.",
-      "narration": "Grace Fellowship had been collecting for the new sanctuary since 2017. Every Sunday there was an envelope. Every Christmas there was a special appeal. Pastor David Mitchell stood at the pulpit and gave quarterly updates \u2014 always optimistic, always vague. He said we were close. He said God's timing was perfect.\n\nI served on the finance committee for twelve years. When our longtime treasurer retired I volunteered to help with the transition. I requested the building fund records. What I received was a single spreadsheet with deposits listed by month and no supporting documentation \u2014 no bank statements, no reconciliation, no receipts.\n\nI pulled the bank records directly. The building fund account held nine thousand two hundred dollars. Based on the congregation's giving records the balance should have been approximately three hundred and forty thousand.\n\nI brought the discrepancy to the committee quietly. We retained an independent auditor. The audit took six weeks. It found one hundred and fourteen separate transfers from the building fund to an account held by a limited liability company registered in Pastor Mitchell's wife's maiden name. The transfers spanned five years.\n\nThe money had been used for a vacation home in the mountains, two vehicles, private school tuition for the pastor's children, and significant credit card payments. None of it was authorized by the church board. None of it was disclosed.\n\nWe presented the findings to the congregation in a closed meeting. Pastor Mitchell resigned the following day. His attorney contacted us within the week proposing a repayment plan. We declined the proposal and referred the matter to the county district attorney.\n\nMitchell was charged with embezzlement and theft by deception. He pled to reduced charges and was ordered to repay the full amount. As of last quarter approximately two hundred and ten thousand has been returned. The rest is subject to a structured judgment.\n\nThe congregation is smaller now. Some people left. The ones who stayed hired a new pastor and an outside accounting firm.\n\nWe broke ground on the new sanctuary last September. I was asked to turn the first shovel. I said yes.",
-      "broll_keywords": [
-        "church exterior",
-        "legal documents",
-        "bank statement",
-        "construction site",
-        "community meeting"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "churchfraud",
-        "embezzlement",
-        "justice",
-        "drama"
-      ],
-      "description": "Seven years of building fund donations. Three hundred and forty thousand dollars. The account held nine thousand. The pastor had a vacation home nobody knew about.",
-      "estimated_duration": 126,
-      "target_duration": 100,
-      "id": "story_046"
-    },
-    {
       "title": "The Mission Trip Receipts",
       "genre": "church_fraud",
       "hook": "Our youth pastor led a mission trip to Guatemala every summer. The church in Guatemala said no one from our congregation had ever visited.",
