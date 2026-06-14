@@ -877,6 +877,35 @@
       "id": "story_047",
       "published": true,
       "published_at": "2026-06-14T00:40:15"
+    },
+    {
+      "title": "The Carer Who Locked the Door",
+      "genre": "carer_danger",
+      "niche": "high_drama",
+      "hook": "The carer we hired to look after my mother locked her in her own bedroom and told her no one was coming. My mother was eighty-one.",
+      "narration": "After Mum had a fall, the agency sent a live-in carer called Sharon. For the first few weeks she seemed kind. Then things changed. Whenever I rang, Sharon said Mum was sleeping. When I came round, she met me at the door and said Mum was too tired for visitors. I let it go. I shouldn't have.\n\nMum's money started going missing. Small amounts at first, then a withdrawal of four hundred pounds she knew nothing about. When I asked Sharon, she said Mum was confused. But Mum was not confused. She was frightened.\n\nOne afternoon I drove over without telling anyone. The house was silent. Sharon said Mum was resting and stood in the hallway, blocking the stairs. I went up anyway. Mum's bedroom door had a bolt fitted to the outside that had never been there before. It was locked. I could hear her crying on the other side.\n\nI slid the bolt and found her in bed, dehydrated, too weak to stand, with no phone and no water. Sharon told me it was on the doctor's orders, to stop Mum wandering. There were no such orders. I rang 999 from the landing while Sharon tried to talk me down.\n\nThe police came within twenty minutes. The investigation found Sharon had done this before, at two previous placements, isolating elderly people and draining their accounts while their families were kept at arm's length. The agency had never checked.\n\nSharon was charged with false imprisonment and theft from a vulnerable adult. She pleaded guilty.\n\nMum came to live near me. She is stronger now, though she still does not like the bedroom door fully closed. I visit without warning, always. The day I stopped asking permission to see my own mother was the day I got her back.",
+      "broll_keywords": [
+        "elderly woman bedroom",
+        "locked door bolt",
+        "empty hospital glass water",
+        "front door house uk",
+        "police car street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "elderabuse",
+        "carer",
+        "truestory",
+        "justice"
+      ],
+      "description": "The live-in carer fitted a bolt to the outside of my 81-year-old mother's bedroom door. Then she locked it.",
+      "card_text": "She locked Mum in.",
+      "estimated_duration": 122,
+      "target_duration": 100,
+      "id": "story_078",
+      "published": true,
+      "published_at": "2026-06-14T08:37:40"
     }
   ]
 }
