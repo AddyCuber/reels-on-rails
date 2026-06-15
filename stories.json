@@ -1,31 +1,6 @@
 {
   "stories": [
     {
-      "title": "The Financial Advisor's Quarterly Report",
-      "genre": "elder_scam",
-      "hook": "My parents' financial advisor sent glowing quarterly reports for three years. The account had lost a hundred and forty thousand dollars.",
-      "narration": "My parents James and Linda had used the same financial advisor for fifteen years. Martin Davies managed their retirement portfolio \u2014 just over three hundred and eighty thousand dollars in a mix of bonds, index funds, and a small equity position. The strategy was conservative. My parents were both in their mid-seventies. They did not want risk.\n\nEvery quarter Martin sent a one-page summary showing modest growth. He called them personally to review it. He was polished and warm and my parents trusted him the way people trust someone who has been consistent for a long time.\n\nWhen my father had a health scare last year I offered to review their finances in case we needed to access funds quickly. My parents gave me login credentials to their brokerage account. The balance was two hundred and thirty-nine thousand dollars.\n\nThe quarterly reports Martin had been sending showed three hundred and seventy-four thousand. The difference was a hundred and thirty-five thousand dollars.\n\nI pulled the full transaction history. Martin had been churning the account \u2014 executing frequent trades that generated commissions for himself while steadily eroding the portfolio value. Over three years he had made over two hundred individual trades in an account that was supposed to be buy-and-hold conservative. His commissions totaled forty-one thousand dollars. Market losses from the unnecessary trading accounted for the rest.\n\nThe quarterly reports he sent my parents were fabricated \u2014 formatted to look like official brokerage statements but generated from his own computer.\n\nI reported Martin to FINRA and the state securities regulator. We also retained a securities fraud attorney. Martin's license was suspended within sixty days. The arbitration claim was filed the same month.\n\nThe arbitration panel awarded my parents one hundred and nineteen thousand dollars in damages. Martin's firm paid it under their errors-and-omissions coverage. Martin was permanently barred from the securities industry.\n\nMy parents now use a fee-only advisor recommended by their attorney. Their statements come directly from the brokerage \u2014 not through anyone's personal email.\n\nMy father checks the balance online every Monday morning. He says he finds it calming. I think he finds it necessary.",
-      "broll_keywords": [
-        "bank statement",
-        "office desk",
-        "elderly hands",
-        "legal documents",
-        "laptop screen"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "financialfraud",
-        "elderfraud",
-        "justice",
-        "drama"
-      ],
-      "description": "His quarterly reports showed steady growth for three years. The account had actually lost a hundred and forty thousand dollars. The reports were fabricated on his home computer.",
-      "estimated_duration": 128,
-      "target_duration": 100,
-      "id": "story_052"
-    },
-    {
       "title": "The Man She Met Online",
       "genre": "elder_scam",
       "hook": "My mother fell in love with a retired engineer she met on a dating site. He existed everywhere except in real life.",
