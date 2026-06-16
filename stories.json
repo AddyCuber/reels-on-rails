@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_001",
-      "title": "My Brother Stole Her Will",
-      "genre": "family_betrayal",
-      "hook": "My brother told our dying mother I was stealing from her. He had the bank statements to prove it. They were fake.",
-      "card_text": "\"She's been draining your accounts. I have the statements.\" That's what my brother told our dying mother. So I opened the vase she left me. What I found sent him to trial.",
-      "narration": "\"She's been draining your accounts. I have the statements.\" That was what my brother Dominic told our mother in the winter of her final year. I found out because she wrote it down.\n\nShe mailed herself a letter \u2014 notarized, dated, sealed inside the ceramic vase she had kept on the mantle since I was a child. Her instructions to the estate attorney were specific: give the vase to me, unopened, the day after the reading.\n\nI sat in that office and listened while Dominic received the house, two hundred and eighty thousand in savings, the car, the jewelry. I received the vase. He did not look up from his phone when they read my portion.\n\nI drove home. I put the letter on the kitchen table and read it twice. Then I opened the vase.\n\nThere was a flash drive inside. One folder, labeled with my name.\n\nA forensic accountant reviewed the files within four days. The bank statements Dominic had shown our mother were fabricated. The logos were wrong. The account numbers did not match any statements our bank had issued in the prior decade. The formatting inconsistencies alone would have flagged them immediately to anyone who looked carefully. Our mother had not looked carefully. She was eighty-one and frightened and Dominic had been very convincing.\n\nThe real records showed no unauthorized withdrawals by me. The real records also showed sixty-three thousand dollars transferred from our mother's savings over eighteen months, every transfer authorized by a power of attorney Dominic had obtained by telling her attending physician I was incapacitated.\n\nI did not call Dominic. I called the district attorney's office.\n\nHe was charged with elder financial abuse, forgery, and fraud. The will was contested on grounds of undue influence and fraudulent misrepresentation. Six months after the contest was filed, the court overturned it. Our mother's original will \u2014 the one from four years prior \u2014 was reinstated. The estate passed to me.\n\nHis attorney called twice. Both times the offer was full repayment in exchange for dropping the charges. I declined both times and did not explain why.\n\nI moved into my mother's house the month probate closed. I use her plates on Sundays. I keep the vase on the same mantle where she always kept it. Some mornings I sit at her kitchen table with coffee and read the newspaper the way she used to before she stopped being well enough to drive.\n\nThe district attorney's office tells me the case is proceeding. I have given my statement and produced every document they asked for.\n\nDominic's trial is scheduled for spring.\n\nShe knew something was wrong. She left me the evidence and trusted me to know what to do with it.\n\nI did.",
-      "broll_keywords": [
-        "legal documents",
-        "kitchen table",
-        "old photographs",
-        "courthouse exterior",
-        "family home"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "betrayal",
-        "inheritance",
-        "drama"
-      ],
-      "description": "My brother told our dying mother I was stealing from her. She hid the truth inside a vase and left it for me to find.",
-      "estimated_duration": 160,
-      "target_duration": 160
-    },
-    {
       "id": "story_002",
       "title": "Sue Me",
       "genre": "neighbor_drama",
