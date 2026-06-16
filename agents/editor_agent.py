@@ -275,7 +275,7 @@ class EditorAgent:
         await self._run(cmd)
 
     def _write_ass(self, chunks: list[dict], ass_path: Path):
-        """Write subtitle chunks as an ASS file with bottom-center alignment."""
+        """Write subtitle chunks as an ASS file with middle-center alignment."""
         w = self.config.video_width
         h = self.config.video_height
 
@@ -302,7 +302,7 @@ class EditorAgent:
             f"1,"            # border style (outline+shadow)
             f"{self.config.subtitle_outline_width},"
             f"2,"            # shadow depth
-            f"2,"            # alignment: bottom-center (numpad 2)
+            f"5,"            # alignment: middle-center (numpad 5)
             f"10,10,80,1"    # marginL, marginR, marginV, encoding
         )
 
