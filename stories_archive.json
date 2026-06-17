@@ -1267,6 +1267,34 @@
       "target_duration": 160,
       "published": true,
       "published_at": "2026-06-17T14:03:06"
+    },
+    {
+      "id": "story_007",
+      "title": "The Complaint That Couldn't Exist",
+      "genre": "neighbor_drama",
+      "hook": "My neighbor called code enforcement on my vegetable garden every month for a year. Then I looked up who owned the lot next to mine.",
+      "narration": "I had kept a vegetable garden in the corner of my backyard for seven years. Raised beds, a small greenhouse, nothing unruly. When Sandra moved in two houses over she introduced herself by sliding a letter under my door asking me to consider the visual impact of my garden on property values. I introduced myself by knocking on her door and explaining that everything was well within code.\n\nThe following spring code enforcement showed up unannounced. Sandra had filed a formal complaint claiming my beds exceeded height limits. The inspector measured everything, found no violation, and closed the case. A second complaint followed two months later citing different provisions \u2014 dismissed. A third complaint claimed my compost bin attracted pests. An inspector came out. There were no pests.\n\nThat third visit made me curious. I pulled the public property records for my entire block. Sandra owned the vacant lot directly adjacent to mine \u2014 a narrow strip I had always assumed belonged to the city. She had been submitting anonymous complaints about a fence post on that lot, trying to get it reclassified as an encroachment on her property. She was also three years behind on property taxes for the lot.\n\nI filed a formal harassment complaint with the city, documenting all three prior code complaints and their dismissals with dates and officer notes. I also submitted the tax delinquency to the county assessor, which triggered an automatic review.\n\nSandra received a tax lien on the lot. Her subsequent attempt to sell it was complicated by both the lien and the boundary dispute I had now formally raised. The sale fell through. The buyer walked.\n\nShe stopped filing complaints. She stopped making eye contact in the neighborhood too, which I found to be an improvement.\n\nMy garden has three new beds this year. The tomatoes are particularly good. The code officer who came out three times stops by in August for a bag. I have it waiting on the porch for him. He's earned it.",
+      "broll_keywords": [
+        "garden flowers",
+        "property documents",
+        "suburban street",
+        "coffee morning",
+        "tomato plants",
+        "neighborhood street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "neighbordrama",
+        "justice",
+        "revenge",
+        "drama"
+      ],
+      "description": "She called code enforcement on my garden every month for a year. Then I looked up who owned the vacant lot next door. Everything changed after that.",
+      "estimated_duration": 130,
+      "target_duration": 100,
+      "published": true,
+      "published_at": "2026-06-17T19:02:23"
     }
   ]
 }
