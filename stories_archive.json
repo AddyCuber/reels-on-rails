@@ -1210,6 +1210,35 @@
       "target_duration": 160,
       "published": true,
       "published_at": "2026-06-17T00:48:59"
+    },
+    {
+      "title": "The Lodger",
+      "genre": "lodger_danger",
+      "niche": "high_drama",
+      "hook": "After my husband died I took in a lodger for the company and the bit of rent. Three months later he changed the locks and told me it was his house now.",
+      "narration": "The house felt enormous after Harold passed. A friend suggested a lodger, for the company as much as the money. A polite man named Wayne answered my advert. He had references. He shook my hand and called me ma'am. I thought I had been lucky.\n\nIt was slow at first. He started parking his truck behind my car so I could not get out without asking him. He used the phone for long calls and grew short with me when I mentioned the bill. He began saying things like this is my home too now, you can't just walk into my part of the house.\n\nThen I spent a weekend at my sister's. When I came back, my key would not turn. Wayne had changed the locks. He opened the door a few inches, on a chain I had not put there, and told me that he had rights as a tenant and that I should find somewhere else to stay while we sorted it out. He told me, on my own porch, to leave.\n\nI did not shout. I did not push the door. I drove straight to my daughter's and we called the police and a lawyer that evening. Because I had a signed lodger agreement, the deed in my name, and a folder of his threatening text messages, the situation was clear. A lodger is not a tenant. He had no right to exclude the owner.\n\nThe police removed him. The lawyer told me he had done this twice before, to two other widows he had met through adverts and online. He chose women who lived alone and had just lost someone.\n\nI got my locks changed back that same night. I do not regret wanting the company. I regret not keeping every promise in writing from the very first day. The paperwork is what got my home back.",
+      "broll_keywords": [
+        "suburban house porch",
+        "door lock changing",
+        "legal documents signing",
+        "empty living room",
+        "police car driveway"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "truestory",
+        "scamalert",
+        "justice",
+        "seniorsafety"
+      ],
+      "description": "I took in a lodger after my husband died. He changed the locks and told me to leave my own house.",
+      "card_text": "He locked me out.",
+      "estimated_duration": 124,
+      "target_duration": 100,
+      "id": "story_081",
+      "published": true,
+      "published_at": "2026-06-17T09:13:11"
     }
   ]
 }
