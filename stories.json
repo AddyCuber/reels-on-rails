@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_005",
-      "title": "The Charity That Didn't Exist",
-      "genre": "inheritance_fraud",
-      "hook": "My uncle left his estate to a foundation that turned out to have no IRS filing, no board, and one officer: the attorney who drafted the will.",
-      "card_text": "\"Leonard was clear. The estate has been handled.\" That's what Gary told us at the reading. So we asked to see the foundation's IRS filings. There were none. Gary pled guilty.",
-      "narration": "\"Leonard was clear. The estate has been handled.\" Gary said that to my cousin and me across the conference table at the reading, with the kind of practiced calm that is meant to end conversations. My uncle had passed six weeks earlier. His estate \u2014 a paid-off house, investment accounts, and a collection of first-edition books \u2014 was valued at just over four hundred thousand dollars. According to the will Gary had drafted, everything was to go to the Leonard Hartwell Charitable Foundation for Community Arts.\n\nI asked for the foundation's EIN. Gary said he would follow up.\n\nHe did not follow up. I looked it up myself.\n\nThere was no IRS filing for the Leonard Hartwell Charitable Foundation for Community Arts. No Form 990. No 501(c)(3) determination letter. No registration with the state attorney general's charitable trust division, which is required for any organization soliciting funds or receiving bequests in the state.\n\nThe foundation had been incorporated as an LLC eleven months before my uncle's will was revised. The sole registered officer was Gary.\n\nWe retained a probate litigator the same week.\n\nThe state bar opened an investigation when our attorney filed a complaint. The district attorney's office was separately contacted and began their own review. My uncle's medical records showed that at the time the revised will was signed, he had been recently hospitalized for a cardiac event and had been under sedation the previous week. No independent witness was present at the signing.\n\nGary's practice had handled the estate planning of eleven elderly clients over four years. Investigators eventually identified three other cases with similar structures \u2014 charitable bequests to entities Gary controlled that had never conducted any charitable activity.\n\nThe will was contested. The court invalidated the bequest. My uncle's estate was distributed according to his previous will, which divided it equally between my cousin, my aunt, and two family friends he had named years before.\n\nGary surrendered his law license and pled guilty to three counts of fraud. He was sentenced to four years and ordered to pay full restitution across all cases.\n\nThe first-edition books went to my cousin, who keeps them in a glass case in her living room. My uncle had spent forty years collecting them. She dusts them on Sundays.\n\nMy uncle trusted Gary for over a decade. Gary mistook that trust for a window.\n\nThe EIN lookup took about four minutes.",
-      "broll_keywords": [
-        "legal documents",
-        "courthouse exterior",
-        "old books",
-        "lawyer office",
-        "family home"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "inheritance",
-        "fraud",
-        "justice",
-        "drama"
-      ],
-      "description": "The foundation that inherited everything had no IRS filing, no board, and one officer \u2014 the attorney who drafted the will.",
-      "estimated_duration": 160,
-      "target_duration": 160
-    },
-    {
       "id": "story_007",
       "title": "The Complaint That Couldn't Exist",
       "genre": "neighbor_drama",
