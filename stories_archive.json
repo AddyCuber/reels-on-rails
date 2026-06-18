@@ -1380,6 +1380,34 @@
       "target_duration": 160,
       "published": true,
       "published_at": "2026-06-18T13:19:13"
+    },
+    {
+      "id": "story_011",
+      "title": "What Was In The Storage Unit",
+      "genre": "family_betrayal",
+      "hook": "My stepmother told me my father had cut me out of his will. Then I found the original will in a storage unit she didn't know I had a key to.",
+      "narration": "My father remarried when I was twenty-two. Diane was pleasant enough at first \u2014 I was an adult, not a child to be managed, and I gave her room. Over the years the room became a wall. She controlled who called him, which family events he attended, what he knew about my life. When my daughter was born she told him I wasn't ready for visitors. I had said no such thing.\n\nTwo years ago my father sat me down and said he and Diane had updated their estate plan. He said it was a mutual decision and he hoped I understood. He looked uncomfortable the entire conversation. He did not meet my eyes once.\n\nMy father had kept a storage unit since before he met Diane. He gave me a key years ago for emergencies. After that conversation I drove there on an impulse and went through several boxes. In the third box, behind a folder labeled insurance, I found a sealed envelope marked copy \u2014 original with attorney. Inside was my father's will from four years ago, predating any alleged update. It left the estate equally to me and Diane's two children. It also left me specifically his photography collection, which he had recently told me was going to them.\n\nI hired an estate attorney. She confirmed the will had been changed fourteen months ago. During the revision meeting my father had arrived with Diane, and Diane had been present in the room during the signing \u2014 a significant procedural concern when the document directly benefits her.\n\nI did not come at my father with lawyers. I asked him to lunch, alone. I placed the old will on the table and asked him quietly whether the decision had been entirely his.\n\nHe was silent for a long time. Then he said no.\n\nHe revised the will the following month. I was present. Diane was not.\n\nShe has not spoken to me since. My father calls every Sunday now. He sounds like himself again.",
+      "broll_keywords": [
+        "storage unit",
+        "legal documents",
+        "family home",
+        "kitchen table",
+        "old photographs",
+        "empty house"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "inheritance",
+        "drama"
+      ],
+      "description": "She told me my father had cut me out of his will. Then I found the original will in a storage unit she didn't know I had a key to.",
+      "estimated_duration": 130,
+      "target_duration": 100,
+      "published": true,
+      "published_at": "2026-06-18T19:10:00"
     }
   ]
 }
