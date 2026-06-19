@@ -1408,6 +1408,34 @@
       "target_duration": 100,
       "published": true,
       "published_at": "2026-06-18T19:10:00"
+    },
+    {
+      "id": "story_012",
+      "title": "The HOA President and the Wrong Color",
+      "genre": "hoa_drama",
+      "hook": "The HOA president fined me for painting my shutters a color she claimed violated the guidelines. The guidelines didn't exist yet when I painted them.",
+      "card_text": "\"The color has been removed from the approved list. The fine stands.\" That's what Margaret told me at the board meeting. So I requested every dated document in the HOA's records. The board voted four to one to remove her.",
+      "narration": "\"The color has been removed from the approved list. The fine stands.\" Margaret said that to me at the October board meeting, from the head of the folding table, with the particular patience of someone who has never been questioned before.\n\nI opened my folder.\n\nI had painted my shutters the previous April \u2014 a deep slate blue called Coastal Fog, chosen from the approved color palette that was published on the HOA website at the time. I had saved a screenshot with the date stamp. Three weeks after the work was completed, I received a notice of violation and a two-hundred-and-fifty-dollar fine. The notice cited a color restriction that had not been in place when I painted.\n\nI submitted a records request to the HOA management company for all board meeting minutes, approved color palette revisions, and any documentation showing when Coastal Fog had been removed from the approved list. State law required a response within thirty days.\n\nThe records arrived on day twenty-eight. I went through them on a Saturday afternoon with a yellow legal pad.\n\nThe color revision list that Margaret had cited was dated six weeks after my paint job. The minutes from the meeting where the revision was allegedly approved showed a quorum of three board members. The HOA bylaws required a quorum of four for any amendment to the community standards. The vote had not been valid.\n\nI also found that Margaret had issued fourteen fines in the previous eighteen months using the same color list \u2014 all of them after the invalid vote, all of them citing colors that had been on the approved palette at the time of installation.\n\nI brought the documentation to the November board meeting and presented it in order. I spoke for nine minutes. I did not raise my voice.\n\nThe board voted four to one to rescind all fourteen fines and to formally invalidate the October revision to the color standards. They also voted four to one to open a review of Margaret's conduct as president.\n\nMargaret voted against both motions. She was the one.\n\nShe resigned the following January, citing personal reasons. The new board president sent a letter to the neighborhood in February acknowledging the errors and confirming that no homeowner owed any outstanding balance from the disputed fines.\n\nI got my two hundred and fifty dollars back.\n\nMy shutters are still Coastal Fog. They look exactly as they did the day the painter finished \u2014 which is to say, they look fine.\n\nThe new president waves to me when she walks her dog past the house. We have not discussed Margaret. There is nothing left to discuss.",
+      "broll_keywords": [
+        "suburban house",
+        "painted shutters",
+        "neighborhood street",
+        "legal documents",
+        "community meeting"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "HOAdrama",
+        "justice",
+        "neighbors",
+        "drama"
+      ],
+      "description": "She fined me for a color that wasn't restricted when I painted. I requested all the records and found fourteen invalid fines. The board removed her.",
+      "estimated_duration": 160,
+      "target_duration": 160,
+      "published": true,
+      "published_at": "2026-06-19T00:57:19"
     }
   ]
 }
