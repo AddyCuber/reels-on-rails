@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_015",
-      "title": "He Tapped My Power Line",
-      "genre": "neighbor_drama",
-      "hook": "My neighbor started a major home addition without any permits. Six months in I found out his contractor had been running power from my electrical line without my knowledge.",
-      "narration": "Ted and I had lived next door to each other for eight years. We were civil but not close \u2014 a wave in the morning, a nod at the trash cans. When he started a large addition last spring I noticed the crew was loud and the hours were long but I assumed he had done everything properly. I was wrong.\n\nMy electricity bill in June was four hundred and twelve dollars higher than the same month the prior year. I called the utility company assuming a meter issue. The technician who came out found a junction spliced into my outdoor line \u2014 a tap running current from my connection to the construction site next door. By his estimate it had been active for at least two months.\n\nI photographed the tap with the technician present as a witness. I called the city building department that afternoon. They confirmed there was no permit on file for Ted's addition. An inspector arrived within the week.\n\nThe project failed inspection on six counts \u2014 no permit, improper load-bearing modifications, non-code electrical work, and three additional structural violations. The inspector issued a stop-work order on the spot. The addition had to be partially demolished and rebuilt to code.\n\nI submitted a formal complaint to the utility company. They calculated the estimated unauthorized consumption and billed Ted directly \u2014 just over twelve hundred dollars. He disputed it. The utility company had the technician's photographs and my signed statement. Ted paid.\n\nI filed a small claims action for the difference in my utility bills during the period the tap was active. The judge awarded me eight hundred and forty dollars without much deliberation.\n\nTed's addition took another eight months to complete properly. It cost him roughly three times what permits would have cost at the start.\n\nHe doesn't wave in the mornings anymore. I wave anyway. I find I enjoy it considerably more than he does.",
-      "broll_keywords": [
-        "construction site",
-        "utility meter",
-        "suburban house",
-        "legal documents",
-        "rainy window",
-        "coffee morning"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "neighbordrama",
-        "justice",
-        "revenge",
-        "drama"
-      ],
-      "description": "He built an illegal addition and tapped my power line to run it. The utility bill was my first clue. The inspector's stop-work order was his first consequence.",
-      "estimated_duration": 128,
-      "target_duration": 100
-    },
-    {
       "id": "story_016",
       "title": "The Housekeeper Was Wearing Her Ring",
       "genre": "inheritance_dispute",
