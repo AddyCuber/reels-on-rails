@@ -1578,6 +1578,34 @@
       "id": "story_084",
       "published": true,
       "published_at": "2026-06-20T09:12:41"
+    },
+    {
+      "id": "story_018",
+      "title": "He Emptied My Account From The Hospital",
+      "genre": "family_betrayal",
+      "hook": "My brother convinced me to sign power of attorney while I was sick in the hospital. I came home to forty-three dollars in my account. It had been over thirty-eight thousand.",
+      "narration": "I was admitted in February with a serious infection \u2014 the kind that puts you flat for a week under heavy antibiotics. My brother Dennis visited on the second day. He seemed caring. He said he wanted to help manage things while I recovered, make sure no bills slipped. He brought a document. I was exhausted and feverish and I signed it.\n\nI was discharged eleven days later. I stopped at the pharmacy for my prescription and checked my account to pay. The balance was forty-three dollars. It had been over thirty-eight thousand.\n\nI called the bank from the parking lot. Eleven transfers had been made over nine days, each just under five thousand dollars \u2014 a pattern consistent with daily transfer limit awareness. All transfers went to a single external account. The last one had cleared the morning of my discharge.\n\nI called the police from that same parking lot. I also contacted my bank's fraud department and an attorney.\n\nThe power of attorney I had signed was a general financial POA \u2014 broad and unrestricted. Dennis had described it as limited to basic bill management. He had given me something with full account access. A detective was assigned the same day I filed.\n\nDennis had spent approximately fourteen thousand dollars within a week \u2014 electronics, travel, cash withdrawals. The remaining funds were still accessible and were frozen by court order.\n\nHe was charged with financial fraud and abuse of a vulnerable adult \u2014 the statute that applies when someone exploits a person who is ill or incapacitated. He could not argue consent because the scope of the document far exceeded what he described to me.\n\nHe pled guilty to reduced charges. He was ordered to repay the full amount, served six months, and received three years of probation. Restitution came over eight months.\n\nI changed every account, every password, and every financial contact in my life the week I came home. My mother asks me to reach out to him. Every time, I explain that I will not. She stops asking for a while. Then she asks again.",
+      "broll_keywords": [
+        "hospital room",
+        "bank statement",
+        "legal documents",
+        "empty house",
+        "old photographs",
+        "city street"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "betrayal",
+        "justice",
+        "drama"
+      ],
+      "description": "I signed power of attorney while I was sick in the hospital because I trusted my brother. I came home to forty-three dollars. It had been thirty-eight thousand.",
+      "estimated_duration": 135,
+      "target_duration": 100,
+      "published": true,
+      "published_at": "2026-06-20T13:29:41"
     }
   ]
 }
