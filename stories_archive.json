@@ -1747,6 +1747,34 @@
       "id": "story_023",
       "published": true,
       "published_at": "2026-06-21T18:41:24"
+    },
+    {
+      "id": "story_054",
+      "title": "The Power of Attorney She Never Signed",
+      "genre": "elder_financial_abuse",
+      "hook": "My brother showed up at the bank with a power of attorney. My mother was in a memory care unit and had not signed a document in two years.",
+      "narration": "My mother moved into Pinegrove Memory Care in March of 2023. By that point she could no longer recognize her own handwriting. The neurologist had documented advanced Alzheimer's. She had not legally signed anything in over eighteen months.\n\nIn August I went to her bank to update the address on her statements and found that someone had already done it. The teller pulled up her account and said her son had handled it three weeks earlier with a notarized power of attorney. I am her only daughter. I have one brother, Daniel.\n\nI asked for a copy. The signature on the document was my mother's name spelled correctly, but the handwriting was not hers. She had always signed with a sharp downward slope. The notarization stamp was from a UPS Store in a county she had not driven to in five years. The notary log later showed the signing took place at four in the afternoon on a Tuesday she was being bathed by an aide.\n\nDaniel had transferred eighty-four thousand dollars from her savings into a joint account with himself. He had also taken out a home equity line on her house in Sarasota using the same power of attorney.\n\nI hired an elder law attorney. We pulled the Pinegrove visitor log, the aide's documented care notes, and a video of my mother from that same Tuesday afternoon at the facility. We pulled the notary's logbook by subpoena. The notary admitted Daniel had brought in an unidentified woman who claimed to be our mother. The woman never showed identification. The notary had stamped the signature anyway.\n\nThe state attorney's office charged Daniel with exploitation of a vulnerable adult and forgery. The notary lost her commission and pleaded to a misdemeanor. The bank reversed the transfers. The home equity line was unwound by the title company.\n\nDaniel took a plea for thirty-six months. My mother died at Pinegrove four months later. She never knew.\n\nI keep the forged document in a folder labeled with his name. I have not opened it since the sentencing. I do not need to.",
+      "broll_keywords": [
+        "memory care facility",
+        "elderly hands",
+        "bank counter",
+        "legal documents",
+        "courthouse steps",
+        "florida home"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "elderabuse",
+        "familydrama",
+        "justice",
+        "drama"
+      ],
+      "description": "My brother brought a power of attorney to her bank. She had been in memory care for eighteen months and had not signed a document in two years.",
+      "estimated_duration": 130,
+      "target_duration": 100,
+      "published": true,
+      "published_at": "2026-06-21T23:55:25"
     }
   ]
 }
