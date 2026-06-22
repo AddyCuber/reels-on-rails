@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_055",
-      "title": "The Veteran's Check That Stopped Coming",
-      "genre": "caregiver_betrayal",
-      "hook": "My father's VA disability check stopped arriving. The aide we hired had been redirecting it for fourteen months.",
-      "narration": "My father served two tours in Vietnam and received a service-connected disability of seventy percent. The VA paid him roughly seventeen hundred dollars a month, deposited the first of every month into his checking account at Wells Fargo. He had received that check uninterrupted since 1974.\n\nIn 2024 we hired a home health aide named Kendra through a private agency to help him with meals and medication after his stroke. He liked her. She was reliable. She drove him to the VA clinic in Tampa twice a month.\n\nIn June I noticed his checking balance was lower than it should be. I had power of attorney and quarterly access to his statements. The VA deposit had not landed in fourteen months. When I called the VA they said the direct deposit had been redirected in April of the prior year to a different routing number through their online portal. The change had been submitted using my father's last four social, his date of birth, and his service number \u2014 all of which were on documents Kendra had access to in his filing cabinet.\n\nThe redirected account was at a credit union in Lakeland in Kendra's name. She had withdrawn just under twenty-four thousand dollars over fourteen months in cash and small transfers.\n\nI did not confront her. I called the VA Office of Inspector General and the Florida Attorney General's Medicaid Fraud Control Unit. The agency that had placed her was required by state law to maintain employment records and bank information for every aide. The credit union's KYC file matched her.\n\nKendra was arrested at my father's house on a Tuesday morning while she was making him oatmeal. He did not understand what was happening. I told him she had to leave for a family emergency. He asked about her for two weeks.\n\nShe pleaded guilty to financial exploitation of a disabled veteran. The VA recovered the full amount through her restitution and the agency's bond. She received forty months.\n\nMy father passed last December. The flag from his service is folded in a triangle on my mantel. The VA letter confirming full restitution is folded inside it. He earned every dollar of it twice.",
-      "broll_keywords": [
-        "american flag folded",
-        "elderly veteran",
-        "home caregiver",
-        "bank statement paper",
-        "wells fargo branch",
-        "courthouse"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "veteran",
-        "elderabuse",
-        "justice",
-        "drama"
-      ],
-      "description": "My father's VA disability check had arrived every month since 1974. Then it stopped. The aide we trusted had been redirecting it for fourteen months.",
-      "estimated_duration": 135,
-      "target_duration": 100
-    },
-    {
       "id": "story_056",
       "title": "The Quitclaim Deed In The Hospital Room",
       "genre": "elder_financial_abuse",
