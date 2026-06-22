@@ -1831,6 +1831,34 @@
       "target_duration": 100,
       "published": true,
       "published_at": "2026-06-22T16:40:29"
+    },
+    {
+      "id": "story_057",
+      "title": "The Patent He Didn't Know I Had",
+      "genre": "workplace_reversal",
+      "hook": "My boss fired me for poor performance. Six months later his company's lead product ran directly on a patent I owned.",
+      "card_text": "\"You've always needed supervision. This position requires independence.\" That's what my boss said when he let me go. So I went home and called my patent attorney. The settlement was eight hundred and forty thousand dollars.",
+      "narration": "\"You've always needed supervision. This position requires independence.\" Dennis said that to me in the HR conference room on a Wednesday morning in March, with a severance packet already printed and waiting on the table.\n\nI signed the paperwork, collected my laptop bag, and went home.\n\nI had been a senior engineer at the company for six years. For three of those years I had been working on a compression protocol for handling large-scale data transfers across distributed networks. The work had begun before I joined the company \u2014 I had developed the initial architecture on my own time, on my own equipment, before I was ever hired. I had filed for the patent eighteen months before my first day at the office.\n\nWhen I joined the company I had disclosed the patent in my onboarding paperwork. HR had logged it and no one had followed up.\n\nDennis had hired me in part to build out infrastructure that used similar compression principles. What Dennis did not know \u2014 because he had not read the onboarding file \u2014 was that the production architecture his team had shipped in Q3 was built on top of my protocol. Not similar to it. On top of it.\n\nI called my patent attorney the afternoon I was let go.\n\nShe filed a demand letter within three weeks. The company's legal team responded six days later requesting a meeting. The meeting lasted four hours. Their engineers confirmed the implementation. Their IP counsel confirmed the filing date. The prior disclosure in my onboarding paperwork confirmed I had not assigned the rights to anyone.\n\nThe settlement was eight hundred and forty thousand dollars plus a licensing agreement for continued use.\n\nDennis was let go three months after the settlement. The VP of engineering who had overseen the architecture decision took a leave of absence. I was not involved in either outcome.\n\nI consulted for two years and then started my own practice. The licensing royalties come in quarterly. I have not needed the severance money.\n\nI think about that conference room sometimes. The printed paperwork. The particular confidence of someone who has never been wrong in a way that cost him anything.\n\nDennis was right that the position required independence. He was wrong about who had it.",
+      "broll_keywords": [
+        "office building",
+        "legal documents",
+        "laptop computer",
+        "city skyline",
+        "coffee shop"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "workplace",
+        "justice",
+        "revenge",
+        "drama"
+      ],
+      "description": "My boss fired me for lacking independence. He didn't know I held the patent his flagship product was built on.",
+      "estimated_duration": 160,
+      "target_duration": 160,
+      "published": true,
+      "published_at": "2026-06-22T19:58:33"
     }
   ]
 }
