@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_061",
-      "title": "The CPA in the Family",
-      "genre": "estate_fraud",
-      "hook": "My sister was named executor of our mother's estate. When I asked for a formal accounting, she said the estate was too complex to explain.",
-      "card_text": "\"The estate is complex. I'm protecting all of us.\" That's what my sister said when I asked for receipts. So I requested a formal accounting through the probate court. I found sixty-seven thousand in unauthorized fees.",
-      "narration": "\"The estate is complex. I'm protecting all of us.\" Renata said that to me on the phone in a tone that made it clear she expected the subject to close.\n\nI waited three days and then filed a request for a formal accounting through the probate court.\n\nI had retired from public accounting after thirty-one years. I had spent the last eighteen of those years in forensic accounting, reviewing estates, trusts, and financial records in disputed cases. Renata knew this. She had been the one who called me every year to help with her personal taxes.\n\nOur mother had passed with an estate worth just over four hundred thousand dollars: a house, two investment accounts, and a savings balance. The will divided everything equally between Renata and me. Renata had been named executor.\n\nFourteen months after probate opened, I had received no formal accounting, two delayed responses to written inquiries, and a single phone call in which Renata described vague complexities without documentation.\n\nThe court-ordered accounting arrived six weeks after my filing.\n\nI went through it on a Friday afternoon. There were sixty-seven thousand dollars in management and administrative fees billed against the estate over fourteen months. No fee agreement had been executed at the time of appointment. The hourly rate applied was nearly three times the prevailing rate for estate administration in our county. Several of the billed hours corresponded to dates when probate court records showed no activity.\n\nI prepared a written analysis and submitted it to the probate court and the state bar's executor oversight division.\n\nThe court found Renata had breached her fiduciary duty. She was removed as executor, ordered to return sixty-one thousand dollars to the estate, and required to pay my legal costs from her own portion of the distribution.\n\nThe estate closed four months later. I received my share in full.\n\nRenata and I have not spoken since the hearing. She sent one message saying she thought I had overreacted. I did not reply.\n\nThirty-one years of accounting taught me many things. The most important is that complexity is rarely the explanation. It is usually the alibi.",
-      "broll_keywords": [
-        "spreadsheet on computer",
-        "legal documents",
-        "courthouse exterior",
-        "elderly hands",
-        "family home"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "inheritance",
-        "familydrama",
-        "justice",
-        "drama"
-      ],
-      "description": "My sister said the estate was too complex to explain. I was a retired forensic accountant. I found sixty-seven thousand in unauthorized fees.",
-      "estimated_duration": 160,
-      "target_duration": 160
-    },
-    {
       "id": "story_062",
       "title": "The Copy the Attorney Kept",
       "genre": "inheritance_fraud",
