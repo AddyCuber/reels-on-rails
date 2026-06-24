@@ -2083,6 +2083,34 @@
       "target_duration": 160,
       "published": true,
       "published_at": "2026-06-24T19:01:15"
+    },
+    {
+      "id": "story_066",
+      "title": "The Emergency Contact Change",
+      "genre": "elder_fraud",
+      "hook": "My father's new aide made herself his emergency contact and redirected his direct deposit without telling anyone. She was arrested three months after I filed.",
+      "card_text": "\"Your father trusts me more than you right now. Maybe think about why that is.\" That's what the aide said when I called to check in. So I called Adult Protective Services. She was arrested three months later.",
+      "narration": "\"Your father trusts me more than you right now. Maybe think about why that is.\" Beverly said that to me when I called my father's cell phone and she answered. I asked to speak with him. She said he was resting.\n\nI called his landline. No answer. I called the aide agency. They said his care schedule had been modified at his request.\n\nI drove over that afternoon.\n\nMy father was eighty and had recovered from a stroke the previous year. His cognition had been assessed as intact but his mobility had declined and he needed daily assistance. Beverly had been assigned through the agency eight months earlier. She was present during every one of my visits and had been gradually inserting herself into my father's administrative affairs \u2014 answering his phone, managing his appointment calendar, picking up his prescriptions.\n\nWhen I arrived he seemed comfortable but tired. He said Beverly was very helpful. He did not mention that she had been changed to his emergency contact, which I discovered by asking to see his medical ID card.\n\nI asked my father if he had authorized that. He said he didn't remember but maybe he had.\n\nI went home and pulled his bank account \u2014 I was joint on the account and had online access. His Social Security direct deposit had been redirected to a new account three weeks earlier. The authorization form had been signed with a signature that did not match his.\n\nI filed a report with Adult Protective Services that evening. I also called the local police non-emergency line. The following morning I called the aide agency and requested Beverly's immediate removal from my father's case.\n\nAPS began an investigation. The bank confirmed the signature discrepancy and reversed the redirect. The police obtained Beverly's financial records and found that she had been redirecting direct deposits for two other elderly clients using the same method.\n\nShe was arrested three months after my initial report. She pled guilty to financial exploitation of vulnerable adults across three counts and was sentenced to twenty-two months.\n\nMy father moved closer to me the following spring. He has a new aide who has been with him for two years. I have met her family.\n\nBeverly was right that my father trusted her. She was wrong about what that meant for her.",
+      "broll_keywords": [
+        "hospital corridor",
+        "elderly hands",
+        "bank statement",
+        "suburban home",
+        "family visit"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "elderabuse",
+        "caregiver",
+        "justice",
+        "drama"
+      ],
+      "description": "My father's aide made herself his emergency contact and redirected his Social Security deposit. She was arrested three months after I filed the report.",
+      "estimated_duration": 160,
+      "target_duration": 160,
+      "published": true,
+      "published_at": "2026-06-24T23:58:15"
     }
   ]
 }
