@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_070",
-      "title": "The Welcome Note",
-      "genre": "status_reversal",
-      "hook": "My uncle mocked my startup at a family reunion the year it failed. Seven years later he took a job at a company in my portfolio. I approved his onboarding.",
-      "card_text": "\"He tried that startup thing. Lost everyone's money. Now he does consulting.\" That's what my uncle said at the reunion in front of the whole family. So I kept working. Seven years later I sent him a welcome note.",
-      "narration": "\"He tried that startup thing. Lost everyone's money. Now he does consulting.\" Uncle Frank said that at the Fourth of July reunion, by the grill, to a cousin I had not seen in two years. He said it with the easy confidence of someone summarizing a well-established fact. I was standing eight feet away, filling a plate.\n\nI finished filling my plate and found a seat under the oak tree.\n\nThe startup had failed \u2014 that was true. We had raised early-stage capital from family and friends and the product had not scaled the way the model required. I had returned what I could, worked out repayment plans for the rest, and moved on. What Frank called \"losing everyone's money\" was a three-year process that cost me significantly in reputation and sleep.\n\nThe consulting was real. I had built a modest practice advising founders on operational infrastructure. Over five years it had grown into something different \u2014 a small fund that took positions in early-stage companies and provided advisory support alongside capital. We had four portfolio companies. Three had grown substantially.\n\nThe acquisition was announced on a Tuesday morning in September, seven years after the reunion. One of our portfolio companies \u2014 a logistics software firm \u2014 was acquired for forty-seven million dollars.\n\nI was in a board meeting when the notification came through. I went back to work.\n\nThe acquiring company had an HR onboarding queue that routed new employee approvals through portfolio company investors for the first thirty days post-close. I had three pending approvals the following week. One of the names was Frank's.\n\nHe had accepted a regional operations director role through a standard application process. He had not known the company was in my portfolio. I had not known he had applied.\n\nI approved the onboarding without delay.\n\nI also sent a brief welcome note to the new team from the investor side, the standard message I send for any acquisition \u2014 a paragraph about the company's work and our confidence in the team's future.\n\nI did not mention the reunion. I have not spoken to Frank about it since.\n\nHe has been with the company for fourteen months. I am told he is doing well.\n\nThe consulting was always real. It just needed time to become legible.",
-      "broll_keywords": [
-        "startup office",
-        "city skyline",
-        "family gathering",
-        "business meeting",
-        "laptop computer"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "startup",
-        "family",
-        "statusreversal",
-        "drama"
-      ],
-      "description": "My uncle called my startup failure out loud at a family reunion. Seven years later he took a job at a company in my portfolio. I approved his onboarding.",
-      "estimated_duration": 160,
-      "target_duration": 160
-    },
-    {
       "id": "story_071",
       "title": "She Left Partnership Track",
       "genre": "status_reversal",
