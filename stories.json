@@ -1,32 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_067",
-      "title": "Forty Years of Trust",
-      "genre": "elder_fraud",
-      "hook": "A family friend managed my mother's finances for three years. When I finally looked at the records, ninety-four thousand dollars was gone.",
-      "card_text": "\"I've known your mother for forty years. I'm not going to let anything happen to her.\" That's what Howard told me when she gave him access. So I ran a forensic review. He pled guilty.",
-      "narration": "\"I've known your mother for forty years. I'm not going to let anything happen to her.\" Howard said that to me at my mother's kitchen table three years before I found out what he had done. He had offered to help manage her finances after my father died \u2014 bill payment, investment account monitoring, insurance renewals. My mother was seventy-nine and overwhelmed. Howard had been my parents' friend since before I was born. She gave him access to her accounts.\n\nI am a forensic accountant. I had been for twenty-six years. I trusted Howard because my mother did, and because I assumed that trust had been earned over four decades.\n\nWhat prompted the review was not suspicion. It was my mother mentioning, almost in passing, that she had transferred money to help Howard with a real estate matter the previous spring. She said it was a loan. She could not tell me the amount.\n\nI asked for three years of statements. She gave me the online login.\n\nI spent a Saturday going through the records.\n\nThere were ninety-four thousand dollars in outflows over thirty-eight months that I could not reconcile to any legitimate expense. The transfers varied in size and frequency \u2014 designed, I recognized, to stay below the reporting threshold. Some were labeled as investment contributions. Some were labeled as tax payments. None of them matched any actual tax liability or investment account I could identify.\n\nI called Howard that evening. He said the records were complex and offered to explain everything in person.\n\nI filed a report with the state attorney general's office the following morning and engaged the police financial crimes unit.\n\nHoward pled guilty fourteen months later to two counts of financial exploitation of a vulnerable adult. He was ordered to pay full restitution and received three years of supervised probation. He was in his late sixties. His attorney cited his age. The judge cited my mother's.\n\nMy mother does not manage her own finances now. I do, directly.\n\nShe asked me once whether she had been foolish. I told her she had been loyal, which is different.\n\nHoward was the one who made the choice to use forty years of trust as cover.",
-      "broll_keywords": [
-        "bank statement",
-        "elderly hands",
-        "spreadsheet on computer",
-        "courthouse exterior",
-        "kitchen table"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "elderabuse",
-        "fraud",
-        "justice",
-        "drama"
-      ],
-      "description": "A family friend managed my mother's finances for three years. When I reviewed the records I found ninety-four thousand dollars gone.",
-      "estimated_duration": 160,
-      "target_duration": 160
-    },
-    {
       "id": "story_068",
       "title": "Twenty Minutes on Camera",
       "genre": "elder_fraud",
