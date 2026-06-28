@@ -2332,6 +2332,33 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-06-28T08:19:41"
+    },
+    {
+      "id": "story_204",
+      "title": "The Fake Tech Support Scam",
+      "genre": "pension_scams",
+      "hook": "A man called claiming my computer was hacked and tried to drain my retirement account, not realizing my son is a cybersecurity expert.",
+      "narration": "A man called claiming my computer was hacked and tried to drain my retirement account, not realizing my son is a cybersecurity expert. I was enjoying my morning coffee when the phone rang. The man on the other end had a thick accent and an urgent tone. He said he was from a major software company and that my network had been compromised by foreign hackers. He insisted that my bank accounts were in imminent danger and that I needed to install a remote access tool so he could secure my machine. \n\nAt sixty-nine, I am exactly the demographic these vultures target. They think we don't know what a router is. What this scammer didn't know is that my son, David, works for the federal government hunting cybercriminals. More importantly, David had set up my home network with military-grade monitoring. I immediately muted the phone and texted David. He replied within seconds: 'Keep him on the line. I'm routing his connection into a sandbox.'\n\nI played the role of the confused, panicking grandmother perfectly. I asked him to repeat his instructions. I fumbled with the keyboard. I gasped and asked if my savings were safe. I kept him talking for forty-five minutes. Meanwhile, David used the remote access connection the scammer had initiated to trace the IP address backward, bypassing their cheap VPNs. \n\nThe scammer thought he was downloading my bank files. Instead, David was quietly pulling the scammer\u2019s entire hard drive\u2014including their victim ledger, the script they used, and their real names and locations. \n\nWhen David gave me the green light, I stopped pretending. I dropped the confused grandmother act. I read the scammer his real name, his street address in Kolkata, and the exact amount of money he had in his own bank account. The silence on the phone was absolute. I told him that the FBI and Interpol had just received his entire hard drive, and that he should expect a knock on his door very soon. \n\nHe slammed the phone down in a panic. Two weeks later, David called me to say that international authorities had raided the call center and arrested thirty-two people. They recovered hundreds of thousands of dollars belonging to other retirees. \n\nI still get scam calls occasionally. I always answer. I just politely ask them if they want to speak to my son first.",
+      "broll_keywords": [
+        "coffee cup",
+        "computer screen",
+        "phone call",
+        "hacker typing",
+        "police raid",
+        "office building"
+      ],
+      "hashtags": [
+        "storytime",
+        "shorts",
+        "scammer",
+        "revenge",
+        "justice",
+        "techsupport"
+      ],
+      "description": "He tried to scam a confused grandmother. He ended up getting his entire illegal call center raided by the authorities.",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-06-28T13:17:04"
     }
   ]
 }
