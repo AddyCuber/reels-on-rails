@@ -1,5 +1,8 @@
 Generate exactly 30 first-person dramatic short story scripts for YouTube Shorts and Instagram Reels.
 
+TARGET AUDIENCE: 
+US/UK audiences aged 60+. Themes must resonate with their fears and experiences: inheritance manipulation, caregiver betrayals, HOA tyranny, pension scams, boundary disputes, and entitlement from younger relatives. 
+
 OUTPUT REQUIREMENTS:
 - Output valid JSON only. No markdown, no explanation, no code fences.
 - The root object must have exactly two keys: "last_used_index" (set to 0) and "stories" (an array of 30 objects).
@@ -7,16 +10,16 @@ OUTPUT REQUIREMENTS:
     id, title, genre, hook, narration, broll_keywords, hashtags, description, estimated_duration
 
 STORY STRUCTURE (follow exactly, in this order):
-1. HOOK (1 sentence) — Present tense. A shocking statement that forces the question "wait, what?" This becomes the cold-open hook field AND the first line of narration.
-2. SETUP (2-3 sentences) — What was normal. Why the narrator trusted this person. Make the audience care about what's about to be destroyed.
-3. DISCOVERY (2-3 sentences) — The specific moment the betrayal was found. Must be visual and concrete.
-4. ESCALATION (3-5 sentences) — It gets worse. More layers of deception revealed. The emotional gut punch deepens.
-5. THE TURN (2-3 sentences) — Narrator decides to act. Shifts from victim to agent. The audience gets excited here.
-6. PAYOFF (3-5 sentences) — Revenge that is calm, legal, systematic, and satisfying. Specific consequences. Poetic justice.
+1. HOOK (1 sentence) — Present tense. A visceral, shocking statement that triggers a 60+ viewer's worst nightmare (e.g., losing their home, family betrayal over money, elder abuse). This becomes the cold-open hook field AND the first line of narration.
+2. SETUP (2-3 sentences) — What was normal. Why the narrator trusted this person (a caregiver, an adult child, a new neighbor).
+3. DISCOVERY (2-3 sentences) — The specific moment the betrayal/fraud was found. Must be visual and concrete (e.g., finding altered will documents, noticing missing pension checks).
+4. ESCALATION (3-5 sentences) — It gets worse. The villain shows their true colors and arrogance, thinking the narrator is "too old" or "too weak" to fight back.
+5. THE TURN (2-3 sentences) — Narrator decides to act. Shifts from victim to agent. Proving that wisdom and patience outsmart youth and arrogance.
+6. PAYOFF (3-5 sentences) — Revenge that is calm, legal, systematic, and incredibly satisfying. Specific financial or legal consequences.
 7. AFTERMATH (1-2 sentences) — Narrator thriving, betrayer ruined. End on a mic-drop power line.
 
 STORY REQUIREMENTS:
-- Mix of domains: family_betrayal, workplace_revenge, relationship_betrayal, neighbor_drama, inheritance_dispute, friendship_betrayal
+- Mix of domains: inheritance_manipulation, caregiver_theft, property_boundary_dispute, retirement_community_drama, church_fraud, pension_scams, lodger_danger.
   Use each domain at least 4 times across the 30 stories.
 - First person always. Past tense for the story, present tense for the hook only.
 - Every sentence must make the listener need the next sentence. No filler.
@@ -25,31 +28,31 @@ STORY REQUIREMENTS:
 - No moral lessons or "I learned that..." endings.
 - No filler words: no "basically," "anyway," "so," "let me tell you."
 - Final line must be calm, powerful, and memorable.
-- Narration length: 350-450 words exactly. Count carefully.
+- Narration length: 450-550 words exactly. Count carefully. This ensures high watch time.
 - Test each story by reading aloud — if a sentence can be cut without losing anything, cut it.
 
 FIELD SPECIFICATIONS:
 - id: "story_001" through "story_030" (zero-padded)
 - title: max 60 characters, specific and intriguing (not generic like "The Betrayal")
-- genre: one of the six domains listed above
+- genre: one of the domains listed above
 - hook: the single shocking opening sentence (present tense) — spoken as a cold open before the narration
-- narration: 350-450 words, full story text including the hook as the first sentence
-- broll_keywords: array of exactly 6 strings, each 1-3 words, visual scenes matching the story mood
+- narration: 450-550 words, full story text including the hook as the first sentence
+- broll_keywords: array of exactly 6 strings, each 1-3 words, visual scenes matching the story mood (e.g., "legal documents", "front porch", "coffee cup")
 - hashtags: array of 5-7 strings without the # symbol — always include "storytime" and "shorts"
 - description: 2-3 sentence YouTube/Instagram caption. Intriguing, ends on a cliffhanger.
-- estimated_duration: integer between 110 and 145 (seconds at +20% TTS speed)
+- estimated_duration: integer between 140 and 180 (seconds at +20% TTS speed)
 
 EXAMPLE STORY OBJECT (format reference only — do not include in output):
 {
   "id": "story_001",
-  "title": "He Put His Name On Every Slide",
-  "genre": "workplace_revenge",
-  "hook": "My boss presented my project to the board and put his name on every slide.",
-  "narration": "My boss presented my project to the board and put his name on every slide. I spent four months building a supply chain model that would save the company two million dollars a year...[350-450 words total]",
-  "broll_keywords": ["office building", "boardroom meeting", "typing keyboard", "city commute", "desk work", "city skyline"],
-  "hashtags": ["shorts", "storytime", "workplacedrama", "revenge", "corporate", "drama"],
-  "description": "He took four months of my work and walked into the boardroom like it was his. He forgot I had the original files.",
-  "estimated_duration": 125
+  "title": "My Daughter-in-Law Tried to Sell My House",
+  "genre": "inheritance_manipulation",
+  "hook": "The woman my son married tried to sell my house while I was recovering from hip surgery.",
+  "narration": "The woman my son married tried to sell my house while I was recovering from hip surgery. I had trusted Sarah enough to give her temporary power of attorney to handle my medical bills...[450-550 words total]",
+  "broll_keywords": ["hospital bed", "real estate sign", "legal documents", "signing papers", "living room", "tea cup"],
+  "hashtags": ["shorts", "storytime", "familydrama", "revenge", "betrayal", "justice"],
+  "description": "She thought my hip surgery meant I was losing my mind. She didn't realize I'm friends with the county property recorder.",
+  "estimated_duration": 155
 }
 
 Now output the complete JSON for all 30 stories.

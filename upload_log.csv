@@ -1,80 +1,81 @@
 timestamp,story_id,story_title,youtube_url,instagram_status,facebook_status,source_mode,video_duration,word_count,layout
-2026-05-05T10:42:24.594002,story_024,"The Second Safe-Deposit Box",https://youtube.com/shorts/aJNzAB01IxY,"SKIP","SKIP",unknown,95.8,361,split_screen
-2026-05-05T11:14:00.321911,story_025,"The Witness on Line Twelve",https://youtube.com/shorts/ai-Wf7xEJ9M,"SKIP","SKIP",unknown,92.1,344,single_clip
-2026-05-06T17:54:37.918859,story_026,"Her Signature on the Last Page",https://youtube.com/shorts/sDo_-En7FKc,"SKIP","SKIP",unknown,99.0,360,single_clip
-2026-06-07T16:15:01.541529,story_027,"The Attorney's Other Client",https://youtube.com/shorts/MInmzZ2U7sE,"SKIP","SKIP",standard,90.8,342,split_screen
-2026-06-07T18:18:07.100642,story_028,"The Notary's Front Porch",https://youtube.com/shorts/eqaAtV0xk4g,"SKIP","SKIP",standard,94.1,359,split_screen
-2026-06-08T00:11:14.086817,story_029,"The Cards She Never Received",https://youtube.com/shorts/LDW_SfY-1rU,"SKIP","SKIP",standard,93.5,346,split_screen
-2026-06-08T10:18:58.300268,story_072,"The Roommate Down the Hall",https://youtube.com/shorts/F20ASM8vI1s,"SKIP","SKIP",high_drama,75.0,296,split_screen
-2026-06-08T15:36:17.325762,story_030,"Three Hundred Dollars a Day",https://youtube.com/shorts/GFXFUvHztFo,"SKIP","SKIP",standard,93.7,351,split_screen
-2026-06-08T19:52:02.757226,story_031,"She Changed the Locks on His House",https://youtube.com/shorts/PMYVpLlUu6w,"SKIP","SKIP",standard,94.4,358,split_screen
-2026-06-09T00:24:13.624614,story_032,"The Pharmacy Receipts",https://youtube.com/shorts/gFCfJnFp-Rw,"SKIP","SKIP",standard,97.9,354,split_screen
-2026-06-09T08:11:08.406421,story_073,"The Last Ride Home",https://youtube.com/shorts/P7uwebZgukk,"SKIP","SKIP",high_drama,81.1,310,split_screen
-2026-06-09T13:10:53.107375,story_033,"The Driveway That Moved",https://youtube.com/shorts/fIM9NKzx90c,"SKIP","SKIP",standard,86.3,338,split_screen
-2026-06-09T18:15:52.992815,story_034,"The Dead Oak on Fernwood",https://youtube.com/shorts/7aVOibveVp8,"SKIP","SKIP",standard,90.1,356,split_screen
-2026-06-09T23:45:03.247159,story_035,"The HOA Camera on Birch Lane",https://youtube.com/shorts/1cBk7Iyr69U,"SKIP","SKIP",standard,87.7,325,split_screen
-2026-06-10T09:11:17.260065,story_074,"The Knock at 2 AM",https://youtube.com/shorts/0U2EWdNp5e8,"SKIP","SKIP",high_drama,75.4,317,split_screen
-2026-06-10T13:24:46.116327,story_036,"The Easement He Sold to a Developer",https://youtube.com/shorts/OwPBfx-zdhk,"SKIP","SKIP",standard,91.9,345,split_screen
-2026-06-10T20:04:14.623808,story_037,"The Shared Well Agreement",https://youtube.com/shorts/nmZQSyCJWG8,"SKIP","SKIP",standard,88.1,333,split_screen
-2026-06-11T00:54:36.032951,story_038,"The Retirement Account Statement",https://youtube.com/shorts/hhFT9kLC4a8,"SKIP","SKIP",standard,98.8,367,split_screen
-2026-06-11T09:16:59.581777,story_075,"The Man Across the Property Line",https://youtube.com/shorts/yFYSmcWf8y0,"SKIP","SKIP",high_drama,82.6,322,split_screen
-2026-06-11T14:35:05.365121,story_039,"She Sold the House During Rehab",https://youtube.com/shorts/R6uGwA-Xgus,"SKIP","SKIP",standard,93.3,354,split_screen
-2026-06-11T20:06:30.222654,story_040,"The Monthly ATM Withdrawals",https://youtube.com/shorts/M8ZucDpVDi0,"SKIP","SKIP",standard,97.2,359,split_screen
-2026-06-12T00:12:51.721310,story_041,"He Moved Her for the Money",https://youtube.com/shorts/zEPpV7OUKDs,"SKIP","SKIP",standard,93.7,347,split_screen
-2026-06-12T09:28:29.940129,story_076,"The Ex Who Wouldn't Leave",https://youtube.com/shorts/SRbSvC5TQeg,"SKIP","SKIP",high_drama,82.7,321,split_screen
-2026-06-12T13:55:02.564846,story_042,"The Storage Unit on Vine Street",https://youtube.com/shorts/vVFMqT-VbMc,"SKIP","SKIP",standard,95.9,368,split_screen
-2026-06-12T19:03:35.914663,story_043,"The Account in Reno",https://youtube.com/shorts/BEa7Un0dmZ4,"SKIP","SKIP",standard,97.9,376,split_screen
-2026-06-12T23:32:52.436861,story_044,"The Second Life Insurance Policy",https://youtube.com/shorts/mVr8f8ZnvLg,"SKIP","SKIP",standard,97.4,364,split_screen
-2026-06-13T08:43:25.797256,story_077,"The Trail She Took Alone",https://youtube.com/shorts/UP9tQjU-TCc,"SKIP","SKIP",high_drama,86.4,335,split_screen
-2026-06-13T12:43:05.149368,story_045,"Forty Years of Letters",https://youtube.com/shorts/O5mZBHKH9E8,"SKIP","SKIP",standard,93.7,354,split_screen
-2026-06-13T17:58:06.269692,story_046,"The Building Fund Ledger",https://youtube.com/shorts/zoMERBvvZz4,"SKIP","SKIP",standard,101.4,351,split_screen
-2026-06-14T00:40:15.365694,story_047,"The Mission Trip Receipts",https://youtube.com/shorts/UYpEpFSi6QM,"SKIP","SKIP",standard,99.9,365,split_screen
-2026-06-14T08:37:40.097477,story_078,"The Carer Who Locked the Door",https://youtube.com/shorts/ltxDAh4_f0g,"SKIP","SKIP",high_drama,83.9,299,split_screen
-2026-06-14T12:41:27.172962,story_048,"The Benevolence Committee Chair",https://youtube.com/shorts/1VwfOxknw68,"SKIP","SKIP",standard,101.8,347,split_screen
-2026-06-14T17:53:12.557450,story_049,"The Deacon's Second Mortgage",https://youtube.com/shorts/uAiCEVt6vIc,"SKIP","SKIP",standard,102.0,365,split_screen
-2026-06-14T23:37:10.888805,story_050,"The Grandson Who Called at Midnight",https://youtube.com/shorts/ABVut0VwpUY,"SKIP","SKIP",standard,98.6,388,split_screen
-2026-06-15T10:59:45.601218,story_079,"The Man From the Water Board",https://youtube.com/shorts/axlJkR0ZEbk,"SKIP","SKIP",high_drama,73.8,305,split_screen
-2026-06-15T16:11:44.330855,story_051,"The Contractor's Deposit",https://youtube.com/shorts/sTkw5LpjWUo,"SKIP","SKIP",standard,96.3,361,split_screen
-2026-06-15T20:22:01.176736,story_052,"The Financial Advisor's Quarterly Report",https://youtube.com/shorts/EIB2D8ZTkhk,"SKIP","SKIP",standard,99.8,355,split_screen
-2026-06-16T00:22:32.419384,story_053,"The Man She Met Online",https://youtube.com/shorts/gXZN_een-UE,"SKIP","SKIP",standard,104.3,378,split_screen
-2026-06-16T10:00:42.461440,story_080,"Level Three of the Car Park",https://youtube.com/shorts/KYCGWiPJ03I,"SKIP","SKIP",high_drama,74.9,308,split_screen
-2026-06-16T15:51:54.326793,story_001,"My Brother Stole Her Will",https://youtube.com/shorts/49nkoTineiI,"SKIP","SKIP",standard,121.2,457,split_screen
-2026-06-16T20:00:21.674358,story_002,"Sue Me",https://youtube.com/shorts/lmnbNbATf9Q,"SKIP","SKIP",standard,114.8,442,split_screen
-2026-06-17T00:48:59.782231,story_003,"The Caregiver Who Got Everything",https://youtube.com/shorts/5G0mgSvytFE,"SKIP","SKIP",standard,121.5,442,split_screen
-2026-06-17T09:13:11.714945,story_081,"The Lodger",https://youtube.com/shorts/UBTz2peJzsc,"SKIP","SKIP",high_drama,77.1,312,split_screen
-2026-06-17T14:03:06.866619,story_005,"The Charity That Didn't Exist",https://youtube.com/shorts/c00VqMTz1QY,"SKIP","SKIP",standard,112.2,401,split_screen
-2026-06-17T19:02:23.426443,story_007,"The Complaint That Couldn't Exist",https://youtube.com/shorts/CD8_6f0L_-o,"SKIP","SKIP",standard,91.9,335,split_screen
-2026-06-17T23:59:48.871083,story_008,"What Grandpa Hid In The Bible",https://youtube.com/shorts/Mtgqkwk7xns,"SKIP","SKIP",standard,118.9,451,split_screen
-2026-06-18T09:16:22.131801,story_082,"My Grandson's Friend",https://youtube.com/shorts/gFvXly4AU18,"SKIP","SKIP",high_drama,78.3,318,split_screen
-2026-06-18T13:19:13.308762,story_009,"The Toast That Ended Everything",https://youtube.com/shorts/h0vy-ZHNw2s,"SKIP","SKIP",standard,111.4,476,split_screen
-2026-06-18T19:10:00.840852,story_011,"What Was In The Storage Unit",https://youtube.com/shorts/dC4GHKMhJj0,"SKIP","SKIP",standard,88.1,335,split_screen
-2026-06-19T00:57:19.171246,story_012,"The HOA President and the Wrong Color",https://youtube.com/shorts/caKLQSoKCH8,"SKIP","SKIP",standard,111.5,443,split_screen
-2026-06-19T09:57:22.034771,story_083,"Over the Fence With a Chainsaw",https://youtube.com/shorts/9c8ge58MpK8,"SKIP","SKIP",high_drama,80.5,315,split_screen
-2026-06-19T14:58:38.693076,story_013,"He Rewrote The Will In The Hospital Room",https://youtube.com/shorts/v680ZOWuGLI,"SKIP","SKIP",standard,112.5,430,split_screen
-2026-06-19T18:13:26.093596,story_015,"He Tapped My Power Line",https://youtube.com/shorts/t3wYbfBQxv4,"SKIP","SKIP",standard,86.5,321,split_screen
-2026-06-20T00:07:26.643273,story_016,"The Housekeeper Was Wearing Her Ring",https://youtube.com/shorts/kOWGeUut5H8,"SKIP","SKIP",standard,88.9,332,split_screen
-2026-06-20T09:12:41.578580,story_084,"The Parcel at the Door",https://youtube.com/shorts/b-OsOQ-tnAE,"SKIP","SKIP",high_drama,74.4,320,split_screen
-2026-06-20T13:29:41.145653,story_018,"He Emptied My Account From The Hospital",https://youtube.com/shorts/GNfeJs2hy0k,"SKIP","SKIP",standard,96.5,350,split_screen
-2026-06-20T18:01:24.659688,story_019,"The Pastor's New BMW",https://youtube.com/shorts/gbx2Sm4xTrM,"SKIP","SKIP",standard,99.7,354,split_screen
-2026-06-21T00:14:18.907955,story_021,"He Was Already Married",https://youtube.com/shorts/_geoNM6-K94,"SKIP","SKIP",standard,95.4,353,split_screen
-2026-06-21T08:43:58.299545,story_085,"The Roofer Who Wouldn't Leave",https://youtube.com/shorts/tldkdNbQHs4,"SKIP","SKIP",high_drama,76.9,327,split_screen
-2026-06-21T13:38:23.632488,story_022,"Two Hundred Thousand Dollars of Nothing",https://youtube.com/shorts/GU38vjUKgig,"SKIP","SKIP",standard,96.4,370,split_screen
-2026-06-21T18:41:24.690889,story_023,"Their Usual Table",https://youtube.com/shorts/h99R0_wB_Jw,"SKIP","SKIP",standard,88.4,340,split_screen
-2026-06-21T23:55:25.906647,story_054,"The Power of Attorney She Never Signed",https://youtube.com/shorts/RpNyCsobveg,"SKIP","SKIP",standard,92.0,349,split_screen
-2026-06-22T11:20:04.864200,story_055,"The Veteran's Check That Stopped Coming",https://youtube.com/shorts/cElk0KNo4kE,"SKIP","SKIP",standard,95.7,366,split_screen
-2026-06-22T16:40:29.415670,story_056,"The Quitclaim Deed In The Hospital Room",https://youtube.com/shorts/68KDgNCkTMs,"SKIP","SKIP",standard,98.0,400,split_screen
-2026-06-22T19:58:33.083379,story_057,"The Patent He Didn't Know I Had",https://youtube.com/shorts/4TEN47_i65Q,"SKIP","SKIP",standard,99.8,379,split_screen
-2026-06-23T00:28:41.944639,story_058,"The Signature She Needed",https://youtube.com/shorts/JT08YZpyE9M,"SKIP","SKIP",standard,97.2,369,split_screen
-2026-06-23T08:20:26.707243,story_059,"Forty Percent Followed Me Out",https://youtube.com/shorts/a7_afOvS6PI,"SKIP","SKIP",standard,96.2,385,split_screen
-2026-06-23T13:33:06.376235,story_060,"The Key In The Tackle Box",https://youtube.com/shorts/BWafQsLNHJ8,"SKIP","SKIP",standard,95.2,384,split_screen
-2026-06-23T19:27:05.067439,story_061,"The CPA in the Family",https://youtube.com/shorts/8vvgFw332W4,"SKIP","SKIP",standard,97.2,354,split_screen
-2026-06-23T23:20:27.605045,story_062,"The Copy the Attorney Kept",https://youtube.com/shorts/FvYZBuE4Hxw,"SKIP","SKIP",standard,99.8,363,split_screen
-2026-06-24T09:05:01.095967,story_063,"The Head For Business",https://youtube.com/shorts/w4GEuPojcZw,"SKIP","SKIP",standard,97.2,393,split_screen
-2026-06-24T12:39:13.423554,story_064,"Why Can't You Be More Like Your Sister",https://youtube.com/shorts/t78h2vDf804,"SKIP","SKIP",standard,105.0,396,split_screen
-2026-06-24T19:01:15.484254,story_065,"I've Understood for Twenty-Eight Years",https://youtube.com/shorts/1nRZb3oXHmw,"SKIP","SKIP",standard,102.8,424,split_screen
-2026-06-24T23:58:15.294093,story_066,"The Emergency Contact Change",https://youtube.com/shorts/pBCz4UuYfsM,"SKIP","SKIP",standard,14.9,388,split_screen
-2026-06-25T08:50:04.315050,story_067,"Forty Years of Trust",https://youtube.com/shorts/kBL2Ur-AIQ4,"SKIP","SKIP",standard,100.2,368,split_screen
-2026-06-25T13:50:58.551024,story_068,"Twenty Minutes on Camera",https://youtube.com/shorts/Wr4d7vot684,"SKIP","SKIP",standard,95.9,353,split_screen
-2026-06-25T18:44:19.052502,story_069,"Guards a Gate Somewhere",https://youtube.com/shorts/oDIS40lhesA,"SKIP","SKIP",standard,102.5,394,split_screen
-2026-06-25T23:33:04.879485,story_070,"The Welcome Note",https://youtube.com/shorts/udcw1nyBaU4,"SKIP","SKIP",standard,104.9,382,split_screen
-2026-06-26T09:07:13.162792,story_071,"She Left Partnership Track",https://youtube.com/shorts/XLY2vKCaZZ4,"SKIP","SKIP",standard,103.9,389,split_screen
+2026-05-05T10:42:24.594002,story_024,The Second Safe-Deposit Box,https://youtube.com/shorts/aJNzAB01IxY,SKIP,SKIP,unknown,95.8,361,split_screen
+2026-05-05T11:14:00.321911,story_025,The Witness on Line Twelve,https://youtube.com/shorts/ai-Wf7xEJ9M,SKIP,SKIP,unknown,92.1,344,single_clip
+2026-05-06T17:54:37.918859,story_026,Her Signature on the Last Page,https://youtube.com/shorts/sDo_-En7FKc,SKIP,SKIP,unknown,99.0,360,single_clip
+2026-06-07T16:15:01.541529,story_027,The Attorney's Other Client,https://youtube.com/shorts/MInmzZ2U7sE,SKIP,SKIP,standard,90.8,342,split_screen
+2026-06-07T18:18:07.100642,story_028,The Notary's Front Porch,https://youtube.com/shorts/eqaAtV0xk4g,SKIP,SKIP,standard,94.1,359,split_screen
+2026-06-08T00:11:14.086817,story_029,The Cards She Never Received,https://youtube.com/shorts/LDW_SfY-1rU,SKIP,SKIP,standard,93.5,346,split_screen
+2026-06-08T10:18:58.300268,story_072,The Roommate Down the Hall,https://youtube.com/shorts/F20ASM8vI1s,SKIP,SKIP,high_drama,75.0,296,split_screen
+2026-06-08T15:36:17.325762,story_030,Three Hundred Dollars a Day,https://youtube.com/shorts/GFXFUvHztFo,SKIP,SKIP,standard,93.7,351,split_screen
+2026-06-08T19:52:02.757226,story_031,She Changed the Locks on His House,https://youtube.com/shorts/PMYVpLlUu6w,SKIP,SKIP,standard,94.4,358,split_screen
+2026-06-09T00:24:13.624614,story_032,The Pharmacy Receipts,https://youtube.com/shorts/gFCfJnFp-Rw,SKIP,SKIP,standard,97.9,354,split_screen
+2026-06-09T08:11:08.406421,story_073,The Last Ride Home,https://youtube.com/shorts/P7uwebZgukk,SKIP,SKIP,high_drama,81.1,310,split_screen
+2026-06-09T13:10:53.107375,story_033,The Driveway That Moved,https://youtube.com/shorts/fIM9NKzx90c,SKIP,SKIP,standard,86.3,338,split_screen
+2026-06-09T18:15:52.992815,story_034,The Dead Oak on Fernwood,https://youtube.com/shorts/7aVOibveVp8,SKIP,SKIP,standard,90.1,356,split_screen
+2026-06-09T23:45:03.247159,story_035,The HOA Camera on Birch Lane,https://youtube.com/shorts/1cBk7Iyr69U,SKIP,SKIP,standard,87.7,325,split_screen
+2026-06-10T09:11:17.260065,story_074,The Knock at 2 AM,https://youtube.com/shorts/0U2EWdNp5e8,SKIP,SKIP,high_drama,75.4,317,split_screen
+2026-06-10T13:24:46.116327,story_036,The Easement He Sold to a Developer,https://youtube.com/shorts/OwPBfx-zdhk,SKIP,SKIP,standard,91.9,345,split_screen
+2026-06-10T20:04:14.623808,story_037,The Shared Well Agreement,https://youtube.com/shorts/nmZQSyCJWG8,SKIP,SKIP,standard,88.1,333,split_screen
+2026-06-11T00:54:36.032951,story_038,The Retirement Account Statement,https://youtube.com/shorts/hhFT9kLC4a8,SKIP,SKIP,standard,98.8,367,split_screen
+2026-06-11T09:16:59.581777,story_075,The Man Across the Property Line,https://youtube.com/shorts/yFYSmcWf8y0,SKIP,SKIP,high_drama,82.6,322,split_screen
+2026-06-11T14:35:05.365121,story_039,She Sold the House During Rehab,https://youtube.com/shorts/R6uGwA-Xgus,SKIP,SKIP,standard,93.3,354,split_screen
+2026-06-11T20:06:30.222654,story_040,The Monthly ATM Withdrawals,https://youtube.com/shorts/M8ZucDpVDi0,SKIP,SKIP,standard,97.2,359,split_screen
+2026-06-12T00:12:51.721310,story_041,He Moved Her for the Money,https://youtube.com/shorts/zEPpV7OUKDs,SKIP,SKIP,standard,93.7,347,split_screen
+2026-06-12T09:28:29.940129,story_076,The Ex Who Wouldn't Leave,https://youtube.com/shorts/SRbSvC5TQeg,SKIP,SKIP,high_drama,82.7,321,split_screen
+2026-06-12T13:55:02.564846,story_042,The Storage Unit on Vine Street,https://youtube.com/shorts/vVFMqT-VbMc,SKIP,SKIP,standard,95.9,368,split_screen
+2026-06-12T19:03:35.914663,story_043,The Account in Reno,https://youtube.com/shorts/BEa7Un0dmZ4,SKIP,SKIP,standard,97.9,376,split_screen
+2026-06-12T23:32:52.436861,story_044,The Second Life Insurance Policy,https://youtube.com/shorts/mVr8f8ZnvLg,SKIP,SKIP,standard,97.4,364,split_screen
+2026-06-13T08:43:25.797256,story_077,The Trail She Took Alone,https://youtube.com/shorts/UP9tQjU-TCc,SKIP,SKIP,high_drama,86.4,335,split_screen
+2026-06-13T12:43:05.149368,story_045,Forty Years of Letters,https://youtube.com/shorts/O5mZBHKH9E8,SKIP,SKIP,standard,93.7,354,split_screen
+2026-06-13T17:58:06.269692,story_046,The Building Fund Ledger,https://youtube.com/shorts/zoMERBvvZz4,SKIP,SKIP,standard,101.4,351,split_screen
+2026-06-14T00:40:15.365694,story_047,The Mission Trip Receipts,https://youtube.com/shorts/UYpEpFSi6QM,SKIP,SKIP,standard,99.9,365,split_screen
+2026-06-14T08:37:40.097477,story_078,The Carer Who Locked the Door,https://youtube.com/shorts/ltxDAh4_f0g,SKIP,SKIP,high_drama,83.9,299,split_screen
+2026-06-14T12:41:27.172962,story_048,The Benevolence Committee Chair,https://youtube.com/shorts/1VwfOxknw68,SKIP,SKIP,standard,101.8,347,split_screen
+2026-06-14T17:53:12.557450,story_049,The Deacon's Second Mortgage,https://youtube.com/shorts/uAiCEVt6vIc,SKIP,SKIP,standard,102.0,365,split_screen
+2026-06-14T23:37:10.888805,story_050,The Grandson Who Called at Midnight,https://youtube.com/shorts/ABVut0VwpUY,SKIP,SKIP,standard,98.6,388,split_screen
+2026-06-15T10:59:45.601218,story_079,The Man From the Water Board,https://youtube.com/shorts/axlJkR0ZEbk,SKIP,SKIP,high_drama,73.8,305,split_screen
+2026-06-15T16:11:44.330855,story_051,The Contractor's Deposit,https://youtube.com/shorts/sTkw5LpjWUo,SKIP,SKIP,standard,96.3,361,split_screen
+2026-06-15T20:22:01.176736,story_052,The Financial Advisor's Quarterly Report,https://youtube.com/shorts/EIB2D8ZTkhk,SKIP,SKIP,standard,99.8,355,split_screen
+2026-06-16T00:22:32.419384,story_053,The Man She Met Online,https://youtube.com/shorts/gXZN_een-UE,SKIP,SKIP,standard,104.3,378,split_screen
+2026-06-16T10:00:42.461440,story_080,Level Three of the Car Park,https://youtube.com/shorts/KYCGWiPJ03I,SKIP,SKIP,high_drama,74.9,308,split_screen
+2026-06-16T11:52:08.251466,story_201,The Caregiver Who Tried to Steal Our House,https://youtube.com/shorts/qA-WtCdUt8Q,SKIP,SKIP,standard,159.1,437,split_screen
+2026-06-16T15:51:54.326793,story_001,My Brother Stole Her Will,https://youtube.com/shorts/49nkoTineiI,SKIP,SKIP,standard,121.2,457,split_screen
+2026-06-16T20:00:21.674358,story_002,Sue Me,https://youtube.com/shorts/lmnbNbATf9Q,SKIP,SKIP,standard,114.8,442,split_screen
+2026-06-17T00:48:59.782231,story_003,The Caregiver Who Got Everything,https://youtube.com/shorts/5G0mgSvytFE,SKIP,SKIP,standard,121.5,442,split_screen
+2026-06-17T09:13:11.714945,story_081,The Lodger,https://youtube.com/shorts/UBTz2peJzsc,SKIP,SKIP,high_drama,77.1,312,split_screen
+2026-06-17T14:03:06.866619,story_005,The Charity That Didn't Exist,https://youtube.com/shorts/c00VqMTz1QY,SKIP,SKIP,standard,112.2,401,split_screen
+2026-06-17T19:02:23.426443,story_007,The Complaint That Couldn't Exist,https://youtube.com/shorts/CD8_6f0L_-o,SKIP,SKIP,standard,91.9,335,split_screen
+2026-06-17T23:59:48.871083,story_008,What Grandpa Hid In The Bible,https://youtube.com/shorts/Mtgqkwk7xns,SKIP,SKIP,standard,118.9,451,split_screen
+2026-06-18T09:16:22.131801,story_082,My Grandson's Friend,https://youtube.com/shorts/gFvXly4AU18,SKIP,SKIP,high_drama,78.3,318,split_screen
+2026-06-18T13:19:13.308762,story_009,The Toast That Ended Everything,https://youtube.com/shorts/h0vy-ZHNw2s,SKIP,SKIP,standard,111.4,476,split_screen
+2026-06-18T19:10:00.840852,story_011,What Was In The Storage Unit,https://youtube.com/shorts/dC4GHKMhJj0,SKIP,SKIP,standard,88.1,335,split_screen
+2026-06-19T00:57:19.171246,story_012,The HOA President and the Wrong Color,https://youtube.com/shorts/caKLQSoKCH8,SKIP,SKIP,standard,111.5,443,split_screen
+2026-06-19T09:57:22.034771,story_083,Over the Fence With a Chainsaw,https://youtube.com/shorts/9c8ge58MpK8,SKIP,SKIP,high_drama,80.5,315,split_screen
+2026-06-19T14:58:38.693076,story_013,He Rewrote The Will In The Hospital Room,https://youtube.com/shorts/v680ZOWuGLI,SKIP,SKIP,standard,112.5,430,split_screen
+2026-06-19T18:13:26.093596,story_015,He Tapped My Power Line,https://youtube.com/shorts/t3wYbfBQxv4,SKIP,SKIP,standard,86.5,321,split_screen
+2026-06-20T00:07:26.643273,story_016,The Housekeeper Was Wearing Her Ring,https://youtube.com/shorts/kOWGeUut5H8,SKIP,SKIP,standard,88.9,332,split_screen
+2026-06-20T09:12:41.578580,story_084,The Parcel at the Door,https://youtube.com/shorts/b-OsOQ-tnAE,SKIP,SKIP,high_drama,74.4,320,split_screen
+2026-06-20T13:29:41.145653,story_018,He Emptied My Account From The Hospital,https://youtube.com/shorts/GNfeJs2hy0k,SKIP,SKIP,standard,96.5,350,split_screen
+2026-06-20T18:01:24.659688,story_019,The Pastor's New BMW,https://youtube.com/shorts/gbx2Sm4xTrM,SKIP,SKIP,standard,99.7,354,split_screen
+2026-06-21T00:14:18.907955,story_021,He Was Already Married,https://youtube.com/shorts/_geoNM6-K94,SKIP,SKIP,standard,95.4,353,split_screen
+2026-06-21T08:43:58.299545,story_085,The Roofer Who Wouldn't Leave,https://youtube.com/shorts/tldkdNbQHs4,SKIP,SKIP,high_drama,76.9,327,split_screen
+2026-06-21T13:38:23.632488,story_022,Two Hundred Thousand Dollars of Nothing,https://youtube.com/shorts/GU38vjUKgig,SKIP,SKIP,standard,96.4,370,split_screen
+2026-06-21T18:41:24.690889,story_023,Their Usual Table,https://youtube.com/shorts/h99R0_wB_Jw,SKIP,SKIP,standard,88.4,340,split_screen
+2026-06-21T23:55:25.906647,story_054,The Power of Attorney She Never Signed,https://youtube.com/shorts/RpNyCsobveg,SKIP,SKIP,standard,92.0,349,split_screen
+2026-06-22T11:20:04.864200,story_055,The Veteran's Check That Stopped Coming,https://youtube.com/shorts/cElk0KNo4kE,SKIP,SKIP,standard,95.7,366,split_screen
+2026-06-22T16:40:29.415670,story_056,The Quitclaim Deed In The Hospital Room,https://youtube.com/shorts/68KDgNCkTMs,SKIP,SKIP,standard,98.0,400,split_screen
+2026-06-22T19:58:33.083379,story_057,The Patent He Didn't Know I Had,https://youtube.com/shorts/4TEN47_i65Q,SKIP,SKIP,standard,99.8,379,split_screen
+2026-06-23T00:28:41.944639,story_058,The Signature She Needed,https://youtube.com/shorts/JT08YZpyE9M,SKIP,SKIP,standard,97.2,369,split_screen
+2026-06-23T08:20:26.707243,story_059,Forty Percent Followed Me Out,https://youtube.com/shorts/a7_afOvS6PI,SKIP,SKIP,standard,96.2,385,split_screen
+2026-06-23T13:33:06.376235,story_060,The Key In The Tackle Box,https://youtube.com/shorts/BWafQsLNHJ8,SKIP,SKIP,standard,95.2,384,split_screen
+2026-06-23T19:27:05.067439,story_061,The CPA in the Family,https://youtube.com/shorts/8vvgFw332W4,SKIP,SKIP,standard,97.2,354,split_screen
+2026-06-23T23:20:27.605045,story_062,The Copy the Attorney Kept,https://youtube.com/shorts/FvYZBuE4Hxw,SKIP,SKIP,standard,99.8,363,split_screen
+2026-06-24T09:05:01.095967,story_063,The Head For Business,https://youtube.com/shorts/w4GEuPojcZw,SKIP,SKIP,standard,97.2,393,split_screen
+2026-06-24T12:39:13.423554,story_064,Why Can't You Be More Like Your Sister,https://youtube.com/shorts/t78h2vDf804,SKIP,SKIP,standard,105.0,396,split_screen
+2026-06-24T19:01:15.484254,story_065,I've Understood for Twenty-Eight Years,https://youtube.com/shorts/1nRZb3oXHmw,SKIP,SKIP,standard,102.8,424,split_screen
+2026-06-24T23:58:15.294093,story_066,The Emergency Contact Change,https://youtube.com/shorts/pBCz4UuYfsM,SKIP,SKIP,standard,14.9,388,split_screen
+2026-06-25T08:50:04.315050,story_067,Forty Years of Trust,https://youtube.com/shorts/kBL2Ur-AIQ4,SKIP,SKIP,standard,100.2,368,split_screen
+2026-06-25T13:50:58.551024,story_068,Twenty Minutes on Camera,https://youtube.com/shorts/Wr4d7vot684,SKIP,SKIP,standard,95.9,353,split_screen
+2026-06-25T18:44:19.052502,story_069,Guards a Gate Somewhere,https://youtube.com/shorts/oDIS40lhesA,SKIP,SKIP,standard,102.5,394,split_screen
+2026-06-25T23:33:04.879485,story_070,The Welcome Note,https://youtube.com/shorts/udcw1nyBaU4,SKIP,SKIP,standard,104.9,382,split_screen
+2026-06-26T09:07:13.162792,story_071,She Left Partnership Track,https://youtube.com/shorts/XLY2vKCaZZ4,SKIP,SKIP,standard,103.9,389,split_screen

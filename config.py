@@ -29,8 +29,8 @@ class Config:
         "en-GB-RyanNeural",          # British male — authority
         "en-US-AndrewNeural",        # Warm male — relatable
     ])
-    tts_rate: str = "+55%"  # e.g., '+20%', '-10%', '+55%'                     # Fast pacing to hold attention
-    tts_pitch: str = "+20Hz" # Higher pitch as requested
+    tts_rate: str = "+5%"  # Calm, steady pacing for 60+ demographic
+    tts_pitch: str = "+0Hz" # Natural pitch
     tts_voice_alt: str = "en-US-AnaNeural"           # Alternate voice option
 
     # ── Video Settings ────────────────────────────────────────────────────────
