@@ -2452,6 +2452,39 @@
       "genre": "business",
       "published": true,
       "published_at": "2026-07-03T12:31:27"
+    },
+    {
+      "id": "story_103",
+      "title": "My Boss Filed My Patent Under His Own Name",
+      "domain": "Business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My boss filed my two-year process improvement as his own invention and told me, 'You're a line worker, not an inventor. This is company property now.' He assumed I had no documentation of authorship. He forgot I had emailed my department head a full dated summary of the entire process eleven months earlier.",
+      "hook": "My boss filed my two-year process improvement as his patent because he thought a line worker had no legal standing to dispute an inventor claim.",
+      "villain_dismissal": "You're a line worker, not an inventor. This is company property now.",
+      "reversal_type": "digital",
+      "proof_source": "ordinary_recordkeeping",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My boss filed my two-year process improvement as his patent because he thought a line worker had no legal standing to dispute an inventor claim.\n\nI had spent thirty-one years on the production floor of a mid-sized manufacturing plant outside Columbus. At fifty-nine, I was not considered a thinker by the people who wore ties. My direct supervisor, Gerald, had been transferred into his role two years earlier from a corporate office in another state. He had never worked a production line in his life and made no effort to hide his contempt for those of us who had.\n\nOver two years, I had quietly developed a process modification for our assembly sequence that reduced material waste by eleven percent and cut average throughput time by seven minutes per unit. I had tested it informally on my own shifts, kept detailed records in a spiral notebook, and eventually written up a four-page typed summary with supporting numbers. Eleven months before Gerald's move, I emailed that summary to my department head \u2014 Gerald's supervisor, a man named Warren \u2014 suggesting it might be worth formalizing into a company process. Warren replied with a brief acknowledgment and nothing further happened.\n\nI had forgotten about it by the time Gerald called me into his office on a Tuesday morning. He showed me a patent filing document with his name listed as sole inventor and explained that the company was pursuing formal protection for a new process optimization initiative. He slid a nondisclosure agreement across the desk and said, 'You're a line worker, not an inventor. This is company property now.' He picked up his own pen and waited.\n\nI did not pick up mine. I set my hands on my knees, thanked Gerald for his time, and walked back to my station at my regular pace. I thought about the four-page summary sitting in my sent folder \u2014 the one I had spent two weekends writing at my kitchen table, with the spreadsheet data and the throughput calculations laid out in the appendix. I had a timestamp on that email that Gerald had apparently never considered.\n\nThat evening I opened my email and found the original message to Warren \u2014 sent eleven months before Gerald's filing \u2014 with the full four-page summary attached and my name in the document header. The patent application Gerald had filed bore a date eight months after my email. My documentation predated his claim by nearly a year.\n\nI forwarded the email chain to an intellectual property attorney and explained the situation. She filed an inventorship dispute with the United States Patent and Trademark Office, which has established procedures for exactly this circumstance.\n\nThe formal proceeding was attended by Gerald, the company's legal team, and Warren, who was subpoenaed and confirmed under oath that he had received and read my summary before Gerald had ever mentioned the process to anyone. Gerald's attorneys were unable to explain the eleven-month gap between my documented summary and his filing date in a way that held up under examination.\n\nGerald's name was removed from the patent. I was listed as sole inventor. The company, preferring to avoid further litigation, offered me a licensing royalty arrangement. It added meaningful additional income for the remainder of my employment.\n\nI retired on schedule two years later on the day I had always planned. Gerald was quietly reassigned to a position with no direct reports sometime the following spring \u2014 a move announced by email on a Friday afternoon in the way those things tend to be announced. I still have that spiral notebook on the shelf above my desk at home, right next to the framed copy of the issued patent.",
+      "broll_keywords": [
+        "factory assembly line moving",
+        "spiral notebook with handwriting",
+        "email inbox on laptop screen",
+        "attorney office handshake",
+        "quiet home office desk"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "justice",
+        "revenge",
+        "satisfying"
+      ],
+      "description": "He stole my two-year invention and filed it under his own name while I stood in his office holding a pen I never used. The email I had sent eleven months earlier told the patent office a different story.",
+      "genre": "business",
+      "published": true,
+      "published_at": "2026-07-03T18:37:17"
     }
   ]
 }
