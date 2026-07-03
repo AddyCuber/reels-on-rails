@@ -2419,6 +2419,39 @@
       "genre": "inheritance",
       "published": true,
       "published_at": "2026-07-03T09:09:57"
+    },
+    {
+      "id": "story_102",
+      "title": "The Contractor Took My Deposit and Disappeared",
+      "domain": "Business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My contractor took twenty-two thousand dollars, abandoned the job, and told me, 'You signed a contract, sweetheart. Good luck with that.' He assumed I was too old and too soft to pursue it in court. He forgot his own crew had been texting me timestamped job photos and his exact instructions for weeks.",
+      "hook": "My contractor took twenty-two thousand dollars and walked off because he thought I was too old to chase him through the courts.",
+      "villain_dismissal": "You signed a contract, sweetheart. Good luck with that.",
+      "reversal_type": "digital",
+      "proof_source": "villain_self_incrimination",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My contractor took twenty-two thousand dollars and walked off because he thought I was too old to chase him through the courts.\n\nI had saved for three years to redo the sunroom and the back deck of my house. At sixty-six, with my knees what they are, I wanted a comfortable place to read and watch the yard without standing on splintering boards every morning. Frank came highly recommended by two of my neighbors. He was charming, professional, and arrived for the estimate in a company truck with a magnetic logo on the door. He shook my hand firmly. He called me by my first name.\n\nI paid half upfront \u2014 twenty-two thousand dollars \u2014 as the contract specified. Frank's crew showed up for four days, tore out the old deck framing down to the joists, and left a gaping hole where my sunroom floor used to be. Then Frank stopped answering calls. No voicemail. No texts back. When I finally reached him on the phone two weeks later, he laughed. 'You signed a contract, sweetheart. Good luck with that.' He explained that my signed authorization for demolition meant I had approved the work completed to date, and that the remaining delay was covered by a fine print scheduling clause. He said it pleasantly, like he'd said it before.\n\nI sat down at my kitchen table and made a careful list of everything I had.\n\nFrank's crew had been texting me updates throughout those four working days \u2014 photos of the demolition in progress, with their phones' automatic geotags and timestamps intact, and two voice messages from Frank himself directing his crew to skip the permit step on the sunroom addition to keep overhead costs down. Skipping the permit is illegal in my county. Frank had also sent me a text the day before he vanished confirming that materials had been ordered and were staged at a supplier's warehouse, which directly contradicted his later claim that a supplier failure was responsible for the delay.\n\nI did not call Frank again. I had said everything useful to him the day he laughed at me over the phone. I gathered everything carefully: the crew texts organized by date, the voice messages saved as audio files, a printed copy of the county permit office's negative search result, and my original signed contract with Frank's company name and license number at the top. I filed in civil court with an attorney who worked on contingency. She called it one of the cleaner contractor fraud cases she had handled all year.\n\nAt the hearing, Frank arrived without legal representation, apparently certain I had nothing workable. I submitted the timestamped crew photos, Frank's own voice messages directing the permit skip, his texts, and a county records search confirming that no permit had ever been pulled for the job. The permit violation alone created a separate exposure for him with the county licensing board.\n\nThe judge awarded me full restitution of the twenty-two thousand plus my legal fees. The county licensing board received the referral and suspended Frank's contractor license within sixty days of the judgment.\n\nA neighbor who had been watching from across the street the day Frank's crew left sent me a text when she saw the verdict summary in the local paper. She said at least three other people on the block had similar experiences with him and were glad someone had finally done something about it.\n\nMy new deck was built that summer by a licensed contractor with proper permits pulled on day one. I read out there every morning now. Coffee, good light, no splintering boards. It was worth every bit of the fight.",
+      "broll_keywords": [
+        "sunlit back yard patio",
+        "stack of legal documents",
+        "carpenter measuring deck boards",
+        "courthouse building exterior",
+        "morning coffee on porch railing"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "justice",
+        "revenge",
+        "satisfying"
+      ],
+      "description": "He took my twenty-two thousand dollars, told me good luck in court, and vanished. His own text messages and voice recordings handed me everything the judge needed.",
+      "genre": "business",
+      "published": true,
+      "published_at": "2026-07-03T12:31:27"
     }
   ]
 }
