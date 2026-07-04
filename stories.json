@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_107",
-      "title": "My Stepmother Rewrote Dad's Trust While He Was Sedated",
-      "domain": "Inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My stepmother had my father's trust amended while he was sedated in hospice and told me at the reading, 'He changed his mind. People do that.' She assumed I had no way to challenge a legally executed document. She forgot a hospice nurse had charted his condition every hour \u2014 including the hour the notary came.",
-      "hook": "My stepmother amended my father's trust while he was sedated in hospice care because she assumed I was too far away and too trusting to look closely.",
-      "villain_dismissal": "He changed his mind. People do that.",
-      "reversal_type": "legal",
-      "proof_source": "third_party",
-      "witness_present": true,
-      "narrator_position_at_end": "indifferent",
-      "narration": "My stepmother amended my father's trust while he was sedated in hospice care because she assumed I was too far away and too trusting to look closely.\n\nMy father had been methodical about his estate planning from his early sixties onward. He had established a revocable trust with clear and explicit instructions: his house, his investment accounts, and his personal property were to be divided equally between me and my brother upon his death, with a separate and specific bequest to my stepmother Renata, who had married my father in his late seventies and had substantial assets of her own. He had reviewed the trust with his attorney every few years. He had explained it to both my brother and me in plain terms on more than one occasion.\n\nMy father entered hospice care in November. He was eighty-one and the decline came quickly. I flew in and sat with him for three weeks. Renata was present and cordial throughout that time. She brought food. She thanked the nurses. I had no reason to be suspicious of her.\n\nI flew home when my father briefly stabilized. He passed four days later.\n\nAt the trust reading, the attorney presented an amendment dated eleven days before my father's death. It redirected the majority of the trust assets to Renata. My brother and I sat across the table from her, and when I asked about the amendment, she said evenly, 'He changed his mind. People do that.'\n\nI asked for a copy of the amendment. I thanked the attorney for his time. I said nothing else.\n\nI did not say anything else at the reading. I put the amendment copy in my bag, drove back to the hotel, sat at the small desk by the window, and made three phone calls: one to my brother, one to an estate litigation attorney whose name I had looked up before the meeting because I had a feeling about what might be in that room, and one to the hospice facility the following morning. My father's primary nurse, a woman named Dolores who had cared for him throughout the final weeks, made standard clinical charting entries every hour, as hospice nursing protocol requires. On the exact date the amendment was executed, her notes documented that my father was in a state of significant cognitive confusion, was unresponsive to complex questions, and had required sedation medication for comfort management. The entry included the notation: patient unable to engage meaningfully in sustained communication today.\n\nDolores agreed immediately to provide a sworn affidavit. She said she had been troubled by the notary's visit that afternoon and had noted it because of her concern, but had not known who to contact. She remembered the day clearly.\n\nAn estate litigation attorney filed a challenge on the grounds of testamentary incapacity. At the hearing \u2014 attended by Renata, both legal teams, and the notary who had executed the amendment \u2014 Dolores's clinical charting was entered into evidence alongside the attending physician's notes from the same date. The notary's recall of the visit was imprecise. She could not describe the specific questions she had asked to assess my father's capacity, which is a required step in the notarization of a trust amendment.\n\nThe amendment was voided. The original trust was reinstated and honored in full. Renata received exactly what my father had always intended her to receive. My brother and I received what he had planned for us.\n\nRenata did not attend the distribution meeting. I understand she has since moved to a smaller house.\n\nI planted a Japanese maple in my back yard this spring, because my father always admired them when he visited. It's the first thing I see from the kitchen window every morning.",
-      "broll_keywords": [
-        "hospice room with soft window light",
-        "legal briefcase on conference table",
-        "nurse charting at bedside",
-        "young Japanese maple in yard",
-        "elderly hands on white pillow"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "My stepmother had the trust rewritten while my father lay sedated in hospice and called it his change of heart. A nurse's hourly chart entries told the probate court exactly what his condition was that day.",
-      "genre": "inheritance"
-    },
-    {
       "id": "story_108",
       "title": "The HOA Treasurer Billed Us for Phantom Repairs",
       "domain": "HOA/Neighbor",
