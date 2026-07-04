@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_105",
-      "title": "HOA President Fined My Legal Fence Seven Times",
-      "domain": "HOA/Neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My HOA president issued me seven consecutive fines for a fence on 'common property' and told me, 'You built on community land. We'll keep billing until you comply.' He assumed I had no way to fight a board decision. He forgot the county had recorded my exact property boundary forty-two years ago.",
-      "hook": "My HOA president fined me seven times for a fence he claimed was on common land because he thought I was too tired to challenge a board decision.",
-      "villain_dismissal": "You built on community land. We'll keep billing until you comply.",
-      "reversal_type": "legal",
-      "proof_source": "third_party",
-      "witness_present": true,
-      "narrator_position_at_end": "in_power",
-      "narration": "My HOA president fined me seven times for a fence he claimed was on common land because he thought I was too tired to challenge a board decision.\n\nI had lived in my house for twenty-two years. The fence I built twelve years ago runs along the eastern edge of my back yard, three inches inside the property line I had surveyed before installation. I had hired a licensed surveyor, applied for the building permit, and paid for every post myself. I did things by the book because I intended to be in that house for a long time.\n\nThe new HOA president, a retired sales manager named Clifton, had moved into the neighborhood eighteen months earlier and immediately set about reasserting the board's authority over everything he could reach. He had a gift for paperwork and a sincere belief that his neighbors were compliance problems waiting to be solved.\n\nHe began issuing fine notices in August \u2014 two hundred dollars per month \u2014 claiming my fence encroached on community green space. When I called to dispute the first notice, Clifton was brisk and unapologetic. He said, 'You built on community land. We'll keep billing until you comply.' He mentioned liens as though they were a greeting. His supporting evidence was a community map printed directly from the HOA's own website, which was, as it turned out, a marketing rendering produced by the original developer decades ago. It was not a legal survey. It was not recorded with the county. It was a brochure illustration created for prospective buyers. But Clifton had reproduced it on official HOA letterhead and attached lien language to every notice, and several of my neighbors had quietly paid similar fines rather than deal with the confrontation.\n\nI did not pay. I filed a written dispute with the board stating that I believed the fine was based on an inaccurate property description and requested the legal survey on which the fine had been assessed. Clifton's reply cited the same community map with no additional documentation. I then went to the county recorder's office instead.\n\nThe clerk behind the counter had worked there for over thirty years and located the original plat map for our subdivision within minutes. It had been filed and recorded in 1982, with precise metes and bounds measured by a licensed surveyor at the time of development. According to that document \u2014 the actual legal record of the property boundary \u2014 my fence stood fourteen inches inside my own lot line. It was not on common property. It never had been.\n\nI had the county provide a certified copy with its official seal and brought it to the next board meeting along with twelve of my neighbors, several of whom had their own unresolved fine disputes.\n\nI placed the county document on the table beside Clifton's HOA map and asked him to explain the difference between the two. He studied both for a moment and offered that the HOA map might be considered approximate for informal reference.\n\nI asked whether the fourteen hundred dollars in fines he had issued me were also approximate.\n\nThe board voted that evening to rescind all seven fines in full and issue a written apology. The county plat, not the developer's marketing illustration, was formally adopted as the community's property reference going forward. My neighbors who had paid similar invalid fines were also refunded.\n\nClifton chose not to seek reelection the following spring. The surveyor's stakes from twelve years ago are still in the ground right where I put them. The fence looks exactly the same as it always has.",
-      "broll_keywords": [
-        "wooden backyard fence line",
-        "county recorder office clerk",
-        "neighborhood board meeting chairs",
-        "certified survey document with seal",
-        "backyard roses in morning light"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "He fined me seven times over a fence he claimed was on community property. A forty-two-year-old county plat map proved my fence was fourteen inches inside my own lot the entire time.",
-      "genre": "hoa/neighbor"
-    },
-    {
       "id": "story_106",
       "title": "My Husband's Partner Tried to Cut Me Out After the Funeral",
       "domain": "Inheritance",
