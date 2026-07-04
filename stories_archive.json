@@ -2617,6 +2617,39 @@
       "genre": "inheritance",
       "published": true,
       "published_at": "2026-07-04T18:48:02"
+    },
+    {
+      "id": "story_108",
+      "title": "The HOA Treasurer Billed Us for Phantom Repairs",
+      "domain": "HOA/Neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "The HOA treasurer raised our dues forty percent for emergency infrastructure repairs and told me, 'The maintenance schedule is complex. You wouldn't understand the specifics.' He assumed no homeowner would verify the contractors. He forgot that one of his listed companies had dissolved its business registration two years earlier.",
+      "hook": "My HOA treasurer raised our dues forty percent for infrastructure repairs that never happened because he thought no one on the block would check his work.",
+      "villain_dismissal": "The maintenance schedule is complex. You wouldn't understand the specifics.",
+      "reversal_type": "financial",
+      "proof_source": "ordinary_recordkeeping",
+      "witness_present": true,
+      "narrator_position_at_end": "in_power",
+      "narration": "My HOA treasurer raised our dues forty percent for infrastructure repairs that never happened because he thought no one on the block would check his work.\n\nI have lived in my townhouse for eleven years. Our homeowners association covers exterior maintenance, shared driveways, and the community garden we all use during the warmer months. The monthly dues had been reasonable for years \u2014 four hundred dollars \u2014 until our treasurer, a man named Hal, stood at the annual meeting with a thick folder and announced that an emergency infrastructure assessment had revealed serious problems: drainage failures, aging roof structures, and deteriorating concrete across the shared walkways. The new monthly dues would be five hundred and sixty dollars, effective the following billing cycle.\n\nNeighbors groaned and asked questions. Hal held up a thick folder, set it on the podium, and said, 'The maintenance schedule is complex. You wouldn't understand the specifics.' He distributed a one-page budget summary and moved on before anyone could look at it closely. Several people quietly folded the page and tucked it away. I did not. He said, 'The maintenance schedule is complex. You wouldn't understand the specifics,' and distributed a single-page budget summary listing three contractors and a total expenditure of over two hundred thousand dollars.\n\nI had spent twenty-eight years as a bookkeeper for a dental practice. A one-page summary with three line items does not intimidate me. I took it home and spent a quiet Tuesday evening looking up each contractor online.\n\nThe first company was active and had a functional website. The second had a listed phone number. When I called, the woman who answered had no record of any work order for our community and offered to email me their current client list to confirm. The third contractor \u2014 the one responsible for the single largest budget item \u2014 had dissolved its state business registration two years earlier. Its website, which Hal had included in the summary as a reference, had not been updated since the year before the company closed.\n\nI went to the county building permit office the following morning and asked about permits pulled for our community address in the previous twenty-four months. Major structural and drainage work requires permits. There were none on file for any project matching the descriptions in Hal's summary.\n\nI prepared a two-page written memo, attached the state dissolution record for the third contractor and the permit office confirmation, and distributed it to all thirty-one households in our community by email the night before I brought it formally to the board.\n\nThe emergency meeting that followed was attended by all thirty-one households, the full board, and an attorney one of my neighbors had quietly retained. I walked through the three contractors one at a time. Hal attempted to explain the dissolved company as a billing name change due to a corporate restructuring. When pressed for the new company's registration number, he did not have one. He could not explain the missing permits for work that should have required them.\n\nThe board voted that evening to freeze the dues increase, retain an independent auditor, and formally investigate the discrepancy. Hal resigned before the audit concluded. The independent auditor found financial irregularities totaling close to eighty thousand dollars. The matter was referred to law enforcement for further review.\n\nOur dues were set at four hundred and twelve dollars for the following year \u2014 a modest legitimate increase. I was asked to serve on the community's new finance oversight subcommittee.\n\nHal's house went on the market that spring. It sold within a week. I don't know where he went, and I have no particular interest in finding out.",
+      "broll_keywords": [
+        "spreadsheet on dining table lamp",
+        "neighborhood townhouse row aerial",
+        "state dissolution certificate printout",
+        "community meeting folding chairs",
+        "coffee mug on morning table"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "justice",
+        "revenge",
+        "satisfying"
+      ],
+      "description": "He raised our monthly dues forty percent for repairs that never happened and told us the details were too complex for us to understand. One of his listed contractors had closed two years earlier.",
+      "genre": "hoa/neighbor",
+      "published": true,
+      "published_at": "2026-07-04T23:52:00"
     }
   ]
 }
