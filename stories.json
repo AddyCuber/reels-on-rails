@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_111",
-      "title": "My Mother's Caregiver Drained Her Savings Account",
-      "domain": "Inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My mother's live-in caregiver transferred eleven thousand dollars to herself over eight months and told investigators, 'She gave me permission. She said it was for my hard work.' She assumed no one was watching the account closely. She forgot the bank mailed paper statements to my address every single month.",
-      "hook": "My mother's caregiver transferred eleven thousand dollars out of her savings because she assumed I was too far away to notice the account activity.",
-      "villain_dismissal": "She gave me permission. She said it was for my hard work.",
-      "reversal_type": "financial",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "indifferent",
-      "narration": "My mother's caregiver transferred eleven thousand dollars out of her savings because she assumed I was too far away to notice the account activity.\n\nMy mother was eighty-four and living alone in the home she and my father had shared for fifty years. Her dementia was mild \u2014 she could hold a conversation, remember her neighbors, enjoy her stories on television \u2014 but managing paperwork, bills, and banking had become genuinely confusing for her. Three years ago I arranged for a live-in caregiver through a licensed agency. The woman, whose name was Sylvia, arrived with strong references and seemed warm and patient with my mother from the first week.\n\nI live three hours away. I visited every month, called every two to three days, and had remained on my mother's bank account as an authorized signer \u2014 a precaution I had put in place years before Sylvia came into the picture. When I added myself as a signer, I also requested that paper monthly statements be mailed to both addresses: my mother's home and mine. The bank representative who set it up had said it was unusual. I said I preferred it that way.\n\nThe first statement that gave me pause arrived when Sylvia had been there for eleven months. Two transfers \u2014 four hundred dollars each \u2014 to an external account, marked as authorized transfer. My mother's day-to-day expenses were modest and handled through a separate checking account I managed myself. There was no ordinary reason for money to move out of her savings account.\n\nI set that statement aside and waited for the next month's. Three more transfers. I gathered the previous nine months of statements from my own files and arranged them on the kitchen table. Over eight months, twenty-two transfers had gone to the same external account, totaling eleven thousand four hundred dollars.\n\nI called the bank's fraud line that same evening and asked for a hold on outgoing transfers from the savings account pending investigation. The next morning I called Adult Protective Services, which operates a dedicated elder financial abuse line, and the district attorney's elder fraud unit in my mother's county. I also contacted the placement agency and provided them with copies of the statements.\n\nWhen APS investigators met with Sylvia, she told them my mother had verbally authorized every transfer as supplemental compensation for the quality of her care. She had made the same claim to the bank's fraud team when they initially flagged the activity for review. She had said, 'She gave me permission. She said it was for my hard work.' She said it with the certainty of someone who had told the story enough times to believe it. My mother's own words, in a recorded APS interview conducted with care and patience, said otherwise. She said it with conviction. My mother's own words, in a recorded APS interview, said otherwise. My mother, interviewed separately and carefully by an APS caseworker in a structured setting, had no recollection of authorizing any transfers and became visibly upset when told that money had left her account without her understanding.\n\nSylvia was charged with elder financial abuse. The external account, registered in her name, was frozen. The court ordered full restitution of the transferred funds.\n\nMy mother recovered the entire eleven thousand four hundred dollars within the year. The process confused her, and I chose not to explain it in detail. Some things do not need to be understood to be resolved.\n\nI found a new caregiver through a different agency with a stronger background vetting process. The bank now sends me weekly balance alerts in addition to the monthly paper statements.\n\nWhen the investigators reviewed Sylvia's background more thoroughly, they found this was not the first time she had done this. I am glad the paper statements went to two addresses.",
-      "broll_keywords": [
-        "bank statement papers on table",
-        "older woman in cozy chair",
-        "financial transfer screen closeup",
-        "caregiver walking with elderly woman",
-        "morning mailbox with letters"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "My mother's caregiver quietly drained eleven thousand dollars from her savings over eight months and said my mother had approved every transfer. Monthly paper statements mailed to my address told a different story.",
-      "genre": "inheritance"
-    },
-    {
       "id": "story_112",
       "title": "My Brother Rented Dad's House During Probate and Kept the Money",
       "domain": "Inheritance",
