@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_109",
-      "title": "My Manager Presented My Retirement Plan as His Own",
-      "domain": "Business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My office manager presented my eight-month efficiency plan to the partners as his own work and told me privately, 'You're retiring in six months anyway. Let someone with a future take the credit.' He assumed I had no documentation showing authorship. He forgot I had emailed the full draft to three partners two weeks before he presented it.",
-      "hook": "My office manager presented my retirement plan to the partners as his own because he thought a woman with six months left had nothing worth protecting.",
-      "villain_dismissal": "You're retiring in six months anyway. Let someone with a future take the credit.",
-      "reversal_type": "digital",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "indifferent",
-      "narration": "My office manager presented my retirement plan to the partners as his own because he thought a woman with six months left had nothing worth protecting.\n\nI had spent twenty-four years as office administrator for a regional accounting firm. At sixty-two, I was the institutional memory of the practice \u2014 the person who knew every client file, every billing quirk, every staff process going back to before the current partners had graduated from their programs. Over the previous eight months, I had channeled everything I knew into a formal operational efficiency plan. I had built it from scratch: documented workflow gaps, modeled cost savings, projected timelines, written clear implementation steps. My estimate was that it would reduce the firm's overhead by roughly eighteen percent annually. I had planned to present it at my retirement as a gift to the people who had been my professional home for almost a quarter century.\n\nMy office manager, Craig, was thirty-nine and the kind of ambitious that becomes difficult when promotions slow down. He had watched me build the plan over several months and had asked me questions about specific sections along the way, which I had answered openly, because I trusted my colleagues and I had nothing to hide.\n\nTwo weeks before I planned to formally present the plan, I sent a draft by email to three of the managing partners \u2014 clearly labeled with my name in the document header \u2014 as an advance courtesy so they would not be hearing the proposal cold. I was being considerate. It did not occur to me that I was also creating a timestamped record of authorship.\n\nI should have noticed something was wrong when Craig scheduled an unannounced partners meeting for the week before my planned presentation date. He presented my plan \u2014 his name now in the header, the structure and data nearly identical to my draft \u2014 to the full partnership. I sat in the back row of the conference room and watched him receive a standing ovation.\n\nWhen the meeting ended, Craig found me in the hallway. He was relaxed, almost friendly. He said quietly, 'You're retiring in six months anyway. Let someone with a future take the credit.' He walked away without waiting for my response.\n\nI went back to my desk and pulled up the sent folder. The email was there: my draft, timestamped fourteen days before Craig's presentation, addressed to three managing partners by name, with my name clearly in the document header and the four-page efficiency summary attached as a PDF. The metadata on the attachment showed my name as the original file author. I had not thought to protect myself. I had simply worked the way I always worked \u2014 carefully and under my own name.\n\nI forwarded it to the managing partner with a single sentence: I believe this predates the presentation by fourteen days and I'd appreciate a brief meeting at your convenience.\n\nShe responded within the hour.\n\nAt the meeting, she set both documents side by side and compared them section by section. The structural similarity was not a coincidence. Craig was given an opportunity to explain. He could not produce any documentation showing his own development of the plan.\n\nMy name was placed on the plan in the official firm record. A bonus was added to my retirement package as formal acknowledgment of the work. Craig remained employed but was removed from the partnership consideration list for that review cycle.\n\nI retired on exactly the day I had always planned. The party was warm and attended by people who genuinely cared. Craig came through the receiving line. He shook my hand and looked at the floor the entire time.\n\nI started a container garden on my balcony the first week of retirement. It is doing beautifully.",
-      "broll_keywords": [
-        "laptop with sent email open",
-        "conference room partners meeting",
-        "tidy office desk organizer",
-        "retirement party cake",
-        "balcony container garden sunlight"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "He presented my eight months of work as his own at the partners meeting and told me retiring women don't need credit. The email I had sent fourteen days earlier said my name very clearly.",
-      "genre": "business"
-    },
-    {
       "id": "story_110",
       "title": "My Neighbor Claimed Three Feet of My Driveway Was His",
       "domain": "HOA/Neighbor",
