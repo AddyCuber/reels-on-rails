@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_113",
-      "title": "My Wife's Attorney Hid Our Rental Property in the Divorce",
-      "domain": "Relationship",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My wife's attorney declared the divorce financial disclosure complete and told the mediator, 'My client has already provided a complete financial picture.' She assumed a rental property had been kept entirely off my radar for years. She forgot the county tax assessor sends annual property notices to every owner of record by name.",
-      "hook": "My wife's attorney hid a rental property from the divorce disclosure because they assumed I was too uninvolved in our finances to know it existed.",
-      "villain_dismissal": "My client has already provided a complete financial picture.",
-      "reversal_type": "financial",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My wife's attorney hid a rental property from the divorce disclosure because they assumed I was too uninvolved in our finances to know it existed.\n\nMy wife and I had been married for thirty-one years when we separated. I use the word separated because she had effectively made her decision eighteen months before she told me, and the preparation that had gone on during those eighteen months \u2014 legal, financial, logistical \u2014 was something I only pieced together afterward. She had worked with her attorney for a considerable period before I had a lawyer of my own.\n\nDivorce requires both parties to disclose all assets. Her disclosure was thorough-looking: our primary residence, the joint checking and savings accounts, both vehicles, the retirement accounts. Her attorney presented it at the opening mediation session and said with the confidence of someone who believed the matter was settled, 'My client has already provided a complete financial picture.'\n\nI was not a financial professional. I spent thirty-two years as a high school history teacher in the same district where I had grown up. I knew curriculum, I knew teenagers, and I knew how to organize information \u2014 but I had no training in tax law, property records, or asset disclosure requirements. What I had was a habit and a filing cabinet and thirty-two years of opening every piece of mail that arrived addressed to my name, because my mother had done the same thing and I had learned it from watching her. It had never seemed like a significant practice. It turned out to be the only one that mattered. But I had a simple habit: I open all mail that arrives addressed to my name, regardless of whether I think I need to.\n\nThree years earlier \u2014 before any of this was in motion \u2014 I had received a property tax assessment notice from a county two states away. The notice named me as a co-owner of a small income-producing duplex. I had not purchased it, had not been consulted about it, and had no idea it existed until that envelope arrived. At some point, my wife had purchased it and, presumably for tax structuring reasons, had listed both our names on the deed.\n\nWhen the envelope arrived, I filed it in a manila folder in my home office and forgot about it entirely. I had no reason to think about a property I hadn't purchased in a state I rarely visited.\n\nUntil the financial disclosure crossed my desk and listed no out-of-state assets.\n\nI retrieved the manila folder. I confirmed my name was still listed on the deed by pulling the current record from the out-of-state county recorder's website. I gave the tax notice and deed record to my attorney the same afternoon.\n\nAt the next mediation session, my attorney placed the property tax assessment and the deed on the table. The opposing attorney went very quiet. My wife looked directly at the table surface for a long moment.\n\nThe duplex had been generating rental income for three years that had not been disclosed. Its appraised value had appreciated meaningfully since purchase. Both the equity and the undisclosed rental income were added to the marital estate calculation. My share of the adjusted settlement was substantially larger than what had originally been positioned as a complete and fair accounting.\n\nI retired to a smaller house near my youngest daughter that fall. I used my portion of the settlement to travel somewhere warm for three weeks the following January. I had always meant to do that.\n\nI open all my mail. I always will.",
-      "broll_keywords": [
-        "property tax notice paper closeup",
-        "mediation conference room table",
-        "small duplex neighborhood exterior",
-        "retired man reading on porch",
-        "manila folder on home office desk"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "Her attorney told the mediator the divorce disclosure was complete and accounted for everything. A tax notice sitting in my home office folder said otherwise.",
-      "genre": "relationship"
-    },
-    {
       "id": "story_114",
       "title": "My Stepson Erased Me From the Business I Funded",
       "domain": "Business",
