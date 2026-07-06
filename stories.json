@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_114",
-      "title": "My Stepson Erased Me From the Business I Funded",
-      "domain": "Business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My stepson had his attorney declare I had no ownership interest in the company I'd funded for twelve years and told me, 'You were never listed as a partner. You were moral support.' He assumed I had no legal claim without a formal title. He forgot about twelve years of personal checks and a text where he promised to pay it all back.",
-      "hook": "My stepson declared me out of the business I funded for twelve years because he thought moral support was not the kind of thing that held up in mediation.",
-      "villain_dismissal": "You were never listed as a partner. You were moral support.",
-      "reversal_type": "financial",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "indifferent",
-      "narration": "My stepson declared me out of the business I funded for twelve years because he thought moral support was not the kind of thing that held up in mediation.\n\nI had married his father when Kevin was nineteen years old. His father passed twelve years ago, and what he left behind \u2014 besides a house I still live in and a modest savings account \u2014 was a stepson with enormous ambition and very little starting capital. Kevin had a clear vision for a landscaping and property maintenance company. He was genuinely talented at the work and genuinely driven by the goal. He was also, at twenty-seven, perpetually short on money at the wrong moments.\n\nOver the course of twelve years, I provided capital when he needed it. I was not his silent partner on paper. I was the person who wrote the check when the equipment loan came due and he was short, who covered two payroll shortfalls so his crew would not walk, who paid outright for the truck that became the backbone of his entire operation, and who co-signed the commercial lease on his first real yard. I kept records of all of it \u2014 checkbook registers, bank statements, voided check copies, lease documents. Old habit, learned from my late husband. He called it the paper trail principle. I had followed it since before Kevin was born.\n\nWhen the business became genuinely successful \u2014 worth real money, with a real reputation and a full client roster \u2014 Kevin came to my house with a document his attorney had prepared. It was a formal declaration that I had no ownership interest in the company, had never been listed as a partner, and had no legal claim to any portion of its value or its proceeds. This was technically accurate in the narrowest possible reading: I had never been formally named a partner on any operating agreement.\n\nHe pushed the document across my kitchen table and waited. 'You were never listed as a partner,' he said, with the patience of someone who has rehearsed the line. 'You were moral support.'\n\nI folded my hands in my lap. I said I would need to have my own attorney look at it before signing anything.\n\nMy attorney asked two questions in our first meeting. First: did I have documentation of the financial contributions? I walked her through twelve years of checkbook registers, bank statements, and the co-signed commercial lease paperwork. Second: had Kevin ever, in writing or in the presence of witnesses, acknowledged those contributions as investments or loans rather than gifts?\n\nHe had done so twice. An email from eight years ago thanked me for keeping the company alive during a difficult quarter. A text message from four years ago asked whether I could cover another payroll gap and included the line: I'll pay it all back someday, I promise.\n\nAn attorney does not promise to repay moral support someday. That language mattered.\n\nAt the mediation \u2014 attended by both attorneys, Kevin, and a business valuator \u2014 my documentation was entered in full. Kevin's counsel offered a settlement within the first hour to avoid further proceedings. I accepted a structured payment arrangement that provides steady income for several years going forward.\n\nI did not sign the document he had brought to my kitchen table. I set it to one side, told him I would be in touch, and waited for him to leave. Kevin had always assumed that the transactions between us \u2014 the money, the checks, the lease co-signing \u2014 existed in a space outside of documentation because I had never pressed him for paperwork. He was wrong about that. I had just been trusting, which is not the same thing as careless. Kevin runs his business. I do not think about it. I have redecorated the room where he used to leave his boots by the door. It is a reading room now. The house is quiet, which is exactly how I prefer it.",
-      "broll_keywords": [
-        "personal checkbook register closeup",
-        "landscaping truck on neighborhood road",
-        "mediation session with documents",
-        "attorney office legal bookshelf",
-        "sunlit home reading room armchair"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "My stepson tried to legally erase my twelve years of funding his company by calling me moral support. Twelve years of canceled checks and one text message about paying it back told a different story.",
-      "genre": "business"
-    },
-    {
       "id": "story_115",
       "title": "My HOA Demolished My Approved Shed Without Warning",
       "domain": "HOA/Neighbor",
