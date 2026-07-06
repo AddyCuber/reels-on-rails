@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_115",
-      "title": "My HOA Demolished My Approved Shed Without Warning",
-      "domain": "HOA/Neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My HOA board demolished my backyard shed and told me, 'It was a violation. We have full authority under your covenant to remove non-compliant structures.' She assumed I had no recourse once it was gone. She forgot the covenant she cited had been amended four years ago to require written notice and my written consent.",
-      "hook": "My HOA board demolished my backyard shed without any warning because the president assumed her covenant gave her authority to remove whatever she decided was a problem.",
-      "villain_dismissal": "It was a violation. We have full authority under your covenant to remove non-compliant structures.",
-      "reversal_type": "legal",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My HOA board demolished my backyard shed without any warning because the president assumed her covenant gave her authority to remove whatever she decided was a problem.\n\nI built the shed eight years ago \u2014 a solid twelve-by-sixteen cedar structure to house my garden tools, my seed-starting equipment, and the woodworking bench my late husband had used. I had submitted the architectural review request form to the board before construction began. The board at the time had approved it in writing. I had kept that approval letter in the folder where I store every piece of correspondence from the homeowners association, which I have maintained since my first month in the community because my mother, who spent the last twenty years of her life in an HOA, had told me to keep everything they ever sent.\n\nThe current board president, a woman named Diane, had held the position for two years and approached it as a matter of community improvement through enforcement. She had targeted several structures in the neighborhood with violation notices over the previous year. I had received one myself the previous spring about an unpermitted garden border, which I had remedied quickly.\n\nI came home from book club on a Thursday afternoon to find the shed gone. In its place was a flattened dirt rectangle and tire tracks where the flatbed had pulled away. Half my husband's woodworking equipment had been inside.\n\nDiane called me that evening at six-fifteen. She was composed and businesslike. She explained that the shed had been categorized as a non-compliant auxiliary structure and removed pursuant to the board's enforcement authority under the community's governing covenant. She said, 'It was a violation. We have full authority under your covenant to remove non-compliant structures.' She suggested I review my original purchase documents if I had questions about the process. She spoke as though the matter were entirely resolved.\n\nI reviewed them that night. My folder was organized by calendar year, subdivided by topic, which made this straightforward. My mother had kept her HOA documents the same way, and I had watched her use them to resolve a dispute without an attorney when I was in my thirties. I had started my own folder the day I signed the purchase papers for this house.\n\nThe community covenant had been amended by homeowner vote four years earlier, following a contentious dispute over a different removal action. The amendment revised the enforcement procedures to require written notice of any alleged violation, a sixty-day period for the owner to remedy or appeal, and written owner consent or an active court order before any physical removal could take place. The amendment had been distributed to all homeowners at the time. I had the copy they had mailed me, with the distribution date printed on the cover page.\n\nI also had my original approval letter from eight years ago, signed by the then-president, confirming the shed had been authorized.\n\nMy attorney sent a formal demand letter to the HOA board the following week, citing the amendment, the unauthorized removal of a legally approved structure, and requesting full replacement cost documentation. At the board meeting two weeks later \u2014 attended by four other homeowners who had received aggressive notices from Diane and were watching from the gallery \u2014 the HOA's own counsel acknowledged to the board that proper procedure had not been followed. The board voted to pay for full reconstruction of the shed, including replacement of the lost contents at documented cost, and issued a formal reminder memo to all board members regarding enforcement procedures.\n\nDiane remains on the board. She has not initiated a removal action since.\n\nThe new shed is built. It is slightly larger than the original because the contractor I hired had a different standard width. The approval letter for the new shed is already in the folder.",
-      "broll_keywords": [
-        "cedar garden shed backyard",
-        "organized homeowner document folder",
-        "HOA board meeting room residents",
-        "new shed lumber construction",
-        "handwritten approval letter desk"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "She had my approved backyard shed demolished without notice or consent and told me it was her right under the covenant. The covenant amendment from four years ago required my written permission before anything could be removed.",
-      "genre": "hoa/neighbor"
-    },
-    {
       "id": "story_116",
       "title": "My Co-executor Bought Aunt's Antiques at His Own Rigged Auction",
       "domain": "Inheritance",
