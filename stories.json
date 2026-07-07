@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_117",
-      "title": "My Ex-wife's Husband Forged My Name on the Property Deed",
-      "domain": "Relationship",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My ex-wife's new husband filed a deed transfer on land we still co-owned and told me, 'She said you already agreed to this. It's done.' He assumed I would accept it and move on. He forgot my actual signature is distinctive \u2014 and I had never signed anything.",
-      "hook": "My ex-wife's husband filed a forged deed transfer on property we still co-owned because he assumed a retired man living out of state would never look at county records.",
-      "villain_dismissal": "She said you already agreed to this. It's done.",
-      "reversal_type": "legal",
-      "proof_source": "villain_self_incrimination",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My ex-wife's husband filed a forged deed transfer on property we still co-owned because he assumed a retired man living out of state would never look at county records.\n\nMy first marriage ended eleven years ago with a settlement that was straightforward in most respects. The one complication was a small undeveloped parcel of land we had purchased together that neither of us had the resources to buy out at the time of the divorce. The settlement agreement \u2014 a signed, notarized legal document \u2014 specified that we would hold the parcel jointly until we mutually agreed to sell and would split any proceeds equally at that time. We had never agreed to sell.\n\nI moved across the country and retired. The land sat idle, generated no income, required no maintenance, and I thought about it primarily in spring when the county property tax notice arrived. I paid my half, my ex-wife paid hers, and the parcel just existed.\n\nOne spring, no tax notice arrived. I waited two weeks, then checked the county assessor's website to see if there had been a mailing delay. The parcel was no longer listed under my name. A deed transfer had been recorded four months earlier, transferring full ownership to my ex-wife and her new husband, Terry, as sole owners. My name appeared on the transfer document as a grantor. There was a signature attributed to me on the deed.\n\nI had signed nothing. I had not spoken to my ex-wife about this property in more than two years and had received no written notice of any intended transfer. When I called Terry directly, he was matter-of-fact. He said, 'She said you already agreed to this. It's done.' He said it with the confidence of a man who believes paperwork he controls is the same thing as consent. I said I would need to look into it further. He said there was nothing to look into. The deed was recorded, the property was transferred, and as far as he was concerned the conversation was over. I told him I appreciated his time.\n\nI requested a certified copy of the deed from the county recorder's office by mail. When it arrived, I compared the signature attributed to me against my actual signature on the original divorce settlement agreement, which I had in my files. The signatures were not the same. My signature is asymmetrical in a specific way that is not easily replicated. What appeared on the deed was an approximation but not a match.\n\nI reported the discrepancy to the county sheriff's real estate fraud unit and to my attorney. The fraud investigator requested handwriting samples from Terry and my ex-wife for comparison analysis. The investigation also revealed that the notary listed on the deed \u2014 a woman who had a prior professional relationship with Terry \u2014 could not clearly describe what verification steps she had taken before signing off on my identity and capacity, which are required components of the notarization process.\n\nTerry was charged with deed fraud and document forgery. My ex-wife cooperated with investigators in the subsequent proceedings and was not charged, though the circumstances of the transfer suggested she had been aware it was occurring.\n\nThe deed was voided by court order. Ownership of the parcel reverted to the joint structure established in the original divorce settlement.\n\nWith the litigation resolved, I proposed selling the parcel through a formal real estate listing, which my ex-wife agreed to. The land had appreciated considerably in the eleven years since we had purchased it. I received my half of the sale price, which was more than I had expected when we originally bought the land.\n\nTerry's criminal case proceeded independently. I did not follow it closely. My name is correctly listed on my property records again, which is the only part that was ever my concern.",
-      "broll_keywords": [
-        "county recorder office counter window",
-        "deed transfer document paper closeup",
-        "undeveloped land aerial view",
-        "attorney reviewing document signatures",
-        "official court stamp on transfer"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "He transferred property we co-owned using a deed with my forged signature and told me it was already settled. My actual signature on the divorce agreement from eleven years ago told investigators exactly what they needed to know.",
-      "genre": "relationship"
-    },
-    {
       "id": "story_118",
       "title": "My Supervisor Underpaid My Pension for Eighteen Months",
       "domain": "Business",
