@@ -2881,6 +2881,39 @@
       "genre": "hoa/neighbor",
       "published": true,
       "published_at": "2026-07-06T19:10:11"
+    },
+    {
+      "id": "story_116",
+      "title": "My Co-executor Bought Aunt's Antiques at His Own Rigged Auction",
+      "domain": "Inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My co-executor bought my aunt's antiques at his own private auction for a fraction of their value and told me afterward, 'Markets set value. I just happened to be the highest bidder.' He assumed no formal appraisal had ever been done on her collection. He forgot she had everything professionally valued for insurance two years before she died.",
+      "hook": "My co-executor bought my aunt's antiques at his own private auction because he assumed the collection had never been formally appraised for its true value.",
+      "villain_dismissal": "Markets set value. I just happened to be the highest bidder.",
+      "reversal_type": "financial",
+      "proof_source": "ordinary_recordkeeping",
+      "witness_present": true,
+      "narrator_position_at_end": "indifferent",
+      "narration": "My co-executor bought my aunt's antiques at his own private auction because he assumed the collection had never been formally appraised for its true value.\n\nMy aunt Vivienne had spent sixty years building a collection with genuine patience and a good eye. She was not a casual buyer at weekend flea markets. She attended documented estate auctions, worked with established dealers, and had pieces she could speak to in detail: the provenance, the period, the condition history. When she passed at eighty-six, her personal collection of furniture, decorative art, and ceramics was the most valuable component of her estate.\n\nShe had named two co-executors: me, and her nephew by marriage, a man named Douglas who had circulated at the edges of the family for years \u2014 present at the significant occasions, personable, interested in the house whenever he visited. He proposed handling the estate sale through a private collector auction, a small gathering of buyers he knew personally who he said would move the collection quickly without the commissions of a formal estate sale house. I was managing the legal and financial documentation and had deferred to his expertise in the physical sale. That was a significant error.\n\nI attended the auction. Douglas presided. Eight attendees, all apparently personal contacts of his. The bidding was thin and the prices were conspicuously low. A Chippendale secretary desk that dominated one wall of my aunt's study sold for eighteen hundred dollars. A matched set of Staffordshire figurines she had collected over twenty years went for four hundred dollars. Douglas himself purchased eleven items across the sale, including the desk.\n\nAfterward, when the last buyer had left and Douglas was collecting his invoices, he turned to me with genuine ease and said, 'Markets set value. I just happened to be the highest bidder.' He said it the way people say things they have rehearsed. I looked at the room \u2014 half-empty now, the walls showing rectangles where pieces had hung \u2014 and said nothing.\n\nMy aunt had been meticulous. Two years before her death, she had commissioned a full professional appraisal of her collection for homeowner's insurance purposes \u2014 the kind of detailed, item-by-item appraisal that lists estimated value, condition notes, and provenance documentation for each piece. I found the appraisal report in the folder of estate documents her attorney had provided to me when I was appointed co-executor. The Chippendale desk: appraised at nine thousand two hundred dollars. The Staffordshire set: two thousand eight hundred dollars. When I went through all eleven pieces Douglas had purchased and compared the sale prices to the appraisal values, the total discrepancy was over thirty-one thousand dollars.\n\nAn executor who purchases estate property at below-market value through an auction he personally controls and organizes has breached his fiduciary duty to the beneficiaries of the estate. My attorney filed a petition with the probate court.\n\nAt the hearing, Douglas presented his auction records. I presented my aunt's insurance appraisal document, two years old but signed and notarized by a licensed appraiser. The judge reviewed both sets of numbers and ordered Douglas to either return all eleven items to the estate for proper resale through a licensed auction house, or pay the difference between what he had paid and the appraised values. Douglas returned the items.\n\nA licensed estate auction house handled the second sale. The proceeds went to the estate's named beneficiaries, several of whom were charitable organizations my aunt had quietly supported for decades.\n\nDouglas was removed as co-executor. I completed the estate administration alone over the following four months.\n\nVivienne would have found the whole affair tedious and entirely foreseeable. She had been a precise woman who trusted documentation over people's word. She taught me that, over many years of watching her do it. I applied what she taught me to protect what she left behind.",
+      "broll_keywords": [
+        "antique secretary desk wood detail",
+        "insurance appraisal letter document",
+        "sparse estate auction folding chairs",
+        "probate court building hallway",
+        "antique ceramic figurines on shelf"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "justice",
+        "revenge",
+        "satisfying"
+      ],
+      "description": "My co-executor bought my aunt's antiques at his own private auction for a fraction of their worth and called it the market at work. Her two-year-old insurance appraisal document put real numbers to what he had taken.",
+      "genre": "inheritance",
+      "published": true,
+      "published_at": "2026-07-07T00:52:18"
     }
   ]
 }
