@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_119",
-      "title": "My Neighbor Kept the Storm Insurance Payout to Herself",
-      "domain": "HOA/Neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My neighbor collected the full insurance payout for a storm-felled tree that damaged both our properties and told me, 'My insurance, my claim. The adjuster said it was my tree.' She assumed there was no way to establish co-ownership of a boundary tree. She forgot the city had surveyed and tagged every tree on the property line fifteen years ago.",
-      "hook": "My neighbor collected the full storm insurance payout for a fallen tree that destroyed part of my fence because she claimed the tree was entirely hers.",
-      "villain_dismissal": "My insurance, my claim. The adjuster said it was my tree.",
-      "reversal_type": "physical",
-      "proof_source": "third_party",
-      "witness_present": false,
-      "narrator_position_at_end": "indifferent",
-      "narration": "My neighbor collected the full storm insurance payout for a fallen tree that destroyed part of my fence because she claimed the tree was entirely hers.\n\nThe storm moved through in the second week of September. The oak tree at the corner of our shared property line \u2014 a large, slightly south-leaning tree that had been a feature of both our yards for as long as either of us had lived there \u2014 came down in the wind sometime after midnight. When I went outside in the morning, it had fallen across the fence line. My section of fence was completely destroyed: fourteen feet of cedar board fencing, the frame of my raised garden bed, and the gate I used to reach the back of the property. My neighbor Charlene's fence section had sustained damage as well, but less severe.\n\nCharlene filed a homeowner's insurance claim the morning after the storm. I was still photographing my damage and clearing debris when she told me, standing at the downed tree, that she had already spoken with her adjuster and that the tree had been confirmed as hers. She said, 'My insurance, my claim. The adjuster said it was my tree.' She mentioned that if I had damage, I should file with my own insurer.\n\nI spent the morning photographing the damage from several angles and writing down the dimensions of the destroyed fence section so I could provide accurate estimates. Then I contacted my insurance company. They would cover my losses minus my deductible \u2014 several hundred dollars I did not want to pay, especially for damage caused by a tree I was not certain was solely hers. The tree had stood between our two properties for every year I had lived in this house. I had never known which one of us it technically belonged to. Before I accepted that arrangement, I asked my adjuster a practical question: is there any mechanism for establishing who legally owned the tree?\n\nHe suggested I contact the city's urban forestry department, which maintains records of trees assessed during municipal infrastructure projects.\n\nI called the next morning. The city had conducted a comprehensive tree survey and tagging program fifteen years earlier as part of a stormwater and urban canopy assessment project. Crews had physically assessed every tree within or bordering public right-of-way and along identified property lines in residential neighborhoods. Each surveyed tree was tagged with a small aluminum identification marker at the root flare and logged in the city's forestry database.\n\nThe oak tree that had come down was in the database. The city's record showed that the trunk's center point fell precisely on the shared property boundary between the two parcels \u2014 the legal definition of a line tree under the state's property statutes. Under that same statute, a line tree is legally co-owned by the adjacent property owners, and responsibility for damage caused by the tree is shared between them.\n\nI provided the city's database record to my insurance adjuster and had my attorney send a brief letter to Charlene's insurance company noting the co-ownership status and requesting a contribution payment toward my repair costs.\n\nCharlene's insurer reviewed the city's documentation and revised its position. A contribution payment was issued to cover a portion of my fence and garden bed repair, and my deductible was credited accordingly.\n\nCharlene and I have not discussed any of this directly. The fence has been rebuilt. The stump is still there between our properties, which neither of us has attempted to address. I planted a new raised bed in the footprint of the old one this spring. It is doing well.\n\nThe city's tree survey database, as it turns out, is publicly searchable online. I have looked up every tree along my property line since.",
-      "broll_keywords": [
-        "fallen large oak tree over fence",
-        "city urban forestry aluminum tree tag",
-        "insurance adjuster writing on clipboard",
-        "rebuilt cedar fence new boards",
-        "thriving raised garden bed summer"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "She collected the full insurance payout for a storm tree that fell on both our properties and told me to file my own claim. A fifteen-year-old city tree survey showed the trunk sat exactly on the shared property line.",
-      "genre": "hoa/neighbor"
-    },
-    {
       "id": "story_120",
       "title": "My Daughter-in-law Sold My Classic Car While I Was in Surgery",
       "domain": "Relationship",
