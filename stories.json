@@ -1,37 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_118",
-      "title": "My Supervisor Underpaid My Pension for Eighteen Months",
-      "domain": "Business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My supervisor applied the wrong pension tier to my contributions for eighteen months and told me at my review, 'That's the correct calculation. You wouldn't understand how pension tiers work at your age.' He assumed I would accept his math. He forgot I had kept every single pay stub since my first day at the county.",
-      "hook": "My supervisor miscalculated my pension contributions for eighteen months because he assumed a woman near retirement wouldn't bother to dispute the numbers.",
-      "villain_dismissal": "That's the correct calculation. You wouldn't understand how pension tiers work at your age.",
-      "reversal_type": "financial",
-      "proof_source": "ordinary_recordkeeping",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My supervisor miscalculated my pension contributions for eighteen months because he assumed a woman near retirement wouldn't bother to dispute the numbers.\n\nI worked for a county public works office for twenty-six years. At sixty-one, I was the most senior non-management employee in my division and the only one who had been there long enough to personally remember three different pension tier structures as the county renegotiated its agreements with the union over the decades. When the county and the union reached a new pension agreement four years ago, the revised terms included a grandfather clause: employees hired before a specific cutoff date retained the terms of the original pension tier, which was more favorable than the new structure. I had been hired eleven years before the cutoff. I was grandfathered in. This was not a gray area.\n\nMy new supervisor, a man named Paul who had transferred in from another county department, reviewed my employment file shortly after he arrived and reached a different conclusion without consulting anyone in HR or referencing the union contract language. He changed my payroll classification to the newer tier. The difference per pay period was small \u2014 forty-two dollars \u2014 and it took me a full cycle before I noticed it in my stub.\n\nI waited until my annual review to raise it formally. I walked Paul through my hire date, the grandfather clause cutoff, and the math. He listened, smiled in the particular way that supervisors do when they have already decided the other person is wrong, and said, 'That's the correct calculation. You wouldn't understand how pension tiers work at your age.' He moved directly to the next item on his evaluation form.\n\nI drove home that afternoon without stopping. I did not turn on the radio. I did not call anyone. I went directly to my home office, which I keep organized the same way I have kept every workspace I have ever had: by date, by topic, by year. The accordion folder for county employment documents sat where it always sat, on the second shelf. I have kept every pay stub I have ever received from the county in a manila accordion folder organized by calendar year \u2014 twenty-six years of documentation in chronological order. I pulled the eighteen months of stubs since Paul's reclassification and set them beside the stubs from the three years before his arrival. The difference in the contribution rate was visible and consistent. I also retrieved the union contract summary that had been mailed to all members at the time of the renegotiation, which I had filed in the same folder. The grandfather clause was explicit. My hire date was on page one of my personnel file.\n\nI contacted the union steward directly and provided the comparison documentation. The steward confirmed within forty-eight hours that I was unambiguously entitled to the original tier and flagged the discrepancy to HR.\n\nHR scheduled a meeting with Paul and me the following week. Paul was unable to reconcile his classification decision with my documented hire date when both were on the table simultaneously. The county issued a formal payroll correction, applied the proper pension tier retroactively for the full eighteen months, and issued a refund of the differential amount plus interest as required under the union agreement's correction procedures.\n\nThe total refund was modest in absolute terms, but it was mine and I had earned it.\n\nPaul was required to complete a remedial session with HR on compensation classification procedures and received a formal written caution for making a tier adjustment without departmental HR review. He transferred to a different county division three months later.\n\nI retired on the exact schedule I had always planned. My pension has been calculated correctly from the day of Paul's departure to this one.",
-      "broll_keywords": [
-        "pay stub stack in folder",
-        "pension plan document official",
-        "county government hallway corridor",
-        "accordion file folder organized tabs",
-        "retirement party small office gathering"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "justice",
-        "revenge",
-        "satisfying"
-      ],
-      "description": "My supervisor placed me in the wrong pension tier for eighteen months and told me I was too old to understand how the math worked. Twenty-six years of pay stubs organized in my home office disagreed completely.",
-      "genre": "business"
-    },
-    {
       "id": "story_119",
       "title": "My Neighbor Kept the Storm Insurance Payout to Herself",
       "domain": "HOA/Neighbor",
