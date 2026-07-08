@@ -3013,6 +3013,39 @@
       "genre": "hoa/neighbor",
       "published": true,
       "published_at": "2026-07-07T19:17:17"
+    },
+    {
+      "id": "story_120",
+      "title": "My Daughter-in-law Sold My Classic Car While I Was in Surgery",
+      "domain": "Relationship",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My daughter-in-law arranged the sale of my 1969 Mustang while I was under anesthesia and told me afterward, 'You approved it. I have your signature.' She assumed I was too medicated to verify what I remembered. She forgot the hospital documented my condition in the nursing notes every thirty minutes throughout that entire day.",
+      "hook": "My daughter-in-law sold one of my classic cars while I was in surgery because she thought a man recovering from anesthesia couldn't verify his own whereabouts.",
+      "villain_dismissal": "You approved it. I have your signature.",
+      "reversal_type": "digital",
+      "proof_source": "third_party",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My daughter-in-law sold one of my classic cars while I was in surgery because she thought a man recovering from anesthesia couldn't verify his own whereabouts.\n\nI have been collecting and restoring American classic cars since I was in my late twenties. At sixty-eight, the four vehicles in my garage represent forty years of patience, careful research, and hands-on work. The 1967 Chevelle, the 1969 Mustang Fastback, the 1972 El Camino, and the 1958 Edsel \u2014 each one has a full paper trail: original title in my name, restoration records with photographs, and insurance appraisal documentation. The garage has a keypad lock. I am the only person with the current code.\n\nIn January I was admitted to the hospital on a Monday evening for emergency gallbladder surgery. I went into the operating room Tuesday morning. I was in recovery through Tuesday and into Wednesday. My son came both days. His wife, Donna, visited once, on Tuesday afternoon.\n\nI came home on Friday. I pressed the garage keypad, walked in, and counted three cars instead of four. The Mustang was gone.\n\nMy son told me, in the uncomfortable way he has of delivering bad news, that Donna had arranged the sale while I was in the hospital. She had told him I had agreed to it over the phone on Tuesday afternoon. When I called Donna and told her I had been in the operating room throughout Tuesday morning and under sedation through most of the afternoon, she said I was misremembering due to the medication. She texted me a photograph of a bill of sale. She said, 'You approved it. I have your signature.'\n\nThe signature on the document was not mine. It was a reasonable attempt but not accurate in the specific ways my signature is distinctive. More important than that: the bill of sale listed the authorization call as occurring at 3:47 PM on Tuesday. I went to the hospital's patient portal and requested my complete records for that admission.\n\nThe clinical documentation was thorough in the way that hospitals document surgical patients. Anesthesia induction: 8:40 AM Tuesday. Surgery completion: 12:15 PM. Recovery room transfer: 12:34 PM. Nursing assessment notes \u2014 taken every thirty minutes throughout the recovery period \u2014 documented my level of consciousness, responsiveness, and condition at each interval through 6:00 PM. At 3:47 PM, the nursing note recorded that I was minimally responsive to verbal stimulation and required repositioning assistance. I was not conscious, I was not coherent, and I was connected to monitoring equipment in a supervised recovery room.\n\nI also contacted the buyer \u2014 a private collector Donna had found through an online car enthusiast marketplace. He had purchased the car in good faith, which I acknowledged, and he cooperated fully once I explained the situation. He retained the entire text thread between himself and Donna, including the initial message in which Donna had represented herself as my authorized agent to conduct the sale on my behalf.\n\nMy attorney filed a civil claim of fraudulent conversion. At the proceeding \u2014 attended by both attorneys, the buyer's representative, and my son, who had agreed to provide a statement \u2014 the hospital records, the nursing documentation at thirty-minute intervals, and the buyer's complete communication with Donna were entered as evidence. The court ordered the return of the vehicle and awarded me legal fees and costs.\n\nThe Mustang was returned. My son and Donna separated in the months that followed \u2014 a matter entirely between them that I have not commented on. My son and I speak regularly. We meet for breakfast on Sundays when the weather is decent.\n\nAll four cars are in the garage. The Chevelle is my summer driver this year. I took it out last weekend on a clear afternoon and drove until I felt like coming back.",
+      "broll_keywords": [
+        "classic 1969 Mustang in garage",
+        "hospital surgical recovery room",
+        "medical monitoring equipment readout",
+        "original car title document closeup",
+        "open garage door with afternoon light"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "justice",
+        "revenge",
+        "satisfying"
+      ],
+      "description": "She sold one of my classic cars while I was under anesthesia and showed me a signature she claimed was mine. Hospital nursing notes taken every thirty minutes showed exactly where I was and what my condition was when she said I signed.",
+      "genre": "relationship",
+      "published": true,
+      "published_at": "2026-07-08T00:30:12"
     }
   ]
 }
