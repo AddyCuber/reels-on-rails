@@ -3046,6 +3046,41 @@
       "genre": "relationship",
       "published": true,
       "published_at": "2026-07-08T00:30:12"
+    },
+    {
+      "id": "story_121",
+      "title": "My Nephew Changed the Locks on Mom's Beach House",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My nephew changed the locks on my mother's oceanfront cottage three days after her funeral and posted a 'For Sale by Owner' sign. He assumed I would be too grieving to challenge him. He forgot I held the original deed.",
+      "hook": "My nephew changed the locks on my mother's oceanfront cottage three days after her funeral and posted a 'For Sale by Owner' sign.",
+      "villain_dismissal": "You're too old to maintain this place anyway, Uncle.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My nephew changed the locks on my mother's oceanfront cottage three days after her funeral and posted a 'For Sale by Owner' sign.\n\nMy mother had lived in that cottage for forty years. When she passed in June, my nephew Kyle drove up in his sports car and informed the family he was taking charge. Before the flowers at her memorial service had even wilted, he swapped out the deadbolts and listed the property online for eight hundred thousand dollars.\n\nWhen I called to ask what he was doing, he laughed and said, 'You're too old to maintain this place anyway, Uncle. I'm doing the family a favor by liquidating it.' He assumed I was too frail and overwhelmed to fight back.\n\nWhat Kyle didn't realize was that fifteen years ago, my mother had officially deeded the property to me with a life estate reservation for herself. The property was entirely in my name; it was never part of her probate estate to begin with.\n\nI didn't argue with Kyle. I called the local sheriff's department and met two deputies at the cottage gate. I handed them the certified deed from the county land registry and the recent tax statements under my name.\n\nThe deputies walked up to the front porch just as Kyle was showing the house to prospective buyers. When he couldn't produce any legal title or power of attorney, the deputies instructed him to surrender the new keys immediately.\n\nBecause Kyle had accepted a fifty-thousand-dollar cash deposit from an unsuspecting buyer under false pretenses, the district attorney filed felony fraud charges against him. The court ordered him to repay every penny along with statutory penalties.\n\nI had the locksmith install a digital lock system the next morning. Today, I sit on the porch every weekend listening to the ocean. The house stays in the family.",
+      "broll_keywords": [
+        "oceanfront cottage",
+        "locksmith tools",
+        "deed document",
+        "police car",
+        "beach sunset",
+        "porch chair"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "inheritance",
+        "justice",
+        "revenge"
+      ],
+      "description": "He changed the locks on Mom's beach house right after her funeral. He didn't check who actually owned the deed.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-15T14:56:20"
     }
   ]
 }
