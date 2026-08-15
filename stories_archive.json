@@ -3081,6 +3081,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-08-15T14:56:20"
+    },
+    {
+      "id": "story_122",
+      "title": "The Financial Advisor Who Targeted My Sister's Pension",
+      "domain": "Business",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My sister's financial advisor convinced her to transfer her entire retirement pension into an unlisted annuity controlled by his cousin. He thought two retired schoolteachers wouldn't know how to track offshore wire transfers.",
+      "hook": "My sister's financial advisor convinced her to transfer her entire retirement pension into an unlisted annuity controlled by his cousin.",
+      "villain_dismissal": "It's a complex financial vehicle, ladies. Leave the details to the professionals.",
+      "reversal_type": "digital",
+      "proof_source": "bank_records",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My sister's financial advisor convinced her to transfer her entire retirement pension into an unlisted annuity controlled by his cousin.\n\nMy sister Eleanor spent thirty-four years teaching elementary school. When she retired, a local wealth manager named Marcus convinced her to move her three-hundred-thousand-dollar pension out of her state retirement fund and into an 'exclusive high-yield structure.'\n\nWithin six months, her quarterly dividend checks stopped arriving. When Eleanor asked for an account statement, Marcus dismissed her with a wave of his hand and said, 'It's a complex financial vehicle, ladies. Leave the details to the professionals.'\n\nHe thought two retired schoolteachers were helpless. He didn't know that before I taught high school math, I worked as a forensic auditor for the state tax division.\n\nI asked Eleanor for her transfer authorizations and account numbers. Within three days of cross-referencing corporate filings, I discovered that the 'annuity firm' was an unregistered shell company registered to Marcus's brother-in-law in Delaware.\n\nI compiled a binder containing the wire routing slips, the corporate registry records, and SEC registration search printouts showing the entity was completely unlicensed. I delivered the binder directly to the State Financial Regulation Enforcement Division and the FBI white-collar crime unit.\n\nFederal agents raided Marcus's office two weeks later. They froze his personal assets and seized several offshore accounts before the funds could be laundered.\n\nMarcus was convicted of wire fraud and grand larceny, receiving a nine-year federal prison sentence. The court appointed a receiver who recovered ninety-four percent of Eleanor's principal.\n\nEleanor's pension is back in the state fund where it belongs. We have lunch every Tuesday, and we always pay with her retirement card.",
+      "broll_keywords": [
+        "calculator and ledger",
+        "bank statements",
+        "courtroom interior",
+        "school classroom",
+        "coffee cup",
+        "handcuffs"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "pension",
+        "scammer",
+        "justice",
+        "revenge"
+      ],
+      "description": "He stole my sister's teaching pension and told us we were too old to understand finance. He forgot I used to be a forensic auditor.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-15T16:29:04"
     }
   ]
 }
