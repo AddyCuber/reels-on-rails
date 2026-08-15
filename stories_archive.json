@@ -3116,6 +3116,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-15T16:29:04"
+    },
+    {
+      "id": "story_123",
+      "title": "My HOA Board Secretly Sold Our Community Garden",
+      "domain": "HOA",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Our HOA board president secretly signed over our neighborhood's private park to a commercial developer in exchange for a kickback. He told us the construction equipment was just doing routine drainage maintenance.",
+      "hook": "Our HOA board president secretly signed over our neighborhood's private park to a commercial developer in exchange for a kickback.",
+      "villain_dismissal": "Board decisions are final. Read your bylaws.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our HOA board president secretly signed over our neighborhood's private park to a commercial developer in exchange for a kickback.\n\nFor twenty years, our neighborhood's two-acre community garden was the heart of our subdivision. Then one Monday morning, bulldozers showed up and began tearing down the wooden gazebos.\n\nWhen several residents confronted our HOA president, Richard, he smirked and showed us a notice claiming the land was being repurposed for 'infrastructure improvements.' When we pressed for details, he barked, 'Board decisions are final. Read your bylaws.'\n\nI spent forty years as a land surveyor. I knew that common area property in our subdivision could not be sold or transferred without a seventy-five percent affirmative vote from all lot owners.\n\nI went straight to the county clerk's office and pulled the deed history for the parcel. Richard had forged board meeting minutes claiming a quorum had voted to re-zone and sell the land to a condominium developer for six hundred thousand dollars. A title search revealed two hundred thousand had been deposited directly into an offshore account owned by Richard's daughter.\n\nI called an emergency meeting of the neighborhood. We gathered signatures from eighty-five percent of the homeowners and filed an emergency injunction in circuit court.\n\nThe judge issued a temporary restraining order halting construction within two hours. At the full hearing, the judge voided the fraudulent sale, ordered the developer to restore the park, and referred Richard to law enforcement for corporate embezzlement and forgery.\n\nRichard was forced to sell his own house in our neighborhood to pay for the park's restoration. Our garden was rebuilt with a brand new brick pavilion. I'm currently the board president.",
+      "broll_keywords": [
+        "community garden",
+        "bulldozer",
+        "courtroom gavel",
+        "surveyor map",
+        "subdivision houses",
+        "signing petition"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "hoadrama",
+        "justice",
+        "revenge",
+        "neighborhood"
+      ],
+      "description": "He forged HOA minutes to sell our neighborhood park to developers. He didn't know I was a retired land surveyor.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-15T22:50:03"
     }
   ]
 }
