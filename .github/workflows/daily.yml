@@ -21,6 +21,7 @@ jobs:
 
     env:
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       YOUTUBE_CLIENT_SECRETS: ${{ secrets.YOUTUBE_CLIENT_SECRETS }}
       YOUTUBE_TOKEN: ${{ secrets.YOUTUBE_TOKEN }}
       INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
@@ -51,6 +52,11 @@ jobs:
 
       - name: Restore YouTube token from secret
         run: echo "${{ secrets.YOUTUBE_TOKEN }}" | base64 --decode > youtube_token.json
+
+      - name: Auto-replenish stories if low
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/auto_generate_stories.py
 
       - name: Run pipeline
         env:
