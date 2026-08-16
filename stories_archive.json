@@ -3186,6 +3186,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-08-16T05:23:06"
+    },
+    {
+      "id": "story_125",
+      "title": "The Caregiver Who Tried to Adopt My Elderly Uncle",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "The live-in nurse we hired for my uncle attempted to legally adopt him to bypass his statutory heirs. She didn't realize I held durable medical power of attorney.",
+      "hook": "The live-in nurse we hired for my uncle attempted to legally adopt him to bypass his statutory heirs.",
+      "villain_dismissal": "He loves me like a daughter. You visitors are just after his money.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "The live-in nurse we hired for my uncle attempted to legally adopt him to bypass his statutory heirs.\n\nMy Uncle George was eighty-eight and lived alone on his family ranch. When his mobility declined, we hired a private caregiver named Valerie through a regional agency. At first, Valerie seemed attentive and sweet.\n\nBut within four months, Valerie began blocking family members from visiting. She changed George's phone number and installed security gate codes without telling us. When I drove out to check on him, Valerie blocked the porch and sneered, 'He loves me like a daughter. You visitors are just after his money.'\n\nTwo weeks later, I received a court summons. Valerie had filed a petition for adult adoption and conservatorship in a neighboring county court, submitting a psychological evaluation claiming George was incompetent and wanted her as his sole legal guardian.\n\nWhat Valerie didn't know was that three years prior, while George was in peak health, he and I had executed a comprehensive durable power of attorney and a healthcare proxy registered with the state registry.\n\nI hired an elder law attorney and presented the registered power of attorney documents along with medical records from George's primary physician showing Valerie had been over-medicating him with sedatives to keep him confused.\n\nThe judge dismissed Valerie's petition immediately, revoked her caregiver license, and issued a permanent restraining order removing her from the ranch.\n\nState police opened a criminal investigation that revealed Valerie had pulled similar guardianship schemes on two other vulnerable seniors.\n\nUncle George moved into a peaceful senior living community near my house. He enjoys his garden, his dogs, and knowing his ranch is safe.",
+      "broll_keywords": [
+        "ranch house",
+        "wheelchair",
+        "legal summons",
+        "police car",
+        "flower garden",
+        "family photo"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "elderabuse",
+        "caregiver",
+        "justice",
+        "revenge"
+      ],
+      "description": "She tried to adopt my 88-year-old uncle to steal his ranch. She didn't know I held his durable power of attorney.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-16T11:07:03"
     }
   ]
 }
