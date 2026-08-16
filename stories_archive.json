@@ -3221,6 +3221,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-16T11:07:03"
+    },
+    {
+      "id": "story_126",
+      "title": "My Business Partner Embezzled Our Equipment Reserve",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My business partner transferred ninety thousand dollars from our emergency equipment fund to his personal LLC while I was on medical leave. He assumed I wouldn't review the bank reconciliation statements.",
+      "hook": "My business partner transferred ninety thousand dollars from our emergency equipment fund to his personal LLC while I was on medical leave.",
+      "villain_dismissal": "It was a strategic reallocation, partner. Don't worry your head about it.",
+      "reversal_type": "digital",
+      "proof_source": "bank_records",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My business partner transferred ninety thousand dollars from our emergency equipment fund to his personal LLC while I was on medical leave.\n\nI co-founded an industrial printing company twenty years ago with my partner, Greg. When I had heart surgery last fall, I stepped away from daily operations for two months to recover.\n\nWhen I returned to the office, I noticed our equipment reserve account balance was nearly zero. When I asked Greg where the ninety thousand dollars had gone, he gave me a patronizing smile and said, 'It was a strategic reallocation, partner. Don't worry your head about it.'\n\nI went straight to our commercial bank and requested itemized wire transfer receipts for the previous ninety days.\n\nThe receipts showed Greg had executed three separate thirty-thousand-dollar transfers into a private corporate account registered under his wife's maiden name. He had forged my digital signature on the secondary authorization forms.\n\nInstead of confronting Greg in the office, I brought the bank statements and forged signature audit logs directly to our corporate legal counsel and the bank's fraud unit.\n\nThe bank froze all accounts associated with Greg's shell entity under federal anti-money-laundering protocols. Our company attorney invoked the emergency buy-out clause in our partnership agreement for breach of fiduciary duty.\n\nGreg was stripped of his equity shares without compensation and forced to sign a confession of judgment for full restitution.\n\nHe was subsequently indicted for grand embezzlement and forgery. I bought out his remaining shares for pennies on the dollar and brought in my chief engineer as minority partner. Business has never been better.",
+      "broll_keywords": [
+        "printing press machinery",
+        "bank wire receipt",
+        "digital signature screen",
+        "office desk",
+        "corporate lawyer",
+        "handshake"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "businessdrama",
+        "embezzlement",
+        "justice",
+        "revenge"
+      ],
+      "description": "He stole $90k from our business while I was in surgery. He forgot I had full access to the bank's wire transfer logs.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-16T16:57:50"
     }
   ]
 }
