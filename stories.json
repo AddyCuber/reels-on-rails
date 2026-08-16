@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_124",
-      "title": "My Stepmother Filed a Fake Codicil to Change the Trust",
-      "domain": "Inheritance",
-      "genre": "inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My stepmother produced a hand-written note claiming my father left her his entire estate two days before he lapsed into a coma. She didn't realize the ink she used wasn't manufactured until three years after the date on the note.",
-      "hook": "My stepmother produced a hand-written note claiming my father left her his entire estate two days before he lapsed into a coma.",
-      "villain_dismissal": "Your father wanted me taken care of, dear. Accept it.",
-      "reversal_type": "forensic",
-      "proof_source": "forensic_analysis",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My stepmother produced a hand-written note claiming my father left her his entire estate two days before he lapsed into a coma.\n\nMy father was a meticulous man who had established an irrevocable trust dividing his estate equally between my brother and me. But at his probate hearing, my stepmother Brenda presented a piece of yellow notepad paper.\n\nShe claimed Dad had written a codicil by hand in his hospital room, revoking our trust and leaving everything\u2014his house, accounts, and pension\u2014to her. She looked me in the eye and said, 'Your father wanted me taken care of, dear. Accept it.'\n\nI took one look at the paper and noticed something strange. The note was dated March 2021, but the handwriting was unnaturally stiff and used a gel pen with a distinctive purple-blue sheen.\n\nI hired a renowned forensic document examiner. Using microscopic chemical analysis, the expert determined that the specific ink formulation used in the gel pen wasn't released to the public by the manufacturer until late 2024\u2014three years after the purported date of the document.\n\nFurthermore, high-resolution spectral imaging revealed that Brenda had traced Dad's signature from an old birthday card using a light box.\n\nWhen we presented the expert witness report in probate court, Brenda's lawyer immediately withdrew from the case. The judge threw out the forged document, removed Brenda as executor, and reinstated the original trust terms.\n\nBecause Brenda committed perjury and attempted probate fraud, the judge barred her from receiving any spousal elective share of the estate.\n\nMy brother and I settled Dad's affairs exactly as he had planned. Dad's workshop is still intact, just the way he left it.",
-      "broll_keywords": [
-        "yellow legal pad",
-        "microscope analysis",
-        "hospital room",
-        "courtroom bench",
-        "old photograph",
-        "signing contract"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "inheritance",
-        "familydrama",
-        "justice",
-        "revenge"
-      ],
-      "description": "She forged Dad's handwritten will note. She didn't realize the ink she used didn't exist when the note was dated.",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_125",
       "title": "The Caregiver Who Tried to Adopt My Elderly Uncle",
       "domain": "Caregiver Theft",
