@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_131",
-      "title": "The HOA President Fined Me Ten Thousand Dollars for Solar Panels",
-      "domain": "HOA",
-      "genre": "hoa_neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "The HOA president issued daily hundred-dollar fines against my approved solar installation because it blocked his sunset view. He didn't know state solar rights laws override HOA covenants completely.",
-      "hook": "The HOA president issued daily hundred-dollar fines against my approved solar installation because it blocked his sunset view.",
-      "villain_dismissal": "My aesthetic view comes before your electricity bill.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "The HOA president issued daily hundred-dollar fines against my approved solar installation because it blocked his sunset view.\n\nI installed a solar panel array on my roof last year after obtaining full written approval from our HOA architectural committee. But as soon as the installation was complete, our HOA president, Vance, threw a tantrum.\n\nVance lived on the hill behind me and claimed the slight glare from the panels ruined his evening sunset view. He sneered, 'My aesthetic view comes before your electricity bill,' and began issuing daily hundred-dollar fines against my property.\n\nWithin three months, Vance had placed a twelve-thousand-dollar lien against my house for non-payment of fines and threatened foreclosure.\n\nVance thought he could bully an elderly resident into removing the panels. He didn't realize that our state has a strict Solar Rights Act that explicitly prohibits HOAs from fining, restricting, or forcing the removal of rooftop solar arrays.\n\nI hired an attorney specializing in HOA litigation. We served Vance and the HOA board with a formal demand letter citing state statutory law and demanding immediate cancellation of the lien and fines.\n\nWhen Vance refused to back down at the board meeting, we filed a lawsuit in superior court. The judge ruled decisively in my favor, declaring the HOA fines illegal and voiding the lien immediately.\n\nUnder the state statute, the court ordered the HOA to pay my thirty-five thousand dollars in legal fees. Because Vance had acted outside his official authority by ignoring legal advice, the HOA board's insurance refused to cover him.\n\nThe HOA board voted unanimously to remove Vance from office and billed him personally for the legal expenses. My solar panels are generating free power every day.",
-      "broll_keywords": [
-        "rooftop solar panels",
-        "hoa fine letter",
-        "courtroom gavel",
-        "suburban houses",
-        "electric meter",
-        "sunset sky"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "hoadrama",
-        "solar",
-        "justice",
-        "revenge"
-      ],
-      "description": "He fined me $12k for solar panels because they ruined his sunset view. He didn't know state law prohibits HOA solar fines.",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_132",
       "title": "My Cousin Tried to Claim Dad's Land Grant Title",
       "domain": "Inheritance",
