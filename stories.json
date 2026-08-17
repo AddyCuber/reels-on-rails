@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_130",
-      "title": "My Sister-in-law Tried to Drain My Mother's Medical Trust",
-      "domain": "Inheritance",
-      "genre": "inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My sister-in-law submitted fake medical reimbursement invoices to drain the trust fund set aside for my mother's long-term care. She didn't realize the trust required dual bank authorization for any payment over five hundred dollars.",
-      "hook": "My sister-in-law submitted fake medical reimbursement invoices to drain the trust fund set aside for my mother's long-term care.",
-      "villain_dismissal": "I'm managing Mom's care. You shouldn't question family expenses.",
-      "reversal_type": "digital",
-      "proof_source": "bank_records",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My sister-in-law submitted fake medical reimbursement invoices to drain the trust fund set aside for my mother's long-term care.\n\nWhen my mother required specialized care, our family established a dedicated healthcare trust fund containing two hundred thousand dollars. My sister-in-law, Pamela, offered to handle the administrative paperwork and medical bill payments.\n\nWithin six months, Pamela had submitted over forty thousand dollars in reimbursement requests for 'specialized home medical equipment.' When I asked to see the itemized vendor receipts, Pamela snapped, 'I'm managing Mom's care. You shouldn't question family expenses.'\n\nPamela assumed that because she had physical access to the trust checkbook, nobody would scrutinize the transactions.\n\nWhat Pamela forgot was that when we set up the trust at the bank, I was designated as the co-trustee, and the bank protocol required dual digital signature authorization for any disbursement exceeding five hundred dollars.\n\nI logged into the bank portal and pulled the audited invoice submissions. Every single 'medical vendor' receipt Pamela had submitted was issued by a fictitious medical supply LLC registered to her brother.\n\nI flagged the fraudulent transactions directly with the bank's trust compliance officer and blocked all pending payouts.\n\nWe filed a petition in probate court to remove Pamela as co-trustee. The judge ordered a forensic accounting audit that exposed thirty-eight thousand dollars in unauthorized withdrawals.\n\nThe judge entered a judgment requiring Pamela to surrender her share of the future family estate as restitution and referred her for criminal insurance and trust fraud.\n\nMom's medical trust is now managed by an independent corporate fiduciary. Mom is getting top-tier care, surrounded by people who actually love her.",
-      "broll_keywords": [
-        "nursing home room",
-        "bank portal computer",
-        "medical invoice papers",
-        "courtroom desk",
-        "wheelchair garden",
-        "signing check"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "elderabuse",
-        "justice",
-        "revenge"
-      ],
-      "description": "She submitted $40k in fake medical invoices to drain Mom's trust. She forgot I was co-trustee with dual bank approval power.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_131",
       "title": "The HOA President Fined Me Ten Thousand Dollars for Solar Panels",
       "domain": "HOA",
