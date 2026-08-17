@@ -3291,6 +3291,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-16T23:59:46"
+    },
+    {
+      "id": "story_128",
+      "title": "My Brother Sold Dad's Antique Car Collection for Cash",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My brother towed my father's restored 1967 Mustang out of the garage the morning after the wake and claimed Dad gifted it to him verbally. He didn't know Dad had registered the vehicle title under my name years ago.",
+      "hook": "My brother towed my father's restored 1967 Mustang out of the garage the morning after the wake and claimed Dad gifted it to him verbally.",
+      "villain_dismissal": "Dad promised me this car back in high school. You don't know anything about cars anyway.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My brother towed my father's restored 1967 Mustang out of the garage the morning after the wake and claimed Dad gifted it to him verbally.\n\nMy father spent twenty years restoring a classic 1967 Fastback Mustang in his shop. It was his pride and joy. The day after Dad's funeral, I drove to the family house and found the garage door wide open and the car gone.\n\nMy brother Darren was standing in the driveway counting a roll of hundred-dollar bills. When I asked where the Mustang was, he shrugged and said, 'Dad promised me this car back in high school. You don't know anything about cars anyway. I just sold it to a buyer from Texas.'\n\nDarren had pocketed forty-five thousand dollars in cash. He assumed that because Dad had kept the car in his garage, it was part of the general estate to be fought over in probate.\n\nWhat Darren didn't know was that five years ago, Dad had officially transferred the vehicle title to me at the DMV as a gift, and I had been paying the classic auto insurance policy every month.\n\nI called the state highway patrol auto theft unit immediately. I provided the certified state vehicle title under my name and the VIN records.\n\nState troopers tracked down the transport truck on the interstate two hours later, impounded the Mustang, and arrested Darren for felony grand auto theft and dealing in stolen property.\n\nThe buyer demanded his cash back, and when Darren couldn't produce it because he had spent ten thousand on credit card debts, the buyer sued Darren personally.\n\nDarren had to take out a personal loan to settle the debt and avoid additional charges. The Mustang is parked in my secure climate-controlled garage, sparkling clean.",
+      "broll_keywords": [
+        "classic mustang car",
+        "empty garage",
+        "tow truck",
+        "state trooper car",
+        "car title document",
+        "garage keys"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "inheritance",
+        "justice",
+        "revenge"
+      ],
+      "description": "He sold Dad's classic car for cash right after the funeral. He didn't check who actually held the vehicle title.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-17T05:35:19"
     }
   ]
 }
