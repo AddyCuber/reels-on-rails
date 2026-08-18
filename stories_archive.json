@@ -3536,6 +3536,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-18T18:01:25"
+    },
+    {
+      "id": "story_135",
+      "title": "My Ex-Business Partner Stole My Proprietary Client Database",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My former associate copied fifteen years of proprietary client records right before launching a copycat firm across town. He didn't realize every entry in my database contained digital watermarks.",
+      "hook": "My former associate copied fifteen years of proprietary client records right before launching a copycat firm across town.",
+      "villain_dismissal": "Clients go where they want. Competition is healthy, old man.",
+      "reversal_type": "digital",
+      "proof_source": "digital_forensics",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My former associate copied fifteen years of proprietary client records right before launching a copycat firm across town.\n\nI built a commercial insurance agency over thirty years. My senior associate, Kevin, resigned abruptly last spring. Within forty-eight hours, half of my top corporate clients received solicitation emails from Kevin's new firm offering identical policy rates.\n\nWhen I called Kevin to confront him about violating his non-solicitation agreement, he laughed and said, 'Clients go where they want. Competition is healthy, old man. Prove I stole anything.'\n\nKevin thought he had covered his tracks by downloading the records onto an encrypted thumb drive.\n\nWhat Kevin didn't know was that ten years ago, I implemented a cybersecurity protocol known as 'database seeding.' I embedded dummy client names and fake email addresses with unique tracking code markers into my database file.\n\nWhen Kevin sent out his mass marketing campaign, his servers sent emails directly to my seeded tracking addresses.\n\nI hired an IP litigation attorney and filed a federal lawsuit under the Defend Trade Secrets Act. We presented the digital header logs from the seeded emails proving beyond a doubt that Kevin was using my exact stolen database file.\n\nThe federal judge granted an immediate ex parte injunction ordering Kevin to shut down his marketing, impound his computers, and cease all contact with my clients.\n\nKevin was ordered to pay two hundred and fifty thousand dollars in statutory trade secret damages and legal fees. His new firm went bankrupt within ninety days.\n\nMy clients stayed loyal, and my agency continues to thrive.",
+      "broll_keywords": [
+        "office computer screen",
+        "usb drive",
+        "database code",
+        "federal court building",
+        "signing contract",
+        "office lobby"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "businessdrama",
+        "tradesecrets",
+        "justice",
+        "revenge"
+      ],
+      "description": "He stole my 15-year client database to start a rival firm. He didn't know I had seeded fake tracking entries in the database.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-18T23:21:52"
     }
   ]
 }
