@@ -3466,6 +3466,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-18T05:06:12"
+    },
+    {
+      "id": "story_133",
+      "title": "The Church Treasurer Diverted My Late Husband's Memorial Fund",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "The church treasurer quietly rerouted twenty-five thousand dollars donated in my late husband's memory into his personal investment account. He thought an grieving widow wouldn't ask for audited ledger receipts.",
+      "hook": "The church treasurer quietly rerouted twenty-five thousand dollars donated in my late husband's memory into his personal investment account.",
+      "villain_dismissal": "The funds were allocated to general parish operational needs, sister.",
+      "reversal_type": "digital",
+      "proof_source": "bank_records",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "The church treasurer quietly rerouted twenty-five thousand dollars donated in my late husband's memory into his personal investment account.\n\nWhen my husband Arthur passed, our community donated twenty-five thousand dollars to our local church to build a new youth sports pavilion in his honor. A year went by, but no construction started.\n\nWhen I asked the church treasurer, a man named Donald, about the pavilion timeline, he gave me a pious smile and said, 'The funds were allocated to general parish operational needs, sister. Trust the process.'\n\nDonald assumed a seventy-year-old widow would just nod and walk away.\n\nWhat Donald didn't know was that Arthur and I had specified in the donation agreement that the funds were restricted-use gifts, which legally cannot be used for operational expenses under non-profit law.\n\nI requested a copy of the church's annual financial audit from the regional diocese council. When Donald stalled, the diocese office sent an independent auditor to inspect the parish books.\n\nThe audit revealed Donald had transferred the entire twenty-five thousand dollars into a personal brokerage account where he had been day-trading stocks.\n\nThe diocese immediately removed Donald from his position, reported the theft to the state attorney general's charitable trust division, and reimbursed the memorial fund in full out of their reserve fund.\n\nDonald was prosecuted for felony embezzlement of charitable funds and ordered to perform five hundred hours of community service.\n\nThe Arthur Memorial Youth Pavilion was built the following spring. I cut the ribbon myself in front of three hundred neighbors.",
+      "broll_keywords": [
+        "church steeple",
+        "donation envelope",
+        "ledger book",
+        "ribbon cutting ceremony",
+        "youth sports field",
+        "auditor desk"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "charityfraud",
+        "justice",
+        "revenge",
+        "community"
+      ],
+      "description": "He stole $25k meant for my husband's memorial pavilion. He didn't know restricted donations are protected by federal law.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-18T10:47:14"
     }
   ]
 }
