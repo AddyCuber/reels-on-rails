@@ -3431,6 +3431,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-08-17T23:38:31"
+    },
+    {
+      "id": "story_132",
+      "title": "My Cousin Tried to Claim Dad's Land Grant Title",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My cousin forged my deceased father's signature on a quitclaim deed to transfer fifty acres of timberland to his logging business. He didn't realize the notary public he used was already under state investigation.",
+      "hook": "My cousin forged my deceased father's signature on a quitclaim deed to transfer fifty acres of timberland to his logging business.",
+      "villain_dismissal": "It's family land, cousin. We're putting it to good commercial use.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My cousin forged my deceased father's signature on a quitclaim deed to transfer fifty acres of timberland to his logging business.\n\nMy father owned fifty acres of pristine timberland that had been in our family for three generations. When Dad passed away, my cousin Jason moved logging trucks onto the property and began harvesting timber.\n\nWhen I drove out to stop him, Jason showed me a recorded quitclaim deed dated two weeks before Dad's death, transferring the entire acreage to Jason's logging company for one dollar. He smirked, 'It's family land, cousin. We're putting it to good commercial use.'\n\nJason thought a recorded deed was bulletproof. But I noticed the document was notarized by a notary public located three hundred miles away in another county.\n\nI contacted the Secretary of State's notary enforcement office. It turned out that specific notary public had already had her commission suspended for felony notary fraud and land flip scams.\n\nFurthermore, medical records showed Dad was hospitalized in the ICU on the exact date and time the deed was allegedly notarized three hundred miles away.\n\nI filed an emergency quiet title action and motion for preliminary injunction. The court froze all timber harvesting immediately.\n\nAt the hearing, the judge voided the deed for forgery and fraud, awarded me triple damages of one hundred and twenty thousand dollars for the illegally harvested timber, and issued an arrest warrant for Jason.\n\nJason's logging equipment was seized by the sheriff to satisfy the judgment. The fifty acres remain peaceful, green, and completely untouched.",
+      "broll_keywords": [
+        "timberland forest",
+        "logging truck",
+        "notary stamp document",
+        "hospital bed",
+        "courthouse entrance",
+        "tree canopy"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "familydrama",
+        "inheritance",
+        "justice",
+        "revenge"
+      ],
+      "description": "He forged Dad's signature to steal 50 acres of timberland. He didn't know Dad was in the ICU on the date the deed was signed.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-18T05:06:12"
     }
   ]
 }
