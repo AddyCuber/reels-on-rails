@@ -3711,6 +3711,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-20T18:08:50"
+    },
+    {
+      "id": "story_140",
+      "title": "The Home Care Agency Billed My Insurance for Phantom Visits",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A home healthcare manager submitted fifty thousand dollars in fraudulent insurance claims using my disabled husband's policy number. She didn't know I kept a timestamped electronic gate log of every vehicle entering our driveway.",
+      "hook": "A home healthcare manager submitted fifty thousand dollars in fraudulent insurance claims using my disabled husband's policy number.",
+      "villain_dismissal": "Insurance covers it, honey. Why do you care about administrative billing details?",
+      "reversal_type": "digital",
+      "proof_source": "digital_forensics",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "A home healthcare manager submitted fifty thousand dollars in fraudulent insurance claims using my disabled husband's policy number.\n\nMy husband suffered a stroke two years ago, and we hired a licensed home care agency to provide physical therapy twice a week. The agency manager, Brenda, managed the scheduling.\n\nWhen I reviewed my husband's annual Explanation of Benefits statement from our insurance carrier, I was shocked. Brenda's agency had billed fifty-two thousand dollars for daily four-hour specialized care sessions\u2014including days when my husband was hospitalized out of state.\n\nWhen I called Brenda, she laughed off my concern and said, 'Insurance covers it, honey. Why do you care about administrative billing details?'\n\nBrenda thought I was just an elderly wife who wouldn't understand insurance auditing.\n\nWhat Brenda didn't know was that our driveway was equipped with an automatic electronic license plate reader and timestamped camera system connected to my smart home network.\n\nI cross-referenced every single billed visit against my automated gate log. Out of one hundred and twenty billed sessions, ninety-five never occurred.\n\nI compiled the gate access logs, hospital admission records, and insurance claims into a report and submitted it to the State Insurance Fraud Division and the federal Medicare Fraud Strike Force.\n\nFederal investigators audited Brenda's agency and uncovered a systemic multi-million-dollar billing fraud scheme targeting dozens of senior families.\n\nBrenda and the agency owner were indicted for healthcare fraud and conspiracy. The insurance company refunded our policy limits in full.\n\nMy husband gets wonderful care from a vetted, non-profit provider, and our home remains our sanctuary.",
+      "broll_keywords": [
+        "driveway security camera",
+        "insurance statement paper",
+        "wheelchair living room",
+        "police raid office",
+        "tablet screen",
+        "elderly couple hands"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "insurancefraud",
+        "elderabuse",
+        "justice",
+        "revenge"
+      ],
+      "description": "She billed $50k in fake healthcare visits for my husband. She didn't know my electronic gate camera logged every visitor.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-20T23:45:46"
     }
   ]
 }
