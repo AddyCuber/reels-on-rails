@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_139",
-      "title": "My Brother Secretly Mortgaged Our Shared Inheritance",
-      "domain": "Inheritance",
-      "genre": "inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My brother took out a four-hundred-thousand-dollar private mortgage against our joint family farm without my knowledge or consent. He didn't realize the lender required both co-owners' signatures to execute a valid mortgage.",
-      "hook": "My brother took out a four-hundred-thousand-dollar private mortgage against our joint family farm without my knowledge or consent.",
-      "villain_dismissal": "I needed capital for an investment. You're getting half the profits anyway.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My brother took out a four-hundred-thousand-dollar private mortgage against our joint family farm without my knowledge or consent.\n\nMy sister and I inherited our parents' two-hundred-acre agricultural farm as joint tenants with right of survivorship. My brother, Kevin, was given a tenancy share.\n\nLast year, Kevin got involved in a risky real estate speculation deal. Unknown to me, he went to a hard-money lender and secured a four-hundred-thousand-dollar mortgage encumbering the entire farm property.\n\nWhen I discovered a lien notice in the mail, Kevin shrugged and said, 'I needed capital for an investment. You're getting half the profits anyway. Stop worrying.'\n\nWhen his real estate deal failed and Kevin defaulted, the private lender initiated foreclosure proceedings against the farm.\n\nKevin thought the mortgage was valid and that I would be forced to pay off his debt to save the farm.\n\nWhat Kevin and the lender didn't realize was that under state property law, a joint tenant cannot mortgage the entire fee simple estate without the express written joinder of all co-owners.\n\nI hired a real estate litigation attorney and filed a lawsuit to quiet title and invalidate the mortgage lien.\n\nThe court ruled that the lender's mortgage was completely void against my interest in the property due to lack of consent and improper title underwriting.\n\nThe judge severed Kevin's joint tenancy, forced the sale of Kevin's individual fractional interest to me at a distressed probate valuation, and left the hard-money lender with no recourse against the farm.\n\nI am now the sole owner of the entire two-hundred-acre farm. The crops are growing, and the land remains in safe hands.",
-      "broll_keywords": [
-        "family farm field",
-        "foreclosure notice paper",
-        "barn exterior",
-        "courtroom gavel",
-        "tractor driving",
-        "signing deed"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "familydrama",
-        "inheritance",
-        "justice",
-        "revenge"
-      ],
-      "description": "He took out a $400k mortgage on our joint farm without telling me. The court voided the mortgage and awarded me full ownership.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_140",
       "title": "The Home Care Agency Billed My Insurance for Phantom Visits",
       "domain": "Caregiver Theft",
