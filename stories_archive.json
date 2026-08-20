@@ -3606,6 +3606,41 @@
       "estimated_duration": 150,
       "published": true,
       "published_at": "2026-08-19T11:19:18"
+    },
+    {
+      "id": "story_137",
+      "title": "The Timeshare Rep Who Scammed My Elderly Mother",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence. He didn't know I was a retired consumer protection attorney.",
+      "hook": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence.",
+      "villain_dismissal": "She signed the agreement voluntarily. The rescission period has expired.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence.\n\nMy eighty-two-year-old mother went on a bus trip to Florida with her senior group. While there, a high-pressure timeshare salesman named Damon cornered her in a presentation room for five hours until she signed a forty-thousand-dollar contract.\n\nWhen Mom got home and realized she couldn't afford the maintenance fees, I called Damon to cancel. He scoffed and said, 'She signed the agreement voluntarily. The five-day rescission period has expired. If she defaults, we'll foreclose on her home.'\n\nDamon thought he was dealing with an average family he could intimidate.\n\nWhat Damon didn't know was that I spent thirty years working as a prosecutor in the State Attorney General's Consumer Protection Division.\n\nUnder state elder protection laws, any high-pressure contract signed by a senior citizen over eighty that encumbers real estate is subject to an extended statutory rescission period if full disclosure warnings were omitted.\n\nI drafted a formal rescission notice citing the state elder fraud statutes and sent copies to the resort corporation's general counsel, the state real estate licensing board, and the attorney general's office.\n\nWithin forty-eight hours, the resort company's legal department called me personally, canceled Mom's contract, removed the lien, and refunded her initial deposit.\n\nThe real estate board opened an administrative investigation into Damon that resulted in the suspension of his sales license.\n\nMom is back to enjoying her garden without any financial worries.",
+      "broll_keywords": [
+        "resort hotel pool",
+        "contract signature line",
+        "attorney general seal",
+        "elderly woman smiling",
+        "phone conversation",
+        "garden flowers"
+      ],
+      "hashtags": [
+        "shorts",
+        "storytime",
+        "timesharescam",
+        "elderprotection",
+        "justice",
+        "revenge"
+      ],
+      "description": "He scammed my 82-year-old mom into a timeshare contract with a home lien. He didn't know I was a consumer protection attorney.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-08-20T06:20:18"
     }
   ]
 }

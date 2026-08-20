@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_137",
-      "title": "The Timeshare Rep Who Scammed My Elderly Mother",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence. He didn't know I was a retired consumer protection attorney.",
-      "hook": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence.",
-      "villain_dismissal": "She signed the agreement voluntarily. The rescission period has expired.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "A timeshare salesman tricked my eighty-two-year-old mother into signing a contract that placed a lien on her primary residence.\n\nMy eighty-two-year-old mother went on a bus trip to Florida with her senior group. While there, a high-pressure timeshare salesman named Damon cornered her in a presentation room for five hours until she signed a forty-thousand-dollar contract.\n\nWhen Mom got home and realized she couldn't afford the maintenance fees, I called Damon to cancel. He scoffed and said, 'She signed the agreement voluntarily. The five-day rescission period has expired. If she defaults, we'll foreclose on her home.'\n\nDamon thought he was dealing with an average family he could intimidate.\n\nWhat Damon didn't know was that I spent thirty years working as a prosecutor in the State Attorney General's Consumer Protection Division.\n\nUnder state elder protection laws, any high-pressure contract signed by a senior citizen over eighty that encumbers real estate is subject to an extended statutory rescission period if full disclosure warnings were omitted.\n\nI drafted a formal rescission notice citing the state elder fraud statutes and sent copies to the resort corporation's general counsel, the state real estate licensing board, and the attorney general's office.\n\nWithin forty-eight hours, the resort company's legal department called me personally, canceled Mom's contract, removed the lien, and refunded her initial deposit.\n\nThe real estate board opened an administrative investigation into Damon that resulted in the suspension of his sales license.\n\nMom is back to enjoying her garden without any financial worries.",
-      "broll_keywords": [
-        "resort hotel pool",
-        "contract signature line",
-        "attorney general seal",
-        "elderly woman smiling",
-        "phone conversation",
-        "garden flowers"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "timesharescam",
-        "elderprotection",
-        "justice",
-        "revenge"
-      ],
-      "description": "He scammed my 82-year-old mom into a timeshare contract with a home lien. He didn't know I was a consumer protection attorney.",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_138",
       "title": "My Neighbor Cut Down My Hundred-Year-Old Oak Tree",
       "domain": "Property Dispute",
@@ -131,6 +98,336 @@
       ],
       "description": "She billed $50k in fake healthcare visits for my husband. She didn't know my electronic gate camera logged every visitor.",
       "estimated_duration": 160
+    },
+    {
+      "id": "story_206",
+      "title": "The 'Empty' Vase and My Niece's Greedy Surprise",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Brenda thought she'd inherited a fortune, but I had a surprise hidden in plain sight. My family's legacy was never about the money, but she learned that the hard way.",
+      "hook": "My niece, Brenda, just learned the 'priceless' antique vase she inherited is completely empty.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My niece, Brenda, just learned the 'priceless' antique vase she inherited is completely empty. Oh, the look on her face! Brenda always had a sense of entitlement when it came to my money. She'd been hinting for years, ever since her father, my brother, passed away. 'Aunt Carol, you have such beautiful things,' she'd coo, her eyes always lingering on the most valuable items in my home. The antique Ming vase was her particular obsession. She saw dollar signs, not the sentimental value it held for me. \n\nWhen I updated my will last year, I made sure everything was meticulously planned. I knew Brenda would expect the 'big ticket' items. So, I created a decoy. The Ming vase, a replica I bought years ago, was prominently listed in her inheritance. The real valuables \u2013 my grandmother's jewelry, the original artwork, the actual family heirlooms \u2013 were discreetly placed into an irrevocable trust for my grand-niece, Clara, who has always shown genuine care and affection, and a portion to the local animal shelter. \n\nBrenda, of course, chose the vase first, eager to have it appraised. She even gloated to my other relatives about her 'fortune.' Imagine her shock when the appraiser informed her it was a beautiful, but ultimately worthless, reproduction. Not a penny inside, either. The true inheritance, the one that mattered, went to someone who deserved it, and to a cause I deeply cared about. Brenda's greed blinded her, and now she's left with an empty, ordinary vase \u2013 a fitting monument to her expectations. It taught her that sometimes, the most valuable lessons come with the least expected price tag. And that an old lady's 'treasures' aren't always what they seem.",
+      "broll_keywords": [
+        "antique vase",
+        "lawyer's office",
+        "safe deposit box key",
+        "charity logo",
+        "Brenda looking shocked",
+        "empty box"
+      ],
+      "hashtags": [
+        "#InheritanceDrama",
+        "#FamilySecrets",
+        "#ElderJustice",
+        "#JusticeServed",
+        "#GreedKills",
+        "#SmartMoves"
+      ],
+      "description": "Never underestimate a senior citizen's foresight. My niece thought she had me figured out, but I had a trick up my sleeve!",
+      "estimated_duration": 150
+    },
+    {
+      "id": "story_207",
+      "title": "My Contractor's 'Mistake' Cost Him Everything",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Jenkins thought he could overcharge an old lady, but I had every conversation recorded and every invoice scrutinized. He learned a costly lesson about integrity.",
+      "hook": "That dishonest contractor, Mr. Jenkins, just got served with a lawsuit for triple the damages he tried to charge me.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "That dishonest contractor, Mr. Jenkins, just got served with a lawsuit for triple the damages he tried to charge me. He thought I was just a sweet old lady, easy to fool. When my roof needed repairs, Mr. Jenkins gave me a quote that seemed reasonable enough, $8,000 for a full replacement. But as soon as the work started, the 'unforeseen complications' began. First, it was unexpected structural damage, adding another $3,000. Then, 'premium materials' that were suddenly essential, another $2,000. He tried to pressure me into signing off on these new charges, saying the work would stop otherwise. \n\nBut I'm not new to the world, even if my hair is gray. My late husband, God rest his soul, was an engineer, and he taught me a thing or two about contracts and documentation. I started recording every phone call and every in-person conversation with Mr. Jenkins, informing him at the start of each that our discussion was being recorded for accuracy. I took photos daily of the progress, or lack thereof. I also had my grandson, a budding law student, review every revised invoice. He quickly spotted the inflated prices for materials and labor that were far above market rate.\n\nWhen Mr. Jenkins presented his final bill, nearly double the original quote, I simply handed him a letter from my attorney. It detailed all his fraudulent charges, the recorded conversations, and the evidence of him trying to pull the same stunt on two other seniors in the neighborhood. He scoffed, 'You can't prove a thing!' Oh, but we did. The lawsuit not only demands restitution for me but also covers damages for his other victims, and his contractor's license is now under review. He underestimated my meticulousness, and it cost him more than just a dishonest profit.",
+      "broll_keywords": [
+        "contractor invoice",
+        "recording device",
+        "legal document",
+        "damaged roof",
+        "courtroom sketch",
+        "newspaper headline"
+      ],
+      "hashtags": [
+        "#ContractorScam",
+        "#ElderProtection",
+        "#ConsumerRights",
+        "#JusticeForSeniors",
+        "#BewareCrooks",
+        "#SmartSenior"
+      ],
+      "description": "Don't let dishonest contractors take advantage of you! Always document everything. My story is a reminder to stay vigilant.",
+      "estimated_duration": 160
+    },
+    {
+      "id": "story_208",
+      "title": "My Neighbor's Fence Just Cost Him His Land",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Stan thought he could grab a few extra feet of my land, but I'd had that property surveyed meticulously years ago. He underestimated my memory and my property markers.",
+      "hook": "My neighbor, Stan, just received a court order to dismantle his new fence, which he illegally built on my property.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My neighbor, Stan, just received a court order to dismantle his new fence, which he illegally built on my property. When Stan moved in next door last spring, he seemed like a nice enough fellow. But then, he started building a fence, a really nice one, but I noticed it creeping onto my land. It wasn't just a few inches; it was a good two feet over my established property line. I'd lived here for fifty years and knew every inch of my yard.\n\nI went over, coffee cup in hand, and politely pointed out that the fence appeared to be on my side of the line. 'Oh, come on, Martha,' he scoffed, waving his hand dismissively. 'Old people get confused. This is where the old fence was.' He was wrong. The old fence had been entirely on *my* side, further in. I didn't argue. I just smiled, turned, and went back inside.\n\nThat night, I didn't stew. Instead, I dug out the meticulously kept property survey my late husband and I had commissioned in 1998, complete with exact measurements and the original, still-visible metal markers. The next day, I didn't confront Stan again. I called a new, independent surveyor to re-confirm the lines, which he did, right down to the millimeter. Then, I bypassed any further neighborly chats and went straight to my lawyer, Mr. Henderson. He sent Stan a strongly worded letter, enclosing both survey documents. Stan ignored it, claiming harassment. That's when we filed a complaint and secured a court order.\n\nNow, Stan isn't just dismantling his expensive new fence; he's also paying for the new survey, my legal fees, and the cost of the demolition crew. He learned the hard way that a few feet of land can cost a fortune, especially when you underestimate an 'old lady's' paperwork.",
+      "broll_keywords": [
+        "property survey map",
+        "fence construction",
+        "court order",
+        "lawyer's handshake",
+        "Stan looking angry",
+        "boundary markers"
+      ],
+      "hashtags": [
+        "#PropertyDispute",
+        "#NeighborDrama",
+        "#BoundaryWars",
+        "#ElderJustice",
+        "#LegalVictory",
+        "#KnowYourRights"
+      ],
+      "description": "Never let anyone infringe on your property rights! My neighbor learned that the hard way. Always keep your property documents safe.",
+      "estimated_duration": 155
+    },
+    {
+      "id": "story_209",
+      "title": "My Caregiver's 'Bonus' Was a Prison Sentence",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Sarah thought she could secretly drain my funds, but I had a system in place that caught her red-handed. She learned that trust isn't given, it's earned.",
+      "hook": "My seemingly sweet caregiver, Sarah, just got arrested for stealing over $20,000 from my bank account.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My seemingly sweet caregiver, Sarah, just got arrested for stealing over $20,000 from my bank account. Sarah was charming, always smiling, and seemed so attentive. She\u2019d bring me tea, help with groceries, and listened to my stories. I truly believed she was a godsend. I gave her access to a debit card for household expenses, trusting her completely. But I\u2019m old, not foolish. My daughter, a financial advisor, had insisted I set up text alerts for any withdrawal over $500 from my primary checking account, and a separate, smaller account for daily expenses that Sarah had access to.\n\nOne afternoon, I noticed an unusual pattern of small, frequent withdrawals from the smaller account, more than what groceries or prescriptions would cost. Each was under the $500 threshold, so they didn't trigger my main alerts, but they added up. I didn't confront Sarah immediately. Instead, I confided in my daughter. She suggested installing a small, discreet camera near the ATM I frequented, and another near my home computer, just to be safe. We also cross-referenced the withdrawal times with Sarah's work schedule.\n\nThe evidence quickly mounted. The camera footage showed Sarah making unauthorized withdrawals, sometimes multiple times a day, always just under the alert limit. We also found online purchases on sites I never used, delivered to an address that wasn't mine. My daughter compiled a meticulous report, complete with dates, times, and transaction amounts. We presented everything to the local police. They acted swiftly. The look on Sarah's face when the officers showed up at my door was priceless. She tried to deny it, but with the video evidence and bank statements, she had no leg to stand on. She\u2019s now facing serious charges. It's a sad lesson, but I hope it serves as a warning to others.",
+      "broll_keywords": [
+        "bank statement",
+        "hidden camera",
+        "ATM",
+        "police car",
+        "handcuffs",
+        "Sarah looking shocked"
+      ],
+      "hashtags": [
+        "#CaregiverFraud",
+        "#ElderAbuse",
+        "#JusticeForSeniors",
+        "#FinancialProtection",
+        "#BewareThieves",
+        "#HiddenCamera"
+      ],
+      "description": "Always be vigilant, even with those you trust. My story is a stark reminder to protect your finances from dishonest caregivers.",
+      "estimated_duration": 165
+    },
+    {
+      "id": "story_210",
+      "title": "That 'Pension Advisor' Just Lost His License",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Sterling promised me a retirement of luxury, but I smelled a rat. My careful research saved my life savings and exposed his elaborate scam.",
+      "hook": "That smooth-talking 'pension advisor' who promised me huge returns just had his license revoked and is facing federal charges.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "That smooth-talking 'pension advisor' who promised me huge returns just had his license revoked and is facing federal charges. Mr. Sterling, with his slick suit and even slicker presentation, approached me at a 'Senior Financial Wellness' seminar. He promised 'guaranteed' double-digit returns on my pension, an 'exclusive opportunity' for people over 65, claiming it was a new, cutting-edge investment in green energy. He pressured me to act fast, emphasizing a 'limited window' to participate. He had flashy brochures, impressive-looking charts, and testimonials that seemed too good to be true. And that's exactly what my gut told me.\n\nI remembered a public service announcement I\u2019d seen about checking the credentials of financial advisors. Instead of signing on the dotted line, I politely took his materials and told him I'd think about it. The first thing I did when I got home was call the state's financial regulatory body. A quick search of his name and his 'firm,' Sterling & Associates, yielded no results. They had no record of him being a licensed financial advisor, nor was his company registered to conduct business in our state.\n\nMy suspicions confirmed, I didn't hesitate. I reported him immediately, providing all the brochures and contact information he'd given me. It turns out, Mr. Sterling was a key player in a widespread Ponzi scheme, specifically targeting seniors across several states. My caution, my refusal to be rushed, and a simple phone call didn't just save my pension from being wiped out; it helped bring down a major operation that had already defrauded dozens of elderly individuals of their life savings. It's a stark reminder that if something sounds too good to be true, it almost certainly is.",
+      "broll_keywords": [
+        "financial brochure",
+        "laptop with scam warning",
+        "phone call to authorities",
+        "newspaper headline",
+        "Mr. Sterling looking dejected",
+        "license revocation notice"
+      ],
+      "hashtags": [
+        "#PensionScam",
+        "#FinancialFraud",
+        "#ElderProtection",
+        "#ConsumerAlert",
+        "#JusticeServed",
+        "#ScamAwareness"
+      ],
+      "description": "Don't fall for high-pressure investment pitches! Always verify credentials. My vigilance helped expose a major pension scam.",
+      "estimated_duration": 170
+    },
+    {
+      "id": "story_211",
+      "title": "My Nephew's Fake Will Just Cost Him Everything",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Kevin thought he could trick the courts with a fake will, but I had already secured my estate with an ironclad trust. His greed led to his downfall.",
+      "hook": "My nephew, Kevin, just found out the 'new' will he tried to submit was instantly rejected as a forgery.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My nephew, Kevin, just found out the 'new' will he tried to submit was instantly rejected as a forgery. Kevin had always been entitled, a bit of a ne'er-do-well, always asking for 'loans' he never repaid. Last year, when I had a health scare, he suddenly became very attentive, visiting more often, bringing flowers, and always, always subtly steering conversations towards my estate. I saw right through it. I loved him, but I wasn't born yesterday.\n\nEven though I had a perfectly valid will, I decided to take extra precautions. I contacted my trusted estate lawyer, Mrs. Albright, and we set up an irrevocable trust. I meticulously transferred all my major assets \u2013 my house, my investments, my antique collection \u2013 into this trust, with clear beneficiaries: my responsible grand-niece, Sarah, and a local charity that supports veterans. Mrs. Albright made sure every detail was legally sound and properly recorded with the county. I even kept the details quiet, not wanting to tip off any potential opportunists.\n\nSure enough, a few months later, after I was fully recovered, Kevin made his move. He showed up at Mrs. Albright's office, beaming, with what he claimed was my 'latest will.' It was a poorly executed forgery, leaving everything to him, signed with a shaky hand that looked nothing like mine, dated from when I was still in the hospital. Mrs. Albright, who already had my trust on file and knew my true intentions, instantly recognized it as a fake. She calmly informed him that not only was the document invalid, but his actions constituted attempted fraud.\n\nKevin's face fell. He spluttered denials, but the evidence was clear. Now, instead of inheriting anything, he\u2019s facing legal repercussions for attempted fraud, and I haven't heard from him since. My foresight saved my legacy from his greedy grasp.",
+      "broll_keywords": [
+        "fake will document",
+        "genuine trust document",
+        "lawyer's office",
+        "Kevin looking shocked",
+        "court seal",
+        "police report"
+      ],
+      "hashtags": [
+        "#FakeWill",
+        "#InheritanceFraud",
+        "#FamilyDrama",
+        "#ElderJustice",
+        "#ProbateCourt",
+        "#GreedExposed"
+      ],
+      "description": "Always protect your legacy! A well-structured trust can foil even the most determined fraudsters. My nephew learned that lesson the hard way.",
+      "estimated_duration": 160
+    },
+    {
+      "id": "story_212",
+      "title": "My HOA President's Secret Account Is Now Public",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Henderson thought he was above the rules, siphoning community funds. But I kept meticulous records, and his reign of corruption is over.",
+      "hook": "Our HOA president, Mr. Henderson, just resigned in disgrace after his secret offshore account was exposed.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our HOA president, Mr. Henderson, just resigned in disgrace after his secret offshore account was exposed. For years, Mr. Henderson ran our homeowner's association like his personal kingdom. Dues kept climbing \u2013 'for necessary improvements,' he\u2019d say \u2013 but our community pool remained green, the landscaping was neglected, and the clubhouse roof still leaked. When I started asking questions at meetings, he'd dismiss me, 'Martha, dear, leave the finances to the professionals.'\n\nBut I'm not one to be easily dismissed. I started attending every meeting, taking detailed notes. I formally requested detailed financial statements, which he always conveniently delayed or provided in confusing, incomplete summaries. I noticed a pattern: large, unexplained payments to 'consulting firms' with vague names like 'Coastal Solutions LLC' or 'Parkview Management Group.' These weren't local businesses, and their services were never clearly defined.\n\nI quietly reached out to a few other concerned residents, and together, we started digging. One of my neighbors had a nephew who was an investigative journalist. We compiled all our meeting notes, the incomplete financial reports, and a list of these suspicious 'consulting' companies. The journalist, intrigued, started asking his own questions. His investigation quickly revealed that 'Coastal Solutions LLC' was registered to an address in the Cayman Islands, and its sole director was a close relative of Mr. Henderson. The money from our HOA dues was being funneled into these shell companies, and then into an offshore account in Mr. Henderson's name.\n\nThe journalist's expos\u00e9 hit the local papers like a bombshell. The public outcry was immediate. The state attorney general's office launched an investigation. Within weeks, Mr. Henderson resigned in disgrace, and his assets were frozen. Our community finally got the transparency it deserved, all because a few 'nosy' seniors refused to look away. We got our pool cleaned, too.",
+      "broll_keywords": [
+        "HOA meeting",
+        "financial ledger",
+        "offshore bank statement",
+        "newspaper article",
+        "Henderson looking stressed",
+        "community sign"
+      ],
+      "hashtags": [
+        "#HOAScams",
+        "#CommunityCorruption",
+        "#ElderJustice",
+        "#Whistleblower",
+        "#Transparency",
+        "#JusticeForNeighbors"
+      ],
+      "description": "Don't let corrupt officials steal from your community! My story shows how persistence and documentation can make a difference.",
+      "estimated_duration": 175
+    },
+    {
+      "id": "story_213",
+      "title": "My Neighbor's Illegal Shed Just Disappeared",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Greg ignored my warnings about his shed's location, thinking I wouldn't fight back. He learned that property lines are serious business.",
+      "hook": "My new neighbor, Greg, just had his expensive new shed forcibly removed because he built it on my property.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new neighbor, Greg, just had his expensive new shed forcibly removed because he built it on my property. When Greg moved in next door a few months ago, he seemed like a friendly enough fellow. Then, without a word, he started constructing a rather large, fancy shed right on the edge of his yard. I watched for a few days, and my heart sank as I realized it was encroaching onto my land, not by much, but by a good foot and a half. I'd lived in this house for forty years, and I knew exactly where my property line was.\n\nI walked over, holding my original property deed, and politely pointed out that his shed was over the line. I even showed him the official survey map from 1982. He chuckled, 'Oh, Martha, it's just a few inches, what's the big deal? You probably won't even use that part of the yard.' He dismissed me, telling me not to worry my 'pretty little head' about it. That was his first mistake.\n\nI didn't argue. I simply sent him a certified letter, drafted by my lawyer, outlining the encroachment and demanding he move the structure within 30 days. He signed for it but ignored it. So, after the 30 days were up, my lawyer filed a lawsuit. The court reviewed my irrefutable survey documents and Greg's blatant disregard for my rights. The judge issued an order for the shed's removal, to be carried out by a professional demolition crew, and ordered Greg to pay for all associated costs, including my legal fees and the new survey I had to get to re-confirm the line.\n\nLast Tuesday, a crew arrived and dismantled his brand new, expensive shed, piece by piece, right before his furious eyes. That 'few inches' cost him thousands of dollars and a whole lot of embarrassment. He learned that property lines aren't just suggestions, especially when dealing with a senior who knows her rights.",
+      "broll_keywords": [
+        "shed under construction",
+        "property survey",
+        "legal notice",
+        "court document",
+        "shed being dismantled",
+        "Greg looking defeated"
+      ],
+      "hashtags": [
+        "#PropertyRights",
+        "#NeighborDispute",
+        "#BoundaryLines",
+        "#LegalAction",
+        "#ElderJustice",
+        "#LandOwnership"
+      ],
+      "description": "Protect your property! Don't let neighbors bully you into giving up your land. My story is a testament to standing your ground.",
+      "estimated_duration": 160
+    },
+    {
+      "id": "story_214",
+      "title": "The Pastor's 'Divine' Fund Was All a Lie",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Pastor John preached charity, but practiced greed. My suspicions, and a little digging, uncovered his elaborate scheme.",
+      "hook": "Our beloved Pastor John just confessed to embezzling millions from the church's 'charity' fund.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our beloved Pastor John just confessed to embezzling millions from the church's 'charity' fund. He was charismatic, with a booming voice and a captivating smile. Every Sunday, he\u2019d preach about giving, about helping the less fortunate, and specifically, about the 'Orphanage Rebuilding Fund.' We all contributed generously, week after week, believing we were doing God's work. I personally donated thousands over the years, envisioning a new, safe home for children.\n\nBut after a while, I started noticing things. Pastor John's lifestyle seemed to become increasingly lavish. A brand new luxury car, his wife's expensive designer clothes and jewelry, while the old orphanage building, visible from the church parking lot, remained exactly as dilapidated as it had been for years. No construction, no new windows, no signs of 'rebuilding.' I tried to ask for financial reports for the 'Orphanage Rebuilding Fund' at a church committee meeting, but Pastor John quickly brushed me off, saying such details were 'confidential' and 'handled by the Lord's chosen.'\n\nThat didn't sit right with me. I reached out to a trusted friend, Mary, who was a retired forensic accountant. Together, we started looking into publicly available church financial records and the Pastor's personal assets. We found discrepancies \u2013 large sums moving from the 'charity' fund to shell corporations, then into accounts linked directly to Pastor John and his family. His 'divine' fund was anything but. We compiled an ironclad case, presenting it first to the church elders, who were horrified, and then to the district attorney's office. Faced with irrefutable proof of his secret lavish lifestyle, funded by the very donations meant for orphans, Pastor John confessed. The millions he stole are now being recovered, and he's facing a very different kind of judgment. It just goes to show, even in the house of God, you have to be vigilant.",
+      "broll_keywords": [
+        "church offering plate",
+        "fancy car",
+        "financial ledger",
+        "police badge",
+        "newspaper article",
+        "empty orphanage building"
+      ],
+      "hashtags": [
+        "#ChurchScam",
+        "#FraudulentPastor",
+        "#ElderJustice",
+        "#FaithBetrayed",
+        "#ExposedScam",
+        "#CommunityWatch"
+      ],
+      "description": "Even in places of worship, vigilance is key. My story shows how a little skepticism can uncover a big lie.",
+      "estimated_duration": 170
+    },
+    {
+      "id": "story_215",
+      "title": "My 'Trusted' Lawyer Just Lost His Practice",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Thompson thought he could quietly alter my will for his own gain, but I was one step ahead. His betrayal cost him everything.",
+      "hook": "My long-time family lawyer, Mr. Thompson, just had his law license suspended for attempting to manipulate my will.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My long-time family lawyer, Mr. Thompson, just had his law license suspended for attempting to manipulate my will. Mr. Thompson had handled all our family's legal affairs for decades. He drafted my husband's will, my sister's, and even my own first will years ago. I trusted him implicitly, considered him practically family. So, when I decided to update my will last year \u2013 wanting to leave a larger portion to the local library and a smaller amount to a distant cousin who rarely bothered to visit \u2013 I naturally went to him.\n\nDuring our meeting, Mr. Thompson subtly tried to dissuade me from the changes. He spoke of the 'complexities' of leaving funds to a charity, the 'potential tax implications,' and even suggested that my distant cousin, 'poor dear,' might be more in need. He seemed unusually insistent on keeping certain clauses from my old will, which, upon rereading, seemed rather vague about who would handle residual assets. I found his demeanor unsettling. It wasn't the Mr. Thompson I knew.\n\nMy intuition, honed over 80 years, screamed caution. I decided to get a second opinion. I took the draft will Mr. Thompson provided to a new, independent lawyer, Ms. Davies, recommended by a friend. Within days, Ms. Davies called me back, her voice tight with concern. She had spotted several cleverly worded clauses in the draft that would have granted Mr. Thompson's firm significant, ongoing control over my estate, and hefty 'administrative fees' for decades. It was a thinly veiled attempt to funnel money into his own pockets, disguising it as legitimate legal work.\n\nMs. Davies immediately reported Mr. Thompson to the State Bar Association. It turned out I wasn't his first victim; he had a history of similar, subtle manipulations with other elderly clients who trusted him. The investigation was swift. His law license was suspended, and he's now facing disbarment and possible legal action. It was a painful betrayal, but my vigilance saved my legacy and brought down a dishonest attorney. Always get a second opinion, no matter how much you trust someone.",
+      "broll_keywords": [
+        "will document",
+        "lawyer's office",
+        "bar association letter",
+        "red pen marking changes",
+        "Thompson looking shocked",
+        "legal books"
+      ],
+      "hashtags": [
+        "#LawyerFraud",
+        "#InheritanceScam",
+        "#ElderProtection",
+        "#LegalEthics",
+        "#JusticeServed",
+        "#TrustBroken"
+      ],
+      "description": "Always get a second opinion, even from trusted professionals! My story highlights the importance of vigilance when dealing with legal documents.",
+      "estimated_duration": 165
     }
   ]
 }
