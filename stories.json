@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_138",
-      "title": "My Neighbor Cut Down My Hundred-Year-Old Oak Tree",
-      "domain": "Property Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My neighbor hired an un-licensed crew to cut down a century-old oak tree on my property while I was visiting family for Thanksgiving. He didn't realize timber trespass laws carry triple replacement damages.",
-      "hook": "My neighbor hired an un-licensed crew to cut down a century-old oak tree on my property while I was visiting family for Thanksgiving.",
-      "villain_dismissal": "It blocked my sunlight, neighbor. The tree is gone, so deal with it.",
-      "reversal_type": "legal",
-      "proof_source": "forensic_analysis",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My neighbor hired an un-licensed crew to cut down a century-old oak tree on my property while I was visiting family for Thanksgiving.\n\nOn my property line stood a massive, hundred-year-old white oak tree that provided shade for my entire backyard. My neighbor, Greg, had repeatedly complained that the oak blocked sunlight from his swimming pool.\n\nWhile I was away for Thanksgiving weekend, Greg hired an un-insured tree service to trespass onto my land and cut the oak tree down to a stump.\n\nWhen I returned and saw the devastation, Greg stood by his pool, held up a beer, and smirked, 'It blocked my sunlight, neighbor. The tree is gone, so deal with it. What are you gonna do?'\n\nGreg thought the tree was worth a few hundred dollars in firewood.\n\nWhat Greg didn't know was that under state timber trespass law, wrongfully cutting down a mature heritage tree on private property carries statutory triple damages based on appraised timber replacement value.\n\nI hired a certified consulting arborist and a land surveyor. The arborist evaluated the stump diameter, age, and canopy density, calculating the replacement value of the historic oak at forty-five thousand dollars.\n\nI filed a lawsuit in county court for intentional timber trespass. Under the triple damage statute, the judge awarded me one hundred and thirty-five thousand dollars in damages plus court costs.\n\nGreg's homeowner's insurance policy refused to cover intentional illegal acts, forcing Greg to take out a second mortgage on his home to pay the judgment.\n\nI used part of the money to plant three beautiful mature shade trees on my property. My yard looks gorgeous.",
-      "broll_keywords": [
-        "giant oak tree stump",
-        "chainsaw worker",
-        "arborist measuring tape",
-        "swimming pool yard",
-        "courtroom verdict",
-        "new sapling trees"
-      ],
-      "hashtags": [
-        "shorts",
-        "storytime",
-        "treelaw",
-        "neighborfromhell",
-        "justice",
-        "revenge"
-      ],
-      "description": "He cut down my 100-year-old oak tree while I was away. He didn't know timber trespass law carries triple replacement damages ($135k).",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_139",
       "title": "My Brother Secretly Mortgaged Our Shared Inheritance",
       "domain": "Inheritance",
