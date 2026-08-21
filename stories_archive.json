@@ -3851,6 +3851,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-08-21T16:40:15"
+    },
+    {
+      "id": "story_209",
+      "title": "My Caregiver's 'Bonus' Was a Prison Sentence",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Sarah thought she could secretly drain my funds, but I had a system in place that caught her red-handed. She learned that trust isn't given, it's earned.",
+      "hook": "My seemingly sweet caregiver, Sarah, just got arrested for stealing over $20,000 from my bank account.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My seemingly sweet caregiver, Sarah, just got arrested for stealing over $20,000 from my bank account. Sarah was charming, always smiling, and seemed so attentive. She\u2019d bring me tea, help with groceries, and listened to my stories. I truly believed she was a godsend. I gave her access to a debit card for household expenses, trusting her completely. But I\u2019m old, not foolish. My daughter, a financial advisor, had insisted I set up text alerts for any withdrawal over $500 from my primary checking account, and a separate, smaller account for daily expenses that Sarah had access to.\n\nOne afternoon, I noticed an unusual pattern of small, frequent withdrawals from the smaller account, more than what groceries or prescriptions would cost. Each was under the $500 threshold, so they didn't trigger my main alerts, but they added up. I didn't confront Sarah immediately. Instead, I confided in my daughter. She suggested installing a small, discreet camera near the ATM I frequented, and another near my home computer, just to be safe. We also cross-referenced the withdrawal times with Sarah's work schedule.\n\nThe evidence quickly mounted. The camera footage showed Sarah making unauthorized withdrawals, sometimes multiple times a day, always just under the alert limit. We also found online purchases on sites I never used, delivered to an address that wasn't mine. My daughter compiled a meticulous report, complete with dates, times, and transaction amounts. We presented everything to the local police. They acted swiftly. The look on Sarah's face when the officers showed up at my door was priceless. She tried to deny it, but with the video evidence and bank statements, she had no leg to stand on. She\u2019s now facing serious charges. It's a sad lesson, but I hope it serves as a warning to others.",
+      "broll_keywords": [
+        "bank statement",
+        "hidden camera",
+        "ATM",
+        "police car",
+        "handcuffs",
+        "Sarah looking shocked"
+      ],
+      "hashtags": [
+        "#CaregiverFraud",
+        "#ElderAbuse",
+        "#JusticeForSeniors",
+        "#FinancialProtection",
+        "#BewareThieves",
+        "#HiddenCamera"
+      ],
+      "description": "Always be vigilant, even with those you trust. My story is a stark reminder to protect your finances from dishonest caregivers.",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-08-21T23:28:01"
     }
   ]
 }
