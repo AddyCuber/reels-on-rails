@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_208",
-      "title": "My Neighbor's Fence Just Cost Him His Land",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Stan thought he could grab a few extra feet of my land, but I'd had that property surveyed meticulously years ago. He underestimated my memory and my property markers.",
-      "hook": "My neighbor, Stan, just received a court order to dismantle his new fence, which he illegally built on my property.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My neighbor, Stan, just received a court order to dismantle his new fence, which he illegally built on my property. When Stan moved in next door last spring, he seemed like a nice enough fellow. But then, he started building a fence, a really nice one, but I noticed it creeping onto my land. It wasn't just a few inches; it was a good two feet over my established property line. I'd lived here for fifty years and knew every inch of my yard.\n\nI went over, coffee cup in hand, and politely pointed out that the fence appeared to be on my side of the line. 'Oh, come on, Martha,' he scoffed, waving his hand dismissively. 'Old people get confused. This is where the old fence was.' He was wrong. The old fence had been entirely on *my* side, further in. I didn't argue. I just smiled, turned, and went back inside.\n\nThat night, I didn't stew. Instead, I dug out the meticulously kept property survey my late husband and I had commissioned in 1998, complete with exact measurements and the original, still-visible metal markers. The next day, I didn't confront Stan again. I called a new, independent surveyor to re-confirm the lines, which he did, right down to the millimeter. Then, I bypassed any further neighborly chats and went straight to my lawyer, Mr. Henderson. He sent Stan a strongly worded letter, enclosing both survey documents. Stan ignored it, claiming harassment. That's when we filed a complaint and secured a court order.\n\nNow, Stan isn't just dismantling his expensive new fence; he's also paying for the new survey, my legal fees, and the cost of the demolition crew. He learned the hard way that a few feet of land can cost a fortune, especially when you underestimate an 'old lady's' paperwork.",
-      "broll_keywords": [
-        "property survey map",
-        "fence construction",
-        "court order",
-        "lawyer's handshake",
-        "Stan looking angry",
-        "boundary markers"
-      ],
-      "hashtags": [
-        "#PropertyDispute",
-        "#NeighborDrama",
-        "#BoundaryWars",
-        "#ElderJustice",
-        "#LegalVictory",
-        "#KnowYourRights"
-      ],
-      "description": "Never let anyone infringe on your property rights! My neighbor learned that the hard way. Always keep your property documents safe.",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_209",
       "title": "My Caregiver's 'Bonus' Was a Prison Sentence",
       "domain": "Caregiver Theft",
