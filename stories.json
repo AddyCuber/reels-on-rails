@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_207",
-      "title": "My Contractor's 'Mistake' Cost Him Everything",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Mr. Jenkins thought he could overcharge an old lady, but I had every conversation recorded and every invoice scrutinized. He learned a costly lesson about integrity.",
-      "hook": "That dishonest contractor, Mr. Jenkins, just got served with a lawsuit for triple the damages he tried to charge me.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "That dishonest contractor, Mr. Jenkins, just got served with a lawsuit for triple the damages he tried to charge me. He thought I was just a sweet old lady, easy to fool. When my roof needed repairs, Mr. Jenkins gave me a quote that seemed reasonable enough, $8,000 for a full replacement. But as soon as the work started, the 'unforeseen complications' began. First, it was unexpected structural damage, adding another $3,000. Then, 'premium materials' that were suddenly essential, another $2,000. He tried to pressure me into signing off on these new charges, saying the work would stop otherwise. \n\nBut I'm not new to the world, even if my hair is gray. My late husband, God rest his soul, was an engineer, and he taught me a thing or two about contracts and documentation. I started recording every phone call and every in-person conversation with Mr. Jenkins, informing him at the start of each that our discussion was being recorded for accuracy. I took photos daily of the progress, or lack thereof. I also had my grandson, a budding law student, review every revised invoice. He quickly spotted the inflated prices for materials and labor that were far above market rate.\n\nWhen Mr. Jenkins presented his final bill, nearly double the original quote, I simply handed him a letter from my attorney. It detailed all his fraudulent charges, the recorded conversations, and the evidence of him trying to pull the same stunt on two other seniors in the neighborhood. He scoffed, 'You can't prove a thing!' Oh, but we did. The lawsuit not only demands restitution for me but also covers damages for his other victims, and his contractor's license is now under review. He underestimated my meticulousness, and it cost him more than just a dishonest profit.",
-      "broll_keywords": [
-        "contractor invoice",
-        "recording device",
-        "legal document",
-        "damaged roof",
-        "courtroom sketch",
-        "newspaper headline"
-      ],
-      "hashtags": [
-        "#ContractorScam",
-        "#ElderProtection",
-        "#ConsumerRights",
-        "#JusticeForSeniors",
-        "#BewareCrooks",
-        "#SmartSenior"
-      ],
-      "description": "Don't let dishonest contractors take advantage of you! Always document everything. My story is a reminder to stay vigilant.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_208",
       "title": "My Neighbor's Fence Just Cost Him His Land",
       "domain": "Property Boundary Dispute",
