@@ -3886,6 +3886,41 @@
       "estimated_duration": 165,
       "published": true,
       "published_at": "2026-08-21T23:28:01"
+    },
+    {
+      "id": "story_210",
+      "title": "That 'Pension Advisor' Just Lost His License",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Sterling promised me a retirement of luxury, but I smelled a rat. My careful research saved my life savings and exposed his elaborate scam.",
+      "hook": "That smooth-talking 'pension advisor' who promised me huge returns just had his license revoked and is facing federal charges.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "That smooth-talking 'pension advisor' who promised me huge returns just had his license revoked and is facing federal charges. Mr. Sterling, with his slick suit and even slicker presentation, approached me at a 'Senior Financial Wellness' seminar. He promised 'guaranteed' double-digit returns on my pension, an 'exclusive opportunity' for people over 65, claiming it was a new, cutting-edge investment in green energy. He pressured me to act fast, emphasizing a 'limited window' to participate. He had flashy brochures, impressive-looking charts, and testimonials that seemed too good to be true. And that's exactly what my gut told me.\n\nI remembered a public service announcement I\u2019d seen about checking the credentials of financial advisors. Instead of signing on the dotted line, I politely took his materials and told him I'd think about it. The first thing I did when I got home was call the state's financial regulatory body. A quick search of his name and his 'firm,' Sterling & Associates, yielded no results. They had no record of him being a licensed financial advisor, nor was his company registered to conduct business in our state.\n\nMy suspicions confirmed, I didn't hesitate. I reported him immediately, providing all the brochures and contact information he'd given me. It turns out, Mr. Sterling was a key player in a widespread Ponzi scheme, specifically targeting seniors across several states. My caution, my refusal to be rushed, and a simple phone call didn't just save my pension from being wiped out; it helped bring down a major operation that had already defrauded dozens of elderly individuals of their life savings. It's a stark reminder that if something sounds too good to be true, it almost certainly is.",
+      "broll_keywords": [
+        "financial brochure",
+        "laptop with scam warning",
+        "phone call to authorities",
+        "newspaper headline",
+        "Mr. Sterling looking dejected",
+        "license revocation notice"
+      ],
+      "hashtags": [
+        "#PensionScam",
+        "#FinancialFraud",
+        "#ElderProtection",
+        "#ConsumerAlert",
+        "#JusticeServed",
+        "#ScamAwareness"
+      ],
+      "description": "Don't fall for high-pressure investment pitches! Always verify credentials. My vigilance helped expose a major pension scam.",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-08-22T05:28:34"
     }
   ]
 }
