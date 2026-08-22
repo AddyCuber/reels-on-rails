@@ -3921,6 +3921,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-08-22T05:28:34"
+    },
+    {
+      "id": "story_211",
+      "title": "My Nephew's Fake Will Just Cost Him Everything",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Kevin thought he could trick the courts with a fake will, but I had already secured my estate with an ironclad trust. His greed led to his downfall.",
+      "hook": "My nephew, Kevin, just found out the 'new' will he tried to submit was instantly rejected as a forgery.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My nephew, Kevin, just found out the 'new' will he tried to submit was instantly rejected as a forgery. Kevin had always been entitled, a bit of a ne'er-do-well, always asking for 'loans' he never repaid. Last year, when I had a health scare, he suddenly became very attentive, visiting more often, bringing flowers, and always, always subtly steering conversations towards my estate. I saw right through it. I loved him, but I wasn't born yesterday.\n\nEven though I had a perfectly valid will, I decided to take extra precautions. I contacted my trusted estate lawyer, Mrs. Albright, and we set up an irrevocable trust. I meticulously transferred all my major assets \u2013 my house, my investments, my antique collection \u2013 into this trust, with clear beneficiaries: my responsible grand-niece, Sarah, and a local charity that supports veterans. Mrs. Albright made sure every detail was legally sound and properly recorded with the county. I even kept the details quiet, not wanting to tip off any potential opportunists.\n\nSure enough, a few months later, after I was fully recovered, Kevin made his move. He showed up at Mrs. Albright's office, beaming, with what he claimed was my 'latest will.' It was a poorly executed forgery, leaving everything to him, signed with a shaky hand that looked nothing like mine, dated from when I was still in the hospital. Mrs. Albright, who already had my trust on file and knew my true intentions, instantly recognized it as a fake. She calmly informed him that not only was the document invalid, but his actions constituted attempted fraud.\n\nKevin's face fell. He spluttered denials, but the evidence was clear. Now, instead of inheriting anything, he\u2019s facing legal repercussions for attempted fraud, and I haven't heard from him since. My foresight saved my legacy from his greedy grasp.",
+      "broll_keywords": [
+        "fake will document",
+        "genuine trust document",
+        "lawyer's office",
+        "Kevin looking shocked",
+        "court seal",
+        "police report"
+      ],
+      "hashtags": [
+        "#FakeWill",
+        "#InheritanceFraud",
+        "#FamilyDrama",
+        "#ElderJustice",
+        "#ProbateCourt",
+        "#GreedExposed"
+      ],
+      "description": "Always protect your legacy! A well-structured trust can foil even the most determined fraudsters. My nephew learned that lesson the hard way.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-22T10:38:15"
     }
   ]
 }
