@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_213",
-      "title": "My Neighbor's Illegal Shed Just Disappeared",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Greg ignored my warnings about his shed's location, thinking I wouldn't fight back. He learned that property lines are serious business.",
-      "hook": "My new neighbor, Greg, just had his expensive new shed forcibly removed because he built it on my property.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My new neighbor, Greg, just had his expensive new shed forcibly removed because he built it on my property. When Greg moved in next door a few months ago, he seemed like a friendly enough fellow. Then, without a word, he started constructing a rather large, fancy shed right on the edge of his yard. I watched for a few days, and my heart sank as I realized it was encroaching onto my land, not by much, but by a good foot and a half. I'd lived in this house for forty years, and I knew exactly where my property line was.\n\nI walked over, holding my original property deed, and politely pointed out that his shed was over the line. I even showed him the official survey map from 1982. He chuckled, 'Oh, Martha, it's just a few inches, what's the big deal? You probably won't even use that part of the yard.' He dismissed me, telling me not to worry my 'pretty little head' about it. That was his first mistake.\n\nI didn't argue. I simply sent him a certified letter, drafted by my lawyer, outlining the encroachment and demanding he move the structure within 30 days. He signed for it but ignored it. So, after the 30 days were up, my lawyer filed a lawsuit. The court reviewed my irrefutable survey documents and Greg's blatant disregard for my rights. The judge issued an order for the shed's removal, to be carried out by a professional demolition crew, and ordered Greg to pay for all associated costs, including my legal fees and the new survey I had to get to re-confirm the line.\n\nLast Tuesday, a crew arrived and dismantled his brand new, expensive shed, piece by piece, right before his furious eyes. That 'few inches' cost him thousands of dollars and a whole lot of embarrassment. He learned that property lines aren't just suggestions, especially when dealing with a senior who knows her rights.",
-      "broll_keywords": [
-        "shed under construction",
-        "property survey",
-        "legal notice",
-        "court document",
-        "shed being dismantled",
-        "Greg looking defeated"
-      ],
-      "hashtags": [
-        "#PropertyRights",
-        "#NeighborDispute",
-        "#BoundaryLines",
-        "#LegalAction",
-        "#ElderJustice",
-        "#LandOwnership"
-      ],
-      "description": "Protect your property! Don't let neighbors bully you into giving up your land. My story is a testament to standing your ground.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_214",
       "title": "The Pastor's 'Divine' Fund Was All a Lie",
       "domain": "Church Fraud",
