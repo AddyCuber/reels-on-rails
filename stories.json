@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_214",
-      "title": "The Pastor's 'Divine' Fund Was All a Lie",
-      "domain": "Church Fraud",
-      "genre": "church_fraud",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Pastor John preached charity, but practiced greed. My suspicions, and a little digging, uncovered his elaborate scheme.",
-      "hook": "Our beloved Pastor John just confessed to embezzling millions from the church's 'charity' fund.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "Our beloved Pastor John just confessed to embezzling millions from the church's 'charity' fund. He was charismatic, with a booming voice and a captivating smile. Every Sunday, he\u2019d preach about giving, about helping the less fortunate, and specifically, about the 'Orphanage Rebuilding Fund.' We all contributed generously, week after week, believing we were doing God's work. I personally donated thousands over the years, envisioning a new, safe home for children.\n\nBut after a while, I started noticing things. Pastor John's lifestyle seemed to become increasingly lavish. A brand new luxury car, his wife's expensive designer clothes and jewelry, while the old orphanage building, visible from the church parking lot, remained exactly as dilapidated as it had been for years. No construction, no new windows, no signs of 'rebuilding.' I tried to ask for financial reports for the 'Orphanage Rebuilding Fund' at a church committee meeting, but Pastor John quickly brushed me off, saying such details were 'confidential' and 'handled by the Lord's chosen.'\n\nThat didn't sit right with me. I reached out to a trusted friend, Mary, who was a retired forensic accountant. Together, we started looking into publicly available church financial records and the Pastor's personal assets. We found discrepancies \u2013 large sums moving from the 'charity' fund to shell corporations, then into accounts linked directly to Pastor John and his family. His 'divine' fund was anything but. We compiled an ironclad case, presenting it first to the church elders, who were horrified, and then to the district attorney's office. Faced with irrefutable proof of his secret lavish lifestyle, funded by the very donations meant for orphans, Pastor John confessed. The millions he stole are now being recovered, and he's facing a very different kind of judgment. It just goes to show, even in the house of God, you have to be vigilant.",
-      "broll_keywords": [
-        "church offering plate",
-        "fancy car",
-        "financial ledger",
-        "police badge",
-        "newspaper article",
-        "empty orphanage building"
-      ],
-      "hashtags": [
-        "#ChurchScam",
-        "#FraudulentPastor",
-        "#ElderJustice",
-        "#FaithBetrayed",
-        "#ExposedScam",
-        "#CommunityWatch"
-      ],
-      "description": "Even in places of worship, vigilance is key. My story shows how a little skepticism can uncover a big lie.",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_215",
       "title": "My 'Trusted' Lawyer Just Lost His Practice",
       "domain": "Inheritance",
