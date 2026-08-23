@@ -3956,6 +3956,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-22T10:38:15"
+    },
+    {
+      "id": "story_212",
+      "title": "My HOA President's Secret Account Is Now Public",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Henderson thought he was above the rules, siphoning community funds. But I kept meticulous records, and his reign of corruption is over.",
+      "hook": "Our HOA president, Mr. Henderson, just resigned in disgrace after his secret offshore account was exposed.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our HOA president, Mr. Henderson, just resigned in disgrace after his secret offshore account was exposed. For years, Mr. Henderson ran our homeowner's association like his personal kingdom. Dues kept climbing \u2013 'for necessary improvements,' he\u2019d say \u2013 but our community pool remained green, the landscaping was neglected, and the clubhouse roof still leaked. When I started asking questions at meetings, he'd dismiss me, 'Martha, dear, leave the finances to the professionals.'\n\nBut I'm not one to be easily dismissed. I started attending every meeting, taking detailed notes. I formally requested detailed financial statements, which he always conveniently delayed or provided in confusing, incomplete summaries. I noticed a pattern: large, unexplained payments to 'consulting firms' with vague names like 'Coastal Solutions LLC' or 'Parkview Management Group.' These weren't local businesses, and their services were never clearly defined.\n\nI quietly reached out to a few other concerned residents, and together, we started digging. One of my neighbors had a nephew who was an investigative journalist. We compiled all our meeting notes, the incomplete financial reports, and a list of these suspicious 'consulting' companies. The journalist, intrigued, started asking his own questions. His investigation quickly revealed that 'Coastal Solutions LLC' was registered to an address in the Cayman Islands, and its sole director was a close relative of Mr. Henderson. The money from our HOA dues was being funneled into these shell companies, and then into an offshore account in Mr. Henderson's name.\n\nThe journalist's expos\u00e9 hit the local papers like a bombshell. The public outcry was immediate. The state attorney general's office launched an investigation. Within weeks, Mr. Henderson resigned in disgrace, and his assets were frozen. Our community finally got the transparency it deserved, all because a few 'nosy' seniors refused to look away. We got our pool cleaned, too.",
+      "broll_keywords": [
+        "HOA meeting",
+        "financial ledger",
+        "offshore bank statement",
+        "newspaper article",
+        "Henderson looking stressed",
+        "community sign"
+      ],
+      "hashtags": [
+        "#HOAScams",
+        "#CommunityCorruption",
+        "#ElderJustice",
+        "#Whistleblower",
+        "#Transparency",
+        "#JusticeForNeighbors"
+      ],
+      "description": "Don't let corrupt officials steal from your community! My story shows how persistence and documentation can make a difference.",
+      "estimated_duration": 175,
+      "published": true,
+      "published_at": "2026-08-23T10:31:59"
     }
   ]
 }
