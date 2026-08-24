@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_218",
-      "title": "My Caregiver Was Stealing My Jewelry!",
-      "domain": "Caregiver Theft",
-      "genre": "caregiver_theft",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A trusting senior discovers her caregiver's betrayal and devises a clever plan to catch the thief red-handed, ensuring justice is served.",
-      "hook": "I knew my new caregiver, Brenda, was stealing from me, so I set up a trap she'd never see coming!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "I knew my new caregiver, Brenda, was stealing from me, so I set up a trap she'd never see coming! Brenda seemed so kind and attentive when she started working for me a few months ago. But then, I noticed little things disappearing: a silver locket my husband gave me, a small antique brooch, even some cash from my nightstand. Each time, I'd search frantically, only to realize they were truly gone. I mentioned it to Brenda once, and she became defensive, blaming my 'forgetfulness.' That's when I decided to act. I visited a local electronics store and purchased a discreet 'nanny cam' disguised as a clock. I strategically placed it in my living room, aiming it at my jewelry box and my purse. Then, I set a bait: a replica pearl necklace, clearly visible, and a marked $50 bill tucked into my wallet. The next day, while I was 'napping' in my armchair, the camera recorded Brenda rummaging through my belongings. She took the necklace and the $50 bill. My heart sank, but I also felt a surge of cold determination. I immediately called my daughter, who then contacted the police. When the officers arrived, they reviewed the footage. Brenda was arrested on the spot, denying everything until they showed her the undeniable video. I got most of my items back, and Brenda learned that even the elderly aren't to be underestimated. It was a painful lesson, but one that restored my peace of mind.",
-      "broll_keywords": [
-        "jewelry box",
-        "hidden clock camera",
-        "missing locket",
-        "police questioning caregiver",
-        "video playback screen",
-        "handcuffs"
-      ],
-      "hashtags": [
-        "#CaregiverScam",
-        "#ElderAbuse",
-        "#HiddenCamera",
-        "#JusticeForSeniors",
-        "#TrustNoOne",
-        "#CaughtOnCamera"
-      ],
-      "description": "My caregiver thought she could get away with stealing my valuables. Little did she know, I had a secret weapon! Watch how I caught her in the act and got justice.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_219",
       "title": "HOA Tried to Fine Me for My Garden Gnome!",
       "domain": "Hoa Neighbor",
