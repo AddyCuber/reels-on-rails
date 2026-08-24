@@ -4096,6 +4096,41 @@
       "estimated_duration": 165,
       "published": true,
       "published_at": "2026-08-24T05:51:20"
+    },
+    {
+      "id": "story_216",
+      "title": "My Nephew Tried to Fake My Will!",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Discover how a cunning aunt outsmarted her greedy nephew who tried to forge her will, securing her legacy for those truly deserving.",
+      "hook": "My nephew, Michael, actually tried to fake my will to inherit my entire $2.5 million estate!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My nephew, Michael, actually tried to fake my will to inherit my entire $2.5 million estate! For years, Michael had been hinting, then outright demanding, that I leave him everything. He saw my comfortable retirement, my lovely home in Scottsdale, and the investments I\u2019d painstakingly built over fifty years, and he just felt entitled. I humored him, but I always knew he was a snake. Last year, after I had a minor health scare, Michael started acting even more suspiciously. He'd bring me 'important papers' to sign, always distracting me, trying to rush me. I always read everything, though. One afternoon, he presented what he called 'updates to my estate plan,' subtly replacing pages in my actual will with ones naming him as the sole beneficiary, even including a clause disinheriting my beloved animal charities. The original documents, prepared by my long-time attorney, Eleanor Vance, were safely stored. I recognized the subtle changes immediately, particularly the awkward phrasing in a few key paragraphs. He'd even tried to mimic Eleanor's signature, poorly. I simply signed the *correct* pages, which I\u2019d secretly swapped back, right under his nose. I then had a private meeting with Eleanor, explaining everything. We set up a hidden camera in my study and staged a 'will signing' a few weeks later, where Michael thought he was witnessing the final fraudulent document. We caught him on tape, gloating. The look on his face when Eleanor presented my *real*, legally sound will in court, leaving everything to my chosen charities and a small trust for my great-niece, was absolutely priceless. He\u2019s now facing charges for attempted fraud. Some people never learn.",
+      "broll_keywords": [
+        "forged document",
+        "legal papers",
+        "hidden camera footage",
+        "nephew's shocked face",
+        "gavel strike",
+        "charity donation check"
+      ],
+      "hashtags": [
+        "#InheritanceScam",
+        "#ElderJustice",
+        "#FamilyDrama",
+        "#JusticeServed",
+        "#SmartSeniors",
+        "#Scottsdale"
+      ],
+      "description": "My greedy nephew thought he could trick me into signing a fake will. He had no idea I was one step ahead. Watch how I turned the tables on him and protected my legacy!",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-08-24T12:06:21"
     }
   ]
 }
