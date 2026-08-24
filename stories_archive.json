@@ -4061,6 +4061,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-08-23T23:55:30"
+    },
+    {
+      "id": "story_215",
+      "title": "My 'Trusted' Lawyer Just Lost His Practice",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Mr. Thompson thought he could quietly alter my will for his own gain, but I was one step ahead. His betrayal cost him everything.",
+      "hook": "My long-time family lawyer, Mr. Thompson, just had his law license suspended for attempting to manipulate my will.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My long-time family lawyer, Mr. Thompson, just had his law license suspended for attempting to manipulate my will. Mr. Thompson had handled all our family's legal affairs for decades. He drafted my husband's will, my sister's, and even my own first will years ago. I trusted him implicitly, considered him practically family. So, when I decided to update my will last year \u2013 wanting to leave a larger portion to the local library and a smaller amount to a distant cousin who rarely bothered to visit \u2013 I naturally went to him.\n\nDuring our meeting, Mr. Thompson subtly tried to dissuade me from the changes. He spoke of the 'complexities' of leaving funds to a charity, the 'potential tax implications,' and even suggested that my distant cousin, 'poor dear,' might be more in need. He seemed unusually insistent on keeping certain clauses from my old will, which, upon rereading, seemed rather vague about who would handle residual assets. I found his demeanor unsettling. It wasn't the Mr. Thompson I knew.\n\nMy intuition, honed over 80 years, screamed caution. I decided to get a second opinion. I took the draft will Mr. Thompson provided to a new, independent lawyer, Ms. Davies, recommended by a friend. Within days, Ms. Davies called me back, her voice tight with concern. She had spotted several cleverly worded clauses in the draft that would have granted Mr. Thompson's firm significant, ongoing control over my estate, and hefty 'administrative fees' for decades. It was a thinly veiled attempt to funnel money into his own pockets, disguising it as legitimate legal work.\n\nMs. Davies immediately reported Mr. Thompson to the State Bar Association. It turned out I wasn't his first victim; he had a history of similar, subtle manipulations with other elderly clients who trusted him. The investigation was swift. His law license was suspended, and he's now facing disbarment and possible legal action. It was a painful betrayal, but my vigilance saved my legacy and brought down a dishonest attorney. Always get a second opinion, no matter how much you trust someone.",
+      "broll_keywords": [
+        "will document",
+        "lawyer's office",
+        "bar association letter",
+        "red pen marking changes",
+        "Thompson looking shocked",
+        "legal books"
+      ],
+      "hashtags": [
+        "#LawyerFraud",
+        "#InheritanceScam",
+        "#ElderProtection",
+        "#LegalEthics",
+        "#JusticeServed",
+        "#TrustBroken"
+      ],
+      "description": "Always get a second opinion, even from trusted professionals! My story highlights the importance of vigilance when dealing with legal documents.",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-08-24T05:51:20"
     }
   ]
 }
