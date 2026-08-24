@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_217",
-      "title": "My Neighbor Tried to Steal My Land with a Fence!",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A new neighbor's audacious attempt to expand his yard illegally was swiftly shut down by a seasoned homeowner with irrefutable proof.",
-      "hook": "My new neighbor, Mr. Henderson, tried to claim a piece of my backyard by building his fancy new fence three feet onto my property!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My new neighbor, Mr. Henderson, tried to claim a piece of my backyard by building his fancy new fence three feet onto my property! When the Henderson family moved in next door last spring, they seemed pleasant enough, though a bit\u2026 entitled. Then came the contractors for their new privacy fence. I watched them work, and something felt off. The posts looked like they were too far into my yard, encroaching on my prize-winning rose garden. I immediately called up the survey company I used just two years ago when I considered selling a small corner of my lot to a friend. Thankfully, I still had the detailed survey map and the corner markers were still intact, though overgrown. I approached Mr. Henderson, politely pointing out my concerns and showing him the map. He scoffed, 'Your old map is probably wrong, Mrs. Gable. My contractors know what they're doing.' He even accused me of trying to intimidate him. That's when I called the city's zoning department and presented my survey. They sent out an inspector who confirmed the encroachment. The inspector issued a notice, giving Mr. Henderson 30 days to remove the fence. When he ignored it, I filed a formal complaint. The city then ordered him to remove the fence and warned him of daily fines. He ended up paying thousands to relocate the fence correctly, not to mention a hefty fine. My roses are now safe, and Mr. Henderson learned a valuable lesson about respecting boundaries.",
-      "broll_keywords": [
-        "new fence construction",
-        "survey map document",
-        "rose garden",
-        "city inspector badge",
-        "fence posts being removed",
-        "property line marker"
-      ],
-      "hashtags": [
-        "#PropertyDispute",
-        "#NeighborDrama",
-        "#ElderJustice",
-        "#BoundaryLines",
-        "#HomeownerRights",
-        "#Justice"
-      ],
-      "description": "My new neighbor thought he could just build his fence on my land. He clearly didn't know who he was dealing with! See how I used my survey to put him in his place.",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_218",
       "title": "My Caregiver Was Stealing My Jewelry!",
       "domain": "Caregiver Theft",
