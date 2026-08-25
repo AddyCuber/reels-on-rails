@@ -4306,6 +4306,41 @@
       "estimated_duration": 169,
       "published": true,
       "published_at": "2026-08-25T16:54:35"
+    },
+    {
+      "id": "story_222",
+      "title": "I Uncovered Fraud in My Own Church!",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A vigilant church member, serving on the finance committee, unearths a shocking betrayal by the treasurer, exposing years of financial fraud.",
+      "hook": "I uncovered a massive fraud within my own church, orchestrated by the man we all trusted with our tithes, Mr. Peterson!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "I uncovered a massive fraud within my own church, orchestrated by the man we all trusted with our tithes, Mr. Peterson! I\u2019ve been a member of St. Michael\u2019s for over 40 years, and when they asked me to join the finance committee, I was honored. Mr. Peterson, our long-time treasurer, was always so charming and seemingly dedicated. But as I started reviewing the quarterly reports, I noticed small, inexplicable discrepancies. The numbers for 'miscellaneous expenses' seemed unusually high, and some vendor names were unfamiliar. When I asked Mr. Peterson for clarification, he\u2019d give vague answers or dismiss my questions as 'just an old woman's fussing.' But my grandmother always said, 'The devil is in the details.' I decided to dig deeper. I cross-referenced bank statements with the ledger entries, going back two years. It was painstaking work, late nights at my kitchen table. What I found was sickening: Mr. Peterson had created a series of fake vendor companies, funneling over $150,000 of church funds into his personal accounts. He'd even inflated the costs of legitimate repairs and pocketed the difference. I presented my findings, meticulously documented, to the senior pastor and the rest of the finance committee. They were heartbroken, but the evidence was undeniable. The police were called, and Mr. Peterson was arrested the next day. It was a painful moment for our congregation, but we learned that even in sacred spaces, vigilance is necessary. My actions helped recover some of the stolen funds and ensured our church could heal and rebuild its trust.",
+      "broll_keywords": [
+        "church bulletin",
+        "financial ledger book",
+        "bank statements spreadsheet",
+        "police questioning church member",
+        "gavel strike",
+        "church stained glass"
+      ],
+      "hashtags": [
+        "#ChurchScam",
+        "#FinancialFraud",
+        "#ElderJustice",
+        "#TrustBetrayal",
+        "#CommunityWatch",
+        "#Justice"
+      ],
+      "description": "I joined my church's finance committee and quickly uncovered a shocking secret: our treasurer was stealing! Watch how I meticulously exposed his fraud.",
+      "estimated_duration": 175,
+      "published": true,
+      "published_at": "2026-08-25T23:40:14"
     }
   ]
 }
