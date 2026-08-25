@@ -4201,6 +4201,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-08-24T22:52:40"
+    },
+    {
+      "id": "story_219",
+      "title": "HOA Tried to Fine Me for My Garden Gnome!",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "An unreasonable HOA president tried to enforce a ridiculous rule, but a long-time resident armed with historical records fought back and won.",
+      "hook": "My new HOA president tried to fine me $500 for a garden gnome that\u2019s been on my porch for thirty years!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new HOA president tried to fine me $500 for a garden gnome that\u2019s been on my porch for thirty years! It all started when Mrs. Albright took over as president of the Willow Creek HOA. She was a stickler for rules, or rather, *her interpretation* of the rules. One afternoon, I received a stern letter demanding I remove 'excessive ornamentation' from my property, specifically mentioning 'the ceramic gnome.' My gnome, 'Gnorman,' has been a fixture since 1994, a gift from my late husband! I checked the current HOA bylaws, and indeed, there was a clause about 'excessive ornamentation.' But I remembered something from decades ago. I pulled out my old HOA documents, tucked away in a dusty box. Buried deep in the original 1985 declaration, I found a 'grandfather clause' explicitly exempting any existing decorative items from new rules, provided they weren't offensive. Gnorman was clearly covered. At the next HOA board meeting, Mrs. Albright presented her case, lecturing me about property values. When it was my turn, I calmly produced the original document, highlighted the grandfather clause, and read it aloud. The room went silent. Other long-time residents started nodding in agreement. Mrs. Albright's face turned beet red. She mumbled something about 're-evaluating.' The board quickly voted to rescind the fine and update their records. Gnorman is still proudly standing guard, and Mrs. Albright hasn't bothered me since. Sometimes, knowing your history is the best defense.",
+      "broll_keywords": [
+        "garden gnome statue",
+        "HOA violation letter",
+        "old dusty documents",
+        "HOA meeting room",
+        "smiling elderly woman",
+        "gavel on table"
+      ],
+      "hashtags": [
+        "#HOADrama",
+        "#SeniorPower",
+        "#GardenGnome",
+        "#BylawBattle",
+        "#JusticeServed",
+        "#HomeownerRights"
+      ],
+      "description": "My HOA president tried to fine me for my beloved garden gnome! She clearly underestimated my knowledge of the bylaws. Watch how I used old documents to win!",
+      "estimated_duration": 168,
+      "published": true,
+      "published_at": "2026-08-25T06:00:24"
     }
   ]
 }
