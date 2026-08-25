@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_220",
-      "title": "I Caught a Pension Scammer Red-Handed!",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "An unsolicited phone call promised huge returns but triggered a senior's suspicion, leading her to expose a sophisticated pension scam.",
-      "hook": "A smooth-talking con artist tried to lure me into a 'guaranteed' investment scheme that would have wiped out my entire $700,000 life savings!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "A smooth-talking con artist tried to lure me into a 'guaranteed' investment scheme that would have wiped out my entire $700,000 life savings! The call came on a Tuesday morning. 'Mr. David Miller' from 'Elite Financial Solutions' promised a 15% annual return on a 'risk-free' investment in obscure overseas tech. He sounded professional, charismatic, and had all the answers. He even sent me a glossy brochure and a link to a slick website. He emphasized urgency, saying the offer was 'limited to a select few high-net-worth individuals.' My gut screamed scam. My late husband always taught me that if it sounds too good to be true, it probably is. Instead of giving him my bank details, I started researching. I searched 'Elite Financial Solutions' online, but found nothing reputable. Then I looked up 'David Miller' and 'pension scams.' Bingo. I found articles describing similar schemes, warnings from the SEC, and a forum where several seniors detailed how they lost their retirement funds to this exact pitch. They even had photos of the 'brokers,' and one was a dead ringer for my 'David Miller.' I called the state Attorney General's office and reported everything, providing them with the website, the phone number, and all the materials I'd received. They confirmed it was a known scam operation. I even played along for another call, recording it, and gave the recording to the authorities. My savings are safe, and hopefully, my actions helped prevent others from falling victim. Always trust your instincts, and always verify!",
-      "broll_keywords": [
-        "phone call on speaker",
-        "glossy scam brochure",
-        "computer screen with scam warnings",
-        "police report document",
-        "secure bank account icon",
-        "skeptical elderly woman"
-      ],
-      "hashtags": [
-        "#PensionScams",
-        "#FinancialFraud",
-        "#ElderProtection",
-        "#ScamAlert",
-        "#Investigate",
-        "#SeniorSafety"
-      ],
-      "description": "A 'financial advisor' promised me a 'guaranteed' 15% return on my life savings. I knew it was a scam, so I decided to investigate myself. See how I exposed him!",
-      "estimated_duration": 172
-    },
-    {
       "id": "story_221",
       "title": "My Contractor Tried to Double-Charge Me!",
       "domain": "Business",
