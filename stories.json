@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_221",
-      "title": "My Contractor Tried to Double-Charge Me!",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A dishonest contractor tried to exploit an elderly homeowner during a roof repair, but a meticulously drafted contract saved the day.",
-      "hook": "My contractor tried to strong-arm me for an extra $5,000 mid-roof repair, but he forgot about the iron-clad contract I had him sign!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My contractor tried to strong-arm me for an extra $5,000 mid-roof repair, but he forgot about the iron-clad contract I had him sign! Last spring, I decided it was time to replace my aging roof. I got three quotes, and 'Roofing Pros' seemed the most reasonable, offering a competitive price of $18,000. Before I signed anything, I made sure my son, a retired paralegal, reviewed the contract. He added several clauses, including a fixed-price guarantee, a detailed scope of work covering all potential unforeseen issues, and a penalty for delays. Mr. Jones, the contractor, grumbled but signed it, eager for the business. Two weeks into the job, with half the old roof off, Mr. Jones approached me with a grim face. 'Mrs. Peterson, we've hit a snag. Extensive dry rot under the old shingles. It's going to be an extra $5,000 to fix.' He even had some rotting wood samples. I looked at him calmly. 'Mr. Jones, please refer to Section 4, Subsection B of our contract. It explicitly states that the fixed price includes unforeseen wood damage up to 10% of the roof's surface, which this clearly falls under.' He spluttered, 'But\u2026 but this is more!' I simply pointed to the contract again, 'And Subsection C outlines the penalty for any attempts to renegotiate the agreed-upon price mid-project.' He went pale. He tried to argue, but my son's carefully worded contract left him no wiggle room. The work was completed on time, for the original price. Always get everything in writing, folks!",
-      "broll_keywords": [
-        "roof shingles being removed",
-        "detailed written contract",
-        "contractor looking frustrated",
-        "hammer and nails",
-        "final invoice",
-        "satisfied homeowner"
-      ],
-      "hashtags": [
-        "#ContractorScam",
-        "#HomeRenovation",
-        "#ElderJustice",
-        "#FixedPrice",
-        "#ReadTheFinePrint",
-        "#SmartHomeowner"
-      ],
-      "description": "My roofing contractor tried to demand an extra $5,000 mid-job! Good thing I had an iron-clad contract. Watch how I put him in his place and saved my money!",
-      "estimated_duration": 169
-    },
-    {
       "id": "story_222",
       "title": "I Uncovered Fraud in My Own Church!",
       "domain": "Church Fraud",
