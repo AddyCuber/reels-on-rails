@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_224",
-      "title": "My Neighbor's Trees Destroyed My Fence, I Made Him Pay!",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A neighbor's neglect led to property damage, but a resourceful senior used local ordinances to force them to compensate for repairs and maintenance.",
-      "hook": "My stubborn neighbor refused to trim his massive, encroaching oak trees, so I found a local ordinance that made him pay for the damage *and* the trimming!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My stubborn neighbor refused to trim his massive, encroaching oak trees, so I found a local ordinance that made him pay for the damage *and* the trimming! For years, Mr. Davies\u2019 enormous oak trees have been a problem. Their branches hung far over my property, dropping leaves, acorns, and even small branches onto my roof and into my gutters. Last year, a particularly heavy branch fell, smashing a section of my fence. I politely asked Mr. Davies to trim his trees and pay for the fence repair. He just shrugged, 'They\u2019re my trees, Mrs. Jenkins. You can trim what's on your side if you want.' I explained that the damage was clearly caused by *his* trees, but he just walked away. That's when I decided to get serious. I visited my town hall and spent an afternoon researching local ordinances. And there it was: Ordinance 312.4, which stated that property owners are responsible for trees that cause damage to an adjacent property, and that failure to trim encroaching branches could result in the neighbor trimming them and billing the tree owner. It even outlined procedures for reimbursement for damage. I sent Mr. Davies a certified letter, detailing the ordinance and attaching photos of the damage. I gave him 14 days to respond. He ignored it. So, I hired a reputable tree service, got the fence repaired, and sent him the bills, along with a copy of the ordinance. He finally got a lawyer, who advised him to pay. It cost him over $3,000. He learned a hard lesson about neighborly responsibility, and my fence is repaired, my gutters are clear, and my yard is safer.",
-      "broll_keywords": [
-        "overgrown oak trees",
-        "damaged wooden fence",
-        "city ordinance book",
-        "certified mail envelope",
-        "tree trimming crew",
-        "satisfied homeowner"
-      ],
-      "hashtags": [
-        "#NeighborDispute",
-        "#PropertyRights",
-        "#ElderJustice",
-        "#TreeLaw",
-        "#LocalOrdinance",
-        "#Justice"
-      ],
-      "description": "My neighbor's huge trees were destroying my property, and he refused to help. I dug into local laws and made him pay for everything! Don't mess with me!",
-      "estimated_duration": 173
-    },
-    {
       "id": "story_225",
       "title": "I Outsmarted the Fake Charity Scam!",
       "domain": "Pension Scams",
