@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_225",
-      "title": "I Outsmarted the Fake Charity Scam!",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A heartwarming plea for donations turned out to be a sinister scam, but a vigilant senior's thorough investigation saved her money and exposed the criminals.",
-      "hook": "I almost donated $1,000 to a 'charity' that promised to help starving children, but my research uncovered a sophisticated fraud!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "I almost donated $1,000 to a 'charity' that promised to help starving children, but my research uncovered a sophisticated fraud! It was a tear-jerking ad on late-night TV, showing malnourished kids and a heartfelt plea for help. I\u2019ve always believed in giving back, and the 'Global Child Aid Fund' seemed legitimate. They even sent a glossy mailer with heartwarming stories and professional-looking financial reports. I was about to write a check for $1,000, but something felt slightly off. The address was a P.O. Box, and their website had very little specific information about *where* they operated or *who* ran it. My daughter, bless her heart, had recently warned me about charity scams. So, instead of mailing the check, I did some digging. I checked Charity Navigator and GuideStar \u2013 reputable sites that vet non-profits. 'Global Child Aid Fund' was nowhere to be found. I then searched for their supposed founders, 'Dr. Emily Carter' and 'Mr. John Davies,' but found no professional profiles or legitimate affiliations. A quick search of their P.O. Box address revealed it was a mail-forwarding service often used by shell corporations. Finally, I found a forum discussing similar 'charities' with identical ads, all linked to a known scam ring operating out of Eastern Europe. I reported everything to the FTC and my state\u2019s Attorney General\u2019s office, providing them with the mailer, the website, and my research. It was disheartening to learn that people exploit such noble causes, but I was proud to have protected my money and potentially saved others from falling for this cruel trick. Always verify before you donate!",
-      "broll_keywords": [
-        "charity donation envelope",
-        "television screen with sad children",
-        "computer screen with charity ratings",
-        "FTC website page",
-        "shredded fake brochure",
-        "senior woman looking thoughtful"
-      ],
-      "hashtags": [
-        "#CharityScam",
-        "#ElderFraud",
-        "#ScamAwareness",
-        "#ProtectSeniors",
-        "#VerifyBeforeYouGive",
-        "#Justice"
-      ],
-      "description": "I almost sent $1,000 to a 'charity' that looked legitimate. But my gut told me something was wrong! See how I exposed their sophisticated scam and saved my money.",
-      "estimated_duration": 167
-    },
-    {
       "id": "story_226",
       "title": "My Step-Daughter Tried to Steal My Home!",
       "domain": "Inheritance",
