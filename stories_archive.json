@@ -4516,6 +4516,41 @@
       "estimated_duration": 165,
       "published": true,
       "published_at": "2026-08-27T15:55:11"
+    },
+    {
+      "id": "story_228",
+      "title": "My Caregiver Stole from Me, But I Set a Trap",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A trusting senior suspects her caregiver is stealing from her and devises a clever trap to catch the thief red-handed.",
+      "hook": "My so-called 'caring' live-in aide, Sarah, thought she was discreetly siphoning funds from my bank account, but I was one step ahead.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My so-called 'caring' live-in aide, Sarah, thought she was discreetly siphoning funds from my bank account, but I was one step ahead. Sarah seemed like an angel when she started six months ago. She was kind, attentive, and excellent company. But then, small things started to disappear \u2013 a $20 bill from my purse, then a $50 from my wallet. I dismissed it at first, blaming my own forgetfulness. But when my monthly bank statement showed a series of unusual small withdrawals, always under $100, I knew it wasn't my memory failing. It was Sarah. I couldn't confront her without proof. So, I decided to set a trap. I opened a new, separate checking account with a small balance, let's say $500, and put it on autopay for a few small, recurring bills so it looked active. I then 'accidentally' left the new account's debit card and a note with the PIN on my dresser, under a pile of clothes I knew Sarah would 'help' me fold. I also installed a tiny, motion-activated camera hidden in a plant facing the dresser. Two days later, a $75 withdrawal appeared on the new account. The camera footage was crystal clear: Sarah, casually glancing around, finding the card, jotting down the PIN, and slipping both into her pocket. I called the police immediately. When they arrived, Sarah was stunned. She tried to deny it, but the footage spoke volumes. They found the debit card in her purse. It wasn't about the money; it was about the betrayal and the principle. She was arrested, and I learned a hard lesson about trusting too easily, but also the satisfaction of protecting myself.",
+      "broll_keywords": [
+        "bank statement",
+        "hidden camera lens",
+        "caregiver uniform",
+        "police badge",
+        "empty wallet",
+        "debit card"
+      ],
+      "hashtags": [
+        "#CaregiverTheft",
+        "#ElderAbuse",
+        "#JusticeServed",
+        "#SeniorSafety",
+        "#HiddenCamera",
+        "#Storytime"
+      ],
+      "description": "I hired a caregiver I thought I could trust, but when money started disappearing, I knew I had to act. See how I set a trap to catch her in the act!",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-08-27T21:41:36"
     }
   ]
 }
