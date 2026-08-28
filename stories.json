@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_231",
-      "title": "The Pastor's Secret Church Fund Theft",
-      "domain": "Church Fraud",
-      "genre": "church_fraud",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A devoted church member uncovers their beloved pastor's secret scheme to steal from the church's building fund and exposes his deception.",
-      "hook": "Our beloved Pastor Michael, whom we trusted completely, was secretly siphoning thousands from the church's building fund, but I found the evidence.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "Our beloved Pastor Michael, whom we trusted completely, was secretly siphoning thousands from the church's building fund, but I found the evidence. For years, Pastor Michael was the face of our community, leading Sunday services, baptisms, and fundraisers. When we started the 'New Sanctuary Building Fund' two years ago, everyone gave generously, hoping to build a larger, more accessible church. We raised over $250,000. I was on the finance committee, and I prided myself on keeping a close eye on the books, even though Pastor Michael always had the final say. Slowly, I started noticing odd discrepancies. Large withdrawals for 'consulting fees' and 'unspecified administrative costs' that didn\u2019t align with any known projects. When I questioned him, he'd brush me off with vague answers about 'necessary expenditures' or 'confidential donor relations.' My gut told me something was wrong. So, I started digging deeper, cross-referencing bank statements with invoices, even requesting copies of receipts for certain transactions. It took months of discreet investigation. Finally, I found it: a series of checks, totaling nearly $75,000 over two years, all made out to a shell company registered under an address that was actually a P.O. Box. A quick online search revealed the company's sole director: Pastor Michael\u2019s brother-in-law. I immediately presented my findings, backed by stacks of financial records, to the rest of the finance committee and then to the church board. They were horrified. Confronted with irrefutable evidence, Pastor Michael confessed. He had been using the building fund to pay off personal debts. He was immediately removed from his position, and the matter was reported to the authorities. It was heartbreaking, but protecting our church and its members was paramount. The building fund was eventually restored, and we found a new, honest leader.",
-      "broll_keywords": [
-        "church stained glass",
-        "donation plate",
-        "bank ledger",
-        "suspicious receipt",
-        "police report",
-        "finance documents"
-      ],
-      "hashtags": [
-        "#ChurchFraud",
-        "#PastorScam",
-        "#ElderJustice",
-        "#CommunityBetrayal",
-        "#FinancialTransparency",
-        "#Exposed"
-      ],
-      "description": "Our trusted pastor was secretly stealing from the church's building fund! I meticulously gathered the evidence. Watch how I exposed his deception.",
-      "estimated_duration": 168
-    },
-    {
       "id": "story_232",
       "title": "The Neighbor's Giant Fence on My Land",
       "domain": "Property Boundary Dispute",
