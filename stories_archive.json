@@ -4796,6 +4796,41 @@
       "estimated_duration": 174,
       "published": true,
       "published_at": "2026-08-29T15:21:48"
+    },
+    {
+      "id": "story_236",
+      "title": "The 'Guaranteed Return' Pension Scam",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A senior citizen, targeted by a pension scammer, cleverly plays along with the fraudster to help authorities catch him.",
+      "hook": "When a charming young man named David offered me a 'guaranteed 20% return' on my pension, I knew it was a scam, but I played along to catch him.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "When a charming young man named David offered me a 'guaranteed 20% return' on my pension, I knew it was a scam, but I played along to catch him. David was smooth, well-dressed, and had all the right answers. He called me out of the blue, claiming to represent 'Elite Investment Group,' offering exclusive, high-yield opportunities specifically for retirees. 'Mrs. Miller,' he'd say, 'why let your hard-earned pension sit stagnant when you could be earning a risk-free 20% annually?' He promised quick returns, no fees upfront, and even offered to send a courier to pick up my initial investment check. The red flags were waving like crazy: unsolicited call, guaranteed high returns, pressure to act fast, and a courier for money. I\u2019ve read enough articles and watched enough news segments to recognize the signs. But instead of hanging up, an idea sparked. I decided to play along. I told David I was interested, but cautious. He set up an appointment to meet me at a local coffee shop. Before the meeting, I contacted the police. They advised me to wear a wire and provided clear instructions. At the coffee shop, David pitched his 'opportunity' again, showing me glossy brochures that looked legitimate but had no verifiable company information. He pressed for a $10,000 'initial investment' from my pension. I feigned hesitation, then agreed, pulling out a pre-written check \u2013 but it was for a dummy account with minimal funds and made out to a fake company name. As he eagerly accepted the check, the police, who had been watching from a nearby table, moved in. David was stunned. He tried to deny everything, but the recording and the fake check were enough. He was arrested on the spot, and his 'Elite Investment Group' was dismantled. It felt incredibly satisfying to turn the tables on someone trying to exploit seniors. My pension, thankfully, remained safe and sound.",
+      "broll_keywords": [
+        "financial brochure",
+        "fake investment certificate",
+        "hidden microphone",
+        "police car",
+        "scammer arrested",
+        "coffee cup"
+      ],
+      "hashtags": [
+        "#PensionScam",
+        "#ElderFraud",
+        "#InvestmentScam",
+        "#PoliceSting",
+        "#SeniorProtection",
+        "#ScamAlert"
+      ],
+      "description": "A charming scammer promised me a 'guaranteed 20% return' on my pension. I knew it was a lie, so I played along to help the police catch him red-handed!",
+      "estimated_duration": 167,
+      "published": true,
+      "published_at": "2026-08-29T20:31:28"
     }
   ]
 }
