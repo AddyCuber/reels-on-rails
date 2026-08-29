@@ -4761,6 +4761,41 @@
       "estimated_duration": 173,
       "published": true,
       "published_at": "2026-08-29T04:07:58"
+    },
+    {
+      "id": "story_235",
+      "title": "The 100-Year-Old Oak Tree Battle",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A new neighbor insists a senior cut down their beloved 100-year-old oak tree, claiming it's on their property, but the senior has historical evidence.",
+      "hook": "My new neighbor, Mr. Henderson, demanded I cut down my 100-year-old oak tree, claiming it was technically on *his* land, but I had proof dating back decades.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new neighbor, Mr. Henderson, demanded I cut down my 100-year-old oak tree, claiming it was technically on *his* land, but I had proof dating back decades. The majestic oak has stood in my backyard for as long as I can remember, a landmark in our small town. It's where my children played and where I've enjoyed countless peaceful afternoons. Mr. Henderson moved in last month and immediately took issue with the tree's shade, complaining about leaves in his pool and even claiming its roots were damaging his new patio. He marched over one afternoon, a measuring tape in hand, declaring, 'Mrs. Gable, my measurements show that a good five feet of that tree's trunk is actually on my property. It needs to go.' He was aggressive, threatening legal action and demanding I pay for its removal. I was shocked. My family has owned this property since 1950, and that tree has always been considered ours. I calmly told him, 'Mr. Henderson, I assure you, that tree is on my land.' He just scoffed, 'Unless you have a survey from yesterday, your word doesn't mean a thing.' What he didn't know was that my grandfather, who built this house, was a stickler for details. Tucked away in an old metal box in my attic, I had a meticulously drawn land survey from 1952, complete with an 'X' marking the exact center of the young oak tree, confirming it was entirely within my property line. I also had several old photographs, some dating back to the 1960s, showing the tree with the original fence clearly behind it. I hired a new, independent surveyor. Armed with my historical documents, the surveyor easily located the original property pins. The new survey confirmed what I already knew: the oak tree was firmly on my side of the line, just as it had been for over a century. I had my lawyer send Mr. Henderson the new survey, along with copies of my grandfather's original, and a stern warning about harassment. He never bothered me about the tree again. The old oak stands tall, a testament to history and proper documentation.",
+      "broll_keywords": [
+        "ancient oak tree",
+        "old photo album",
+        "property deed",
+        "surveyor's tools",
+        "angry neighbor face",
+        "metal strongbox"
+      ],
+      "hashtags": [
+        "#PropertyRights",
+        "#BoundaryDispute",
+        "#OldTree",
+        "#ElderJustice",
+        "#HistoricalProof",
+        "#NeighborWars"
+      ],
+      "description": "My new neighbor demanded I cut down my 100-year-old oak tree, claiming it was his. He didn't know I had decades of proof tucked away. Watch how I saved my beloved tree!",
+      "estimated_duration": 174,
+      "published": true,
+      "published_at": "2026-08-29T15:21:48"
     }
   ]
 }
