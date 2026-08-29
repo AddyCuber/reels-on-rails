@@ -4691,6 +4691,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-08-28T21:37:09"
+    },
+    {
+      "id": "story_233",
+      "title": "The Fake Charity's 'Senior Wellness' Scam",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A senior citizen's intuition leads her to investigate a suspicious 'charity' and uncover a widespread scam targeting the elderly.",
+      "hook": "When a polite young woman came to my door soliciting funds for 'The Senior Wellness Foundation,' my gut told me something was off, and I was right.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "When a polite young woman came to my door soliciting funds for 'The Senior Wellness Foundation,' my gut told me something was off, and I was right. It was a Tuesday afternoon, and she looked so sincere, holding a clipboard and wearing a laminated ID badge. She spoke eloquently about providing free health screenings and social programs for seniors. I'm usually generous, but something about her overly rehearsed speech and the vague answers to my specific questions didn't sit right. She asked for a cash donation, or a check made out to 'SWF,' not the full foundation name. That was the first major red flag. I told her I'd think about it and took her flyer. As soon as she left, I went to my computer. I checked the IRS's Tax Exempt Organization Search tool. Nothing. I then checked my state\u2019s Secretary of State charity registration database. Still nothing. A legitimate charity would be listed. My suspicion solidified. This wasn't just a local issue; I recognized the name 'Senior Wellness Foundation' from a community newsletter about potential scams. I immediately called the non-emergency police line and then the state Attorney General\u2019s consumer protection division. I provided them with the flyer, the name she gave, and her description. They took it seriously. Within a week, I received a call back. My information, combined with other reports, led to an investigation. It turned out 'The Senior Wellness Foundation' was a shell organization, run by a group operating across several states, preying on seniors\u2019 generosity. They were caught, and several individuals were arrested. It felt good to be part of stopping them. It's a reminder to always trust your instincts and verify, especially when it comes to your money.",
+      "broll_keywords": [
+        "charity flyer",
+        "empty donation box",
+        "computer search screen",
+        "police phone call",
+        "scammer running away",
+        "state seal document"
+      ],
+      "hashtags": [
+        "#PensionScams",
+        "#ElderFraud",
+        "#CharityScam",
+        "#SeniorProtection",
+        "#ConsumerAlert",
+        "#VerifyBeforeYouDonate"
+      ],
+      "description": "A 'charity' came to my door, but my gut screamed scam. I did my research and exposed a widespread fraud targeting seniors. Learn to protect yourself!",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-08-29T01:37:20"
     }
   ]
 }
