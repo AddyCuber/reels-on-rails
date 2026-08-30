@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_240",
-      "title": "The HOA's Corrupt President and My Bylaw Bomb",
-      "domain": "Hoa Neighbor",
-      "genre": "hoa_neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "I was targeted by a power-hungry HOA president who abused his authority. See how I used the HOA's own bylaws to expose his corruption and save my beloved garden.",
-      "hook": "Our HOA president, Mr. Henderson, tried to fine me $500 for a 'non-compliant' rose bush he clearly just disliked.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "Our HOA president, Mr. Henderson, tried to fine me $500 for a 'non-compliant' rose bush he clearly just disliked. For years, Henderson had run our small community, 'Willow Creek Estates,' like his personal kingdom, imposing arbitrary rules and favoring his friends. My prize-winning 'Blaze of Glory' rose, a gift from my late husband, became his latest target last spring.\nHe sent a stern letter, citing 'excessive height' and 'obstructing common view,' despite my bush being perfectly within the architectural guidelines on file. I knew it was personal; he'd grumbled about its vibrant red color before. I felt my blood boil, but then a calm resolve settled in. I wasn't going to just pay.\nI spent weeks poring over every single page of our HOA\u2019s hefty bylaws, the same document Henderson waved around like a scepter. Most people just ignored it, but I read every clause, every amendment, every footnote. And then, I found it \u2013 a little-known clause, Section 4.C.ii: 'All fines exceeding $200 must be approved by a unanimous vote of the HOA Board, following a mandatory 30-day appeal period for the homeowner, and require photographic evidence presented at an open board meeting.'\nHenderson had done none of this. He\u2019d just sent the fine, expecting me to roll over. At the next board meeting, I calmly presented my case, citing the exact clause. Henderson spluttered, trying to dismiss it, but the other board members, who were tired of his antics, exchanged nervous glances. I then revealed my ace: a stack of evidence showing *his* numerous violations\u2014unapproved shed, overgrown weeds, and even a boat parked illegally\u2014all ignored. I pointed out how *his* violations were never fined, let alone brought to a board vote.\nThe board had no choice but to retract my fine and launch an investigation into Henderson's conduct. He was eventually ousted, and the community finally breathed a sigh of relief. My rose bush, by the way, is still blooming beautifully.",
-      "broll_keywords": [
-        "rose bush",
-        "HOA fine letter",
-        "bylaw document",
-        "board meeting table",
-        "camera flash",
-        "senior smiling"
-      ],
-      "hashtags": [
-        "HOAcorruption",
-        "elderjustice",
-        "communitydrama",
-        "legalwin",
-        "storytime",
-        "shorts"
-      ],
-      "description": "Our HOA president tried to hit me with a ridiculous fine, but I turned the tables using his own rulebook! Watch how I exposed his corruption and brought justice to our community.",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_241",
       "title": "The 'Financial Advisor' Who Stole My Future",
       "domain": "Pension Scams",
