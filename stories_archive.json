@@ -4866,6 +4866,41 @@
       "estimated_duration": 171,
       "published": true,
       "published_at": "2026-08-30T00:40:10"
+    },
+    {
+      "id": "story_238",
+      "title": "The Cousin Who Tried to 'Borrow' My Savings",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A senior's greedy cousin attempts to manipulate her into investing her life savings in a questionable business venture, but the senior has a plan.",
+      "hook": "My cousin, Brenda, thought she could trick me into 'investing' my life savings in her dubious 'wellness retreat,' but I smelled a rat from a mile away.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My cousin, Brenda, thought she could trick me into 'investing' my life savings in her dubious 'wellness retreat,' but I smelled a rat from a mile away. Brenda, always the entrepreneur, but never truly successful, called me incessantly after my husband passed. She started with condolences, which quickly turned into pitches for her latest 'groundbreaking' business idea: 'The Serenity Springs Wellness Retreat.' She claimed it was a guaranteed goldmine, promising me a 30% return on my $200,000 life savings if I'd just 'invest' as a founding partner. She even brought over elaborate binders filled with glossy photos and vague financial projections. I listened patiently, but my internal alarm bells were blaring. Brenda had a history of failed ventures and never repaid a dime she 'borrowed' from other family members. Her 'business plan' was full of buzzwords but lacked any concrete details, permits, or actual market research. I knew this was a classic affinity scam, preying on family trust. Instead of outright refusing, which would cause family drama, I decided to be smart. I told her I was very interested but needed to have my financial advisor, Mr. Chen, review the proposal first, as per my late husband's wishes. Brenda scoffed but agreed. I immediately called Mr. Chen, explaining the situation and my suspicions. He agreed to play along. At our 'review meeting,' Mr. Chen, a seasoned professional, asked Brenda detailed questions about her business licenses, insurance, zoning permits, investor prospectus, and audited financials. Brenda stammered, contradicted herself, and finally admitted she hadn't secured half of what was needed and that the 'retreat' was still just an idea. Mr. Chen politely but firmly concluded that it was a highly speculative venture with no legal protections for an investor, advising me strongly against it. Brenda left furious, but I knew I had dodged a bullet. Mr. Chen had protected my savings and, more importantly, given me a legitimate reason to say no without directly confronting Brenda myself. My savings remain safe, and my family relations, though strained, are intact.",
+      "broll_keywords": [
+        "glossy brochure",
+        "empty bank account",
+        "financial advisor's office",
+        "frustrated cousin",
+        "investment contract",
+        "family photo"
+      ],
+      "hashtags": [
+        "#PensionScams",
+        "#FamilyScam",
+        "#AffinityFraud",
+        "#ElderProtection",
+        "#FinancialAdvisor",
+        "#SmartChoices"
+      ],
+      "description": "My cousin tried to trick me into 'investing' my life savings in her shady 'wellness retreat.' I brought in my financial advisor, and he shut her down cold! Learn to protect your savings.",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-08-30T10:21:49"
     }
   ]
 }
