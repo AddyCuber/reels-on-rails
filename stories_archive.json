@@ -5006,6 +5006,41 @@
       "estimated_duration": 175,
       "published": true,
       "published_at": "2026-08-31T01:55:22"
+    },
+    {
+      "id": "story_242",
+      "title": "The Neighbor Who Stole My Yard, and How I Got It Back",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My new neighbor brazenly extended his fence onto my property. I fought back with an antique survey map and the law, proving that old documents still hold power.",
+      "hook": "My new neighbor, Chad, decided my property line was merely a suggestion, moving his fence ten feet into my yard last spring.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new neighbor, Chad, decided my property line was merely a suggestion, moving his fence ten feet into my yard last spring. He\u2019d bought the house next door in March and immediately started making 'improvements.' One morning, I woke up to the sound of hammers, only to find a new, shiny wooden fence being erected, clearly encroaching on my beloved rose garden, a good chunk of my land. When I confronted him, he just smirked, \"The previous owner told me this was the line, old timer. Deal with it.\"\n'Old timer,' he called me. That sealed his fate. I wasn't about to lose a piece of my property, especially not to someone so arrogant. I remembered my grandfather, who built this house in 1955, always meticulously keeping his property documents. I knew exactly where to look: a dusty old cedar chest in the attic.\nAfter an afternoon of careful searching, I found it \u2013 the original deed, complete with a detailed, hand-drawn survey map from 1956, signed and sealed by the county surveyor. It even had the exact measurements and iron pins marked. More importantly, it clearly showed the property line, ten feet beyond where Chad\u2019s new fence stood.\nI took the map to the county recorder's office. They confirmed its authenticity. Then, I hired a professional surveyor to stake out the original lines based on my document. The new markers clearly showed Chad\u2019s fence was indeed trespassing. Armed with the official survey and a strongly worded letter from my lawyer, I sent Chad a cease and desist, giving him 14 days to move his fence.\nHe blustered and threatened, but when the sheriff\u2019s deputy, accompanying my lawyer, showed up with a court order based on my irrefutable evidence, Chad\u2019s bravado crumbled. He had to pay for the professional fence removal and reinstallation, costing him thousands. My roses are now safe, and Chad learned that disrespecting an 'old timer' and their property comes with a very steep price.",
+      "broll_keywords": [
+        "new wooden fence",
+        "old survey map",
+        "cedar chest",
+        "surveyor tools",
+        "sheriff's badge",
+        "rose garden"
+      ],
+      "hashtags": [
+        "propertydispute",
+        "neighborwars",
+        "elderjustice",
+        "legalvictory",
+        "revenge",
+        "shorts"
+      ],
+      "description": "My new neighbor tried to steal part of my yard, but he didn't count on my antique survey map! Watch how I used history and the law to reclaim my land.",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-08-31T12:12:06"
     }
   ]
 }
