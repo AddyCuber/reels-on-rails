@@ -4971,6 +4971,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-08-30T19:56:17"
+    },
+    {
+      "id": "story_241",
+      "title": "The 'Financial Advisor' Who Stole My Future",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A slick 'financial advisor' tried to swindle my pension. I pretended to fall for his scam, secretly gathering evidence that eventually led to his arrest.",
+      "hook": "When 'Mr. Sterling' promised to double my retirement savings in six months, I knew it sounded too good to be true, but I played along.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "When 'Mr. Sterling' promised to double my retirement savings in six months, I knew it sounded too good to be true, but I played along. I met him at a free 'wealth seminar' in May last year, advertised specifically for retirees. He was charming, impeccably dressed, and spoke with such conviction about his 'exclusive, high-yield offshore investments.' My gut screamed danger, but my brain saw an opportunity.\nHe targeted me specifically, calling me repeatedly, pushing me to invest my entire $350,000 pension. He even tried to get me to liquidate my small IRA. I told him I was interested, but hesitant. My 'hesitation' was a ploy to buy time. I bought a discreet voice recorder and hid it in my purse. Every meeting, every phone call, every email exchange\u2014I documented everything.\nHe'd send me fake 'account statements' showing incredible gains, pressuring me to bring in more money. He even created a slick, professional-looking website for his 'firm' that, upon closer inspection, had broken links and generic stock photos. I noted all the inconsistencies, cross-referencing company registrations, looking up his supposed credentials. Nothing checked out.\nAfter a month of meticulously collecting evidence, I had a treasure trove: recorded confessions of his fraudulent claims, emails explicitly asking for wire transfers to personal accounts in the Cayman Islands, and a paper trail of his fake business. I compiled it all into a neat binder and walked straight into the FBI field office.\nThey were impressed. The agent, a young woman named Agent Ramirez, told me my evidence was 'airtight.' Within weeks, Mr. Sterling was arrested, not just for attempting to defraud me, but for a string of similar scams targeting other seniors across the state. My pension was safe, and the satisfaction of watching him led away in handcuffs? Priceless. Justice served, thanks to a little patience and a lot of planning.",
+      "broll_keywords": [
+        "seminar brochure",
+        "voice recorder",
+        "fake investment statement",
+        "FBI badge",
+        "police car",
+        "bank transfer form"
+      ],
+      "hashtags": [
+        "pensionscams",
+        "fraudalert",
+        "elderjustice",
+        "scamawareness",
+        "FBIinvestigation",
+        "shorts"
+      ],
+      "description": "A smooth-talking 'advisor' tried to steal my life savings, but I turned the tables! Watch how I recorded every lie and helped the FBI catch a scammer.",
+      "estimated_duration": 175,
+      "published": true,
+      "published_at": "2026-08-31T01:55:22"
     }
   ]
 }
