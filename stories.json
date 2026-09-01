@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_247",
-      "title": "The HOA's 'Rule-Breaker' and My Evidence Dossier",
-      "domain": "Hoa Neighbor",
-      "genre": "hoa_neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My neighbor's endless HOA violations were ignored by a complacent board. I meticulously documented every infraction and used my evidence to force the HOA to act, restoring peace to our street.",
-      "hook": "My neighbor, Dave, was constantly violating HOA rules, turning our quiet cul-de-sac into his personal junkyard, and the HOA did nothing.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My neighbor, Dave, was constantly violating HOA rules, turning our quiet cul-de-sac into his personal junkyard, and the HOA did nothing. For two years, 'Dave's Auto Repair' operated out of his driveway, with broken-down cars, oil stains, and loud noises plaguing our once-pristine community. Our HOA, run by a perpetually overwhelmed volunteer board, would send Dave polite letters, which he promptly ignored. Everyone was fed up, but no one knew what to do. I decided to change that.\nI started a meticulous record-keeping process. Every day, for three months, I took dated photographs of Dave's violations: cars on blocks, hazardous waste spills, oversized equipment, and even his unapproved, bright pink shed. I noted the time, date, and specific rule from the HOA covenants that was being broken. I even recorded audio of his late-night welding and loud music.\nAfter building a comprehensive dossier, a binder thick with evidence, I didn't just send it to the HOA. I scheduled an appointment with the managing agent of the *professional management company* that oversaw our HOA. I presented my evidence calmly and factually, explaining how Dave\u2019s actions were not only decreasing property values but creating a safety hazard and a nuisance.\nThe managing agent, seeing the sheer volume and irrefutable nature of my evidence, was stunned. They admitted the volunteer board had been too lenient. Within a week, a stern letter, this time from the *management company's* legal department, arrived at Dave's door, threatening escalating fines and legal action, including a lien on his property, if he didn't comply within 30 days. This wasn't a polite letter; it was a legal hammer.\nDave, suddenly facing real consequences, finally cleared his yard. The broken cars disappeared, the oil stains were professionally removed, and the pink shed was taken down. Our cul-de-sac returned to its peaceful state. Sometimes, to get justice, you don\u2019t need to shout; you just need to collect the facts and present them to the right authority.",
-      "broll_keywords": [
-        "broken-down car",
-        "photo camera",
-        "HOA rules document",
-        "dossier binder",
-        "clean cul-de-sac",
-        "senior woman triumphant"
-      ],
-      "hashtags": [
-        "HOAproblems",
-        "neighborfromhell",
-        "elderjustice",
-        "legalaction",
-        "communitypeace",
-        "shorts"
-      ],
-      "description": "My neighbor was a serial HOA rule-breaker, and the board did nothing. Watch how I gathered ironclad evidence to force action and reclaim peace in our community!",
-      "estimated_duration": 165
-    },
-    {
       "id": "story_248",
       "title": "The 'Oil Baron' Romance Scammer and My Secret Trap",
       "domain": "Pension Scams",
