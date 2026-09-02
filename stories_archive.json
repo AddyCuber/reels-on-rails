@@ -5251,6 +5251,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-09-01T19:31:42"
+    },
+    {
+      "id": "story_249",
+      "title": "My Deceased Sister's 'Friend' and the Coded Journal",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My sister's 'friend' tried to steal her estate with a fake promise. I used my sister's secret journal and our lifelong code to expose the fraud and honor her true wishes.",
+      "hook": "After my sister Eleanor passed, her 'best friend' Gloria suddenly claimed Eleanor had promised her everything, flashing a dubious handwritten note.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "After my sister Eleanor passed, her 'best friend' Gloria suddenly claimed Eleanor had promised her everything, flashing a dubious handwritten note. Eleanor, a fiercely independent woman, had always been secretive about her finances, but she adored her two nieces and intended for them to inherit her modest $400,000 estate. Gloria, who barely tolerated Eleanor when she was alive, suddenly appeared at the funeral last spring, weeping dramatically and clutching a scrap of paper that read, 'All to Gloria, my truest friend.' It was signed 'E.'\nI knew Eleanor\u2019s signature. This was a poor imitation. But Gloria was relentless, using the note to try and claim everything. I felt helpless until I remembered something Eleanor had given me years ago: a small, leather-bound journal. She\u2019d told me, 'If anything ever happens, look in here. It\u2019ll tell you everything.'\nThe journal was filled with Eleanor\u2019s daily thoughts, but it also contained a series of coded entries. Eleanor and I had developed a simple substitution cipher when we were children, and we'd used it for secret messages our whole lives. It took me days, but I slowly deciphered the entries. They detailed her plans for her estate, explicitly naming her nieces, Sarah and Emily, as beneficiaries. It even included a specific mention of Gloria, noting her as 'a fair-weather friend, not to be trusted with a penny.'\nCrucially, one entry detailed her *actual* will, professionally drawn up by attorney Mr. Davison, which she had filed months before her death. The entry included the lawyer\u2019s name and office number. I called Mr. Davison immediately. He confirmed he had Eleanor\u2019s legitimate, notarized will, leaving everything to her nieces. The journal entry, with its unique code, served as powerful corroborating evidence of Eleanor's true intentions and the fraudulence of Gloria's note.\nGloria's lawyer tried to argue, but when presented with the official will and my deciphered journal entries, which clearly predated Gloria\u2019s 'note' and exposed her character, they quickly dropped the claim. Sarah and Emily received their rightful inheritance. Eleanor, even in death, had outsmarted the greedy. Our childhood secret, it turned out, was her final, brilliant act of justice.",
+      "broll_keywords": [
+        "handwritten note",
+        "leather journal",
+        "code deciphering",
+        "legal will document",
+        "senior woman smiling",
+        "nieces hugging"
+      ],
+      "hashtags": [
+        "inheritance",
+        "familymystery",
+        "elderjustice",
+        "secretcode",
+        "fraudexposed",
+        "shorts"
+      ],
+      "description": "My sister's 'friend' tried to steal her inheritance with a fake note. But my sister had a secret: a coded journal that exposed the fraud and ensured justice for her nieces!",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-09-02T00:29:30"
     }
   ]
 }
