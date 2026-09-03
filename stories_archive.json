@@ -5461,6 +5461,41 @@
       "estimated_duration": 175,
       "published": true,
       "published_at": "2026-09-03T09:44:05"
+    },
+    {
+      "id": "story_255",
+      "title": "My Neighbor Stole 3 Feet of My Yard, But I Had the Survey",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My new neighbor tries to steal a chunk of my property by unilaterally moving his fence. Luckily, I had a recent survey to prove him wrong.",
+      "hook": "My neighbor Gary just moved his fence 3 feet onto my property, claiming it was always 'his land,' but I knew better.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My neighbor Gary just moved his fence 3 feet onto my property, claiming it was always 'his land,' but I knew better. Gary bought the house next door to me in Portland, Oregon, about six months ago. He seemed friendly enough at first, but then he started making comments about how 'small' his yard was. Last week, I woke up to the sound of hammering. I looked out my window and saw Gary, with two other men, tearing down his old chain-link fence. 'Oh, a new fence, how nice!' I thought. That's when I saw them placing the new posts. They were clearly three feet into my property, past the old boundary line. I walked outside, trying to keep my voice calm. 'Gary, what are you doing? Those posts are on my side.' He just shrugged, a smirk playing on his lips. 'Nah, Martha, I had a guy come out. Said the old fence was in the wrong spot. This is where it's supposed to be. My property line.' I felt a surge of anger. I've lived here for 40 years. I know exactly where my property line is. More importantly, two years ago, when I refinanced my house, I had a professional land survey done. It cost me $800, but it was worth every penny. I had the official plat map, clearly showing the exact boundary markers, signed and stamped by a licensed surveyor. I told Gary, 'I have a recent survey, Gary. It shows the line right here,' pointing to the original spot. He just laughed. 'Surveys can be wrong, Martha. This is where the county says it is now.' He clearly thought he could bully an elderly woman. He was wrong. I went inside, pulled out my survey documents, and called my real estate lawyer. She advised me to send him a certified 'cease and desist' letter, demanding he stop construction and remove the encroaching fence within 48 hours, or face legal action. The letter, complete with a copy of my survey and a stern warning, was delivered the next morning. Gary, still arrogant, ignored it. That afternoon, my lawyer filed an injunction with the court and sent a notice to the county. The next day, a sheriff's deputy showed up at Gary's door with the injunction, ordering him to stop all work immediately. Gary's face, when he saw the deputy, was priceless. He tried to argue, but the deputy just pointed to the court order. Within a week, after a brief court hearing where my survey proved irrefutable, Gary was ordered not only to remove the encroaching fence but also to pay for the cost of its removal and my legal fees. It was a costly lesson for him, but a satisfying victory for me. Always know your boundaries, literally and figuratively.",
+      "broll_keywords": [
+        "new fence posts",
+        "old chain link fence",
+        "property survey map",
+        "certified letter",
+        "sheriff's deputy",
+        "angry neighbor"
+      ],
+      "hashtags": [
+        "#PropertyBoundary",
+        "#NeighborDispute",
+        "#ElderJustice",
+        "#LegalBattle",
+        "#LandSurvey",
+        "#RevengeStory"
+      ],
+      "description": "My new neighbor tried to steal 3 feet of my yard by moving his fence, but I had a recent land survey that proved him wrong. Watch how I served him with justice!",
+      "estimated_duration": 168,
+      "published": true,
+      "published_at": "2026-09-03T14:46:20"
     }
   ]
 }
