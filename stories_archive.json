@@ -5496,6 +5496,41 @@
       "estimated_duration": 168,
       "published": true,
       "published_at": "2026-09-03T14:46:20"
+    },
+    {
+      "id": "story_256",
+      "title": "Our 'Pastor' Stole the Building Fund, But I Found the Fake Blueprints",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A charismatic pastor launches a massive building fund, but a suspicious church member uncovers a shocking truth: the entire project is a sham.",
+      "hook": "Our beloved 'Pastor' David just announced a new building fund, but I discovered the blueprints were fake and the money was going straight into his offshore account.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our beloved 'Pastor' David just announced a new building fund, but I discovered the blueprints were fake and the money was going straight into his offshore account. For years, Pastor David had been a charismatic figure at our church in Charlotte, North Carolina. He preached inspiring sermons, and everyone loved him. So, when he unveiled plans for a grand new 'Community Outreach Center' and launched a massive building fund campaign, pledging to raise $2 million, the congregation, myself included, opened their wallets. I donated $5,000, a significant portion of my savings. He presented beautiful architectural renderings, complete with a scale model, and scheduled regular 'update' meetings. But something felt off. The architect's name on the blueprints was generic, and the construction company he 'hired' seemed untraceable. I\u2019ve volunteered for church committees for decades, so I know how these things work. Permits, contracts, detailed financials \u2013 they\u2019re usually transparent. Pastor David, however, kept everything under tight wraps, citing 'proprietary information.' My suspicion grew when he started driving a new luxury car and taking frequent 'missionary trips' to exotic locations, while the building site remained an empty lot. I decided to do some digging. I discretely contacted the local planning department. They had no record of any permit applications for the 'Community Outreach Center.' I then used the internet, cross-referencing the architect's generic name and the construction company with databases. Both turned up nothing. It was all fake. The 'blueprints' he showed us were stock images, easily found online. My heart sank. Our congregation, many of them seniors on fixed incomes, had poured their hard-earned money into this scam. I carefully compiled all my findings: the lack of permits, the non-existent architect and construction company, the stock photos. I even found evidence of large, regular transfers from the church's 'building fund' account to a shell company registered in a tax haven, which, with a little more digging, I linked back to Pastor David's personal finances. I approached the head deacon, a man I trusted, with my evidence. He was initially skeptical, but when he saw the irrefutable proof, his face turned ashen. Together, we presented the findings to the church board. The shock and outrage were palpable. Within days, Pastor David was confronted. He initially denied everything, but when faced with the overwhelming evidence, he broke down. The police were called, and he was arrested for embezzlement and fraud. The church is now working to recover what funds they can. It was heartbreaking to see a spiritual leader betray such trust, but I knew I couldn't let him get away with it. Sometimes, faith also requires a little bit of detective work.",
+      "broll_keywords": [
+        "church offering plate",
+        "fake architectural blueprints",
+        "luxury car keys",
+        "empty construction lot",
+        "bank transfer statements",
+        "police questioning"
+      ],
+      "hashtags": [
+        "#ChurchFraud",
+        "#ElderJustice",
+        "#ScamExposed",
+        "#FinancialCrime",
+        "#CommunityBetrayal",
+        "#Whistleblower"
+      ],
+      "description": "Our charismatic 'Pastor' David launched a fake building fund, stealing millions from the congregation. I exposed his lies and uncovered the truth behind his fraudulent scheme!",
+      "estimated_duration": 172,
+      "published": true,
+      "published_at": "2026-09-03T20:26:17"
     }
   ]
 }
