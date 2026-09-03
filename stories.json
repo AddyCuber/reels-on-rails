@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_253",
-      "title": "My Caregiver Stole Grandma's Emerald, But I Saw It Coming",
-      "domain": "Caregiver Theft",
-      "genre": "caregiver_theft",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A new caregiver tries to steal a precious family heirloom. Unbeknownst to her, I had discreetly set up a trap.",
-      "hook": "My 'caring' new aide, Brenda, just tried to pawn my grandmother's emerald necklace, but I was already one step ahead.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My 'caring' new aide, Brenda, just tried to pawn my grandmother's emerald necklace, but I was already one step ahead. After my fall last month, my daughter insisted I hire a part-time caregiver. Brenda, a woman in her late 40s with a seemingly warm smile, started working for me here in Atlanta, Georgia, three weeks ago. She was pleasant enough, always complimenting my antique decor and asking about my family treasures. Too many compliments, I thought, for a new acquaintance. My gut, after 85 years on this earth, has rarely been wrong. One particular item she seemed fixated on was my grandmother's emerald and diamond necklace, a family heirloom passed down for generations. It wasn't just valuable; it held immense sentimental worth. I usually kept it in a locked jewelry box, but I'd 'accidentally' left it out on my dresser once, just to see her reaction. Her eyes lit up. That confirmed my suspicion. I decided to test her. I placed the necklace back in its usual spot in the jewelry box, but not before subtly marking the clasp with a tiny, almost invisible dab of clear nail polish, a trick my own grandmother taught me. Then, I installed a small, motion-activated camera, disguised as a clock, in my bedroom, angled perfectly at the dresser. A week later, after Brenda's shift, I checked the jewelry box. The necklace was gone. My heart sank, but I wasn't surprised. I immediately reviewed the camera footage. There she was, clear as day, rummaging through my drawers, finding the box, and deftly slipping the necklace into her pocket. The time stamp was precise: 2:17 PM, an hour before she left. I waited until the next morning, then calmly called the police, providing them with the video evidence and describing the nail polish mark. They were at my door within the hour. By lunchtime, Brenda was apprehended at a local pawn shop, trying to sell the necklace. The pawnbroker, recognizing the distinctive piece from a police alert, immediately cooperated. The nail polish mark confirmed it was indeed my necklace. Brenda was arrested on the spot, facing charges of grand larceny and elder abuse. My necklace was returned, completely unharmed. It's a sad truth that some people prey on the vulnerable, but I wasn't just 'vulnerable'; I was experienced. My grandmother's wisdom, and a little modern technology, saved my precious heirloom and taught a thief a hard lesson.",
-      "broll_keywords": [
-        "elderly woman",
-        "emerald necklace",
-        "hidden camera",
-        "caregiver uniform",
-        "police badge",
-        "pawn shop counter"
-      ],
-      "hashtags": [
-        "#CaregiverScam",
-        "#ElderAbuse",
-        "#JusticeServed",
-        "#FamilyHeirloom",
-        "#HiddenCamera",
-        "#SeniorSafety"
-      ],
-      "description": "My new caregiver tried to steal my grandmother's priceless emerald necklace, but I had already set a clever trap. Watch how I caught her red-handed!",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_254",
       "title": "The 'Financial Advisor' Tried to Steal My Pension",
       "domain": "Pension Scams",
