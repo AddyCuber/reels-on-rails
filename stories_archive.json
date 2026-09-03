@@ -5426,6 +5426,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-09-03T00:19:05"
+    },
+    {
+      "id": "story_254",
+      "title": "The 'Financial Advisor' Tried to Steal My Pension",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A charming 'financial advisor' pitches a too-good-to-be-true investment scheme for my pension. My skepticism and quick research saved my retirement.",
+      "hook": "The smooth-talking financial advisor promised me triple returns on my pension, but I smelled a rat before signing away my life savings.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "The smooth-talking financial advisor promised me triple returns on my pension, but I smelled a rat before signing away my life savings. It all started with a cold call, a common enough occurrence for seniors like me in Boca Raton, Florida. Mr. Sterling, from 'Global Wealth Maximizers,' sounded incredibly professional and empathetic. He'd done his homework, knew I was retired, and even mentioned my previous career. He claimed to have an exclusive, 'bulletproof' investment opportunity in 'rare earth minerals' that would turn my $300,000 pension fund into nearly a million within two years. He offered to send a 'private courier' with the documents. My alarm bells immediately went off. Triple returns? Exclusive access? Private courier? I\u2019ve seen enough news reports to know these are classic scam tactics. But instead of hanging up, I decided to play along. I told him I was interested, but needed to do my 'due diligence.' I requested all his company's literature, his FINRA registration number, and detailed prospectuses for the 'investment.' I recorded every phone call, with his knowledge, stating it was for my own 'memory retention.' He seemed a little flustered but agreed. The documents he sent looked slick, but a quick search of his FINRA number revealed something crucial: 'Global Wealth Maximizers' was not a registered investment firm, and Mr. Sterling's license had been revoked years ago for previous fraudulent activities. The 'rare earth minerals' prospectus was filled with jargon and vague promises, no real company names, no verifiable assets. I cross-referenced everything with the state's securities division and the Better Business Bureau. Not a single positive hit, only complaints. Instead of signing the papers and handing them to his 'courier,' I collected all the evidence: the recorded calls, the fraudulent documents, the FINRA report, and the BBB complaints. I then contacted the FBI and the Securities and Exchange Commission (SEC). When the 'private courier' arrived at my doorstep, expecting to pick up signed documents and a check, he was greeted by two plainclothes agents. They swiftly took him into custody and used his information to trace Mr. Sterling. Within days, the entire 'Global Wealth Maximizers' operation was shut down, and Mr. Sterling, along with his accomplices, was arrested. They never got a penny of my pension, thanks to a little bit of healthy skepticism and a lot of research. It just goes to show, if it sounds too good to be true, it probably is. Always, always verify.",
+      "broll_keywords": [
+        "phone call fraud",
+        "fake investment prospectus",
+        "FBI badge",
+        "pension statement",
+        "computer research",
+        "handcuffs"
+      ],
+      "hashtags": [
+        "#PensionScam",
+        "#ElderFraud",
+        "#FinancialAdvice",
+        "#ScamAlert",
+        "#JusticeServed",
+        "#SeniorWisdom"
+      ],
+      "description": "A 'financial advisor' tried to swindle my $300,000 pension with a fake investment scheme. But my research and recorded calls led to his arrest!",
+      "estimated_duration": 175,
+      "published": true,
+      "published_at": "2026-09-03T09:44:05"
     }
   ]
 }
