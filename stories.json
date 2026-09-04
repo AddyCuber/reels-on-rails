@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_258",
-      "title": "Honest Abe Charged Me $800 For Nothing, So I Got His License",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A shady mechanic performs unnecessary repairs and fails to fix the real problem. I gathered proof and used a consumer protection agency to shut him down.",
-      "hook": "\u201cHonest Abe\u201d just charged me $800 for a brake job I didn't need, while my engine light was still blinking.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "\u201cHonest Abe\u201d just charged me $800 for a brake job I didn't need, while my engine light was still blinking. I knew my old sedan, a trusty 2008 Honda Civic, had issues when the 'Check Engine' light came on and it started sputtering a bit. I took it to 'Honest Abe's Auto Repair' in Austin, Texas, a local shop that had good reviews online \u2013 reviews I now suspect were entirely fabricated. Abe, a gruff man with grease under his fingernails, listened to my description. He called me later that day, sounding grave. 'Mrs. Peterson, it's your brakes. They're completely shot. A real safety hazard. And your transmission needs flushing, too. That'll be $800 for the brakes, $250 for the flush.' I felt a pang of worry. I trusted him, so I agreed. When I picked up the car, the bill was exactly $800 for the brakes. He said the transmission flush 'could wait.' As I drove off, the 'Check Engine' light was still on, and the car was still sputtering. My gut told me something was very wrong. I had just paid $800, and the initial problem wasn't even touched. I drove straight to another mechanic, a small, honest-looking place called 'Mike's Auto Service,' known for fair dealings. Mike listened patiently, then did a diagnostic. He called me an hour later. 'Mrs. Peterson,' he said, 'your brakes are perfectly fine. They've got at least 20,000 miles left on them. The problem is a faulty oxygen sensor, a $150 fix, parts and labor.' My blood ran cold. I had been swindled. I asked Mike to provide a detailed, written report, confirming the condition of my brakes and the actual issue. Armed with Mike's report and my $800 receipt from 'Honest Abe's,' I returned to Abe's shop. I calmly presented the evidence, demanding a refund. Abe immediately became defensive, claiming Mike was 'trying to steal his business' and that I was 'confused.' He refused to refund me. That's when I contacted the Texas Department of Motor Vehicles (DMV), which licenses auto repair shops, and the local Consumer Protection Agency. I provided them with everything: my initial complaint, Abe's invoice, Mike's diagnostic report, and even photos of my perfectly healthy brake pads. Within a week, the Consumer Protection Agency informed me they had received multiple similar complaints about 'Honest Abe's.' They launched a full investigation. Three weeks later, I received a letter. 'Honest Abe's Auto Repair' had its license suspended indefinitely, and Abe was forced to issue me a full refund, plus compensation for my time and Mike's diagnostic fee. It felt good. He thought he could take advantage of an older woman, but I showed him that seniors are not to be trifled with.",
-      "broll_keywords": [
-        "car engine light",
-        "auto repair shop sign",
-        "mechanic's invoice",
-        "diagnostic report",
-        "DMV letter",
-        "elderly woman driving"
-      ],
-      "hashtags": [
-        "#AutoScam",
-        "#ElderJustice",
-        "#ConsumerRights",
-        "#BadMechanic",
-        "#Revenge",
-        "#Fraud"
-      ],
-      "description": "Honest Abe charged me $800 for unnecessary brake repairs, leaving my car's real problem unfixed. Watch how I exposed his fraud and got his license suspended!",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_259",
       "title": "HOA Tried to Ban My ESA Dog, But I Had Federal Law",
       "domain": "Hoa Neighbor",
