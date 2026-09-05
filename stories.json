@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_263",
-      "title": "My Caregiver Stole My Jewelry, But I Was Ready",
-      "domain": "Caregiver Theft",
-      "genre": "caregiver_theft",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My seemingly kind caregiver was secretly pilfering my valuables, piece by piece. She thought I was oblivious, but I had set a clever trap to catch her red-handed.",
-      "hook": "I just realized my 'trusted' caregiver, Brenda, has been systematically stealing my antique jewelry collection!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "I just realized my 'trusted' caregiver, Brenda, has been systematically stealing my antique jewelry collection! I'm Helen, 82, and for the past six months, Brenda had been a fixture in my home. She seemed so kind, so attentive, always praising my 'beautiful things.' But I started noticing little things: a pearl earring missing from a set, a small silver locket gone from my vanity, a ruby ring I hadn't worn in years suddenly absent from its box. I initially dismissed it as my own forgetfulness, blaming 'senior moments.' But then, my gut told me something was wrong.\n\nMy late husband, a retired detective, had taught me a thing or two about observation and evidence. I decided to test my theory. I had a small, unique emerald brooch that was particularly sentimental. I took a high-resolution photo of it, noting a tiny scratch on the back. Then, I placed it prominently in my jewelry box, knowing Brenda often tidied that area. I also made a mental note of its exact position. The next day, after Brenda had left, I checked. The brooch was gone.\n\nThis confirmed my fears. I didn't confront her immediately. Instead, I carefully documented every missing item, cross-referencing with old photos and a detailed inventory I had kept for insurance purposes. I also remembered a small, motion-activated nanny cam my daughter had given me to monitor my dog when I was out. I subtly placed it in a discreet corner of my bedroom, aimed directly at my jewelry box. I reset the box with a few less valuable, but still identifiable, pieces, marking them with invisible UV ink \u2013 another trick from my husband.\n\nTwo days later, the camera caught Brenda. Clear as day, she opened the jewelry box, glanced around nervously, and pocketed a marked bracelet. The UV ink glowed under the special light, confirming it was indeed the one I\u2019d placed. I immediately called my daughter, who then contacted the police. When they arrived, I showed them the footage and the inventory. Brenda was confronted during her next shift. She initially denied everything, but when the police showed her the video, her face crumpled. They found several of my missing pieces in her purse, and later, more at her home. It turned out she was pawning them. I got my jewelry back, and Brenda faced felony theft charges. It hurt to be betrayed, but I'm grateful I trusted my instincts and had the foresight to protect myself.",
-      "broll_keywords": [
-        "jewelry box",
-        "hidden camera",
-        "police badge",
-        "evidence bag",
-        "relieved elder",
-        "antique locket"
-      ],
-      "hashtags": [
-        "#CaregiverScam",
-        "#ElderAbuse",
-        "#TheftPrevention",
-        "#HiddenCamera",
-        "#JusticeForSeniors",
-        "#TrustBetrayal"
-      ],
-      "description": "Betrayal from a trusted caregiver is heartbreaking. Discover how I caught a thief red-handed with a clever trap and ensured she faced justice for her actions. Always trust your gut!",
-      "estimated_duration": 165
-    },
-    {
       "id": "story_264",
       "title": "They Promised Riches, But I Exposed Their Pension Scam",
       "domain": "Pension Scams",
