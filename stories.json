@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_264",
-      "title": "They Promised Riches, But I Exposed Their Pension Scam",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A slick con artist tried to swindle my hard-earned pension with a too-good-to-be-true investment. He didn't know I'd already done my homework and was ready for him.",
-      "hook": "A 'financial advisor' just tried to convince me to transfer my entire pension into a 'guaranteed' overseas investment!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "A 'financial advisor' just tried to convince me to transfer my entire pension into a 'guaranteed' overseas investment! I\u2019m Robert, 75, a retired teacher, and my pension is my lifeline. This man, Mr. Sterling, represented a company called 'Global Prosperity Funds.' He called me out of the blue, claiming he was referred by a 'mutual friend' \u2013 a red flag right there. He spoke of incredible, risk-free returns, promising to double my money in five years if I invested my $400,000 pension in his 'exclusive' offshore accounts.\n\nHe invited me to a fancy seminar at a five-star hotel, complete with a gourmet lunch. The presentation was slick, full of impressive graphs and testimonials. Other seniors in the room seemed captivated. But I\u2019ve seen enough financial schemes in my life to recognize a con when I hear one. 'Guaranteed' high returns? Offshore accounts? 'Exclusive' access? These were all classic hallmarks of a scam. I politely listened, took notes, and asked a few pointed questions about regulatory oversight and liquidity, which he artfully dodged with jargon.\n\nInstead of signing on the dotted line, I went home and immediately got to work. First, I called my actual financial advisor, Sarah, whom I've worked with for twenty years. She confirmed my suspicions: 'Global Prosperity Funds' was not a recognized, regulated entity in the US, and their 'advisor,' Mr. Sterling, had no legitimate financial licenses. She even found several online forums where people were reporting similar high-pressure tactics and non-existent returns from this very company.\n\nNext, I contacted the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA). I provided them with all the materials Mr. Sterling had given me \u2013 his business card, the brochures, the 'investment prospectus' \u2013 along with Sarah's findings. I also shared my detailed notes from the seminar. They confirmed that 'Global Prosperity Funds' was indeed on their watchlist for suspicious activities. They thanked me for my vigilance and informed me they would be launching a formal investigation.\n\nTwo weeks later, I received a letter from the SEC, thanking me again. Mr. Sterling and his 'Global Prosperity Funds' had been shut down, and several investors who had already fallen victim were in the process of recovering their funds, thanks in part to my early report. I saved not only my own pension but potentially thousands for other seniors. It felt good to use my experience to expose their deceit and ensure justice was served. My pension is safe, and so is my peace of mind.",
-      "broll_keywords": [
-        "financial documents",
-        "red flag icon",
-        "computer research",
-        "phone call to authorities",
-        "safe retirement fund",
-        "seminar brochure"
-      ],
-      "hashtags": [
-        "#PensionScam",
-        "#FinancialFraud",
-        "#ElderProtection",
-        "#InvestmentAlert",
-        "#ConArtistExposed",
-        "#SeniorSafety"
-      ],
-      "description": "Pension scams are rampant, but you can fight back. Learn how I sniffed out a bogus investment scheme and protected my future, and the future of other seniors. Always do your research!",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_265",
       "title": "My Neighbor Moved My Fence, So I Moved It Back \u2013 Legally",
       "domain": "Property Boundary Dispute",
