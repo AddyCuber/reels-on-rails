@@ -5846,6 +5846,41 @@
       "estimated_duration": 145,
       "published": true,
       "published_at": "2026-09-06T00:49:53"
+    },
+    {
+      "id": "story_266",
+      "title": "The Pastor Who Demanded My Savings for 'Heavenly Investments'",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A charismatic new pastor tried to persuade me to give him all my savings for a dubious church fund. He underestimated my skepticism and my commitment to true faith.",
+      "hook": "Our new 'pastor' just asked me to donate my entire life savings to his special 'Heavenly Harvest Fund'!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our new 'pastor' just asked me to donate my entire life savings to his special 'Heavenly Harvest Fund'! I'm Dorothy, 73, a lifelong member of First Community Church. When Pastor Elijah arrived six months ago, he brought a lot of energy. He was charismatic, a powerful speaker, and quickly drew in new congregants. But something about him always felt a little off to me. He focused heavily on prosperity gospel, and his sermons often revolved around the idea that the more you give, the more God will bless you financially.\n\nThen came the 'Heavenly Harvest Fund.' He announced it one Sunday, claiming it was a divine inspiration to build a new 'mega-church' and 'spread the word globally.' He held special meetings, inviting 'select' members, including me, to discuss 'major contributions.' In a private session, he specifically asked me, knowing I was a widow with a substantial nest egg, to consider donating my entire $250,000 savings. He spoke of 'spiritual investment' and 'eternal rewards,' making it sound like a direct pipeline to heaven.\n\nMy alarm bells were deafening. My faith is strong, but I believe in transparency and accountability, especially when it comes to finances. I politely declined, saying I needed to pray on it. Instead of praying, I did some digging. I spoke with long-time members of the church board, quietly asking about the fund's specifics, its budget, and its oversight. They seemed surprisingly uninformed, deferring to Pastor Elijah, which was another red flag. I then looked into Pastor Elijah's background online. His previous church had experienced a sudden, unexplained financial shortfall shortly after his departure. \n\nI also reached out to a friend, a retired forensic accountant who specialized in non-profit fraud. She advised me to ask for the fund's official Articles of Incorporation, its tax-exempt status, and detailed financial projections. When I did, Pastor Elijah became visibly agitated, calling my questions 'lack of faith' and 'distrustful.' That was all the confirmation I needed. My friend helped me draft a formal complaint to the church's regional diocese and the state's Attorney General's office, detailing my concerns and the lack of transparency.\n\nThe investigation was swift. It turned out Pastor Elijah had indeed set up a separate, private account under a similar name, siphoning off previous 'donations' for personal use. The 'Heavenly Harvest Fund' was a front for his greed. He was immediately removed from his position and faced charges for financial fraud. The church was shocked, but grateful for my vigilance. My savings were safe, and I helped protect my community from a wolf in sheep's clothing. True faith doesn't demand your life savings; it asks for your heart.",
+      "broll_keywords": [
+        "church steeple",
+        "donation plate",
+        "suspicious ledger",
+        "news article",
+        "wise elder",
+        "legal complaint"
+      ],
+      "hashtags": [
+        "#ChurchScam",
+        "#ReligiousFraud",
+        "#ElderVigilance",
+        "#SpiritualAbuse",
+        "#JusticePrevails",
+        "#ConManExposed"
+      ],
+      "description": "When faith is exploited for financial gain, it's a profound betrayal. Discover how I uncovered a church scam and protected my community's integrity. Always question when something feels wrong!",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-09-06T10:14:16"
     }
   ]
 }
