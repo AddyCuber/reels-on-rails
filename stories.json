@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_268",
-      "title": "My Mechanic Tried to Overcharge Me $2,000 for 'Repairs'",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My trusted mechanic tried to fleece me with an outrageous repair quote for a non-existent problem. He didn't realize I'd already had a second opinion, and a third.",
-      "hook": "My mechanic just quoted me $2,000 for a 'major engine overhaul' on my perfectly running car!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My mechanic just quoted me $2,000 for a 'major engine overhaul' on my perfectly running car! I\u2019m George, 65, and I\u2019ve been taking my trusty 2015 sedan to 'Honest Abe\u2019s Auto Repair' for the last ten years. Abe, the owner, retired recently, and his nephew, Leo, took over. I\u2019d noticed a slight change in the service, but nothing too alarming until now. My car was running perfectly, but it was due for its annual inspection, so I dropped it off.\n\nA few hours later, Leo called, sounding grim. 'George,' he said, 'we've found a serious issue. Your engine is on its last legs, needs a complete overhaul. That'll be $2,000.' I was stunned. My car had just passed its emissions test with flying colors a few months prior, and I hadn't heard a single strange noise. I\u2019d also just had a routine oil change and tire rotation, with no issues reported. Something felt very, very wrong.\n\nI told Leo I needed to think about it. What he didn't know was that my son, Mark, is a certified mechanic, though he lives two states away. Before even taking my car to Leo, I had Facetimed Mark, walked him around the engine, and described any perceived quirks. Mark, ever cautious, had advised me to get any major diagnosis from Leo in writing, and then to get a second opinion from a different, highly-rated mechanic in my town. He even sent me a list of common 'upsell' scams to watch out for.\n\nSo, I arranged for my car to be towed from Leo's shop to 'Reliable Repairs,' a place Mark had vetted. I didn't mention Leo's diagnosis. I simply asked them to do a full inspection and quote any necessary repairs. The next day, 'Reliable Repairs' called. 'Your car is in excellent shape, George,' the owner said. 'Just needs a new air filter and a fluid flush. Total cost: $150.' He found absolutely no issues with the engine.\n\nArmed with this irrefutable proof, I called Leo. I calmly explained that I had gotten a second, unbiased opinion, and that his 'major engine overhaul' was entirely fabricated. He stammered, tried to backtrack, claiming it was a 'misdiagnosis.' I informed him I would be reporting his fraudulent practices to the Better Business Bureau and the state's consumer protection agency. He quickly offered to do the air filter and fluid flush for free, plus a 'senior discount' on future services. I politely declined. I paid 'Reliable Repairs' their $150, and I've found a new, truly honest mechanic. Leo learned that you can't trick an experienced driver, especially one with a mechanic son.",
-      "broll_keywords": [
-        "car hood open",
-        "repair invoice",
-        "honest mechanic",
-        "hidden camera (subtle)",
-        "relieved driver",
-        "tow truck"
-      ],
-      "hashtags": [
-        "#MechanicScam",
-        "#CarRepairHorror",
-        "#ConsumerRights",
-        "#ElderProtection",
-        "#HonestBusiness",
-        "#ShadyMechanic"
-      ],
-      "description": "Don't let dishonest mechanics take you for a ride. See how I exposed a scam and saved myself thousands, thanks to a little foresight and a trusted second opinion. Stay vigilant!",
-      "estimated_duration": 140
-    },
-    {
       "id": "story_269",
       "title": "My HOA President Tried to Evict Me Over a Bird Feeder",
       "domain": "Hoa Neighbor",
