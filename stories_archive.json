@@ -5986,6 +5986,41 @@
       "estimated_duration": 168,
       "published": true,
       "published_at": "2026-09-07T00:39:18"
+    },
+    {
+      "id": "story_270",
+      "title": "My Nephew Tried to Steal My Life Savings!",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A cunning nephew attempts to rewrite his aunt's will to inherit everything. Little did he know, she had a hidden ace up her sleeve, ensuring justice would prevail.",
+      "hook": "My nephew, Michael, thought he was so clever, forging a new will to steal my entire $500,000 estate.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My nephew, Michael, thought he was so clever, forging a new will to steal my entire $500,000 estate. For months, he\u2019d been visiting more often, bringing me flowers, cooking dinner \u2013 a complete turnaround from his usual distant self. I knew something was up. I\u2019m 82, not senile! Then, one Tuesday, he proudly presented me with what he called 'updates to my estate plan,' a document he'd supposedly had a lawyer draft. He wanted me to sign it, right then and there. He talked about 'streamlining' and 'making things easier for me,' but I saw the greed in his eyes. The document left everything to him, cutting out my beloved animal charities and my grandniece, Lily. It even stipulated that my house, which I\u2019d lived in for 50 years, would be sold immediately. Red flags went up like fireworks. I pretended to be a bit confused, saying, 'Oh, Michael, my eyes aren't what they used to be. Could you leave this with me? I'll look it over thoroughly tonight.' He hesitated, clearly wanting me to sign on the spot, but relented. The moment he left, I called my actual estate lawyer, Mr. Henderson. I scanned the document and emailed it to him, explaining Michael's recent 'kindness.' Mr. Henderson confirmed my suspicions: the signatures were poorly forged, and the legal language was full of errors. More importantly, my real will, drafted five years prior, was ironclad, leaving specific bequests to my charities and Lily, with a clause that my house could not be sold for at least a year after my passing. Two days later, Michael called, asking if I\u2019d signed. I told him, 'Yes, dear, I signed it. But I also sent a copy to Mr. Henderson for his records.' The phone went silent for a long moment. Then, Michael stammered, 'Oh, good, Aunt Susan. Just making sure everything\u2019s in order.' I knew then he was caught. Mr. Henderson sent him a cease and desist, informing him that his actions constituted fraud. Michael quickly backed off, disgraced. Lily will get her inheritance, my charities will benefit, and I still have my peace of mind. And Michael? He won't be visiting for dinner anytime soon.",
+      "broll_keywords": [
+        "forged document",
+        "elderly hand signing",
+        "legal papers",
+        "nephew's greedy face",
+        "secure safe",
+        "lawyer's office"
+      ],
+      "hashtags": [
+        "#ElderJustice",
+        "#FamilyDrama",
+        "#InheritanceScam",
+        "#SeniorWisdom",
+        "#LegalRevenge",
+        "#DontMessWithGrandma"
+      ],
+      "description": "My nephew tried to trick me into signing away my entire inheritance! He thought an 82-year-old wouldn't notice. Boy, was he wrong.",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-09-07T10:29:21"
     }
   ]
 }
