@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_269",
-      "title": "My HOA President Tried to Evict Me Over a Bird Feeder",
-      "domain": "Hoa Neighbor",
-      "genre": "hoa_neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "The HOA president, always looking for trouble, tried to evict me over my beloved bird feeder. He didn't count on my detailed documentation and community support.",
-      "hook": "The HOA just sent me an eviction notice because my bird feeder is 'attracting pests'!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "The HOA just sent me an eviction notice because my bird feeder is 'attracting pests'! I\u2019m Carol, 76, and my bird feeder is my sanctuary. It hangs proudly from an oak tree in my backyard, a vibrant hub for cardinals, finches, and blue jays. It brings me so much joy, especially since my husband passed. Mr. Peterson, our HOA president, is a notorious busybody, constantly looking for reasons to exert his authority. He's previously complained about my 'excessive' wind chimes and my 'unruly' tomato plants.\n\nThis time, he escalated. The notice claimed my bird feeder was attracting rats and squirrels, thus violating the 'nuisance' clause of our HOA bylaws. An eviction notice! For a bird feeder! It was absurd. I've lived in this community for 20 years, and I've never had a pest problem. I keep my yard meticulously clean, and the bird feeder is always well-maintained.\n\nI knew this was another one of Mr. Peterson\u2019s power plays. But I wasn't just a bird lover; I was also a retired librarian, which meant I was meticulous about research and documentation. I immediately began my counter-offensive. First, I photographed my bird feeder from every angle, showing its cleanliness and its distance from my house. Then, I photographed my yard, demonstrating no signs of pests \u2013 no droppings, no gnawed structures, nothing. I even bought a humane squirrel baffle and installed it, just to show good faith.\n\nNext, I reviewed the HOA bylaws (again!). The 'nuisance' clause was vague, focusing on excessive noise or hazardous conditions. It said nothing specific about bird feeders. What it *did* say was that 'all residents must be treated fairly and equally.' Armed with this, I walked around the neighborhood, taking discreet photos of at least five other houses with prominent bird feeders, some even larger than mine. I also spoke to my neighbors, many of whom were equally frustrated with Mr. Peterson. I gathered signatures for a petition, stating that my bird feeder was not a nuisance and that Mr. Peterson was overstepping his bounds.\n\nAt the emergency HOA meeting Mr. Peterson called to discuss my 'violation,' I presented my evidence. I showed the photos of other bird feeders, the pest-free yard, and the signed petition. I calmly read the relevant bylaw sections, highlighting his selective enforcement. The other board members, faced with overwhelming evidence and community sentiment, were clearly on my side. Mr. Peterson, red-faced and sputtering, had no choice but to retract the eviction notice and even offered a half-hearted apology. My bird feeder stayed, the birds returned, and Mr. Peterson learned that sometimes, a little bit of nature, and a lot of documentation, can win the day.",
-      "broll_keywords": [
-        "bird feeder",
-        "HOA notice",
-        "angry letter",
-        "bird watching",
-        "community petition",
-        "bylaw book"
-      ],
-      "hashtags": [
-        "#HOALife",
-        "#NeighborDispute",
-        "#ElderRights",
-        "#CommunityRules",
-        "#BirdLover",
-        "#FightThePower"
-      ],
-      "description": "A bird feeder causing an eviction? Absurd! Learn how I stood my ground against an overzealous HOA president and protected my feathered friends. Don't let bullies win!",
-      "estimated_duration": 168
-    },
-    {
       "id": "story_270",
       "title": "My Nephew Tried to Steal My Life Savings!",
       "domain": "Inheritance",
