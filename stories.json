@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_271",
-      "title": "The Contractor Who Built Me a Nightmare",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "An elderly homeowner falls victim to a dishonest contractor who botches a roof repair and overcharges. With careful documentation, she turns the tables on the scammer.",
-      "hook": "I hired 'Honest Harry's Home Renovations' to fix my roof, and they left me with a leaky mess and a $15,000 bill.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "I hired 'Honest Harry's Home Renovations' to fix my roof, and they left me with a leaky mess and a $15,000 bill. It started innocently enough. After a big storm last October, I noticed a damp spot on my ceiling. A neighbor recommended Harry, saying he was 'good for the price.' Harry came over, gave me a quote for $12,000 to replace a section of the roof and some interior damage. He insisted on a 50% down payment, saying materials were in high demand. I paid him $6,000. For two weeks, his crew showed up sporadically, worked for a few hours, and then disappeared. They left tools and debris all over my yard. Then, Harry called, saying they'd 'discovered extensive hidden damage' and the new total was $15,000, demanding another $4,000 upfront. I felt uneasy. My son, David, a retired engineer, had always told me to document everything. So, before Harry's crew even started, I took photos of the initial damage. Every day they worked, I took more photos, noting their arrival and departure times. I even bought a cheap doorbell camera and pointed it at the work area. When Harry demanded more money, I told him I needed to consult my son. David came over and immediately spotted issues: cheap materials, shoddy workmanship, and no permits displayed. He then showed me the footage from my camera \u2013 Harry's crew spending more time on their phones than on the roof. We also had a reputable, licensed roofer come out for a second opinion. He confirmed that the 'extensive damage' was non-existent and that the work done was inadequate, potentially causing more leaks. Armed with photos, video, and the second roofer's detailed report, David contacted Harry. Harry scoffed, saying it was 'my word against his.' But when David mentioned the doorbell camera footage and the detailed expert report, Harry's tone changed. He tried to offer a partial refund. We refused. We filed a complaint with the state contractor's board and the Better Business Bureau. Within a month, 'Honest Harry' was facing investigations and had his license temporarily suspended. He ended up refunding my entire $10,000 and paying for the new, reputable contractor to fix his mess. Always document everything, folks. It's your best defense.",
-      "broll_keywords": [
-        "leaky ceiling",
-        "shoddy roof work",
-        "contractor's invoice",
-        "security camera footage",
-        "legal complaint form",
-        "new perfect roof"
-      ],
-      "hashtags": [
-        "#ContractorScam",
-        "#HomeRenovation",
-        "#ElderFraud",
-        "#ConsumerProtection",
-        "#JusticeServed",
-        "#RevengeStory"
-      ],
-      "description": "I hired a contractor to fix my roof, but he tried to scam me out of $15,000! Good thing I documented everything. Watch how I got my money back.",
-      "estimated_duration": 168
-    },
-    {
       "id": "story_272",
       "title": "My HOA President's Secret Pool Party",
       "domain": "Hoa Neighbor",
