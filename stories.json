@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_275",
-      "title": "The Neighbor Who Stole My Yard",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A new neighbor aggressively encroaches on an elderly woman's property, claiming land that isn't his. She fights back with irrefutable historical evidence.",
-      "hook": "My new neighbor, Mr. Thompson, started building a fence 10 feet into my property, claiming it was 'his land' all along.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My new neighbor, Mr. Thompson, started building a fence 10 feet into my property, claiming it was 'his land' all along. I\u2019ve lived in my home for 45 years. My property line, marked by an old oak tree and a slight dip in the terrain, has been consistent since I moved in. Last spring, Mr. Thompson moved in next door. A few weeks later, I saw him and his crew starting to put up a new fence. I watched, confused, as they began erecting posts well past my old oak tree, clearly on my side of the property. I walked over, friendly-like, and said, 'Oh, Mr. Thompson, it looks like your crew is a bit off course. The property line is actually back by the oak.' He smirked, 'Ma'am, I had a new survey done. This is my land now.' He even showed me a blurry printout of what looked like a survey map, pointing to a line that indeed showed his property extending further. I was stunned. This was 10 feet of my prize-winning rose garden! I wasn't going to let some newcomer steal my roses, or my land. I called my son, Robert, a history buff who loves digging into old records. He immediately went to the county archives. He didn\u2019t just pull recent surveys; he found the original deed from 1952 when the houses were first built, complete with detailed measurements and landmarks. He also found aerial photos from the 1970s and 80s, clearly showing the original property line exactly where I remembered it. The clincher was a survey from 1995, commissioned by the previous owner of Mr. Thompson's house, which also confirmed my boundary. It turned out Mr. Thompson\u2019s 'new survey' was a poorly doctored copy of an old, irrelevant map. Armed with decades of undeniable proof, Robert and I, along with a real, licensed surveyor, met with Mr. Thompson. The surveyor placed new, official markers. Mr. Thompson's face went from smug to pale as the surveyor pointed out the discrepancies. When Robert presented the original deeds and the aerial photos, Mr. Thompson knew he was caught. He mumbled about 'misunderstandings' and 'bad information.' We gave him two options: move the fence at his expense and apologize, or face legal action. He chose the former. Within a week, his crew was dismantling the encroaching fence. My rose garden is safe, and Mr. Thompson now understands the true meaning of property lines. Don't let anyone push you around, especially on your own land.",
-      "broll_keywords": [
-        "new fence posts",
-        "old oak tree",
-        "county archives documents",
-        "aerial property photos",
-        "official survey stakes",
-        "rose garden"
-      ],
-      "hashtags": [
-        "#PropertyDispute",
-        "#BoundaryLines",
-        "#NeighborDrama",
-        "#ElderRights",
-        "#LegalVictory",
-        "#MyLandMyRules"
-      ],
-      "description": "My new neighbor tried to steal 10 feet of my property, claiming a fake survey! I dug into the archives and pulled out decades of proof. He didn't stand a chance.",
-      "estimated_duration": 165
-    },
-    {
       "id": "story_276",
       "title": "The Cousin Who Forgot My Trust Fund",
       "domain": "Inheritance",
