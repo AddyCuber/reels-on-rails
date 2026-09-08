@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_276",
-      "title": "The Cousin Who Forgot My Trust Fund",
-      "domain": "Inheritance",
-      "genre": "inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A long-lost cousin attempts to stake a claim on an elderly relative's estate. The relative, having wisely set up a trust years prior, thwarts the greedy scheme.",
-      "hook": "My distant cousin, Derek, suddenly reappeared after decades, claiming I promised him a large share of my estate, despite my meticulous financial planning.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My distant cousin, Derek, suddenly reappeared after decades, claiming I promised him a large share of my estate, despite my meticulous financial planning. Derek, bless his heart, hadn't contacted me since Aunt Mildred's funeral in '98. So, when he called last summer, all sweetness and light, asking about my health and 'our family's legacy,' I knew exactly what he was after. He started with innocent questions about my financial well-being, then subtly steered the conversation towards my will. He even brought up a supposed 'old family understanding' that if anything happened to me, he, as the 'last remaining direct relative,' should be taken care of. He even suggested I should 'update' my will to reflect this 'understanding.' The gall of it! He was clearly trying to angle for a cut, probably after hearing I'd sold off some old investments. What Derek didn't know was that I had started planning my estate over 20 years ago. After watching friends deal with messy probate courts, I wisely established a comprehensive living trust in 2005, naming specific beneficiaries: my local animal shelter, the community library, and my dear friend, Clara, who has been like a daughter to me. My house and all my assets were already legally transferred into this trust. A trust, unlike a will, bypasses probate entirely and is much harder to contest. Derek continued his campaign, sending me letters, even showing up at my door with 'legal' documents he wanted me to sign. Each time, I politely but firmly told him, 'Derek, my affairs are in order. Everything is handled.' He became more insistent, threatening to 'challenge any unfair distribution' after my passing. That\u2019s when I decided to put an end to it. I had my trust attorney, Ms. Chen, draft a formal letter to Derek. It outlined the existence of my irrevocable living trust, confirmed that all my assets were already held within it, and stated unequivocally that he was not a beneficiary. It also warned him against any further harassment. When Derek received that letter, his calls stopped immediately. I haven\u2019t heard from him since. My peace of mind is worth more than any amount of money. Always plan ahead, especially when it comes to family and finances. A trust is truly a powerful thing.",
-      "broll_keywords": [
-        "dusty family photo",
-        "living trust document",
-        "cousin's 'legal' papers",
-        "animal shelter donation",
-        "library book stack",
-        "elderly woman smiling peacefully"
-      ],
-      "hashtags": [
-        "#LivingTrust",
-        "#InheritanceProtection",
-        "#FamilyGreed",
-        "#EstatePlanning",
-        "#SeniorWisdom",
-        "#FinancialSecurity"
-      ],
-      "description": "My long-lost cousin suddenly reappeared, demanding a share of my estate! Little did he know, I'd set up an ironclad living trust years ago. He got a rude awakening.",
-      "estimated_duration": 158
-    },
-    {
       "id": "story_277",
       "title": "The Pastor Who Robbed His Own Flock",
       "domain": "Church Fraud",
