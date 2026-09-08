@@ -6091,6 +6091,41 @@
       "estimated_duration": 172,
       "published": true,
       "published_at": "2026-09-07T21:16:00"
+    },
+    {
+      "id": "story_273",
+      "title": "My 'Caring' Caregiver's Sticky Fingers",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A seemingly kind caregiver slowly pilfers valuable items from an elderly client. The client, noticing small discrepancies, sets up a discreet trap to catch the thief.",
+      "hook": "I hired Sarah, a sweet-talking caregiver, to help me around the house, never suspecting she was systematically stealing my most precious heirlooms.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "I hired Sarah, a sweet-talking caregiver, to help me around the house, never suspecting she was systematically stealing my most precious heirlooms. Sarah seemed perfect. She was recommended by a friend, always punctual, cheerful, and incredibly attentive. She\u2019d help me with groceries, light cleaning, and even read to me from my favorite novels. I trusted her completely. That trust started to chip away when I couldn't find my mother\u2019s antique silver locket, a piece I wore almost daily. I searched everywhere, blaming my 'senior moments.' Then, a week later, my late husband\u2019s gold pocket watch, which usually sat on my bedside table, vanished. These weren't just valuable; they were priceless to me. I mentioned it to Sarah, who was full of sympathy, suggesting I might have 'misplaced' them or that 'perhaps a visitor' took them. Her reaction felt a little too rehearsed. My granddaughter, Emily, visited shortly after. I confided in her about the missing items. Emily, being tech-savvy, quietly installed a small, discreet security camera disguised as a charging block in my living room, and another in my bedroom, explaining, 'Just in case, Grandma. For peace of mind.' She showed me how to access the live feed on her tablet. A few days later, while Sarah was 'tidying up' my bedroom, I watched in real-time as she opened my jewelry box, carefully selected a pair of pearl earrings my father had given my mother, and slipped them into her pocket. My heart sank. It wasn't 'senior moments' or 'visitors'; it was Sarah. Emily immediately called the police, showing them the irrefutable video evidence. When the police arrived, they found the stolen earrings, the locket, and the pocket watch, along with several other small items belonging to me, hidden in Sarah's purse and backpack. She was arrested on the spot. It was heartbreaking to realize I had been so wrong about someone I had let into my home and life. But thanks to Emily's foresight and technology, my precious memories were returned, and Sarah faced justice. It's a harsh reminder that even the kindest smiles can hide the darkest intentions.",
+      "broll_keywords": [
+        "elderly woman smiling",
+        "missing locket",
+        "discreet security camera",
+        "caregiver stealing jewelry",
+        "police badge",
+        "returned heirlooms"
+      ],
+      "hashtags": [
+        "#CaregiverTheft",
+        "#ElderAbuse",
+        "#HiddenCamera",
+        "#JusticeForSeniors",
+        "#TrustBetrayed",
+        "#CrimeCaught"
+      ],
+      "description": "My caregiver seemed so kind, but she was systematically stealing my most precious heirlooms! My granddaughter's clever idea caught her red-handed.",
+      "estimated_duration": 160,
+      "published": true,
+      "published_at": "2026-09-08T00:24:45"
     }
   ]
 }
