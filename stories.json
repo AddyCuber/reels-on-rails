@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_274",
-      "title": "The 'Investment Guru' Who Tried to Steal My Pension",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A charismatic scammer targets an elderly woman's pension with promises of quick riches. Her cautious nature and a quick phone call expose his elaborate fraud.",
-      "hook": "Mr. Sterling, the charming 'investment guru,' promised to double my pension in six months, but he was really trying to empty my entire retirement fund.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "Mr. Sterling, the charming 'investment guru,' promised to double my pension in six months, but he was really trying to empty my entire retirement fund. He called me out of the blue one afternoon, saying he was referred by a 'mutual acquaintance' (which I later found out was a lie). He spoke with such confidence, using terms like 'aggressive growth strategies' and 'guaranteed high returns.' He sent me glossy brochures and even came to my house, dressed impeccably, with a briefcase full of impressive-looking charts. He explained how my $300,000 pension fund was 'underperforming' and that his 'exclusive offshore investments' could yield 20% returns annually. All I needed to do was transfer my entire fund to a new account he would set up. It sounded too good to be true, and my late husband, Arthur, always warned me about that. 'If it sounds too good to be true, Clara,' he'd say, 'it probably is.' I told Mr. Sterling I needed a few days to think it over and consult with my financial advisor, Mrs. Davies, who had managed my retirement for over two decades. He scoffed, saying Mrs. Davies was 'old-fashioned' and 'wouldn't understand modern finance.' That's when a little alarm bell rang. My gut told me to be cautious. The next morning, I called Mrs. Davies. I described Mr. Sterling, his firm, and his investment plan. Before I even finished, Mrs. Davies interrupted, 'Clara, that sounds exactly like a classic pension scam. We've had alerts about a 'Mr. Sterling' operating in the area.' She did a quick search while I was on the phone. It turned out 'Sterling Global Investments' was a shell company registered just weeks prior, and Mr. Sterling himself had a history of financial fraud under various aliases in other states. Mrs. Davies immediately reported him to the SEC and the state's financial regulatory body. Within 48 hours, Mr. Sterling's operation was shut down, and he was under investigation. He called me again, demanding to know why I hadn't transferred the funds. I calmly told him, 'Mr. Sterling, I\u2019ve decided to stick with my 'old-fashioned' advisor. And the authorities are now very interested in your 'modern finance' techniques.' He hung up immediately. My pension is safe, thanks to my long-standing advisor and trusting my instincts. Always verify, verify, verify.",
-      "broll_keywords": [
-        "glossy scam brochure",
-        "empty bank account",
-        "phone call to advisor",
-        "SEC investigation report",
-        "elderly woman smiling with check",
-        "financial security"
-      ],
-      "hashtags": [
-        "#PensionScam",
-        "#FinancialFraud",
-        "#ElderProtection",
-        "#InvestmentAdvice",
-        "#SeniorSafety",
-        "#ScamAlert"
-      ],
-      "description": "A charming 'investment guru' tried to convince me to empty my pension into his fake scheme. My instincts and a quick call saved my retirement! Don't fall for it.",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_275",
       "title": "The Neighbor Who Stole My Yard",
       "domain": "Property Boundary Dispute",
