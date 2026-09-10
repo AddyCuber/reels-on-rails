@@ -6301,6 +6301,41 @@
       "estimated_duration": 150,
       "published": true,
       "published_at": "2026-09-10T09:09:44"
+    },
+    {
+      "id": "story_279",
+      "title": "The HOA Board Member Who Broke His Own Rules",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "An HOA board member hypocritically enforces strict rules on neighbors while ignoring his own property's violations. A sharp-eyed resident documents his hypocrisy.",
+      "hook": "Mr. Harrison, our HOA board member, constantly enforced strict rules on us, but I noticed his own property was a complete mess, a blatant violation of his own regulations.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Mr. Harrison, our HOA board member, constantly enforced strict rules on us, but I noticed his own property was a complete mess, a blatant violation of his own regulations. For years, Mr. Harrison was the self-appointed 'rule enforcer' in our community. He'd send out stern letters for overgrown bushes, unapproved paint colors, or a trash can left out too long. He even fined Mrs. Rodriguez for having a bird bath he deemed 'unsightly.' I'm Margaret, 70, and I believe in fairness. So, it really irked me when I noticed Mr. Harrison's own yard. His lawn was patchy, his hedges were untrimmed, and he had an old, faded boat parked permanently on his driveway \u2013 a clear violation of our covenants which stated no recreational vehicles could be parked in driveways for more than 48 hours. He even had a broken fence panel that had been there for months. I started taking photos, discreetly, of course. Every time he sent out a new violation notice to a neighbor, I'd take another picture of his own messy yard or the boat. I marked dates and times. I even got a copy of the HOA covenants and highlighted every rule he was breaking. At the next HOA board meeting, Mr. Harrison, as usual, was lecturing everyone about community standards. He was particularly harsh on a new family who had painted their door a 'non-approved shade of blue.' When he finished, I raised my hand. 'Mr. Harrison,' I began, 'I agree we should all uphold community standards. But I'm curious, what about the standards for board members?' I then projected my collected photos onto the screen: his unkempt yard, the boat, the broken fence, all dated and clearly showing long-standing violations. The room buzzed. People started murmuring, pointing at the screen. Mr. Harrison's face turned purple. He tried to dismiss it as 'minor oversight' and 'personal property.' But I had the covenant details right there, quoting specific rules he had so zealously enforced on others. Another board member, a fair-minded woman named Carol, quickly moved for a review of Mr. Harrison's adherence to the covenants. The board voted, and the motion passed. Within weeks, Mr. Harrison was forced to bring his property into compliance or face fines himself. He eventually resigned from the board, citing 'personal reasons.' It just goes to show, you can't preach water and drink wine. And sometimes, it takes an old broad with a camera to call out hypocrisy.",
+      "broll_keywords": [
+        "HOA violation letter",
+        "overgrown bushes",
+        "boat on driveway",
+        "phone camera taking photo",
+        "HOA meeting presentation",
+        "clean, compliant yard"
+      ],
+      "hashtags": [
+        "#HOARules",
+        "#HypocrisyExposed",
+        "#CommunityStandards",
+        "#ElderAdvocacy",
+        "#NeighborWatch",
+        "#Fairness"
+      ],
+      "description": "Our HOA board member constantly fined us for minor violations, but his own property was a disaster! I documented his hypocrisy and exposed him at the next meeting. You won't believe what happened!",
+      "estimated_duration": 175,
+      "published": true,
+      "published_at": "2026-09-10T14:47:07"
     }
   ]
 }
