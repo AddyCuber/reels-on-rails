@@ -6266,6 +6266,41 @@
       "estimated_duration": 167,
       "published": true,
       "published_at": "2026-09-10T00:34:03"
+    },
+    {
+      "id": "story_278",
+      "title": "The Mechanic's 'Mystery' Engine Trouble",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "An elderly woman's long-time mechanic tries to con her into an unnecessary, expensive engine repair. Her meticulous record-keeping and a second opinion expose his deceit.",
+      "hook": "My trusted mechanic, 'Honest Joe,' told me my car needed a $2,000 engine repair, but I had a sneaking suspicion he was trying to rip me off.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My trusted mechanic, 'Honest Joe,' told me my car needed a $2,000 engine repair, but I had a sneaking suspicion he was trying to rip me off. I'd been taking my trusty old sedan to Joe's Garage for almost 15 years. He always seemed fair. So, when my 'check engine' light came on, I drove straight to him. Joe called me later that day, sounding grave. 'Mrs. Peterson,' he said, 'it's bad news. Your engine has a serious internal issue. It's going to be about $2,000 to fix, maybe more.' Two thousand dollars! My heart sank. I relied on that car. But something felt off. Just last month, Joe had replaced my spark plugs, and the car had been running perfectly. I remembered my late husband, George, always saying, 'Get a second opinion on big repairs, Agnes.' I told Joe I needed a day to think about it. He seemed annoyed but agreed. The moment I hung up, I called my nephew, Mark, who works as a technician at a dealership. I described the symptoms and Joe's diagnosis. Mark advised me to get the car towed to a different, reputable garage, explaining that sometimes a simple sensor issue could trigger a 'check engine' light, not necessarily a major engine overhaul. I had the car towed to 'Precision Auto,' a shop Mark recommended. The next morning, Precision Auto called. 'Mrs. Peterson,' the mechanic said, 'we ran diagnostics. Your car had a faulty oxygen sensor. It's a common issue, about $250 to replace. Your engine is perfectly fine.' I was furious, but also relieved. I had them fix the sensor. When I picked up my car, I went straight back to Joe's Garage. I walked in, holding the invoice from Precision Auto, and calmly said, 'Joe, funny thing. Precision Auto fixed my 'serious internal engine issue' for $250. Turns out, it was just an oxygen sensor.' Joe's face went from surprised to beet red. He stammered, 'Well, sometimes these things are hard to diagnose, Mrs. Peterson\u2026' I didn't let him finish. 'No, Joe. You tried to take advantage of an older woman. My business, and my referrals, are going elsewhere.' I also reported him to the local consumer protection agency. It's a sad lesson, but sometimes, even the people you trust the most can turn out to be dishonest. Always get that second opinion!",
+      "broll_keywords": [
+        "car 'check engine' light",
+        "mechanic's hefty repair estimate",
+        "tow truck",
+        "second opinion garage",
+        "small repair bill",
+        "elderly woman driving happily"
+      ],
+      "hashtags": [
+        "#CarRepairScam",
+        "#HonestMechanic",
+        "#ConsumerRights",
+        "#ElderFraud",
+        "#SecondOpinion",
+        "#AutoScams"
+      ],
+      "description": "My trusted mechanic tried to charge me $2,000 for a 'mystery' engine repair! I got a second opinion and caught him red-handed. Never trust blindly!",
+      "estimated_duration": 150,
+      "published": true,
+      "published_at": "2026-09-10T09:09:44"
     }
   ]
 }
