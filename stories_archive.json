@@ -6231,6 +6231,41 @@
       "estimated_duration": 158,
       "published": true,
       "published_at": "2026-09-08T20:07:15"
+    },
+    {
+      "id": "story_277",
+      "title": "The Pastor Who Robbed His Own Flock",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A charismatic pastor preaches generosity while secretly diverting church funds for personal luxuries. A vigilant parishioner, noticing anomalies, exposes his hypocrisy.",
+      "hook": "Our beloved Pastor Thomas, who preached about charity and giving, was secretly siphoning thousands from our church's building fund for his lavish lifestyle.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our beloved Pastor Thomas, who preached about charity and giving, was secretly siphoning thousands from our church's building fund for his lavish lifestyle. Pastor Thomas was charismatic, a true orator. He inspired us all to give generously to 'God's work,' especially to the new 'Future of Faith' building fund, which aimed to expand our community outreach center. He often spoke of sacrifice and humility. But then, I started noticing things. His old sedan was replaced by a gleaming luxury SUV. His modest parsonage underwent a suspiciously expensive renovation. His wife suddenly wore designer clothes. Meanwhile, the 'Future of Faith' fund, which was supposed to have raised over $200,000, never seemed to make much progress on the actual building. I'm Martha, 78, and I've been treasurer of various church committees for decades. I understand financial statements. When the quarterly financial reports were presented, they were always vague, with large sums simply listed as 'administrative costs' or 'miscellaneous expenses' for the building fund. When I politely asked for more detailed breakdowns at a board meeting, Pastor Thomas would get defensive, saying I was 'questioning God's will' or 'lacking faith.' This only fueled my suspicions. I started meticulously cross-referencing public records. I found that the 'contractor' for the parsonage renovation was a company registered to Pastor Thomas's brother-in-law, with vastly inflated invoices. I also discretely compared the 'Future of Faith' fund deposits with actual construction progress. There was a huge discrepancy. I gathered my evidence: bank statements, contractor invoices, property records, and even photos of his new SUV and renovated home. I presented my findings to a small, trusted group of elders and deacons. They were initially hesitant, but the evidence was undeniable. We confronted Pastor Thomas in a private meeting. He tried to deny everything, even attempting to charm us out of it. But when I laid out the detailed financial trail and the public records, his composure cracked. He confessed, admitting to using over $75,000 from the building fund to support his extravagant habits. The elders immediately suspended him and initiated an internal investigation, quickly followed by a police report. Pastor Thomas was ultimately removed from his position and faced criminal charges. The church body was heartbroken but relieved to have the truth. It was painful, but sometimes, protecting God's house means holding even those in authority accountable.",
+      "broll_keywords": [
+        "church offering plate",
+        "luxury SUV keys",
+        "financial ledger book",
+        "inflated contractor invoice",
+        "church elders meeting",
+        "empty construction site"
+      ],
+      "hashtags": [
+        "#ChurchFraud",
+        "#PastorScam",
+        "#ElderJustice",
+        "#FinancialTransparency",
+        "#FaithBetrayed",
+        "#CommunityWatch"
+      ],
+      "description": "Our beloved Pastor Thomas was siphoning thousands from our church's building fund for his lavish lifestyle! I tracked the money and exposed his hypocrisy. Watch how.",
+      "estimated_duration": 167,
+      "published": true,
+      "published_at": "2026-09-10T00:34:03"
     }
   ]
 }
