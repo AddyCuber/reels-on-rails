@@ -6336,6 +6336,41 @@
       "estimated_duration": 175,
       "published": true,
       "published_at": "2026-09-10T14:47:07"
+    },
+    {
+      "id": "story_280",
+      "title": "My Niece's Charity Scam",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A manipulative niece establishes a fake charity using her aunt's name, intending to divert inheritance funds. The vigilant aunt, a long-time animal lover, uncovers the scheme.",
+      "hook": "My niece, Brenda, started a 'charity' in my name, supposedly for 'elderly pet care,' but it was just a front to siphon money from my will.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My niece, Brenda, started a 'charity' in my name, supposedly for 'elderly pet care,' but it was just a front to siphon money from my will. Brenda was always a bit of a schemer, but this took the cake. A few months after I updated my will, specifying a substantial donation to a legitimate animal welfare organization, Brenda suddenly announced she was starting 'Aunt Carol's Compassionate Critters,' a charity dedicated to 'providing loving homes for senior pets.' She even had a fancy website and glossy brochures. She started telling me how wonderful it would be if my will directed funds to *her* charity, instead of 'some big corporation.' She pushed hard, even bringing me official-looking forms to sign. I love animals, and the idea sounded lovely, but I'm also pragmatic. I've donated to charities for decades, and I know how they operate. Brenda's 'charity' seemed to pop up overnight, with no real track record. I did a little digging. First, I called the state's charity commission. 'Aunt Carol's Compassionate Critters' was registered, but it had no operational history, no board of directors listed beyond Brenda, and its address was a P.O. box. Then, I called the local animal shelters and rescue organizations. None of them had ever heard of Brenda's charity, nor had they received any funds or assistance from it. Most damningly, I checked the public records for the website domain. It was registered to Brenda's personal email, and the 'donations' page linked directly to her personal PayPal account, not a tax-exempt organizational one. When Brenda came over, again, pushing me to sign the new will amendment, I looked her straight in the eye. 'Brenda,' I said calmly, 'I think your 'Compassionate Critters' charity is absolutely wonderful. So wonderful, in fact, that I decided to make a small, immediate donation.' I then slid a printout of her personal PayPal transaction history, showing her past purchases from a luxury boutique, across the table. 'It seems my donation for 'elderly pet care' might end up funding a new handbag instead.' Her face went white. She stammered, trying to make excuses, but I cut her off. 'My will is staying exactly as it is, Brenda. And I've already informed the authorities about your 'charitable' endeavors.' She bolted out of my house. I never heard from her again, except for a formal letter from the state attorney general's office, thanking me for exposing a fraudulent charity. My money will go to real animals, not Brenda's shopping spree. It pays to be vigilant, even with family.",
+      "broll_keywords": [
+        "glossy charity brochure",
+        "elderly woman with cat",
+        "PayPal transaction history",
+        "luxury handbag",
+        "official legal letter",
+        "legitimate animal shelter"
+      ],
+      "hashtags": [
+        "#CharityScam",
+        "#FamilyFraud",
+        "#InheritanceProtection",
+        "#ElderJustice",
+        "#PetLover",
+        "#Exposed"
+      ],
+      "description": "My niece started a 'charity' in my name to steal from my will! I'm an animal lover, but I'm no fool. Watch how I exposed her scam and protected my legacy.",
+      "estimated_duration": 162,
+      "published": true,
+      "published_at": "2026-09-10T19:43:36"
     }
   ]
 }
