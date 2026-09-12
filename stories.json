@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_286",
-      "title": "My Neighbor's New Fence Crossed the Line",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "He bought the house next door and immediately tried to steal a chunk of my property. He learned the hard way that I knew my land, and my history.",
-      "hook": "My new neighbor, Mr. Harrison, decided to build a fence 10 feet into my yard, claiming it was 'his' land, but he didn't count on my antique survey map.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My new neighbor, Mr. Harrison, decided to build a fence 10 feet into my yard, claiming it was 'his' land, but he didn't count on my antique survey map. When the 'For Sale' sign went up next door, I was excited for new neighbors. Mr. Harrison moved in a month later, and within days, construction began. I watched as his crew started erecting a privacy fence, not along our established property line, but significantly further into my garden \u2013 about ten feet, encroaching on my beloved rose bushes and a mature oak tree. When I approached him, clipboard in hand, he curtly informed me, 'My survey says this is my property, ma'am. Your bushes are in the way.' His tone was dismissive, implying I, an elderly woman, wouldn't know any better. What he didn't know was that my family had owned this property since 1952. My father, a meticulous man, had kept every single document related to the house, including the original hand-drawn survey from when the plots were first divided in 1948. It was a beautiful, detailed blueprint, complete with precise measurements and surveyor's notes, clearly marking the exact boundary between our two lots. I calmly retrieved the old map, yellowed with age but perfectly preserved, and laid it out on my kitchen table. I then invited Mr. Harrison over, along with my own hired surveyor, Mr. Davies. Mr. Davies, using advanced GPS equipment, confirmed the boundary markers according to the 1948 survey, which aligned perfectly with my father's map and contradicted Mr. Harrison's new, hastily done survey. Mr. Harrison tried to argue, but the old document, backed by modern technology, was undeniable. He was forced to halt construction, tear down the encroaching fence, and rebuild it on the correct line, all at his own expense. He even had to pay for my surveyor's fees. He barely speaks to me now, but my roses and my oak tree are safe. It just goes to show, some things are better left undisturbed, especially a well-documented property line.",
-      "broll_keywords": [
-        "new fence construction",
-        "old survey map",
-        "rose garden",
-        "surveyor's equipment",
-        "elderly woman pointing",
-        "man looking defeated"
-      ],
-      "hashtags": [
-        "boundarydispute",
-        "propertyrights",
-        "elderjustice",
-        "shorts",
-        "storytime",
-        "badneighbor"
-      ],
-      "description": "My new neighbor tried to steal 10 feet of my yard by building his fence on my property! He thought I was an easy target, but he didn't know I had a secret weapon: my father's original 1948 survey map. Watch how I put him in his place!",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_287",
       "title": "My Estranged Son's Fake Will Attempt",
       "domain": "Inheritance",
