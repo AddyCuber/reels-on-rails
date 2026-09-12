@@ -6511,6 +6511,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-09-11T19:38:17"
+    },
+    {
+      "id": "story_285",
+      "title": "The 'Retirement Gold' Scam That Almost Ruined Me",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "He claimed he could turn my pension into a fortune with 'exclusive' gold. I felt pressured, but a friend's warning saved me from losing everything.",
+      "hook": "That smooth-talking 'financial advisor' promised to double my pension with a 'gold investment,' but it was a trap, and I almost fell for it.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "That smooth-talking 'financial advisor' promised to double my pension with a 'gold investment,' but it was a trap, and I almost fell for it. His name was Mr. Sterling, and he contacted me out of the blue, claiming to represent 'Precious Metals Retirement Solutions.' He had an answer for every concern, a statistic for every doubt, and a charming way of making me feel like I was missing out on a once-in-a-lifetime opportunity. He insisted that the stock market was too volatile and that 'physical gold' was the only true safe haven for seniors like me. He proposed I transfer my entire $250,000 pension fund into his 'exclusive' gold investment package, promising guaranteed 15% annual returns. The pressure was immense; he called daily, sent glossy brochures, and even offered to send a courier to my home to pick up the signed documents and check. My gut screamed caution, but the allure of doubling my retirement savings was powerful. I mentioned it to my neighbor, Martha, a retired schoolteacher known for her sharp mind. She looked concerned. 'Gold investments can be legitimate, but 'guaranteed' returns that high are a red flag, dear,' she warned. Martha suggested I check his credentials with the Financial Industry Regulatory Authority (FINRA) and the Better Business Bureau. I did, and what I found was chilling. 'Precious Metals Retirement Solutions' was not registered with FINRA, and Mr. Sterling had a history of complaints for deceptive practices under different company names. He was a con artist, preying on seniors. I called him back, feigning interest, and asked for his FINRA registration number. He stammered, then hung up. His calls stopped immediately. I reported him to the authorities, providing all the brochures and contact information he'd given me. I consider myself incredibly lucky. Martha's simple advice saved me from losing my entire life's savings. It's a stark reminder that if something sounds too good to be true, it almost always is.",
+      "broll_keywords": [
+        "elderly woman on phone",
+        "glossy brochure",
+        "gold coins stock photo",
+        "computer screen with FINRA logo",
+        "alarmed neighbor",
+        "phone hanging up"
+      ],
+      "hashtags": [
+        "pensionscam",
+        "financialfraud",
+        "elderjustice",
+        "shorts",
+        "storytime",
+        "scamalert"
+      ],
+      "description": "A 'financial advisor' tried to convince me to invest my entire $250,000 pension in a 'guaranteed' gold scam. I almost fell for it, but a friend's sharp advice saved my life savings. Learn how to spot these dangerous scams!",
+      "estimated_duration": 172,
+      "published": true,
+      "published_at": "2026-09-12T00:12:31"
     }
   ]
 }
