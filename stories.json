@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_289",
-      "title": "The Shady Dealership's 'Lemon' Trap",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "They sold me a lemon, thinking I'd be too old to fight back. But I had recorded their false promises and found the perfect way to get my money back.",
-      "hook": "That car salesman thought I wouldn't notice the 'minor' issues on the used car I bought, but I had a plan to expose his entire dealership.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "That car salesman thought I wouldn't notice the 'minor' issues on the used car I bought, but I had a plan to expose his entire dealership. I needed a reliable car, something simple for my errands. 'Smooth Talk Auto Sales' seemed friendly enough. The salesman, a young man named Gary, assured me the 2018 Honda Civic was 'in pristine condition,' a 'one-owner gem' with 'no mechanical issues whatsoever.' He even scoffed when I asked for a pre-purchase inspection. Being a bit hard of hearing, I always carry a small voice recorder for important conversations. I discreetly turned it on during our discussion. I ended up buying the car for $15,000. The very next day, the 'check engine' light came on. I took it to my trusted mechanic, Gus, who gave me a grim diagnosis: a failing transmission, a rusted exhaust, and worn-out brakes. The repairs would cost $7,000, far more than the car was worth. I was furious. I called Gary, who suddenly became evasive, claiming 'used cars are sold as-is' and that I must have 'damaged it myself.' He refused a refund or repairs. That's when I remembered my recording. I went back to the dealership, not alone this time. I brought Gus, a local consumer advocate, and my portable speaker. I confronted Gary and his manager, Mr. Thorne. They were dismissive, until I played the recording of Gary's explicit promises: 'pristine condition,' 'no mechanical issues,' 'a one-owner gem.' The manager's face went from smug to pale. When the consumer advocate mentioned 'lemon laws' and the potential for a class-action lawsuit with my clear evidence, the tone shifted dramatically. They offered a full refund, plus reimbursement for Gus's diagnostic fees, and even a small compensation for my time and trouble. I walked out with my $15,000 back and a check for $200. The best part? The consumer advocate used my recording as key evidence to launch an investigation into 'Smooth Talk Auto Sales,' which eventually led to several other victims coming forward. Never underestimate an old woman with a recording device and a good mechanic.",
-      "broll_keywords": [
-        "used car lot",
-        "car salesman talking",
-        "check engine light",
-        "mechanic working",
-        "voice recorder",
-        "elderly woman smiling"
-      ],
-      "hashtags": [
-        "cardealershipscam",
-        "lemonlaw",
-        "elderjustice",
-        "shorts",
-        "storytime",
-        "consumerrights"
-      ],
-      "description": "A used car dealership sold me a total lemon, thinking I'd be too old to fight back. But I had recorded their false promises and, with the help of my mechanic, exposed their deceit. Watch how I got my full refund and helped others get justice!",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_290",
       "title": "The HOA's 'Dangerous' Dog Policy That Backfired",
       "domain": "Hoa Neighbor",
