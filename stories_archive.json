@@ -6861,6 +6861,41 @@
       "estimated_duration": 155,
       "published": true,
       "published_at": "2026-09-14T16:57:57"
+    },
+    {
+      "id": "story_295",
+      "title": "My Caregiver Stole My Jewelry, But I Was Watching",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "Uncover how I caught my trusted caregiver stealing family heirlooms, thanks to a carefully placed decoy and hidden cameras.",
+      "hook": "My live-in caregiver, Brenda, was secretly pawning my mother's antique jewelry, piece by piece.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My live-in caregiver, Brenda, was secretly pawning my mother's antique jewelry, piece by piece. I hired Brenda in January 2024 to help care for my Mom, who has early-stage dementia. Brenda seemed kind, efficient, and trustworthy at first. But after a few weeks, I started noticing small things: a missing antique brooch, then my Mom's favorite pearl necklace was gone. Mom was confused and couldn't remember. My gut told me something was wrong. Knowing how difficult it can be to prove caregiver theft, I decided to set a trap. I purchased a distinctive, but inexpensive, piece of costume jewelry \u2013 a large, fake emerald ring \u2013 and placed it prominently in my Mom\u2019s open jewelry box, right next to where her antique locket used to be. Then, I installed two discreet, high-definition hidden cameras in the room, pointed directly at the jewelry box and the entrance. Sure enough, just two days later, the camera caught Brenda casually taking the fake emerald ring and slipping it into her pocket. The footage was clear as day. I immediately called the police. When they arrived, they questioned Brenda, and she denied everything. But when they searched her car, they found not only the fake ring but also a stack of pawn shop receipts, including ones for my Mom\u2019s missing locket and pearl necklace. Brenda was arrested on the spot. It was a heartbreaking betrayal, but I'm glad I had the foresight to protect my family's legacy.",
+      "broll_keywords": [
+        "elderly woman",
+        "jewelry box",
+        "hidden camera",
+        "pawn shop receipt",
+        "police handcuffs",
+        "antique locket"
+      ],
+      "hashtags": [
+        "#caregiverscam",
+        "#elderabuse",
+        "#theft",
+        "#familyheirlooms",
+        "#shorts",
+        "#betrayal"
+      ],
+      "description": "Trust is a precious thing, especially with caregivers. Always be vigilant, even when it hurts to suspect.",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-09-14T20:19:06"
     }
   ]
 }
