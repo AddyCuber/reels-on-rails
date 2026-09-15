@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_297",
-      "title": "My Neighbor Tried To Steal My Backyard by Moving a Fence",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Learn how I reclaimed my property from an encroaching neighbor, using old surveys and a drone to prove my case.",
-      "hook": "My neighbor, Stan, secretly moved his fence five feet onto my property, claiming it was always his.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My neighbor, Stan, secretly moved his fence five feet onto my property, claiming it was always his. In August 2023, I came back from visiting my sister to find a brand-new, shiny fence erected between my yard and Stan's. Except it wasn't on the old line. It was clearly, unmistakably, five feet closer to my house, cutting off a significant portion of my beloved rose garden. When I confronted Stan, he just shrugged, saying, \"Oh, that old fence was wrong. This is where the line always should have been.\" He even had a hastily drawn sketch he claimed was from the county. I wasn't born yesterday. My husband and I had lived in this house since 1980, and we had a meticulous property survey from 1985, complete with clear boundary markers. I calmly told Stan that I knew he was mistaken. He became belligerent, insisting it was his land. So, I took action. I hired a new, independent surveyor who used modern GPS technology and even drone footage to precisely map out the original property line, which perfectly matched my 1985 document. The evidence was irrefutable. I presented both surveys and the drone footage to the city planning department and filed a complaint in small claims court. Stan tried to argue, but with clear, dated evidence, the judge ruled in my favor. Not only did Stan have to pay to move his fence back to the correct boundary line, but he was also ordered to reimburse me for the surveyor fees and the damage to my rose bushes. A little foresight and proper documentation saved my property.",
-      "broll_keywords": [
-        "property line",
-        "old fence",
-        "new fence",
-        "survey map",
-        "drone footage",
-        "court summons"
-      ],
-      "hashtags": [
-        "#boundarydispute",
-        "#neighborproblems",
-        "#propertymatters",
-        "#legalvictory",
-        "#shorts",
-        "#landrights"
-      ],
-      "description": "Property lines are sacred! Don't let a pushy neighbor steal your land. Always keep your survey documents safe.",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_298",
       "title": "The \"Pastor\" Who Stole Donations For His Private Jet",
       "domain": "Church Fraud",
