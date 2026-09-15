@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_296",
-      "title": "The Investment Guru Who Tried To Steal My Pension",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "See how I exposed a sophisticated pension scammer who nearly wiped out my retirement savings with fake promises of high returns.",
-      "hook": "A smooth-talking \"financial advisor\" tried to convince me to invest my entire pension into a non-existent offshore fund.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "A smooth-talking \"financial advisor\" tried to convince me to invest my entire pension into a non-existent offshore fund. It was March 2023 when I received a cold call from a \"Mr. Sterling,\" claiming to be with \"Global Horizon Investments.\" He promised incredible, guaranteed 20% returns on my retirement savings, far higher than anything I\u2019d ever seen. He was charming, articulate, and seemed to have all the answers. We met twice; he showed me glossy brochures, impressive-looking charts, and even a fake website for his firm. He pushed hard for me to transfer my entire pension, nearly $800,000, into his \"exclusive\" fund. Something in my gut felt off. My late husband had always taught me to be cautious with money, especially if it sounded too good to be true. Instead of signing, I told Mr. Sterling I needed a few days to think. Then, I got to work. I did independent research: I checked with the SEC, FINRA, and my state's financial regulatory body. \"Global Horizon Investments\" didn't exist. The address on his brochure was a P.O. box. A quick reverse image search showed his impressive office photos were stock images. I immediately contacted the SEC and local authorities, sharing all the information I had. They set up a sting operation. I agreed to meet Mr. Sterling one last time, ostensibly to sign the papers. He walked into that caf\u00e9 beaming, thinking he had me hooked. Instead, he was met by plainclothes officers who arrested him on multiple counts of fraud. My pension was safe, thanks to a little skepticism and a lot of homework.",
-      "broll_keywords": [
-        "phone call",
-        "glossy brochure",
-        "fake website",
-        "computer search",
-        "SEC badge",
-        "arrest warrant"
-      ],
-      "hashtags": [
-        "#pensionscam",
-        "#elderfraud",
-        "#investmentscam",
-        "#financialliteracy",
-        "#shorts",
-        "#stingoperation"
-      ],
-      "description": "Don't fall for \"too good to be true\" investment offers. Always verify credentials and do your own research.",
-      "estimated_duration": 170
-    },
-    {
       "id": "story_297",
       "title": "My Neighbor Tried To Steal My Backyard by Moving a Fence",
       "domain": "Property Boundary Dispute",
