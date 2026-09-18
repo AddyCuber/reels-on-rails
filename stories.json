@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_300",
-      "title": "The Mechanic Who Charged Me $3,000 For An Unfixed Car",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "Discover how I exposed a fraudulent auto repair shop that charged me for repairs they never performed, with a dash cam.",
-      "hook": "My mechanic, 'Honest Auto Repair,' charged me $3,000 for fixing my transmission, but the car broke down two blocks later.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My mechanic, 'Honest Auto Repair,' charged me $3,000 for fixing my transmission, but the car broke down two blocks later. In April 2024, my trusty 2015 Honda Civic started acting up, so I took it to \"Honest Auto Repair,\" a place a neighbor had vaguely recommended. They quoted me $3,000 to replace the transmission. It was a lot, but I needed my car. I paid cash, picked it up, and felt relieved. But two blocks from the shop, the car sputtered, jerked, and died. It was the exact same problem! When I called, the owner, Dave, claimed it was a \"new, unrelated issue\" and tried to charge me another $1,500. What Dave didn't know was that I'd recently installed a small, discreet dash cam in my car, primarily for insurance purposes. I'd left it recording when I dropped off the car and when I picked it up. Reviewing the footage, I saw that the mechanics had barely touched the transmission. They'd spent most of their time chatting, making a lot of noise with tools, but clearly not performing the intensive work required for a transmission replacement. I took the car to another, reputable mechanic, who confirmed what I suspected: no new transmission had been installed, and barely any work had been done. Armed with the dash cam footage, the original receipt, and the second mechanic's statement, I went straight to the police and the consumer protection agency. Dave and \"Honest Auto Repair\" were quickly shut down, and I got my money back. It just goes to show, always have proof!",
-      "broll_keywords": [
-        "car hood open",
-        "auto repair bill",
-        "dash cam",
-        "broken down car",
-        "police report",
-        "mechanic tools"
-      ],
-      "hashtags": [
-        "#autorepairscam",
-        "#elderfraud",
-        "#consumeralert",
-        "#justice",
-        "#shorts",
-        "#mechanicbeware"
-      ],
-      "description": "Don't let dishonest mechanics take advantage. Always get a second opinion and consider documenting your service.",
-      "estimated_duration": 155
-    },
-    {
       "id": "story_301",
       "title": "My Neighbor Filed 15 False Complaints Against Me",
       "domain": "Hoa Neighbor",
