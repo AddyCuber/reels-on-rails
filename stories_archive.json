@@ -7281,6 +7281,41 @@
       "estimated_duration": 168,
       "published": true,
       "published_at": "2026-09-19T14:24:38"
+    },
+    {
+      "id": "story_307",
+      "title": "The Neighbor's Fence: My Drone Proof",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "My neighbor tried to steal part of my yard with a new fence, but I had the receipts. My high-tech and old-school evidence proved him wrong.",
+      "hook": "My aggressive neighbor, Chad, built his new fence 10 feet into my property, but he didn't count on my drone and vintage surveys.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My aggressive neighbor, Chad, built his new fence 10 feet into my property, but he didn't count on my drone and vintage surveys. I'm George Peterson, a retired land surveyor, and I've seen countless boundary disputes in my 40-year career. Chad, a newcomer, decided he needed a 'bigger yard' and unilaterally started constructing a brand-new, expensive cedar fence. I watched him from my porch, shaking my head as his workers drove stakes deep into what was undeniably my land.\n\nI tried to be neighborly, approaching him with my original 1968 survey plat, clearly showing the property line. Chad scoffed, saying, 'Those old maps are worthless. I had my own guy out here, and this is where it goes.' He even threatened to call the police if I interfered. That was his first mistake. My second was underestimating a retired surveyor. I wasn't just relying on old maps. I pulled out my high-precision GPS unit, mapped the existing boundary markers, and then, for good measure, flew my drone over both properties, capturing high-resolution aerial footage. This footage, overlayed with the GPS data and my original survey, showed an undeniable encroachment of exactly 10 feet, running the entire 150-foot length of our shared boundary. I presented this evidence to the county property office and filed a formal complaint. Chad's 'guy' was a fly-by-night operation without proper licenses. The county surveyor confirmed my findings, issued a stop-work order, and ordered Chad to remove the fence and pay for all damages and legal fees. Chad was furious, but legally, he had no leg to stand on. My property is now clearly marked, and my drone is ready for its next mission. Sometimes, the best defense is a good offense, backed by irrefutable data.",
+      "broll_keywords": [
+        "drone flying overhead",
+        "old survey map",
+        "new cedar fence",
+        "GPS device",
+        "property line marker",
+        "elderly man with tablet"
+      ],
+      "hashtags": [
+        "#PropertyDispute",
+        "#NeighborWars",
+        "#LandSurveyor",
+        "#DroneFootage",
+        "#BoundaryLines",
+        "#Justice"
+      ],
+      "description": "My neighbor tried to steal my land with a new fence, but I'm a retired surveyor with a drone. See how my high-tech and old-school evidence shut him down! Don't mess with my property line.",
+      "estimated_duration": 172,
+      "published": true,
+      "published_at": "2026-09-19T19:32:17"
     }
   ]
 }
