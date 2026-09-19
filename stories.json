@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_305",
-      "title": "The Caregiver's Sticky Fingers: My Jewelry Sting",
-      "domain": "Caregiver Theft",
-      "genre": "caregiver_theft",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "My caregiver seemed sweet, but I noticed my valuables disappearing. I pretended to be frail, setting up a sting operation to catch her in the act.",
-      "hook": "My 'caring' caregiver, Brenda, was slowly stealing my jewelry, but I had a plan to catch her red-handed.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My 'caring' caregiver, Brenda, was slowly stealing my jewelry, but I had a plan to catch her red-handed. After my hip surgery last year, my family insisted I get some help around the house. Brenda seemed perfect: sweet, attentive, always complimenting my 'lovely things.' But then, my grandmother's pearl necklace vanished. Then a sapphire brooch. Small items, easy to miss, especially for an 'ailing' old woman like me, Doris Peterson. Brenda thought I was too frail to notice, too forgetful to care. She was wrong. Very wrong.\n\nI might be 78, but my mind is as sharp as ever. I started by feigning more confusion, asking Brenda to 'help me find' things I knew weren't missing, observing her reactions. Then, I bought a tiny, high-definition camera disguised as a charging block and placed it discreetly in my bedroom. I also marked a specific gold locket, a family heirloom, with invisible UV ink, noting its exact weight. The next time Brenda was scheduled, I 'accidentally' left my jewelry box open, with the marked locket prominently displayed. I pretended to doze off on the sofa, listening. I heard the tell-tale creak of my bedroom floor, then a soft click. When she left, the locket was gone. I checked the camera footage: there she was, casually slipping it into her pocket. The police were called immediately. When they searched her bag, they found my locket. The UV ink confirmed it was mine, and the camera footage sealed her fate. Brenda confessed, admitting to pawning other pieces for quick cash. She's now facing charges, and I have a new, trustworthy caregiver. It just goes to show, some 'frail' old women have more tricks up their sleeves than you'd ever expect.",
-      "broll_keywords": [
-        "empty jewelry box",
-        "hidden camera charging block",
-        "police badge",
-        "UV light revealing mark",
-        "elderly woman watching",
-        "pearl necklace"
-      ],
-      "hashtags": [
-        "#CaregiverTheft",
-        "#ElderAbuse",
-        "#JusticeServed",
-        "#CaughtRedHanded",
-        "#SeniorSafety",
-        "#Revenge"
-      ],
-      "description": "My caregiver was stealing my precious jewelry, thinking I wouldn't notice. I might be 78, but I'm no fool! See how I used a hidden camera and clever planning to catch her.",
-      "estimated_duration": 165
-    },
-    {
       "id": "story_306",
       "title": "The Pension Predator: My Recorded Betrayal",
       "domain": "Pension Scams",
