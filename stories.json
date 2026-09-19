@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_306",
-      "title": "The Pension Predator: My Recorded Betrayal",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A slick financial advisor tried to trick me into risky investments to steal my pension. He thought I was an easy target, but I had an ace up my sleeve.",
-      "hook": "My 'trusted' financial advisor, Mr. Sterling, tried to drain my $500,000 pension with high-risk investments.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My 'trusted' financial advisor, Mr. Sterling, tried to drain my $500,000 pension with high-risk investments. For years, I, Robert Jenkins, a retired postal worker, had diligently saved every penny, looking forward to a secure retirement. Mr. Sterling, with his fancy suits and smooth talk, seemed like the answer. He promised 'unprecedented returns' and 'exclusive opportunities' for seniors. But his proposals felt\u2026off. He kept pushing me towards volatile cryptocurrency funds and obscure offshore ventures, far riskier than anything I'd ever considered.\n\nMy gut feeling, honed by decades of dealing with the public, told me something was wrong. So, before my next meeting with Mr. Sterling, I consulted an independent, reputable financial planner, a no-nonsense woman named Ms. Chen, who confirmed my suspicions: these 'investments' were highly speculative, illiquid, and completely unsuitable for a retiree's pension. They reeked of a pump-and-dump scheme. More importantly, I had a small, voice-activated recorder in my briefcase during every meeting with Mr. Sterling. The recordings captured him downplaying risks, making false promises, and even subtly pressuring me, saying things like, 'You don't want to miss out on this, Robert; it's a once-in-a-lifetime chance for people your age.' When I confronted him, he became agitated, trying to dismiss my concerns. But I just handed him a letter from Ms. Chen, outlining his fiduciary breaches, and informed him that all our conversations were recorded. His face fell. The recordings, combined with Ms. Chen\u2019s expert analysis, were damning. I reported him to the SEC and state regulators. Mr. Sterling's license was revoked, his firm investigated, and I saved my pension, intact. Sometimes, the best investment is simply listening to your instincts and having proof.",
-      "broll_keywords": [
-        "financial advisor's office",
-        "voice recorder",
-        "pension statement",
-        "stock market charts",
-        "elderly man looking stern",
-        "legal complaint form"
-      ],
-      "hashtags": [
-        "#PensionScam",
-        "#FinancialFraud",
-        "#ElderProtection",
-        "#InvestmentAdvice",
-        "#SmartSeniors",
-        "#Justice"
-      ],
-      "description": "My financial advisor tried to trick me into losing my $500,000 pension. I recorded every conversation and exposed his scheme! Learn how I protected my retirement savings.",
-      "estimated_duration": 168
-    },
-    {
       "id": "story_307",
       "title": "The Neighbor's Fence: My Drone Proof",
       "domain": "Property Boundary Dispute",
