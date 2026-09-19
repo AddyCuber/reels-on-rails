@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_304",
-      "title": "HOA President's Greed: My Bylaw Backlash",
-      "domain": "Hoa Neighbor",
-      "genre": "hoa_neighbor",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "The HOA president tried to hit me with ridiculous fines, but I'd been quietly investigating. My research exposed her fraudulent activities, turning the tables completely.",
-      "hook": "Our HOA president, Karen, tried to fine me $500 for 'unapproved garden gnomes,' but I exposed her secret embezzlement.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "Our HOA president, Karen, tried to fine me $500 for 'unapproved garden gnomes,' but I exposed her secret embezzlement. I'm Eleanor Vance, a retired civil servant, and I've seen my share of petty bureaucrats. But Karen was a different breed. For years, she ruled our Lakeside Estates HOA with an iron fist, imposing arbitrary rules and exorbitant fines. The gnomes were just the last straw. I had two small, tasteful gnomes tucked away in my flowerbed, nowhere near a 'common area.'\n\nI decided enough was enough. I started by requesting all HOA financial records, meeting minutes, and bylaws \u2013 a right guaranteed to every homeowner. Karen stonewalled me, claiming they were 'unavailable' or 'too complex.' That just fueled my fire. I spent weeks poring over public records at the county clerk's office, cross-referencing HOA expenditures with local business registrations. What I found was shocking. Karen had been funneling HOA funds, nearly $75,000 over three years, into a shell company registered under her sister's name for 'landscaping services' that were never performed or grossly overcharged. The 'gator removal' service for $5,000? We don't even have alligators in our lake! She\u2019d even tried to push through a massive 'community center renovation' project with a bid from a company owned by her nephew. At the next HOA meeting, when she tried to push through my gnome fine, I stood up, calmly presented my meticulously organized binder of evidence, and projected the public records onto the screen. The room erupted. Karen\u2019s face went from indignant to utterly terrified. Within days, she was removed from her position, facing multiple felony charges, and the community voted to reform the entire board. My gnomes, by the way, are still happily residing in my flowerbed. And now, I have a few more friends in the neighborhood.",
-      "broll_keywords": [
-        "garden gnomes",
-        "legal documents binder",
-        "HOA meeting room",
-        "financial ledger",
-        "gavel striking block",
-        "elderly woman pointing"
-      ],
-      "hashtags": [
-        "#HOAcorruption",
-        "#CommunityJustice",
-        "#SeniorRevolt",
-        "#BylawPower",
-        "#FraudExposed",
-        "#NeighborDrama"
-      ],
-      "description": "Our HOA president tried to fine me for garden gnomes, but I uncovered her massive embezzlement scheme. Watch how a retired civil servant took down a corrupt leader! My gnomes are safe.",
-      "estimated_duration": 175
-    },
-    {
       "id": "story_305",
       "title": "The Caregiver's Sticky Fingers: My Jewelry Sting",
       "domain": "Caregiver Theft",
