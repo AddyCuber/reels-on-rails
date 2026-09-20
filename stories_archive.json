@@ -7316,6 +7316,41 @@
       "estimated_duration": 172,
       "published": true,
       "published_at": "2026-09-19T19:32:17"
+    },
+    {
+      "id": "story_308",
+      "title": "The Pastor's Ponzi: My Church's Reckoning",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "The pastor of our church was secretly stealing from the congregation. I noticed discrepancies and worked with others to expose his fraudulent scheme.",
+      "hook": "Our beloved Pastor David was secretly siphoning thousands from our church, but I saw the red flags in the offering plate.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our beloved Pastor David was secretly siphoning thousands from our church, but I saw the red flags in the offering plate. For years, I, Martha Higgins, had been a devoted member of Grace Chapel, volunteering for everything from bake sales to financial counting. Pastor David was charismatic, inspiring, and seemingly devout. But over the past few months, I noticed subtle changes: fewer community programs, delays in church repairs, and a general air of financial strain, despite consistently good attendance and generous offerings.\n\nMy role in counting offerings gave me unique insight. The weekly totals seemed to be decreasing on paper, even when the baskets looked full. I started quietly keeping my own records, comparing them to the official reports. The discrepancies were alarming. Over an 18-month period, nearly $150,000 was unaccounted for. I confided in a few other long-time members, including Sarah, who managed the church's online donations, and Mark, who oversaw the building fund. We discovered that large sums were being transferred to 'vendor accounts' for services that didn't exist or were grossly inflated. One 'missionary trip' to Aruba cost $20,000, but no one from the church knew about it. We meticulously compiled our evidence, cross-referencing bank statements, vendor invoices, and travel records. At a special congregational meeting, after Pastor David gave a sermon on 'tithing and trust,' I stood up and, with Sarah and Mark by my side, presented our findings. The silence in the room was deafening, followed by gasps. Pastor David stammered, his face ashen, trying to deny everything. But the evidence was overwhelming. He had been using church funds to pay for luxury vacations, a new car, and even gambling debts. The police were called, and he was arrested that very day. It broke my heart, but justice had to be served. Our faith was shaken, but our community, united by truth, is now stronger than ever. The church belongs to its members, not to a dishonest leader.",
+      "broll_keywords": [
+        "offering plate",
+        "church financial ledger",
+        "bank statements",
+        "elderly woman looking concerned",
+        "gavel",
+        "pastor's robes"
+      ],
+      "hashtags": [
+        "#ChurchFraud",
+        "#ElderJustice",
+        "#FaithBetrayed",
+        "#CommunityPower",
+        "#Exposed",
+        "#NoMoreScams"
+      ],
+      "description": "Our beloved pastor was secretly stealing from our church. I noticed the red flags and, with help, exposed his massive fraud. Watch how we brought justice to our congregation!",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-09-20T00:22:55"
     }
   ]
 }
