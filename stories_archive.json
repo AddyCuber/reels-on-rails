@@ -7386,6 +7386,41 @@
       "estimated_duration": 170,
       "published": true,
       "published_at": "2026-09-21T11:25:34"
+    },
+    {
+      "id": "story_310",
+      "title": "The Mechanic's Scam: My Hidden Diagnostic Tool",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A mechanic tried to scam me into expensive, unnecessary repairs. I used my engineering background and a hidden tool to expose his dishonesty.",
+      "hook": "My 'Honest Auto Repair' mechanic tried to charge me $2,000 for unnecessary repairs, but I had already diagnosed the real problem.",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My 'Honest Auto Repair' mechanic tried to charge me $2,000 for unnecessary repairs, but I had already diagnosed the real problem. I'm Michael Chen, a retired automotive engineer. My trusty 2008 sedan started making a strange knocking sound. I took it to 'Honest Auto Repair,' a local shop that seemed reputable enough. The mechanic, a young man named 'Gary,' called me the next day with a grim report: 'Mr. Chen, your transmission is shot. It'll be $2,000 to replace, maybe more if we find other issues.' He even showed me a murky fluid sample, claiming it was transmission fluid.\n\nNow, Gary didn't know he was talking to someone who designed transmissions for three decades. Before taking my car in, I had used my own OBD-II scanner to check for diagnostic codes, and there were none related to the transmission. I also took a sample of my transmission fluid myself; it was clean. The knocking sound, I suspected, was a loose exhaust hanger. So, when Gary gave me his spiel, I calmly said, 'Gary, I appreciate your thoroughness, but I think you'll find the transmission is fine. The code I pulled yesterday, P0420, points to a catalytic converter efficiency issue, which could be related to a loose exhaust, not a failing transmission. And that fluid sample? That's engine oil, not transmission fluid, and it's not even from my car.' Gary's jaw dropped. He stammered, trying to backtrack, but I had also discreetly recorded our conversation with a small voice recorder in my pocket. I then called a genuinely honest mechanic I knew, who confirmed my diagnosis over the phone. I retrieved my car, reported 'Honest Auto Repair' to the state's consumer protection agency, and had my exhaust fixed for a mere $75. Gary and his boss are now facing an investigation. Sometimes, an old dog has more tricks than a new pup, especially when it comes to cars. Always get a second opinion, and always come prepared.",
+      "broll_keywords": [
+        "mechanic's wrench",
+        "OBD-II scanner",
+        "dirty fluid sample",
+        "car on lift",
+        "elderly man looking informed",
+        "voice recorder"
+      ],
+      "hashtags": [
+        "#MechanicScam",
+        "#AutoRepair",
+        "#ConsumerAlert",
+        "#EngineerLife",
+        "#SmartSeniors",
+        "#Justice"
+      ],
+      "description": "My mechanic tried to charge me $2,000 for a fake transmission issue! As a retired automotive engineer, I had already diagnosed the real problem. Watch how I exposed his scam!",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-09-21T17:02:52"
     }
   ]
 }
