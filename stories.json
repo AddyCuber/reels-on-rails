@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_317",
-      "title": "'Grandma, I'm in Jail!' - The Call That Almost Cost Me $10,000",
-      "domain": "Pension Scams",
-      "genre": "pension_scams",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A frantic call claiming to be my grandson needing bail money almost fooled me. But a small detail, and a quick cross-check, saved my life savings from a cruel scam.",
-      "hook": "My 'grandson' just called, saying he was arrested and needed $10,000 wired immediately.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My 'grandson' just called, saying he was arrested and needed $10,000 wired immediately. My heart nearly stopped. The voice on the other end was frantic, muffled, claiming to be my beloved grandson, Michael. He said he\u2019d been in a car accident, hit a pedestrian, and was now in jail, needing bail money fast. He begged me not to tell his parents, saying he was too embarrassed.\n\nThe caller, who sounded a bit off but insisted it was him, quickly handed the phone to someone claiming to be his 'public defender,' a Mr. Thompson. This 'lawyer' explained the situation in legal jargon and pressed me to wire $10,000 to a specific account immediately, emphasizing the urgency to get 'Michael' released. My mind was racing, picturing Michael scared and alone.\n\nI was about to head to the bank, my hands shaking, when a tiny detail nagged at me. 'Michael' had called me 'Grandma,' but my real grandson always called me 'Nana.' It was a small, almost insignificant thing, but it triggered a flicker of doubt. I remembered a news report about grandparent scams targeting seniors.\n\nI paused, took a deep breath, and decided to do something the 'lawyer' explicitly told me not to do: call Michael's mother, my daughter Sarah. I dialed her number, my heart pounding. 'Sarah,' I began, 'is Michael with you? He just called, saying he's in jail\u2026' Sarah sounded confused. 'Nana? Michael's right here, playing video games. He's fine!'\n\nThe relief that washed over me was immense, followed by a surge of anger. I quickly hung up with Sarah and called the number the 'scammer Michael' had called from. It went straight to voicemail, a generic message. I then called the police department and reported the incident, providing the phone numbers and account details. The officer confirmed it was a well-known grandparent scam, preying on our love and concern for our families. They thanked me for being vigilant. That small detail, 'Nana' instead of 'Grandma,' saved me from losing $10,000. It's a reminder to always double-check, no matter how urgent or convincing the story sounds.",
-      "broll_keywords": [
-        "burner phone",
-        "computer screen",
-        "bank transfer form",
-        "police station exterior",
-        "family photo",
-        "scam warning"
-      ],
-      "hashtags": [
-        "#grandparentscam",
-        "#scamalert",
-        "#elderfraud",
-        "#identitytheft",
-        "#staysafe",
-        "#shorts"
-      ],
-      "description": "Don't fall for the grandparent scam! Learn how I recognized the red flags and protected my money. Your vigilance is your best defense.",
-      "estimated_duration": 175
-    },
-    {
       "id": "story_318",
       "title": "My Neighbor Built His Fence on My Land, So I Built My Own",
       "domain": "Property Boundary Dispute",
