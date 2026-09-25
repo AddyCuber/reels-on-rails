@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_319",
-      "title": "The 'Charity' Pastor Was Driving a New Ferrari",
-      "domain": "Church Fraud",
-      "genre": "church_fraud",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "I'd been a loyal donor to a local charity, believing I was helping needy children. But a growing suspicion, and some careful investigation, revealed the pastor's lavish lifestyle funded by our generosity.",
-      "hook": "The charismatic pastor of the 'Children's Hope Foundation' just bought a Ferrari, paid for with our donations.",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "The charismatic pastor of the 'Children's Hope Foundation' just bought a Ferrari, paid for with our donations. For five years, I had been a faithful supporter of Pastor Jeremiah Brooks' 'Children's Hope Foundation.' His sermons were inspiring, his pleas for impoverished children were moving, and his promise to build an orphanage overseas seemed noble. I, along with many other seniors in our community, regularly donated a significant portion of our pension checks, often $200-$300 a month, believing we were making a real difference.\n\nBut then, Pastor Brooks started arriving at services in increasingly expensive cars. First, a luxury SUV, then a high-end sports car, and finally, last month, a gleaming red Ferrari. He claimed they were 'gifts from grateful benefactors,' but it struck a sour note with many of us who were sacrificing to give. Where were the updates on the orphanage? Why did the 'charity' events always seem to be at expensive resorts with high ticket prices?\n\nMy suspicions grew. I remembered a line from a true-crime show: 'Follow the money.' So I started doing my own research. I looked up the 'Children's Hope Foundation' on various charity watchdog websites. To my dismay, it had a 'D' rating and multiple red flags for opaque financial reporting. The orphanage Pastor Brooks spoke of didn't seem to exist, at least not under that name, in the country he claimed.\n\nI then contacted a local investigative journalist, a young woman named Sarah Chen, who had a reputation for digging deep. I shared my concerns, the charity's financial reports, and photos of Pastor Brooks' increasingly lavish lifestyle. She was intrigued. Sarah's investigation revealed that only about 10% of donations actually went to charitable causes. The rest was funneled into 'administrative costs' and 'personal stipends,' directly funding Pastor Brooks' extravagant life and his collection of luxury vehicles. He owned multiple properties, all under different shell corporations.\n\nSarah's expos\u00e9 hit the local news like a bombshell. The community was furious. The state attorney general's office launched an investigation, and within weeks, Pastor Brooks was arrested for grand larceny and fraud, facing multiple charges. Our donations were gone, but at least he wouldn't be preying on others. It was a painful lesson, but I'm proud I helped bring a charlatan to justice. Always question where your money goes.",
-      "broll_keywords": [
-        "donation envelope",
-        "luxury car",
-        "news headline",
-        "charity event",
-        "police lights",
-        "financial records"
-      ],
-      "hashtags": [
-        "#churchscam",
-        "#charityfraud",
-        "#elderlyabuse",
-        "#investigation",
-        "#justice",
-        "#shorts"
-      ],
-      "description": "I thought I was donating to a good cause, but it turned out to be a massive fraud. Here's how I helped expose the truth and bring a 'pastor' to justice.",
-      "estimated_duration": 173
-    },
-    {
       "id": "story_320",
       "title": "My Cousin Tried to Steal My Mother's Legacy",
       "domain": "Inheritance",
@@ -131,6 +98,336 @@
       ],
       "description": "They tried to take my best friend away, but I fought back against my HOA's unfair rules. Watch to see how I protected Buster and won our freedom!",
       "estimated_duration": 174
+    },
+    {
+      "id": "story_323",
+      "title": "My Nephew Tried to Steal My Estate with a Fake Will",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A devious nephew thought he could swindle his aunt out of her entire estate with a fake will. Little did he know, she was always one step ahead.",
+      "hook": "I almost lost everything to my greedy nephew, Michael, who tried to trick me with a forged will!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "I almost lost everything to my greedy nephew, Michael, who tried to trick me with a forged will! After my sister passed away last year, leaving me her entire $800,000 estate, I thought I was set. Then Michael, her son, came out of the woodwork. He'd always been a charming but untrustworthy fellow, constantly borrowing money he never repaid. One afternoon, he showed up at my door, looking distraught. He claimed he'd found a 'new will' hidden in my sister's old safe deposit box, one that left everything to him. He even produced a very official-looking document, complete with what looked like my sister's signature and two witnesses. \n\nMy heart sank. Could my sister have changed her mind without telling me? It seemed so unlike her. But Michael was insistent, pushing me to sign papers acknowledging this 'new' will. He said it would 'streamline' the process. That's when my alarm bells really went off. My sister and I had discussed her will extensively. She\u2019d made it very clear that I was her sole beneficiary, and her original will, drafted by her attorney, was safely with my own lawyer. \n\nI told Michael I'd need to consult my attorney, Mr. Henderson, before signing anything. Michael grew agitated, trying to pressure me, but I stood firm. The next day, Mr. Henderson looked at Michael's 'new will.' Within minutes, he pointed out several inconsistencies: the font was slightly off, the witness signatures didn't match those on official records, and the entire document lacked the specific legal jargon my sister\u2019s chosen firm always used. He also confirmed that my sister's original will was legally binding and had never been revoked. \n\nIt turned out Michael had hired a shady online service to create the forgery, hoping to intimidate an elderly woman into compliance. We reported him to the authorities, and the police quickly confirmed the fraud. Michael was arrested for attempted elder fraud and forgery. Thanks to my lawyer and my own cautious nature, I kept my sister's legacy intact, and Michael finally faced consequences for his greed. It was a painful lesson, but it taught me to always trust my gut and verify everything, especially when family tries to pull a fast one.",
+      "broll_keywords": [
+        "old will document",
+        "handshake",
+        "courtroom sketch",
+        "family photo",
+        "bank statement",
+        "legal folder"
+      ],
+      "hashtags": [
+        "#inheritance",
+        "#familydrama",
+        "#elderjustice",
+        "#revenge",
+        "#scamalert",
+        "#storytime"
+      ],
+      "description": "Never underestimate an elder's foresight. Watch how I turned the tables on my own nephew who tried to steal my legacy with a fake will. Share your own stories of betrayal!",
+      "estimated_duration": 155
+    },
+    {
+      "id": "story_324",
+      "title": "The Contractor Who Tried to Rob Me Blind",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A seemingly trustworthy contractor tried to double his bill for a roofing job. But this senior citizen had a trick up her sleeve to expose his scheme.",
+      "hook": "The contractor quoted me $15,000 for a simple roof repair, then tried to charge me $30,000 for 'unforeseen issues'!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "The contractor quoted me $15,000 for a simple roof repair, then tried to charge me $30,000 for 'unforeseen issues'! Last spring, my roof started leaking, and I needed a reputable company. I called 'Reliable Roofing Solutions,' and a smooth-talking man named Gary came over. He gave me a detailed quote for $15,000 to replace the damaged sections and promised the job would be done in a week. I signed the contract, paid a 30% deposit, and they started work. \n\nTwo days later, Gary called me, sounding grave. 'Mrs. Peterson,' he said, 'we've hit a major problem. The entire underlayment is rotted, and the support beams are compromised. It's going to cost another $15,000, bringing the total to $30,000. We can't continue until you approve the new estimate.' I was shocked. My house was only 25 years old, and I\u2019d never had structural issues. \n\nI politely told Gary I needed to consult with a structural engineer before agreeing to such a drastic change. He became defensive, saying they couldn\u2019t wait and threatening to stop work completely if I didn't decide immediately. That's when I knew something was wrong. Before Gary's crew started, I had quietly installed a small, motion-activated camera on a tree overlooking my roof, just to keep an eye on things. It recorded everything. \n\nI called a trusted friend, an retired builder, who came over to inspect the roof with me. We looked at the video footage from my camera. It clearly showed Gary's crew *damaging* the underlayment and beams themselves, creating the 'unforeseen issues' he was trying to charge me for! I called Gary back, calmly stating I had evidence of his crew intentionally causing the damage. His tone instantly changed from aggressive to stammering apologies. \n\nI demanded he complete the original $15,000 job without any additional charges and threatened to report him to the Contractors State License Board and press charges for fraud. He agreed immediately, finished the job properly, and never tried to contact me again. Always get everything in writing, and if you can, get a second pair of eyes \u2013 or a camera \u2013 on the job!",
+      "broll_keywords": [
+        "roofing tools",
+        "invoice document",
+        "recording device",
+        "house exterior",
+        "bank transfer screen",
+        "police report"
+      ],
+      "hashtags": [
+        "#contractorscam",
+        "#homeimprovement",
+        "#elderlyrights",
+        "#justice",
+        "#consumerbeware",
+        "#storytime"
+      ],
+      "description": "Don't let dishonest contractors take advantage of you. See how I exposed a greedy roofer and saved my hard-earned money. What's your worst contractor story?",
+      "estimated_duration": 160
+    },
+    {
+      "id": "story_325",
+      "title": "My HOA President Tried to Fine Me for 'Ugly Roses'",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A power-hungry HOA president targeted a senior's prize-winning roses with bogus fines. But she underestimated her neighbor's knowledge of the rulebook.",
+      "hook": "My HOA president, Martha, tried to fine me $500 for my 'unsightly' rose bushes, which she secretly coveted!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My HOA president, Martha, tried to fine me $500 for my 'unsightly' rose bushes, which she secretly coveted! I've lived in this community for 30 years, and my rose garden is my pride and joy, winning 'Best in Bloom' several times. Then Martha moved in, became HOA president, and suddenly, my life turned into a bureaucratic nightmare. \n\nFirst, she started with passive-aggressive comments about my 'overgrown' garden. Then, last month, I received an official letter from the HOA: a $500 fine for 'violation of landscaping standards - excessive and unsightly growth of flora, specifically rose bushes, obstructing community aesthetic.' I was furious. My roses were meticulously maintained, pruned, and beautiful. I suspected Martha was simply jealous, or worse, wanted my prize-winning bushes for her own yard. \n\nI knew the HOA bylaws inside and out. I'd been on the landscaping committee for years before Martha took over. There was no specific clause about 'unsightly' roses. The only relevant section mentioned 'maintaining clear walkways and ensuring plant height does not impede visibility at intersections.' My roses were neither. \n\nI drafted a formal response, citing the exact sections of the bylaws and attaching photos of my roses, along with copies of my 'Best in Bloom' certificates. I also reminded the HOA that any fines must be approved by a majority board vote, not just the president. I sent it certified mail, with copies to all board members. \n\nTwo weeks later, I received an apology letter from the HOA board, signed by three other members \u2013 conspicuously *not* Martha. They rescinded the fine, confirmed my garden was in full compliance, and even suggested Martha needed to 'familiarize herself better with the current bylaws.' Turns out, Martha had been issuing fines left and right without proper board approval, trying to assert her authority. The other board members were not happy. My roses are still thriving, and Martha now gives me a wide berth. It just goes to show, sometimes the best defense is knowing the rules better than those trying to enforce them.",
+      "broll_keywords": [
+        "rose garden",
+        "HOA bylaws",
+        "fine notice",
+        "laptop researching",
+        "neighborhood meeting",
+        "legal document"
+      ],
+      "hashtags": [
+        "#HOAdrama",
+        "#neighborwars",
+        "#elderjustice",
+        "#community",
+        "#bylaws",
+        "#storytime"
+      ],
+      "description": "HOAs can be a nightmare, especially when power goes to someone's head. Discover how I fought back against an unjust fine and won. Have you ever dealt with a difficult HOA?",
+      "estimated_duration": 150
+    },
+    {
+      "id": "story_326",
+      "title": "My Caregiver Stole My Precious Family Jewelry",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A trusted caregiver systematically looted a senior's sentimental treasures. Little did she know, her every move was being watched.",
+      "hook": "My live-in caregiver, Brenda, was secretly stealing my late wife's heirloom jewelry, piece by piece!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My live-in caregiver, Brenda, was secretly stealing my late wife's heirloom jewelry, piece by piece! After my wife, Evelyn, passed two years ago, I hired Brenda through an agency. She seemed kind, attentive, and quickly became indispensable. I trusted her completely, which made the betrayal even harder. \n\nI started noticing small things missing: Evelyn\u2019s sapphire earrings, then a vintage gold locket, then a diamond pendant. Each piece held immense sentimental value. At first, I blamed my own forgetfulness, thinking I\u2019d simply misplaced them. But the pattern became undeniable. These weren't just random items; they were always Evelyn's most cherished pieces, always taken when I was out or asleep. \n\nMy daughter, Sarah, suggested hidden cameras. I resisted, feeling guilty about spying on Brenda. But after Evelyn's engagement ring, a family heirloom for generations, vanished from my dresser, I knew I had to act. We installed two small, discreet cameras: one in my bedroom, another in the living room, focusing on the areas where the jewelry used to be. \n\nIt was heartbreaking to watch the footage. Over the next few days, the cameras captured Brenda, when she thought I was napping, going into my dresser, opening Evelyn's jewelry box, and casually pocketing a pearl necklace. She looked so calm, so practiced. My heart ached with anger and sadness. \n\nI immediately called the police and the caregiving agency. The police arrived, reviewed the footage, and confronted Brenda. She initially denied everything, but when shown the irrefutable video evidence, she broke down. They found several pieces of my wife's jewelry in her belongings, and she admitted to pawning others. The agency was horrified and immediately terminated her. \n\nIt was a devastating experience, but I was able to recover most of Evelyn's jewelry. It\u2019s a painful reminder that even those you let into your home and trust implicitly can betray you. Always be vigilant, even with the kindest faces.",
+      "broll_keywords": [
+        "jewelry box",
+        "hidden camera",
+        "police officer talking",
+        "empty drawer",
+        "receipts",
+        "sentimental photo"
+      ],
+      "hashtags": [
+        "#caregiverscam",
+        "#theft",
+        "#elderabuse",
+        "#justice",
+        "#trustissues",
+        "#storytime"
+      ],
+      "description": "It's heartbreaking when those you trust betray you. Learn how I caught my caregiver red-handed and reclaimed my family's heirlooms. What's your advice for finding trustworthy care?",
+      "estimated_duration": 165
+    },
+    {
+      "id": "story_327",
+      "title": "The Fake Pension Agent Who Tried to Drain My Retirement",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A cunning scammer targeted a senior's lifelong savings with a convincing pension fraud scheme. But his intended victim was smarter than he thought.",
+      "hook": "A smooth-talking man claiming to be from 'Pension Services' tried to trick me into giving him all my retirement account details!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "A smooth-talking man claiming to be from 'Pension Services' tried to trick me into giving him all my retirement account details! It was a Tuesday morning when my phone rang. The caller identified himself as 'Mr. Davies from National Pension Services' and claimed there was an urgent 'discrepancy' with my pension payout that needed immediate correction. \n\nHe had an official-sounding voice and even knew my full name and the approximate amount of my pension. He explained that due to a 'new government initiative,' my pension was being re-evaluated, and I was entitled to a larger lump sum, but only if I verified my 'old' account details right away. He needed my bank account number, social security number, and even my online banking password to 'secure the new funds.' \n\nNow, I'm 72, but I'm not naive. I've read countless articles about these types of scams. The urgency in his voice, the demand for sensitive information, and the promise of 'free money' were all red flags. I politely told him I'd prefer to visit their local office to sort this out in person. He stammered, saying that wasn't possible due to 'privacy protocols' and that everything had to be done over the phone. \n\nThat's when I decided to play along. I pretended to be flustered, saying, 'Oh dear, my memory isn't what it used to be. Can you please hold while I find my spectacles and my banking information?' I put him on speaker and discreetly dialed the non-emergency police line on my other phone, explaining the situation. An officer advised me to keep him on the line for as long as possible. \n\nFor the next 15 minutes, I gave 'Mr. Davies' fake account numbers and made up social security digits, pretending to struggle to read them. He grew increasingly frustrated but stayed on the line, sensing he was close to a 'big score.' Eventually, the police traced the call. They swooped in and arrested him and his accomplices at their boiler room operation across town. It turned out they had scammed dozens of seniors. My quick thinking, and a little bit of acting, helped take down a dangerous ring of fraudsters. Always be suspicious of calls demanding personal information, no matter how convincing they sound!",
+      "broll_keywords": [
+        "phone call screen",
+        "fake ID card",
+        "computer login page",
+        "police station sign",
+        "bank statement",
+        "shredded documents"
+      ],
+      "hashtags": [
+        "#pensionscam",
+        "#fraudalert",
+        "#elderlysecurity",
+        "#scamcall",
+        "#consumerprotection",
+        "#storytime"
+      ],
+      "description": "Pension scams are rampant, and they target the most vulnerable. See how I played along and helped authorities catch a fraudster. Stay vigilant, friends!",
+      "estimated_duration": 170
+    },
+    {
+      "id": "story_328",
+      "title": "My Neighbor Moved Our Property Line While I Was Away",
+      "domain": "Property Boundary Dispute",
+      "genre": "property_boundary_dispute",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A brazen new neighbor tried to claim extra land by relocating a property fence. He didn't account for the original homeowner's meticulous records.",
+      "hook": "My new neighbor, Frank, actually moved our shared fence five feet onto my land while I was visiting my grandkids!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new neighbor, Frank, actually moved our shared fence five feet onto my land while I was visiting my grandkids! I\u2019ve lived in this house for 40 years. The old wooden fence between my property and the house next door had always been a clear boundary. When the elderly couple next door moved to Florida, a younger man, Frank, bought their house. \n\nI was away for three weeks visiting my grandkids in Arizona. When I returned, I noticed something immediately different. The old, rickety fence was gone, replaced by a shiny new chain-link one. But it wasn't in the same spot. It looked like it had been moved several feet into my backyard, enclosing a portion of my beloved rose garden! My heart pounded with disbelief and anger. \n\nI marched over to Frank's house. 'Frank,' I said, 'what have you done with the fence? It\u2019s on my property!' He just shrugged. 'Oh, that old thing was falling apart. I put up a new one. The property line is actually where the new fence is. My surveyor told me.' He had a smirk on his face that told me he knew exactly what he was doing. \n\nWhat Frank didn't know was that I am meticulous. When I bought this house in 1983, I had a detailed land survey done, and I kept every single document. I had the original survey map, complete with precise measurements and the exact location of the old fence line, clearly marked. I also had photos from over the years, showing the fence in its original position. \n\nI gave him a stern look. 'Frank, I have the original survey from 1983, and it clearly shows the property line is five feet east of your new fence. You have encroached on my land. You have 48 hours to move that fence back to the correct boundary, or I will be forced to take legal action.' I handed him a copy of my survey. \n\nHe scoffed, but the next morning, I saw him out there with a measuring tape, looking at the survey. By the end of the day, his crew was back, pulling up the new fence posts and relocating it to the correct boundary. He never apologized, but he never bothered me again. Always keep your important documents safe; they can be your best defense!",
+      "broll_keywords": [
+        "survey map",
+        "new fence",
+        "old fence posts",
+        "measuring tape",
+        "legal letter",
+        "real estate sign"
+      ],
+      "hashtags": [
+        "#boundarydispute",
+        "#neighborproblems",
+        "#propertymatters",
+        "#elderjustice",
+        "#landownership",
+        "#storytime"
+      ],
+      "description": "Property disputes can turn neighborly relations sour. Watch how I used old survey maps to prove my case against a land-grabbing neighbor. Have you ever had a boundary issue?",
+      "estimated_duration": 158
+    },
+    {
+      "id": "story_329",
+      "title": "Our Pastor Was Stealing from the Church Offering Plate",
+      "domain": "Church Fraud",
+      "genre": "church_fraud",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A respected community pastor exploited his position to enrich himself through church donations. But a vigilant parishioner noticed the suspicious patterns.",
+      "hook": "Our beloved Pastor John was secretly siphoning thousands from the weekly offering plates for his lavish lifestyle!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "Our beloved Pastor John was secretly siphoning thousands from the weekly offering plates for his lavish lifestyle! I've been a devoted member of St. Jude's for over 50 years. Pastor John had always been charismatic, inspiring, and seemingly devout. But over the last two years, I started noticing changes. His old, modest car was replaced by a sleek, expensive sedan. His wife started wearing designer clothes, and he often spoke of 'missionary trips' to exotic locales, always returning with expensive souvenirs. \n\nMeanwhile, the church's finances, which I helped oversee as a volunteer treasurer, were mysteriously dwindling. The roof still leaked, the youth group couldn't afford new equipment, and our community outreach programs were struggling. When I asked Pastor John about the budget shortfalls, he\u2019d always give vague answers about 'increased operating costs' and 'unforeseen expenses.' \n\nI knew the weekly offering plate often collected over $2,000, sometimes more. Our procedure was for two ushers and a board member to count the money in the vestry after service. But Pastor John slowly started changing this. First, he insisted on 'helping' with the count. Then, he\u2019d dismiss the ushers, claiming he needed to 'pray over the tithes alone' before depositing them. \n\nThis raised a huge red flag. I decided to act. Before one Sunday service, I discreetly placed several marked $20 bills and a unique $100 bill, which I had secretly photocopied, into the offering plate. I then went about my usual duties, but kept a close eye on the vestry door. After the service, true to form, Pastor John shooed away the ushers and went into the vestry alone with the collection. \n\nAn hour later, I called the police and informed the senior deacon. The police, acting on my tip and evidence, investigated. They found some of the marked bills in Pastor John's wallet and several more in his home safe, along with large sums of unexplained cash. He confessed to siphoning off funds for over a year, using the church's money to fund his extravagant life. He was arrested, and the church was devastated but ultimately relieved to have the truth revealed. It's a sad reminder that even in places of faith, greed can corrupt, and vigilance is always necessary.",
+      "broll_keywords": [
+        "offering plate",
+        "church interior",
+        "bank deposit slip",
+        "luxury car",
+        "news article",
+        "police badge"
+      ],
+      "hashtags": [
+        "#churchscam",
+        "#religiousfraud",
+        "#communitybetrayal",
+        "#elderjustice",
+        "#faith",
+        "#storytime"
+      ],
+      "description": "It's devastating when trust is broken, especially in sacred spaces. Discover how I uncovered a pastor's secret scheme and brought truth to light. Always question when something feels off.",
+      "estimated_duration": 162
+    },
+    {
+      "id": "story_330",
+      "title": "My Daughter-in-Law Tried to Take My Son's Life Insurance",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "After a tragic loss, a greedy ex-daughter-in-law attempted to snatch a life insurance payout. She failed to realize the true beneficiary was already secured.",
+      "hook": "My late son's ex-wife, Carol, tried to claim his substantial life insurance policy, even though they\u2019d been divorced for years!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My late son's ex-wife, Carol, tried to claim his substantial life insurance policy, even though they\u2019d been divorced for years! Losing my son, David, last year in a car accident was the hardest thing I\u2019ve ever endured. He was only 48. David had always been responsible, and I knew he had a life insurance policy through his work. He\u2019d told me years ago that I was the primary beneficiary. \n\nHowever, a few weeks after his funeral, I received a letter from the insurance company stating there was a dispute over the payout. David's ex-wife, Carol, was claiming she was the rightful beneficiary. Carol and David had divorced ten years prior, and it had been a rather messy split. They had no children together. \n\nI was aghast. How could she possibly claim it? I immediately contacted my lawyer, Mr. Chen. He told me that sometimes, if a beneficiary isn't formally updated after a divorce, the ex-spouse can still be listed and attempt to claim the funds. My heart sank. Had David forgotten to update it after all these years? \n\nHowever, David was exceptionally organized. He had a meticulous filing system. I remembered him mentioning a specific red folder where he kept all his important documents. After a tearful search through his home office, I found it. Inside was a copy of his life insurance policy, clearly updated with my name as the sole beneficiary, along with a signed and dated change of beneficiary form from eight years ago, witnessed by his then-colleague. \n\nEven better, there was a copy of his divorce decree, which explicitly stated that both parties waived all rights to each other's retirement accounts, pensions, and life insurance policies. Mr. Chen compiled all this evidence and presented it to the insurance company. Within days, Carol's claim was dismissed, and the $750,000 policy payout was released to me. The funds will now go towards setting up a scholarship in David's name, something he would have loved. It was a painful battle during a time of grief, but I\u2019m relieved David\u2019s wishes were honored and his legacy secured, not stolen by a greedy ex.",
+      "broll_keywords": [
+        "life insurance policy",
+        "divorce papers",
+        "funeral photo",
+        "legal letter",
+        "bank transfer notification",
+        "family portrait"
+      ],
+      "hashtags": [
+        "#inheritancebattle",
+        "#familyfeud",
+        "#elderjustice",
+        "#grief",
+        "#legalrights",
+        "#storytime"
+      ],
+      "description": "Losing a child is hard enough without family fighting over assets. See how I protected my son's legacy from his ex-wife's greedy claim. Share your stories of difficult family dynamics.",
+      "estimated_duration": 168
+    },
+    {
+      "id": "story_331",
+      "title": "The Mechanic Who Tried to Charge Me $2,000 for a Spark Plug",
+      "domain": "Business",
+      "genre": "business",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A supposedly honest mechanic attempted to gouge a senior with unnecessary and overpriced car repairs. But she knew better than to trust the first quote.",
+      "hook": "My mechanic, 'Honest Harry,' tried to charge me an outrageous $2,000 for a simple spark plug replacement, plus a 'mystery' engine flush!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My mechanic, 'Honest Harry,' tried to charge me an outrageous $2,000 for a simple spark plug replacement, plus a 'mystery' engine flush! My trusty 2010 sedan started sputtering last month. I took it to 'Harry's Auto Repair,' a shop that claimed to be 'family-owned and honest.' Harry, a burly man with a friendly smile, called me a few hours later. \n\n'Mrs. Davies,' he began, 'your car has some serious issues. The engine is misfiring badly. You need all new spark plugs, a full ignition coil replacement, and a complete engine flush. We're looking at about $2,000 for parts and labor.' I was stunned. $2,000 for spark plugs? My car only had 90,000 miles on it, and I'd always kept up with maintenance. \n\nI told Harry I needed to think about it and would pick up my car. He tried to pressure me, saying the car was 'unsafe to drive' and that these repairs were 'critical.' I politely insisted. When I went to pick it up, he gave me a bill for $150 for 'diagnostic fees,' even though he hadn't done any actual repair work. I paid it, but a bad feeling lingered. \n\nI immediately drove my car, carefully, to another local shop, 'Precision Auto,' which had excellent online reviews. The mechanic there, a young woman named Sarah, listened patiently to my story. She ran her own diagnostics. An hour later, she called me. 'Mrs. Davies,' she said, 'your car just needed a spark plug replacement on one cylinder. The other spark plugs are fine, and your ignition coils are in perfect condition. There\u2019s absolutely no need for an engine flush.' \n\nShe replaced the single faulty spark plug and charged me a mere $120, including labor. My car ran perfectly again. I was livid about Harry's attempt to defraud me. I took both invoices, Harry's inflated quote, and Sarah's honest repair bill to the Better Business Bureau and filed a formal complaint. I also left a scathing, but factual, review online. \n\nWithin days, I received a call from Harry's shop, offering to refund my diagnostic fee and apologizing profusely. I refused the apology, but accepted the refund. It's a stark reminder that even seemingly 'honest' businesses can try to take advantage of seniors. Always get a second opinion, especially for major repairs!",
+      "broll_keywords": [
+        "car engine",
+        "inflated invoice",
+        "mechanic tools",
+        "second opinion shop",
+        "consumer review site",
+        "phone call"
+      ],
+      "hashtags": [
+        "#carmaintenance",
+        "#mechanicscam",
+        "#consumerrights",
+        "#elderlyprotection",
+        "#carrepair",
+        "#storytime"
+      ],
+      "description": "Car repair scams are all too common. Learn how I avoided being ripped off by a dishonest mechanic and got my car fixed for a fair price. Always get a second opinion!",
+      "estimated_duration": 152
+    },
+    {
+      "id": "story_332",
+      "title": "My Neighbor's Constant Complaints About My Garden",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A nosy new neighbor launched a campaign of HOA complaints against a senior's beloved garden. But the gardener had the rules on her side.",
+      "hook": "My new neighbor, Karen, started harassing me with constant HOA complaints about my award-winning front garden the day she moved in!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My new neighbor, Karen, started harassing me with constant HOA complaints about my award-winning front garden the day she moved in! I\u2019ve lived in this house for 25 years, and my front garden is my sanctuary. It's won 'Yard of the Month' three times. Then, six months ago, Karen moved in next door. \n\nFrom day one, it was clear she had an issue with my garden. She\u2019d make passive-aggressive comments about its 'wildness' or how 'much maintenance' it must require. I tried to be polite, explaining my love for native plants and vibrant colors. But Karen wasn't interested in friendly conversation. \n\nSoon, the HOA letters started arriving. First, a notice about 'overgrown shrubs' \u2013 referring to my perfectly trimmed azaleas. Then, 'non-approved plant species' \u2013 my sunflowers, which are explicitly allowed. Next, 'debris accumulation' \u2013 a few fallen leaves, which I clean up daily. Each letter cited a different, often vague, rule, and each was clearly instigated by Karen. She was trying to weaponize the HOA against me. \n\nI knew the HOA bylaws like the back of my hand. I helped draft many of the landscaping rules years ago. I spent an entire afternoon going through the HOA manual, highlighting every section that confirmed my garden was in full compliance. I took dated photographs of my garden from every angle, showing its pristine condition. I even had copies of my 'Yard of the Month' awards. \n\nI compiled a detailed, point-by-point rebuttal for each of Karen's complaints, citing the exact sections of the bylaws that proved her wrong. I attached all my photos and awards. I sent this comprehensive package to the HOA board, with a polite but firm letter asking them to address Karen's frivolous and harassing complaints. \n\nThe HOA board, tired of Karen's incessant and baseless complaints, finally took action. They sent Karen a letter informing her that her complaints were unfounded and that further unsubstantiated complaints could result in her being fined for misuse of HOA resources. The letters stopped. Karen still glares at my garden, but she hasn't said a word, and the HOA hasn't bothered me since. It just goes to show, a little knowledge and preparation can go a long way in shutting down a 'Karen'!",
+      "broll_keywords": [
+        "beautiful garden",
+        "complaint letter",
+        "HOA rulebook",
+        "camera phone recording",
+        "gardening tools",
+        "smile"
+      ],
+      "hashtags": [
+        "#neighborfromhell",
+        "#HOArules",
+        "#gardenlife",
+        "#elderjustice",
+        "#communityliving",
+        "#storytime"
+      ],
+      "description": "Some neighbors just love to complain. See how I used the HOA rulebook to shut down a relentless critic of my beautiful garden. Have you ever had a 'Karen' neighbor?",
+      "estimated_duration": 163
     }
   ]
 }
