@@ -7841,6 +7841,41 @@
       "estimated_duration": 174,
       "published": true,
       "published_at": "2026-09-26T15:29:22"
+    },
+    {
+      "id": "story_323",
+      "title": "My Nephew Tried to Steal My Estate with a Fake Will",
+      "domain": "Inheritance",
+      "genre": "inheritance",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A devious nephew thought he could swindle his aunt out of her entire estate with a fake will. Little did he know, she was always one step ahead.",
+      "hook": "I almost lost everything to my greedy nephew, Michael, who tried to trick me with a forged will!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "I almost lost everything to my greedy nephew, Michael, who tried to trick me with a forged will! After my sister passed away last year, leaving me her entire $800,000 estate, I thought I was set. Then Michael, her son, came out of the woodwork. He'd always been a charming but untrustworthy fellow, constantly borrowing money he never repaid. One afternoon, he showed up at my door, looking distraught. He claimed he'd found a 'new will' hidden in my sister's old safe deposit box, one that left everything to him. He even produced a very official-looking document, complete with what looked like my sister's signature and two witnesses. \n\nMy heart sank. Could my sister have changed her mind without telling me? It seemed so unlike her. But Michael was insistent, pushing me to sign papers acknowledging this 'new' will. He said it would 'streamline' the process. That's when my alarm bells really went off. My sister and I had discussed her will extensively. She\u2019d made it very clear that I was her sole beneficiary, and her original will, drafted by her attorney, was safely with my own lawyer. \n\nI told Michael I'd need to consult my attorney, Mr. Henderson, before signing anything. Michael grew agitated, trying to pressure me, but I stood firm. The next day, Mr. Henderson looked at Michael's 'new will.' Within minutes, he pointed out several inconsistencies: the font was slightly off, the witness signatures didn't match those on official records, and the entire document lacked the specific legal jargon my sister\u2019s chosen firm always used. He also confirmed that my sister's original will was legally binding and had never been revoked. \n\nIt turned out Michael had hired a shady online service to create the forgery, hoping to intimidate an elderly woman into compliance. We reported him to the authorities, and the police quickly confirmed the fraud. Michael was arrested for attempted elder fraud and forgery. Thanks to my lawyer and my own cautious nature, I kept my sister's legacy intact, and Michael finally faced consequences for his greed. It was a painful lesson, but it taught me to always trust my gut and verify everything, especially when family tries to pull a fast one.",
+      "broll_keywords": [
+        "old will document",
+        "handshake",
+        "courtroom sketch",
+        "family photo",
+        "bank statement",
+        "legal folder"
+      ],
+      "hashtags": [
+        "#inheritance",
+        "#familydrama",
+        "#elderjustice",
+        "#revenge",
+        "#scamalert",
+        "#storytime"
+      ],
+      "description": "Never underestimate an elder's foresight. Watch how I turned the tables on my own nephew who tried to steal my legacy with a fake will. Share your own stories of betrayal!",
+      "estimated_duration": 155,
+      "published": true,
+      "published_at": "2026-09-26T20:22:31"
     }
   ]
 }
