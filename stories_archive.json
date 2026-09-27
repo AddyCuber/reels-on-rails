@@ -7981,6 +7981,41 @@
       "estimated_duration": 165,
       "published": true,
       "published_at": "2026-09-27T15:50:25"
+    },
+    {
+      "id": "story_327",
+      "title": "The Fake Pension Agent Who Tried to Drain My Retirement",
+      "domain": "Pension Scams",
+      "genre": "pension_scams",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A cunning scammer targeted a senior's lifelong savings with a convincing pension fraud scheme. But his intended victim was smarter than he thought.",
+      "hook": "A smooth-talking man claiming to be from 'Pension Services' tried to trick me into giving him all my retirement account details!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "A smooth-talking man claiming to be from 'Pension Services' tried to trick me into giving him all my retirement account details! It was a Tuesday morning when my phone rang. The caller identified himself as 'Mr. Davies from National Pension Services' and claimed there was an urgent 'discrepancy' with my pension payout that needed immediate correction. \n\nHe had an official-sounding voice and even knew my full name and the approximate amount of my pension. He explained that due to a 'new government initiative,' my pension was being re-evaluated, and I was entitled to a larger lump sum, but only if I verified my 'old' account details right away. He needed my bank account number, social security number, and even my online banking password to 'secure the new funds.' \n\nNow, I'm 72, but I'm not naive. I've read countless articles about these types of scams. The urgency in his voice, the demand for sensitive information, and the promise of 'free money' were all red flags. I politely told him I'd prefer to visit their local office to sort this out in person. He stammered, saying that wasn't possible due to 'privacy protocols' and that everything had to be done over the phone. \n\nThat's when I decided to play along. I pretended to be flustered, saying, 'Oh dear, my memory isn't what it used to be. Can you please hold while I find my spectacles and my banking information?' I put him on speaker and discreetly dialed the non-emergency police line on my other phone, explaining the situation. An officer advised me to keep him on the line for as long as possible. \n\nFor the next 15 minutes, I gave 'Mr. Davies' fake account numbers and made up social security digits, pretending to struggle to read them. He grew increasingly frustrated but stayed on the line, sensing he was close to a 'big score.' Eventually, the police traced the call. They swooped in and arrested him and his accomplices at their boiler room operation across town. It turned out they had scammed dozens of seniors. My quick thinking, and a little bit of acting, helped take down a dangerous ring of fraudsters. Always be suspicious of calls demanding personal information, no matter how convincing they sound!",
+      "broll_keywords": [
+        "phone call screen",
+        "fake ID card",
+        "computer login page",
+        "police station sign",
+        "bank statement",
+        "shredded documents"
+      ],
+      "hashtags": [
+        "#pensionscam",
+        "#fraudalert",
+        "#elderlysecurity",
+        "#scamcall",
+        "#consumerprotection",
+        "#storytime"
+      ],
+      "description": "Pension scams are rampant, and they target the most vulnerable. See how I played along and helped authorities catch a fraudster. Stay vigilant, friends!",
+      "estimated_duration": 170,
+      "published": true,
+      "published_at": "2026-09-27T20:35:46"
     }
   ]
 }
