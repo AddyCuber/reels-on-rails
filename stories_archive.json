@@ -7946,6 +7946,41 @@
       "estimated_duration": 150,
       "published": true,
       "published_at": "2026-09-27T10:51:45"
+    },
+    {
+      "id": "story_326",
+      "title": "My Caregiver Stole My Precious Family Jewelry",
+      "domain": "Caregiver Theft",
+      "genre": "caregiver_theft",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A trusted caregiver systematically looted a senior's sentimental treasures. Little did she know, her every move was being watched.",
+      "hook": "My live-in caregiver, Brenda, was secretly stealing my late wife's heirloom jewelry, piece by piece!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My live-in caregiver, Brenda, was secretly stealing my late wife's heirloom jewelry, piece by piece! After my wife, Evelyn, passed two years ago, I hired Brenda through an agency. She seemed kind, attentive, and quickly became indispensable. I trusted her completely, which made the betrayal even harder. \n\nI started noticing small things missing: Evelyn\u2019s sapphire earrings, then a vintage gold locket, then a diamond pendant. Each piece held immense sentimental value. At first, I blamed my own forgetfulness, thinking I\u2019d simply misplaced them. But the pattern became undeniable. These weren't just random items; they were always Evelyn's most cherished pieces, always taken when I was out or asleep. \n\nMy daughter, Sarah, suggested hidden cameras. I resisted, feeling guilty about spying on Brenda. But after Evelyn's engagement ring, a family heirloom for generations, vanished from my dresser, I knew I had to act. We installed two small, discreet cameras: one in my bedroom, another in the living room, focusing on the areas where the jewelry used to be. \n\nIt was heartbreaking to watch the footage. Over the next few days, the cameras captured Brenda, when she thought I was napping, going into my dresser, opening Evelyn's jewelry box, and casually pocketing a pearl necklace. She looked so calm, so practiced. My heart ached with anger and sadness. \n\nI immediately called the police and the caregiving agency. The police arrived, reviewed the footage, and confronted Brenda. She initially denied everything, but when shown the irrefutable video evidence, she broke down. They found several pieces of my wife's jewelry in her belongings, and she admitted to pawning others. The agency was horrified and immediately terminated her. \n\nIt was a devastating experience, but I was able to recover most of Evelyn's jewelry. It\u2019s a painful reminder that even those you let into your home and trust implicitly can betray you. Always be vigilant, even with the kindest faces.",
+      "broll_keywords": [
+        "jewelry box",
+        "hidden camera",
+        "police officer talking",
+        "empty drawer",
+        "receipts",
+        "sentimental photo"
+      ],
+      "hashtags": [
+        "#caregiverscam",
+        "#theft",
+        "#elderabuse",
+        "#justice",
+        "#trustissues",
+        "#storytime"
+      ],
+      "description": "It's heartbreaking when those you trust betray you. Learn how I caught my caregiver red-handed and reclaimed my family's heirlooms. What's your advice for finding trustworthy care?",
+      "estimated_duration": 165,
+      "published": true,
+      "published_at": "2026-09-27T15:50:25"
     }
   ]
 }
