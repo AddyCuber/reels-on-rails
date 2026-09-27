@@ -7911,6 +7911,41 @@
       "estimated_duration": 160,
       "published": true,
       "published_at": "2026-09-27T01:32:08"
+    },
+    {
+      "id": "story_325",
+      "title": "My HOA President Tried to Fine Me for 'Ugly Roses'",
+      "domain": "Hoa Neighbor",
+      "genre": "hoa_neighbor",
+      "stayed_to_watch_target": "82%+",
+      "card_text": "A power-hungry HOA president targeted a senior's prize-winning roses with bogus fines. But she underestimated her neighbor's knowledge of the rulebook.",
+      "hook": "My HOA president, Martha, tried to fine me $500 for my 'unsightly' rose bushes, which she secretly coveted!",
+      "villain_dismissal": "You can't stop me.",
+      "reversal_type": "legal",
+      "proof_source": "documents",
+      "witness_present": true,
+      "narrator_position_at_end": "thriving",
+      "narration": "My HOA president, Martha, tried to fine me $500 for my 'unsightly' rose bushes, which she secretly coveted! I've lived in this community for 30 years, and my rose garden is my pride and joy, winning 'Best in Bloom' several times. Then Martha moved in, became HOA president, and suddenly, my life turned into a bureaucratic nightmare. \n\nFirst, she started with passive-aggressive comments about my 'overgrown' garden. Then, last month, I received an official letter from the HOA: a $500 fine for 'violation of landscaping standards - excessive and unsightly growth of flora, specifically rose bushes, obstructing community aesthetic.' I was furious. My roses were meticulously maintained, pruned, and beautiful. I suspected Martha was simply jealous, or worse, wanted my prize-winning bushes for her own yard. \n\nI knew the HOA bylaws inside and out. I'd been on the landscaping committee for years before Martha took over. There was no specific clause about 'unsightly' roses. The only relevant section mentioned 'maintaining clear walkways and ensuring plant height does not impede visibility at intersections.' My roses were neither. \n\nI drafted a formal response, citing the exact sections of the bylaws and attaching photos of my roses, along with copies of my 'Best in Bloom' certificates. I also reminded the HOA that any fines must be approved by a majority board vote, not just the president. I sent it certified mail, with copies to all board members. \n\nTwo weeks later, I received an apology letter from the HOA board, signed by three other members \u2013 conspicuously *not* Martha. They rescinded the fine, confirmed my garden was in full compliance, and even suggested Martha needed to 'familiarize herself better with the current bylaws.' Turns out, Martha had been issuing fines left and right without proper board approval, trying to assert her authority. The other board members were not happy. My roses are still thriving, and Martha now gives me a wide berth. It just goes to show, sometimes the best defense is knowing the rules better than those trying to enforce them.",
+      "broll_keywords": [
+        "rose garden",
+        "HOA bylaws",
+        "fine notice",
+        "laptop researching",
+        "neighborhood meeting",
+        "legal document"
+      ],
+      "hashtags": [
+        "#HOAdrama",
+        "#neighborwars",
+        "#elderjustice",
+        "#community",
+        "#bylaws",
+        "#storytime"
+      ],
+      "description": "HOAs can be a nightmare, especially when power goes to someone's head. Discover how I fought back against an unjust fine and won. Have you ever dealt with a difficult HOA?",
+      "estimated_duration": 150,
+      "published": true,
+      "published_at": "2026-09-27T10:51:45"
     }
   ]
 }
