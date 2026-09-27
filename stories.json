@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_324",
-      "title": "The Contractor Who Tried to Rob Me Blind",
-      "domain": "Business",
-      "genre": "business",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A seemingly trustworthy contractor tried to double his bill for a roofing job. But this senior citizen had a trick up her sleeve to expose his scheme.",
-      "hook": "The contractor quoted me $15,000 for a simple roof repair, then tried to charge me $30,000 for 'unforeseen issues'!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "The contractor quoted me $15,000 for a simple roof repair, then tried to charge me $30,000 for 'unforeseen issues'! Last spring, my roof started leaking, and I needed a reputable company. I called 'Reliable Roofing Solutions,' and a smooth-talking man named Gary came over. He gave me a detailed quote for $15,000 to replace the damaged sections and promised the job would be done in a week. I signed the contract, paid a 30% deposit, and they started work. \n\nTwo days later, Gary called me, sounding grave. 'Mrs. Peterson,' he said, 'we've hit a major problem. The entire underlayment is rotted, and the support beams are compromised. It's going to cost another $15,000, bringing the total to $30,000. We can't continue until you approve the new estimate.' I was shocked. My house was only 25 years old, and I\u2019d never had structural issues. \n\nI politely told Gary I needed to consult with a structural engineer before agreeing to such a drastic change. He became defensive, saying they couldn\u2019t wait and threatening to stop work completely if I didn't decide immediately. That's when I knew something was wrong. Before Gary's crew started, I had quietly installed a small, motion-activated camera on a tree overlooking my roof, just to keep an eye on things. It recorded everything. \n\nI called a trusted friend, an retired builder, who came over to inspect the roof with me. We looked at the video footage from my camera. It clearly showed Gary's crew *damaging* the underlayment and beams themselves, creating the 'unforeseen issues' he was trying to charge me for! I called Gary back, calmly stating I had evidence of his crew intentionally causing the damage. His tone instantly changed from aggressive to stammering apologies. \n\nI demanded he complete the original $15,000 job without any additional charges and threatened to report him to the Contractors State License Board and press charges for fraud. He agreed immediately, finished the job properly, and never tried to contact me again. Always get everything in writing, and if you can, get a second pair of eyes \u2013 or a camera \u2013 on the job!",
-      "broll_keywords": [
-        "roofing tools",
-        "invoice document",
-        "recording device",
-        "house exterior",
-        "bank transfer screen",
-        "police report"
-      ],
-      "hashtags": [
-        "#contractorscam",
-        "#homeimprovement",
-        "#elderlyrights",
-        "#justice",
-        "#consumerbeware",
-        "#storytime"
-      ],
-      "description": "Don't let dishonest contractors take advantage of you. See how I exposed a greedy roofer and saved my hard-earned money. What's your worst contractor story?",
-      "estimated_duration": 160
-    },
-    {
       "id": "story_325",
       "title": "My HOA President Tried to Fine Me for 'Ugly Roses'",
       "domain": "Hoa Neighbor",
