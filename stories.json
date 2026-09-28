@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_328",
-      "title": "My Neighbor Moved Our Property Line While I Was Away",
-      "domain": "Property Boundary Dispute",
-      "genre": "property_boundary_dispute",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "A brazen new neighbor tried to claim extra land by relocating a property fence. He didn't account for the original homeowner's meticulous records.",
-      "hook": "My new neighbor, Frank, actually moved our shared fence five feet onto my land while I was visiting my grandkids!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My new neighbor, Frank, actually moved our shared fence five feet onto my land while I was visiting my grandkids! I\u2019ve lived in this house for 40 years. The old wooden fence between my property and the house next door had always been a clear boundary. When the elderly couple next door moved to Florida, a younger man, Frank, bought their house. \n\nI was away for three weeks visiting my grandkids in Arizona. When I returned, I noticed something immediately different. The old, rickety fence was gone, replaced by a shiny new chain-link one. But it wasn't in the same spot. It looked like it had been moved several feet into my backyard, enclosing a portion of my beloved rose garden! My heart pounded with disbelief and anger. \n\nI marched over to Frank's house. 'Frank,' I said, 'what have you done with the fence? It\u2019s on my property!' He just shrugged. 'Oh, that old thing was falling apart. I put up a new one. The property line is actually where the new fence is. My surveyor told me.' He had a smirk on his face that told me he knew exactly what he was doing. \n\nWhat Frank didn't know was that I am meticulous. When I bought this house in 1983, I had a detailed land survey done, and I kept every single document. I had the original survey map, complete with precise measurements and the exact location of the old fence line, clearly marked. I also had photos from over the years, showing the fence in its original position. \n\nI gave him a stern look. 'Frank, I have the original survey from 1983, and it clearly shows the property line is five feet east of your new fence. You have encroached on my land. You have 48 hours to move that fence back to the correct boundary, or I will be forced to take legal action.' I handed him a copy of my survey. \n\nHe scoffed, but the next morning, I saw him out there with a measuring tape, looking at the survey. By the end of the day, his crew was back, pulling up the new fence posts and relocating it to the correct boundary. He never apologized, but he never bothered me again. Always keep your important documents safe; they can be your best defense!",
-      "broll_keywords": [
-        "survey map",
-        "new fence",
-        "old fence posts",
-        "measuring tape",
-        "legal letter",
-        "real estate sign"
-      ],
-      "hashtags": [
-        "#boundarydispute",
-        "#neighborproblems",
-        "#propertymatters",
-        "#elderjustice",
-        "#landownership",
-        "#storytime"
-      ],
-      "description": "Property disputes can turn neighborly relations sour. Watch how I used old survey maps to prove my case against a land-grabbing neighbor. Have you ever had a boundary issue?",
-      "estimated_duration": 158
-    },
-    {
       "id": "story_329",
       "title": "Our Pastor Was Stealing from the Church Offering Plate",
       "domain": "Church Fraud",
