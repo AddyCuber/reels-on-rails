@@ -1,39 +1,6 @@
 {
   "stories": [
     {
-      "id": "story_330",
-      "title": "My Daughter-in-Law Tried to Take My Son's Life Insurance",
-      "domain": "Inheritance",
-      "genre": "inheritance",
-      "stayed_to_watch_target": "82%+",
-      "card_text": "After a tragic loss, a greedy ex-daughter-in-law attempted to snatch a life insurance payout. She failed to realize the true beneficiary was already secured.",
-      "hook": "My late son's ex-wife, Carol, tried to claim his substantial life insurance policy, even though they\u2019d been divorced for years!",
-      "villain_dismissal": "You can't stop me.",
-      "reversal_type": "legal",
-      "proof_source": "documents",
-      "witness_present": true,
-      "narrator_position_at_end": "thriving",
-      "narration": "My late son's ex-wife, Carol, tried to claim his substantial life insurance policy, even though they\u2019d been divorced for years! Losing my son, David, last year in a car accident was the hardest thing I\u2019ve ever endured. He was only 48. David had always been responsible, and I knew he had a life insurance policy through his work. He\u2019d told me years ago that I was the primary beneficiary. \n\nHowever, a few weeks after his funeral, I received a letter from the insurance company stating there was a dispute over the payout. David's ex-wife, Carol, was claiming she was the rightful beneficiary. Carol and David had divorced ten years prior, and it had been a rather messy split. They had no children together. \n\nI was aghast. How could she possibly claim it? I immediately contacted my lawyer, Mr. Chen. He told me that sometimes, if a beneficiary isn't formally updated after a divorce, the ex-spouse can still be listed and attempt to claim the funds. My heart sank. Had David forgotten to update it after all these years? \n\nHowever, David was exceptionally organized. He had a meticulous filing system. I remembered him mentioning a specific red folder where he kept all his important documents. After a tearful search through his home office, I found it. Inside was a copy of his life insurance policy, clearly updated with my name as the sole beneficiary, along with a signed and dated change of beneficiary form from eight years ago, witnessed by his then-colleague. \n\nEven better, there was a copy of his divorce decree, which explicitly stated that both parties waived all rights to each other's retirement accounts, pensions, and life insurance policies. Mr. Chen compiled all this evidence and presented it to the insurance company. Within days, Carol's claim was dismissed, and the $750,000 policy payout was released to me. The funds will now go towards setting up a scholarship in David's name, something he would have loved. It was a painful battle during a time of grief, but I\u2019m relieved David\u2019s wishes were honored and his legacy secured, not stolen by a greedy ex.",
-      "broll_keywords": [
-        "life insurance policy",
-        "divorce papers",
-        "funeral photo",
-        "legal letter",
-        "bank transfer notification",
-        "family portrait"
-      ],
-      "hashtags": [
-        "#inheritancebattle",
-        "#familyfeud",
-        "#elderjustice",
-        "#grief",
-        "#legalrights",
-        "#storytime"
-      ],
-      "description": "Losing a child is hard enough without family fighting over assets. See how I protected my son's legacy from his ex-wife's greedy claim. Share your stories of difficult family dynamics.",
-      "estimated_duration": 168
-    },
-    {
       "id": "story_331",
       "title": "The Mechanic Who Tried to Charge Me $2,000 for a Spark Plug",
       "domain": "Business",
