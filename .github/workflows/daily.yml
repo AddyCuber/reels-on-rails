@@ -29,8 +29,9 @@ jobs:
       FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
       FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
       WHOP_MUSIC_PATH: another hit.mp3
+      WHOP_CAMPAIGN_MODE: 'true'
       WHOP_MUSIC_CREDIT: dash emzed - another hit
-      WHOP_ARTIST_TAG: ${{ secrets.WHOP_ARTIST_TAG }}
+      WHOP_ARTIST_TAG: ${{ secrets.WHOP_ARTIST_TAG || '@dashemzed' }}
       WHOP_MUSIC_VOLUME: '0.16'
 
     steps:
@@ -70,6 +71,16 @@ jobs:
           # Manual runs can skip the 0-90min upload jitter; scheduled runs keep it.
           UPLOAD_JITTER_MAX_SECONDS: ${{ inputs.skip_jitter == true && '0' || '' }}
         run: python main.py
+
+      - name: Upload campaign package
+        if: ${{ env.WHOP_CAMPAIGN_MODE == 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: whop-campaign-${{ github.run_number }}
+          path: |
+            output/**/final.mp4
+            output/**/campaign_submission.json
+          retention-days: 56
 
       - name: Refresh YouTube token secret
         env:

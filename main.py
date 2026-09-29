@@ -63,6 +63,18 @@ def mark_story_published(stories_file: str, used_index: int):
     archive_path.write_text(json.dumps(archive, indent=2))
 
 
+def build_narration(story: dict, campaign_mode: bool) -> str:
+    """Build normal narration or a 10-30 second campaign-safe excerpt."""
+    if campaign_mode:
+        # The campaign requires a short post; 55 words targets about 20 seconds.
+        return " ".join(story["narration"].split()[:55])
+
+    narration_text = story["narration"]
+    if story.get("hook"):
+        narration_text = f"{story['hook']}.. {narration_text}"
+    return f"{narration_text} Follow for a new story every day."
+
+
 async def run_pipeline(config: Config, dry_run: bool = False):
     print("\n FACELESS SHORTS PIPELINE STARTING\n" + "="*50)
 
@@ -86,21 +98,23 @@ async def run_pipeline(config: Config, dry_run: bool = False):
     config.tts_voice = personality.voice
     config.subtitle_style = random.choice(config.subtitle_styles)
     tts_agent = TTSAgent(config)
-    narration_text = story["narration"]
-    if story.get("hook"):
-        narration_text = f"{story['hook']}.. {narration_text}"
-    narration_text = f"{narration_text} Follow for a new story every day."
+    narration_text = build_narration(story, config.campaign_mode)
     audio_path, word_timings = await tts_agent.synthesize(
         text=narration_text,
         output_path=output_dir / "narration.mp3"
     )
+    actual_duration = await tts_agent.get_duration(audio_path)
+    if config.campaign_mode:
+        if not 10 <= actual_duration <= 30:
+            raise RuntimeError(
+                f"Campaign narration must be 10-30 seconds; generated {actual_duration:.1f}s"
+            )
     # Use exact word timestamps from TTS — no estimation
     story["subtitle_chunks"] = word_timings
     print(f"      Audio saved: {audio_path} | {len(word_timings)} words timed")
 
     # ── Agent 3: Find B-Roll ─────────────────────────────────────────────────
     print("\n[3/5] Selecting B-roll footage (Pexels)...")
-    actual_duration = await tts_agent.get_duration(audio_path)
     broll_agent = BRollAgent(config)
     video_clips = await broll_agent.fetch_clips(
         keywords=story["broll_keywords"],
@@ -131,6 +145,25 @@ async def run_pipeline(config: Config, dry_run: bool = False):
         music_credit=music_credit,
     )
     print(f"      Final video: {final_video}")
+
+    if config.campaign_mode:
+        campaign_description = UploaderAgent(config)._campaign_description(story["description"])
+        manifest = {
+            "video": str(final_video),
+            "duration_seconds": round(actual_duration, 1),
+            "song_credit": f"Song: {music_credit}",
+            "description": campaign_description,
+            "native_audio_required": True,
+            "native_audio_links": {
+                "instagram": "https://www.instagram.com/reels/audio/1054449497150560",
+                "tiktok": "https://vt.tiktok.com/ZS9kwfoAEX72R-RNzZK/",
+                "youtube": "https://youtube.com/source/E0n2A-DUy3Y/shorts?si=x19rb4dUDzyref8L",
+            },
+            "keep_live_days": 56,
+        }
+        (output_dir / "campaign_submission.json").write_text(json.dumps(manifest, indent=2))
+        print("      Campaign package ready — select native audio manually before posting")
+        return final_video
 
     # ── Agent 5: Upload ───────────────────────────────────────────────────────
     print("\n[5/5] Uploading to platforms...")

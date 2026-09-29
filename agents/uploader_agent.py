@@ -44,7 +44,7 @@ class UploaderAgent:
         if self.config.upload_instagram and self.config.instagram_access_token:
             tasks["Instagram Reels"] = self._upload_instagram(video_path, title, description, hashtags)
             
-        if self.config.upload_facebook and self.config.facebook_access_token:
+        if not self.config.campaign_mode and self.config.upload_facebook and self.config.facebook_access_token:
             tasks["Facebook Reels"] = self._upload_facebook(video_path, title, description, hashtags)
 
         if not tasks:
@@ -64,14 +64,17 @@ class UploaderAgent:
     def _campaign_description(self, description: str) -> str:
         """Add campaign credit and artist tag consistently on every platform."""
         music_path = getattr(self.config, "campaign_music_path", "")
+        campaign_mode = getattr(self.config, "campaign_mode", False)
         credit = getattr(self.config, "campaign_music_credit", "")
-        artist_tag = getattr(self.config, "campaign_artist_tag", "")
-        if not music_path or not credit:
+        artist_tag = getattr(self.config, "campaign_artist_tag", "@dashemzed")
+        promo_line = getattr(self.config, "campaign_promo_line", "")
+        if not campaign_mode and (not music_path or not credit):
             return description
 
-        suffix = f"Music: {credit}"
-        if artist_tag:
-            suffix += f"\n{artist_tag}"
+        suffix = (
+            f"This song hit different {artist_tag} {credit}\n\n"
+            f"{promo_line}"
+        )
         return f"{description.rstrip()}\n\n{suffix}"
 
     # ── YouTube long-form (compilations) ──────────────────────────────────────

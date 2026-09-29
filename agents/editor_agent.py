@@ -549,7 +549,7 @@ class EditorAgent:
             font = ImageFont.truetype("Arial Bold.ttf", 42)
         except OSError:
             font = ImageFont.load_default(size=42)
-        draw.text((28, 27), f"Music: {text[:60]}", font=font, fill="white")
+        draw.text((28, 27), f"Song: {text[:58]}", font=font, fill="white")
         image.save(output_path)
 
     async def _overlay_hook_card(

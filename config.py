@@ -35,10 +35,17 @@ class Config:
 
     # Optional music promotion campaign (disabled when no path is set)
     campaign_music_path: str = field(default_factory=lambda: os.getenv("WHOP_MUSIC_PATH", ""))
+    campaign_mode: bool = field(
+        default_factory=lambda: os.getenv("WHOP_CAMPAIGN_MODE", "false").lower() == "true"
+    )
     campaign_music_credit: str = field(
         default_factory=lambda: os.getenv("WHOP_MUSIC_CREDIT", "dash emzed - another hit")
     )
-    campaign_artist_tag: str = field(default_factory=lambda: os.getenv("WHOP_ARTIST_TAG", ""))
+    campaign_artist_tag: str = field(default_factory=lambda: os.getenv("WHOP_ARTIST_TAG", "@dashemzed"))
+    campaign_target_seconds: int = 20
+    campaign_promo_line: str = (
+        "Grow your music with clipper teams. Search \"Music Promo Clippers\" - we're the ones behind it"
+    )
     campaign_music_volume: float = field(
         default_factory=lambda: float(os.getenv("WHOP_MUSIC_VOLUME", "0.16"))
     )

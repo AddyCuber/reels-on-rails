@@ -100,10 +100,13 @@ The pipeline can keep the existing Edge TTS voiceover and mix a campaign track u
 WHOP_MUSIC_PATH=/absolute/path/to/dash-emzed-another-hit.mp3
 WHOP_MUSIC_CREDIT=dash emzed - another hit
 WHOP_ARTIST_TAG=@the-artist-handle
+WHOP_CAMPAIGN_MODE=true
 WHOP_MUSIC_VOLUME=0.16
 ```
 
-When enabled, the track is looped and ducked under the voiceover, the credit is displayed above the lower platform UI safe area, and the credit plus artist tag are added to YouTube, Instagram, and Facebook captions. Captions are rendered one word at a time in the lower-center safe zone. Confirm the campaign's exact artist handle and keep proof of the approved submission. Do not enable it until you have the campaign-provided audio file and usage rights.
+When campaign mode is enabled, each video targets 20 seconds, uses a random section of the track, and excludes Facebook uploads. The track is looped and ducked under the voiceover, the credit is displayed above the lower platform UI safe area, and the description includes `@dashemzed` plus the required Music Promo Clippers disclosure. Captions are rendered one word at a time in the lower-center safe zone.
+
+The campaign requires selecting the song from the native Instagram, TikTok, or YouTube music/remix library. The current YouTube and Instagram API uploaders can upload the rendered file and description, but cannot select a native library sound; finish that native-audio step manually in the platform editor before submitting the post.
 
 ### Change TTS voice
 In `config.py`, change `tts_voice`. Run `python -c "from agents.tts_agent import TTSAgent; TTSAgent.list_voices()"` to see all options.
