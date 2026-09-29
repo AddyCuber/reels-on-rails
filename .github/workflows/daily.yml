@@ -28,6 +28,10 @@ jobs:
       INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
       FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
       FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+      WHOP_MUSIC_PATH: another hit.mp3
+      WHOP_MUSIC_CREDIT: dash emzed - another hit
+      WHOP_ARTIST_TAG: ${{ secrets.WHOP_ARTIST_TAG }}
+      WHOP_MUSIC_VOLUME: '0.16'
 
     steps:
       - name: Checkout repo
@@ -52,6 +56,9 @@ jobs:
 
       - name: Restore YouTube token from secret
         run: echo "${{ secrets.YOUTUBE_TOKEN }}" | base64 --decode > youtube_token.json
+
+      - name: Verify campaign music asset
+        run: test -s "${WHOP_MUSIC_PATH}"
 
       - name: Auto-replenish stories if low
         env:

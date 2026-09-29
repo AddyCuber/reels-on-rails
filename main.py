@@ -116,6 +116,10 @@ async def run_pipeline(config: Config, dry_run: bool = False):
 
     # ── Agent 4: Edit Video ───────────────────────────────────────────────────
     print("\n[4/5] Editing video with FFmpeg...")
+    music_path = Path(config.campaign_music_path) if config.campaign_music_path else None
+    if music_path and not music_path.exists():
+        raise FileNotFoundError(f"Campaign music file not found: {music_path}")
+    music_credit = config.campaign_music_credit if music_path else ""
     editor_agent = EditorAgent(config, personality=personality)
     final_video = await editor_agent.compile(
         audio_path=audio_path,
@@ -123,6 +127,8 @@ async def run_pipeline(config: Config, dry_run: bool = False):
         subtitles=story["subtitle_chunks"],
         output_path=output_dir / "final.mp4",
         card_text=story.get("card_text", ""),
+        music_path=music_path,
+        music_credit=music_credit,
     )
     print(f"      Final video: {final_video}")
 

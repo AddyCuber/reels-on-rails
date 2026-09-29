@@ -27,6 +27,7 @@ class UploaderAgent:
         hashtags: list[str]
     ) -> dict:
         """Upload to all configured platforms concurrently."""
+        description = self._campaign_description(description)
         # Random jitter to vary upload times
         jitter_max = getattr(self.config, 'upload_jitter_max_seconds', 5400)
         jitter = random.randint(0, jitter_max) if jitter_max > 0 else 0
@@ -59,6 +60,19 @@ class UploaderAgent:
                 results[platform] = {"success": False, "error": str(e)}
 
         return results
+
+    def _campaign_description(self, description: str) -> str:
+        """Add campaign credit and artist tag consistently on every platform."""
+        music_path = getattr(self.config, "campaign_music_path", "")
+        credit = getattr(self.config, "campaign_music_credit", "")
+        artist_tag = getattr(self.config, "campaign_artist_tag", "")
+        if not music_path or not credit:
+            return description
+
+        suffix = f"Music: {credit}"
+        if artist_tag:
+            suffix += f"\n{artist_tag}"
+        return f"{description.rstrip()}\n\n{suffix}"
 
     # ── YouTube long-form (compilations) ──────────────────────────────────────
     async def upload_youtube_longform(

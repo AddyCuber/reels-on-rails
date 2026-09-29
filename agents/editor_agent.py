@@ -9,6 +9,7 @@ Uses FFmpeg to:
 
 import asyncio
 import itertools
+import random
 import shutil
 from pathlib import Path
 from config import Config
@@ -26,6 +27,8 @@ class EditorAgent:
         subtitles: list[dict],
         output_path: Path,
         card_text: str = "",
+        music_path: Path | None = None,
+        music_credit: str = "",
     ) -> Path:
         """Full pipeline: prepare → stack pairs → concat → add audio + subtitles."""
         output_path = Path(output_path)
@@ -61,7 +64,8 @@ class EditorAgent:
             video_path=concat_path,
             audio_path=audio_path,
             subtitles=subtitles,
-            output_path=temp_audio_sub
+            output_path=temp_audio_sub,
+            music_path=music_path,
         )
 
         # Step 6: Generate and overlay Reddit hook card
@@ -72,7 +76,12 @@ class EditorAgent:
         card_png = tmp_dir / "hook_card.png"
         await self._generate_hook_card(display_text, card_png)
         
-        await self._overlay_hook_card(temp_audio_sub, card_png, output_path, subtitles)
+        credit_png = None
+        if music_credit:
+            credit_png = tmp_dir / "music_credit.png"
+            await self._generate_music_credit(music_credit, credit_png)
+
+        await self._overlay_hook_card(temp_audio_sub, card_png, output_path, subtitles, credit_png)
 
         # Cleanup tmp files
         shutil.rmtree(tmp_dir, ignore_errors=True)
@@ -253,25 +262,43 @@ class EditorAgent:
         video_path: Path,
         audio_path: Path,
         subtitles: list[dict],
-        output_path: Path
+        output_path: Path,
+        music_path: Path | None = None,
     ):
         """Add audio track and burn word-by-word subtitles using ASS format."""
         ass_path = output_path.parent / "subtitles.ass"
         self._write_ass(subtitles, ass_path)
 
-        cmd = [
-            "ffmpeg", "-y",
-            "-i", str(video_path),
-            "-i", str(audio_path),
-            "-vf", f"ass={ass_path}",
-            "-map", "0:v", "-map", "1:a",
+        cmd = ["ffmpeg", "-y", "-i", str(video_path), "-i", str(audio_path)]
+        if music_path:
+            music_duration = await self._get_duration(music_path)
+            music_start = random.uniform(0, max(0.0, music_duration - 1.0))
+            print(f"      Music segment start: {music_start:.1f}s")
+            cmd.extend(["-stream_loop", "-1", "-ss", f"{music_start:.3f}", "-i", str(music_path)])
+
+        cmd.extend(["-vf", f"ass={ass_path}", "-map", "0:v"])
+        if music_path:
+            music_volume = self.config.campaign_music_volume
+            duration = await self._get_duration(audio_path)
+            filter_complex = (
+                f"[1:a]aresample=48000,volume=1.0,asplit=2[voice][sidechain];"
+                f"[2:a]aresample=48000,volume={music_volume},atrim=duration={duration:.3f},"
+                "asetpts=N/SR/TB[music];"
+                "[music][sidechain]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=300[ducked];"
+                "[voice][ducked]amix=inputs=2:duration=first:dropout_transition=2[aout]"
+            )
+            cmd.extend(["-filter_complex", filter_complex, "-map", "[aout]"])
+        else:
+            cmd.extend(["-map", "1:a"])
+
+        cmd.extend([
             "-c:v", "libx264", "-preset", "medium",
             "-c:a", "aac", "-b:a", "192k",
             "-b:v", self.config.video_bitrate,
             "-shortest",
             "-movflags", "+faststart",
             str(output_path)
-        ]
+        ])
         await self._run(cmd)
 
     def _write_ass(self, chunks: list[dict], ass_path: Path):
@@ -302,8 +329,8 @@ class EditorAgent:
             f"1,"            # border style (outline+shadow)
             f"{self.config.subtitle_outline_width},"
             f"2,"            # shadow depth
-            f"5,"            # alignment: middle-center (numpad 5)
-            f"10,10,80,1"    # marginL, marginR, marginV, encoding
+            f"2,"            # alignment: bottom-center (numpad 2), inside lower safe zone
+            f"10,10,{self.config.subtitle_margin_v},1"    # marginL, marginR, marginV, encoding
         )
 
         header = (
@@ -512,7 +539,27 @@ class EditorAgent:
 
         img.save(output_path)
 
-    async def _overlay_hook_card(self, video_path: Path, card_path: Path, output_path: Path, subtitles: list[dict] = None):
+    async def _generate_music_credit(self, text: str, output_path: Path):
+        """Create a small persistent credit banner required by music campaigns."""
+        from PIL import Image, ImageDraw, ImageFont
+
+        image = Image.new("RGBA", (940, 104), (0, 0, 0, 220))
+        draw = ImageDraw.Draw(image)
+        try:
+            font = ImageFont.truetype("Arial Bold.ttf", 42)
+        except OSError:
+            font = ImageFont.load_default(size=42)
+        draw.text((28, 27), f"Music: {text[:60]}", font=font, fill="white")
+        image.save(output_path)
+
+    async def _overlay_hook_card(
+        self,
+        video_path: Path,
+        card_path: Path,
+        output_path: Path,
+        subtitles: list[dict] = None,
+        credit_path: Path | None = None,
+    ):
         """Overlay the hook card onto the final video with animation."""
         w = self.config.video_width
         
@@ -539,16 +586,26 @@ class EditorAgent:
         
         filter_complex = (
             f"[1:v]format=rgba,fade=t=in:st=0:d=0.1:alpha=1,fade=t=out:st={fade_out_start}:d=0.6:alpha=1[card_fade];"
-            f"[0:v][card_fade]overlay=x={x_pos}:y='{y_expr}':eval=frame:eof_action=pass"
+            f"[0:v][card_fade]overlay=x={x_pos}:y='{y_expr}':eval=frame:eof_action=pass[with_card]"
         )
-        
+
         img_duration = fade_out_start + 2.0
+        inputs = ["-i", str(video_path), "-loop", "1", "-t", str(img_duration), "-i", str(card_path)]
+        if credit_path:
+            inputs.extend(["-loop", "1", "-t", str(img_duration), "-i", str(credit_path)])
+            filter_complex += (
+                f";[with_card][2:v]overlay=x={self.config.music_credit_x}:"
+                f"y={self.config.music_credit_y}:eof_action=repeat[final]"
+            )
+        else:
+            filter_complex += ";[with_card]null[final]"
         
         cmd = [
             "ffmpeg", "-y",
-            "-i", str(video_path),
-            "-loop", "1", "-t", str(img_duration), "-i", str(card_path),
+            *inputs,
             "-filter_complex", filter_complex,
+            "-map", "[final]",
+            "-map", "0:a?",
             "-c:a", "copy",
             "-c:v", "libx264", "-preset", "fast",
             "-b:v", self.config.video_bitrate,

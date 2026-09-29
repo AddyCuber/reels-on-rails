@@ -33,6 +33,19 @@ class Config:
     tts_pitch: str = "+0Hz" # Natural pitch
     tts_voice_alt: str = "en-US-AnaNeural"           # Alternate voice option
 
+    # Optional music promotion campaign (disabled when no path is set)
+    campaign_music_path: str = field(default_factory=lambda: os.getenv("WHOP_MUSIC_PATH", ""))
+    campaign_music_credit: str = field(
+        default_factory=lambda: os.getenv("WHOP_MUSIC_CREDIT", "dash emzed - another hit")
+    )
+    campaign_artist_tag: str = field(default_factory=lambda: os.getenv("WHOP_ARTIST_TAG", ""))
+    campaign_music_volume: float = field(
+        default_factory=lambda: float(os.getenv("WHOP_MUSIC_VOLUME", "0.16"))
+    )
+    subtitle_margin_v: int = 500       # Lower-center safe zone; keeps captions above platform UI
+    music_credit_x: int = 70
+    music_credit_y: int = 1510        # Above the bottom action/caption area
+
     # ── Video Settings ────────────────────────────────────────────────────────
     video_width: int = 1080
     video_height: int = 1920   # 9:16 portrait for Shorts/Reels
