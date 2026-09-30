@@ -80,6 +80,8 @@ jobs:
           path: |
             output/**/final.mp4
             output/**/campaign_submission.json
+            output/**/*_caption.txt
+            output/**/posting_checklist.txt
           retention-days: 56
 
       - name: Refresh YouTube token secret

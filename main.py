@@ -148,11 +148,17 @@ async def run_pipeline(config: Config, dry_run: bool = False):
 
     if config.campaign_mode:
         campaign_description = UploaderAgent(config)._campaign_description(story["description"])
+        hashtags = " ".join(f"#{tag}" for tag in story["hashtags"])
+        captions = {
+            "youtube": f"{campaign_description}\n\n{hashtags} #Shorts",
+            "instagram": f"{campaign_description}\n\n{hashtags}",
+            "tiktok": f"{campaign_description}\n\n{hashtags}",
+        }
         manifest = {
             "video": str(final_video),
             "duration_seconds": round(actual_duration, 1),
             "song_credit": f"Song: {music_credit}",
-            "description": campaign_description,
+            "captions": captions,
             "native_audio_required": True,
             "native_audio_links": {
                 "instagram": "https://www.instagram.com/reels/audio/1054449497150560",
@@ -162,6 +168,15 @@ async def run_pipeline(config: Config, dry_run: bool = False):
             "keep_live_days": 56,
         }
         (output_dir / "campaign_submission.json").write_text(json.dumps(manifest, indent=2))
+        for platform, caption in captions.items():
+            (output_dir / f"{platform}_caption.txt").write_text(caption + "\n")
+        (output_dir / "posting_checklist.txt").write_text(
+            "1. Upload final.mp4 and select the linked native campaign audio.\n"
+            "2. Paste the matching platform caption file.\n"
+            "3. Confirm the video shows: Song: dash emzed - another hit.\n"
+            "4. Do not add collabs, ads, or other promotions.\n"
+            "5. Keep the post live for at least 56 days.\n"
+        )
         print("      Campaign package ready — select native audio manually before posting")
         return final_video
 
